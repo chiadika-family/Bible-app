@@ -2378,7 +2378,7 @@ var qrcode = function() {
       { id: "elijah", label: "Elijah", hint: "Scan this with Elijah's device." },
       { id: "jordyn", label: "Jordyn", hint: "Scan this with Jordyn's device." },
     ];
-    const ORIGIN = "https://gchiadika.github.io/Bible-app/";
+    const origin = new URL("./", location.href).href;
     const tokenInput = document.getElementById("token");
     const qrBox = document.getElementById("qr");
     const who = document.getElementById("who");
@@ -2402,7 +2402,7 @@ var qrcode = function() {
         token: tokenInput.value.trim(),
         profile: profile.id,
       };
-      return ORIGIN + "#sync=" + encodeBase64Url(JSON.stringify(payload));
+      return origin + "#sync=" + encodeBase64Url(JSON.stringify(payload));
     }
 
     function draw() {
