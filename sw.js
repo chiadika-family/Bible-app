@@ -1,7 +1,7 @@
 /* Family Bible Study service worker.
    Network-first for the shell and lesson file so a new pack is not stuck behind an old cache.
    Cache-first only for icons. Old caches are deleted when the version changes. */
-const VERSION = "2026.11.09.2";
+const VERSION = "2026.11.09.3";
 const CACHE = `family-bible-${VERSION}`;
 const PRECACHE = [
   "./",
@@ -47,11 +47,14 @@ function isShell(request, url) {
   );
 }
 
+const SCOPE_PATH = new URL("./", self.location.href).pathname;
+
 self.addEventListener("fetch", (event) => {
   const request = event.request;
   if (request.method !== "GET") return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
+  if (!url.pathname.startsWith(SCOPE_PATH)) return;
 
   if (isShell(request, url)) {
     event.respondWith(
