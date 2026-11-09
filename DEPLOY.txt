@@ -1,0 +1,5 @@
+GitHub Pages files for /Bible-app/
+Copy these files to the root of the Bible-app repository. Do not copy the Origin source tree.
+Keep .nojekyll next to index.html.
+The public path is case-sensitive: /Bible-app/
+Sync is off. This folder has no saved practice and no credentials.
