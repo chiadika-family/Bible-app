@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.08.1",
+  "contentVersion": "2026.11.09.2",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": ["Gregory", "Sanqueta"],
   "children": [
@@ -27,7 +27,7 @@
   "appFirstSunday": "2026-11-08",
   "dailyFollowUpsStart": "2026-11-09",
   "planEndLabel": "Easter, March 28, 2027",
-  "copyright": "Scripture quotations marked NIV are from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.",
+  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "sources": [
     {
       "label": "Genesis 1 (NIV)",
