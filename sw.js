@@ -1,7 +1,7 @@
 /* Family Bible Study service worker.
    Network-first for the shell and lesson file so a new pack is not stuck behind an old cache.
    Cache-first only for icons. Old caches are deleted when the version changes. */
-const VERSION = "2026.11.09.3";
+const VERSION = "2026.11.09.4";
 const CACHE = `family-bible-${VERSION}`;
 const PRECACHE = [
   "./",
@@ -14,6 +14,7 @@ const PRECACHE = [
   "./icon-maskable-192.png",
   "./icon-maskable-512.png",
   "./apple-touch-icon.png",
+  "./setup-qr.html",
 ];
 
 self.addEventListener("install", (event) => {
