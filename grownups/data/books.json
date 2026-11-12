@@ -1,0 +1,1205 @@
+{
+  "contentVersion": "2026.11.12.3",
+  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
+  "totals": {
+    "old": 39,
+    "new": 27,
+    "all": 66
+  },
+  "sections": [
+    {
+      "testament": "Old",
+      "id": "Law",
+      "title": "Law",
+      "bookIds": [
+        "gen",
+        "exo",
+        "lev",
+        "num",
+        "deu"
+      ]
+    },
+    {
+      "testament": "Old",
+      "id": "History",
+      "title": "History",
+      "bookIds": [
+        "jos",
+        "jdg",
+        "rut",
+        "1sa",
+        "2sa",
+        "1ki",
+        "2ki",
+        "1ch",
+        "2ch",
+        "ezr",
+        "neh",
+        "est"
+      ]
+    },
+    {
+      "testament": "Old",
+      "id": "Poetry / Wisdom",
+      "title": "Poetry / Wisdom",
+      "bookIds": [
+        "job",
+        "psa",
+        "pro",
+        "ecc",
+        "sng"
+      ]
+    },
+    {
+      "testament": "Old",
+      "id": "Major Prophets",
+      "title": "Major Prophets",
+      "bookIds": [
+        "isa",
+        "jer",
+        "lam",
+        "eze",
+        "dan"
+      ]
+    },
+    {
+      "testament": "Old",
+      "id": "Minor Prophets",
+      "title": "Minor Prophets",
+      "bookIds": [
+        "hos",
+        "joe",
+        "amo",
+        "oba",
+        "jon",
+        "mic",
+        "nah",
+        "hab",
+        "zep",
+        "hag",
+        "zec",
+        "mal"
+      ]
+    },
+    {
+      "testament": "New",
+      "id": "Gospels",
+      "title": "Gospels",
+      "bookIds": [
+        "mat",
+        "mrk",
+        "luk",
+        "jhn"
+      ]
+    },
+    {
+      "testament": "New",
+      "id": "History",
+      "title": "History",
+      "bookIds": [
+        "act"
+      ]
+    },
+    {
+      "testament": "New",
+      "id": "Paul's Letters",
+      "title": "Paul's Letters",
+      "bookIds": [
+        "rom",
+        "1co",
+        "2co",
+        "gal",
+        "eph",
+        "php",
+        "col",
+        "1th",
+        "2th",
+        "1ti",
+        "2ti",
+        "tit",
+        "phm"
+      ]
+    },
+    {
+      "testament": "New",
+      "id": "General Letters",
+      "title": "General Letters",
+      "bookIds": [
+        "heb",
+        "jas",
+        "1pe",
+        "2pe",
+        "1jn",
+        "2jn",
+        "3jn",
+        "jud"
+      ]
+    },
+    {
+      "testament": "New",
+      "id": "Prophecy / Apocalypse",
+      "title": "Prophecy / Apocalypse",
+      "bookIds": [
+        "rev"
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": "gen",
+      "name": "Genesis",
+      "testament": "Old",
+      "section": "Law",
+      "order": 1,
+      "author": "Moses (traditionally)",
+      "date": "Events from creation to about 1800 BC; written c. 1400s BC",
+      "theme": "God creates, judges, and begins a people through Abraham.",
+      "keyVerse": {
+        "reference": "Genesis 1:1",
+        "text": "In the beginning God created the heavens and the earth.",
+        "translation": "NIV"
+      },
+      "christConnection": "The promised offspring who will crush the serpent (Genesis 3:15) points to Christ."
+    },
+    {
+      "id": "exo",
+      "name": "Exodus",
+      "testament": "Old",
+      "section": "Law",
+      "order": 2,
+      "author": "Moses (traditionally)",
+      "date": "c. 1400s BC",
+      "theme": "God redeems Israel from slavery and makes them his people at Sinai.",
+      "keyVerse": {
+        "reference": "Exodus 20:2",
+        "text": "I am the Lord your God, who brought you out of Egypt, out of the land of slavery.",
+        "translation": "NIV"
+      },
+      "christConnection": "The Passover lamb and the exodus point to Jesus, our Redeemer."
+    },
+    {
+      "id": "lev",
+      "name": "Leviticus",
+      "testament": "Old",
+      "section": "Law",
+      "order": 3,
+      "author": "Moses (traditionally)",
+      "date": "c. 1400s BC",
+      "theme": "A holy God makes a way for a sinful people to live near him.",
+      "keyVerse": {
+        "reference": "Leviticus 19:2",
+        "text": "Be holy because I, the Lord your God, am holy.",
+        "translation": "NIV"
+      },
+      "christConnection": "The sacrifices and the priesthood point to Christ's once-for-all offering."
+    },
+    {
+      "id": "num",
+      "name": "Numbers",
+      "testament": "Old",
+      "section": "Law",
+      "order": 4,
+      "author": "Moses (traditionally)",
+      "date": "c. 1400s BC",
+      "theme": "God leads Israel through the wilderness, in their wandering and his faithfulness.",
+      "keyVerse": {
+        "reference": "Numbers 6:24",
+        "text": "The Lord bless you and keep you.",
+        "translation": "NIV"
+      },
+      "christConnection": "The bronze snake (Numbers 21) points to Christ lifted up for our healing."
+    },
+    {
+      "id": "deu",
+      "name": "Deuteronomy",
+      "testament": "Old",
+      "section": "Law",
+      "order": 5,
+      "author": "Moses (traditionally)",
+      "date": "c. 1400s BC",
+      "theme": "Moses retells the law and calls Israel to love the Lord with all their heart.",
+      "keyVerse": {
+        "reference": "Deuteronomy 6:5",
+        "text": "Love the Lord your God with all your heart and with all your soul and with all your strength.",
+        "translation": "NIV"
+      },
+      "christConnection": "Jesus is the faithful Israelite who loved God perfectly and is the prophet like Moses."
+    },
+    {
+      "id": "jos",
+      "name": "Joshua",
+      "testament": "Old",
+      "section": "History",
+      "order": 6,
+      "author": "Joshua (traditionally)",
+      "date": "c. 1400–1300s BC",
+      "theme": "God keeps his promise and brings Israel into the land.",
+      "keyVerse": {
+        "reference": "Joshua 1:9",
+        "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+        "translation": "NIV"
+      },
+      "christConnection": "Joshua (whose name means 'the Lord saves') points to Jesus, who brings his people into rest."
+    },
+    {
+      "id": "jdg",
+      "name": "Judges",
+      "testament": "Old",
+      "section": "History",
+      "order": 7,
+      "author": "Samuel (traditionally)",
+      "date": "c. 1000s BC",
+      "theme": "Israel cycles through sin, oppression, crying out, and God's rescue.",
+      "keyVerse": {
+        "reference": "Judges 21:25",
+        "text": "In those days Israel had no king; everyone did as they saw fit.",
+        "translation": "NIV"
+      },
+      "christConnection": "The need for a true, righteous King is met in Christ."
+    },
+    {
+      "id": "rut",
+      "name": "Ruth",
+      "testament": "Old",
+      "section": "History",
+      "order": 8,
+      "author": "Samuel (traditionally)",
+      "date": "c. 1000s BC",
+      "theme": "God's kindness works through ordinary faithfulness in the line of David.",
+      "keyVerse": {
+        "reference": "Ruth 1:16",
+        "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.",
+        "translation": "NIV"
+      },
+      "christConnection": "Boaz the kinsman-redeemer points to Christ; Ruth stands in the Messiah's family line."
+    },
+    {
+      "id": "1sa",
+      "name": "1 Samuel",
+      "testament": "Old",
+      "section": "History",
+      "order": 9,
+      "author": "Samuel / later prophets (traditionally)",
+      "date": "c. 900s BC",
+      "theme": "God raises up Samuel, Saul, and David, and looks at the heart.",
+      "keyVerse": {
+        "reference": "1 Samuel 16:7",
+        "text": "People look at the outward appearance, but the Lord looks at the heart.",
+        "translation": "NIV"
+      },
+      "christConnection": "David, the anointed king after God's heart, points to Christ the greater King."
+    },
+    {
+      "id": "2sa",
+      "name": "2 Samuel",
+      "testament": "Old",
+      "section": "History",
+      "order": 10,
+      "author": "Samuel / later prophets (traditionally)",
+      "date": "c. 900s BC",
+      "theme": "David's reign, his sin, and God's covenant promise of an everlasting throne.",
+      "keyVerse": {
+        "reference": "2 Samuel 7:16",
+        "text": "Your house and your kingdom will endure forever before me; your throne will be established forever.",
+        "translation": "NIV"
+      },
+      "christConnection": "The Davidic covenant is fulfilled in Jesus, Son of David."
+    },
+    {
+      "id": "1ki",
+      "name": "1 Kings",
+      "testament": "Old",
+      "section": "History",
+      "order": 11,
+      "author": "Jeremiah (traditionally)",
+      "date": "c. 500s BC",
+      "theme": "Solomon's glory, the divided kingdom, and the call to listen to God's word.",
+      "keyVerse": {
+        "reference": "1 Kings 8:27",
+        "text": "The heavens, even the highest heaven, cannot contain you. How much less this temple I have built!",
+        "translation": "NIV"
+      },
+      "christConnection": "The temple points to Jesus, who is God with us, and to his people as God's dwelling."
+    },
+    {
+      "id": "2ki",
+      "name": "2 Kings",
+      "testament": "Old",
+      "section": "History",
+      "order": 12,
+      "author": "Jeremiah (traditionally)",
+      "date": "c. 500s BC",
+      "theme": "The kingdoms fall; God remains faithful even in exile.",
+      "keyVerse": {
+        "reference": "2 Kings 17:13",
+        "text": "The Lord warned Israel and Judah through all his prophets and seers: 'Turn from your evil ways.'",
+        "translation": "NIV"
+      },
+      "christConnection": "The failed kings highlight our need for a perfect King, Jesus."
+    },
+    {
+      "id": "1ch",
+      "name": "1 Chronicles",
+      "testament": "Old",
+      "section": "History",
+      "order": 13,
+      "author": "Ezra (traditionally)",
+      "date": "c. 400s BC",
+      "theme": "A priestly retelling of Israel's story, centered on worship and David's line.",
+      "keyVerse": {
+        "reference": "1 Chronicles 16:34",
+        "text": "Give thanks to the Lord, for he is good; his love endures forever.",
+        "translation": "NIV"
+      },
+      "christConnection": "The careful record of David's line leads to Christ."
+    },
+    {
+      "id": "2ch",
+      "name": "2 Chronicles",
+      "testament": "Old",
+      "section": "History",
+      "order": 14,
+      "author": "Ezra (traditionally)",
+      "date": "c. 400s BC",
+      "theme": "The temple, revival, and the hope of return after judgment.",
+      "keyVerse": {
+        "reference": "2 Chronicles 7:14",
+        "text": "If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.",
+        "translation": "NIV"
+      },
+      "christConnection": "True temple worship is fulfilled in Christ."
+    },
+    {
+      "id": "ezr",
+      "name": "Ezra",
+      "testament": "Old",
+      "section": "History",
+      "order": 15,
+      "author": "Ezra (traditionally)",
+      "date": "c. 400s BC",
+      "theme": "God brings a remnant home and restores worship around his Word.",
+      "keyVerse": {
+        "reference": "Ezra 7:10",
+        "text": "Ezra had devoted himself to the study and observance of the Law of the Lord, and to teaching its decrees and laws in Israel.",
+        "translation": "NIV"
+      },
+      "christConnection": "The restored worship and the remnant prepare the way for the Messiah."
+    },
+    {
+      "id": "neh",
+      "name": "Nehemiah",
+      "testament": "Old",
+      "section": "History",
+      "order": 16,
+      "author": "Nehemiah (traditionally)",
+      "date": "c. 400s BC",
+      "theme": "God uses Nehemiah to rebuild the wall and call the people back to the Word.",
+      "keyVerse": {
+        "reference": "Nehemiah 8:10",
+        "text": "The joy of the Lord is your strength.",
+        "translation": "NIV"
+      },
+      "christConnection": "Rebuilding and reform point to Christ, who builds his church."
+    },
+    {
+      "id": "est",
+      "name": "Esther",
+      "testament": "Old",
+      "section": "History",
+      "order": 17,
+      "author": "Unknown (traditionally Mordecai or a court recorder)",
+      "date": "c. 400s BC",
+      "theme": "God quietly preserves his people in Persia when they seem forgotten.",
+      "keyVerse": {
+        "reference": "Esther 4:14",
+        "text": "And who knows but that you have come to your royal position for such a time as this?",
+        "translation": "NIV"
+      },
+      "christConnection": "God's hidden providence to save his people points to Christ, who came 'for such a time as this.'"
+    },
+    {
+      "id": "job",
+      "name": "Job",
+      "testament": "Old",
+      "section": "Poetry / Wisdom",
+      "order": 18,
+      "author": "Unknown (traditionally Moses or a later sage)",
+      "date": "Uncertain; events may be patriarchal",
+      "theme": "A righteous sufferer wrestles with God and finds that God is wise and good.",
+      "keyVerse": {
+        "reference": "Job 19:25",
+        "text": "I know that my redeemer lives, and that in the end he will stand on the earth.",
+        "translation": "NIV"
+      },
+      "christConnection": "Job's living Redeemer is fulfilled in the risen Christ."
+    },
+    {
+      "id": "psa",
+      "name": "Psalms",
+      "testament": "Old",
+      "section": "Poetry / Wisdom",
+      "order": 19,
+      "author": "David and others (traditionally, with later compilers)",
+      "date": "c. 1000–400s BC",
+      "theme": "Songs of prayer and praise for every season of the soul.",
+      "keyVerse": {
+        "reference": "Psalm 23:1",
+        "text": "The Lord is my shepherd, I lack nothing.",
+        "translation": "NIV"
+      },
+      "christConnection": "Many psalms speak of the righteous sufferer and the promised King; Jesus is both."
+    },
+    {
+      "id": "pro",
+      "name": "Proverbs",
+      "testament": "Old",
+      "section": "Poetry / Wisdom",
+      "order": 20,
+      "author": "Solomon and others (traditionally)",
+      "date": "c. 900s–700s BC",
+      "theme": "The fear of the Lord is the beginning of wisdom for everyday life.",
+      "keyVerse": {
+        "reference": "Proverbs 1:7",
+        "text": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+        "translation": "NIV"
+      },
+      "christConnection": "Christ is the wisdom of God, in whom these sayings find their fullness."
+    },
+    {
+      "id": "ecc",
+      "name": "Ecclesiastes",
+      "testament": "Old",
+      "section": "Poetry / Wisdom",
+      "order": 21,
+      "author": "Solomon (traditionally)",
+      "date": "c. 900s BC",
+      "theme": "Life 'under the sun' is empty unless we fear God and keep his commands.",
+      "keyVerse": {
+        "reference": "Ecclesiastes 12:13",
+        "text": "Fear God and keep his commandments, for this is the duty of all mankind.",
+        "translation": "NIV"
+      },
+      "christConnection": "The emptiness of life without God drives us to Christ, our true meaning."
+    },
+    {
+      "id": "sng",
+      "name": "Song of Songs",
+      "testament": "Old",
+      "section": "Poetry / Wisdom",
+      "order": 22,
+      "author": "Solomon (traditionally)",
+      "date": "c. 900s BC",
+      "theme": "A joyful, faithful picture of marital love as a gift from God.",
+      "keyVerse": {
+        "reference": "Song of Songs 2:16",
+        "text": "My beloved is mine and I am his.",
+        "translation": "NIV"
+      },
+      "christConnection": "Faithful marriage love also pictures Christ's love for his church."
+    },
+    {
+      "id": "isa",
+      "name": "Isaiah",
+      "testament": "Old",
+      "section": "Major Prophets",
+      "order": 23,
+      "author": "Isaiah",
+      "date": "c. 700s BC",
+      "theme": "The Holy One of Israel judges sin and promises a coming Servant-King.",
+      "keyVerse": {
+        "reference": "Isaiah 9:6",
+        "text": "For to us a child is born, to us a son is given, and the government will be on his shoulders.",
+        "translation": "NIV"
+      },
+      "christConnection": "Isaiah's Servant and the child called Mighty God are fulfilled in Jesus."
+    },
+    {
+      "id": "jer",
+      "name": "Jeremiah",
+      "testament": "Old",
+      "section": "Major Prophets",
+      "order": 24,
+      "author": "Jeremiah",
+      "date": "c. 620–580 BC",
+      "theme": "God judges Judah and promises a new covenant written on the heart.",
+      "keyVerse": {
+        "reference": "Jeremiah 31:33",
+        "text": "I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.",
+        "translation": "NIV"
+      },
+      "christConnection": "The new covenant is sealed in Jesus' blood."
+    },
+    {
+      "id": "lam",
+      "name": "Lamentations",
+      "testament": "Old",
+      "section": "Major Prophets",
+      "order": 25,
+      "author": "Jeremiah (traditionally)",
+      "date": "c. 580s BC",
+      "theme": "Honest grief after Jerusalem falls, with hope in God's mercies.",
+      "keyVerse": {
+        "reference": "Lamentations 3:22–23",
+        "text": "Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning.",
+        "translation": "NIV"
+      },
+      "christConnection": "God's mercies in the ruins point to the comfort found in Christ."
+    },
+    {
+      "id": "eze",
+      "name": "Ezekiel",
+      "testament": "Old",
+      "section": "Major Prophets",
+      "order": 26,
+      "author": "Ezekiel",
+      "date": "c. 590–570 BC",
+      "theme": "God is still present in exile and promises a new heart and a new temple.",
+      "keyVerse": {
+        "reference": "Ezekiel 36:26",
+        "text": "I will give you a new heart and put a new spirit in you.",
+        "translation": "NIV"
+      },
+      "christConnection": "The new heart and the river from the temple point to the Spirit given by Christ."
+    },
+    {
+      "id": "dan",
+      "name": "Daniel",
+      "testament": "Old",
+      "section": "Major Prophets",
+      "order": 27,
+      "author": "Daniel",
+      "date": "c. 500s BC",
+      "theme": "God rules the nations; his kingdom will never be destroyed.",
+      "keyVerse": {
+        "reference": "Daniel 7:14",
+        "text": "His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.",
+        "translation": "NIV"
+      },
+      "christConnection": "The Son of Man who receives the kingdom is Jesus."
+    },
+    {
+      "id": "hos",
+      "name": "Hosea",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 28,
+      "author": "Hosea",
+      "date": "c. 750s BC",
+      "theme": "God's faithful love pursues an unfaithful people.",
+      "keyVerse": {
+        "reference": "Hosea 6:6",
+        "text": "For I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings.",
+        "translation": "NIV"
+      },
+      "christConnection": "Hosea's costly love for Gomer pictures Christ pursuing his unfaithful people."
+    },
+    {
+      "id": "joe",
+      "name": "Joel",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 29,
+      "author": "Joel",
+      "date": "Uncertain (often placed in the 800s or 400s BC)",
+      "theme": "A locust plague becomes a call to repent and a promise of the Spirit.",
+      "keyVerse": {
+        "reference": "Joel 2:13",
+        "text": "Rend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate.",
+        "translation": "NIV"
+      },
+      "christConnection": "The promised Spirit is poured out at Pentecost (Acts 2)."
+    },
+    {
+      "id": "amo",
+      "name": "Amos",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 30,
+      "author": "Amos",
+      "date": "c. 750s BC",
+      "theme": "God calls for justice and true worship, not empty religion.",
+      "keyVerse": {
+        "reference": "Amos 5:24",
+        "text": "But let justice roll on like a river, righteousness like a never-failing stream!",
+        "translation": "NIV"
+      },
+      "christConnection": "The demand for righteousness is met, and will be completed, in Christ."
+    },
+    {
+      "id": "oba",
+      "name": "Obadiah",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 31,
+      "author": "Obadiah",
+      "date": "c. 580s BC (or earlier)",
+      "theme": "God judges Edom's pride and promises that the kingdom will be the Lord's.",
+      "keyVerse": {
+        "reference": "Obadiah 1:15",
+        "text": "The day of the Lord is near for all nations.",
+        "translation": "NIV"
+      },
+      "christConnection": "The coming Day of the Lord is fulfilled in Christ's first and second coming."
+    },
+    {
+      "id": "jon",
+      "name": "Jonah",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 32,
+      "author": "Jonah (traditionally)",
+      "date": "c. 700s BC",
+      "theme": "God's compassion reaches even Nineveh, and he is patient with a reluctant prophet.",
+      "keyVerse": {
+        "reference": "Jonah 2:9",
+        "text": "Salvation comes from the Lord.",
+        "translation": "NIV"
+      },
+      "christConnection": "Jesus is the greater Jonah, three days in the heart of the earth (Matthew 12:40)."
+    },
+    {
+      "id": "mic",
+      "name": "Micah",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 33,
+      "author": "Micah",
+      "date": "c. 700s BC",
+      "theme": "God requires justice, mercy, and humility, and promises a ruler from Bethlehem.",
+      "keyVerse": {
+        "reference": "Micah 5:2",
+        "text": "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel.",
+        "translation": "NIV"
+      },
+      "christConnection": "The Bethlehem ruler is Jesus."
+    },
+    {
+      "id": "nah",
+      "name": "Nahum",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 34,
+      "author": "Nahum",
+      "date": "c. 600s BC",
+      "theme": "God is slow to anger, yet he will not leave the guilty unpunished.",
+      "keyVerse": {
+        "reference": "Nahum 1:7",
+        "text": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him.",
+        "translation": "NIV"
+      },
+      "christConnection": "Judgment on evil and refuge for those who trust him are both found in Christ."
+    },
+    {
+      "id": "hab",
+      "name": "Habakkuk",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 35,
+      "author": "Habakkuk",
+      "date": "c. 600s BC",
+      "theme": "A prophet asks why God allows injustice, and learns to live by faith.",
+      "keyVerse": {
+        "reference": "Habakkuk 2:4",
+        "text": "The righteous person will live by his faithfulness.",
+        "translation": "NIV"
+      },
+      "christConnection": "Paul cites this verse for justification by faith in Christ (Romans 1:17)."
+    },
+    {
+      "id": "zep",
+      "name": "Zephaniah",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 36,
+      "author": "Zephaniah",
+      "date": "c. 620s BC",
+      "theme": "The Day of the Lord is near; God will judge and then rejoice over his people.",
+      "keyVerse": {
+        "reference": "Zephaniah 3:17",
+        "text": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.",
+        "translation": "NIV"
+      },
+      "christConnection": "God's delight over his gathered people is secured in Christ."
+    },
+    {
+      "id": "hag",
+      "name": "Haggai",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 37,
+      "author": "Haggai",
+      "date": "c. 520 BC",
+      "theme": "God calls the returned exiles to put his house first.",
+      "keyVerse": {
+        "reference": "Haggai 2:9",
+        "text": "The glory of this present house will be greater than the glory of the former house.",
+        "translation": "NIV"
+      },
+      "christConnection": "The greater glory comes in Jesus, who is God present with his people."
+    },
+    {
+      "id": "zec",
+      "name": "Zechariah",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 38,
+      "author": "Zechariah",
+      "date": "c. 520–480 BC",
+      "theme": "Visions of cleansing, a humble King, and the Lord coming to his people.",
+      "keyVerse": {
+        "reference": "Zechariah 9:9",
+        "text": "See, your king comes to you, righteous and victorious, lowly and riding on a donkey.",
+        "translation": "NIV"
+      },
+      "christConnection": "Palm Sunday fulfills this promise in Jesus."
+    },
+    {
+      "id": "mal",
+      "name": "Malachi",
+      "testament": "Old",
+      "section": "Minor Prophets",
+      "order": 39,
+      "author": "Malachi",
+      "date": "c. 400s BC",
+      "theme": "God still loves his people and promises a messenger before the Lord comes.",
+      "keyVerse": {
+        "reference": "Malachi 3:1",
+        "text": "I will send my messenger, who will prepare the way before me.",
+        "translation": "NIV"
+      },
+      "christConnection": "John the Baptist prepares the way for Jesus."
+    },
+    {
+      "id": "mat",
+      "name": "Matthew",
+      "testament": "New",
+      "section": "Gospels",
+      "order": 40,
+      "author": "Matthew",
+      "date": "c. AD 50s–70s",
+      "theme": "Jesus is the promised Messiah, the Son of David who fulfills the Scriptures.",
+      "keyVerse": {
+        "reference": "Matthew 1:21",
+        "text": "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.",
+        "translation": "NIV"
+      },
+      "christConnection": "The whole Gospel presents Jesus as Christ the King."
+    },
+    {
+      "id": "mrk",
+      "name": "Mark",
+      "testament": "New",
+      "section": "Gospels",
+      "order": 41,
+      "author": "Mark (with Peter's testimony, traditionally)",
+      "date": "c. AD 50s–60s",
+      "theme": "Jesus is the suffering Son of God who came not to be served but to serve.",
+      "keyVerse": {
+        "reference": "Mark 10:45",
+        "text": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
+        "translation": "NIV"
+      },
+      "christConnection": "Mark leads us to the cross and the empty tomb of Jesus."
+    },
+    {
+      "id": "luk",
+      "name": "Luke",
+      "testament": "New",
+      "section": "Gospels",
+      "order": 42,
+      "author": "Luke",
+      "date": "c. AD 60s",
+      "theme": "Jesus is the Savior of all kinds of people, announced with joy and historical care.",
+      "keyVerse": {
+        "reference": "Luke 19:10",
+        "text": "For the Son of Man came to seek and to save the lost.",
+        "translation": "NIV"
+      },
+      "christConnection": "Luke tells the story of the Savior for the world."
+    },
+    {
+      "id": "jhn",
+      "name": "John",
+      "testament": "New",
+      "section": "Gospels",
+      "order": 43,
+      "author": "John",
+      "date": "c. AD 80s–90s",
+      "theme": "Jesus is the eternal Word made flesh, the Son who gives life.",
+      "keyVerse": {
+        "reference": "John 20:31",
+        "text": "But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.",
+        "translation": "NIV"
+      },
+      "christConnection": "John's purpose is faith in Jesus the Son."
+    },
+    {
+      "id": "act",
+      "name": "Acts",
+      "testament": "New",
+      "section": "History",
+      "order": 44,
+      "author": "Luke",
+      "date": "c. AD 60s",
+      "theme": "The risen Jesus sends his Spirit and his church to the ends of the earth.",
+      "keyVerse": {
+        "reference": "Acts 1:8",
+        "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.",
+        "translation": "NIV"
+      },
+      "christConnection": "Acts is the risen Christ's ongoing work through his church."
+    },
+    {
+      "id": "rom",
+      "name": "Romans",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 45,
+      "author": "Paul",
+      "date": "c. AD 57",
+      "theme": "The gospel of God's righteousness given by grace through faith in Christ.",
+      "keyVerse": {
+        "reference": "Romans 1:16",
+        "text": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes.",
+        "translation": "NIV"
+      },
+      "christConnection": "Romans explains the saving work of Jesus from start to finish."
+    },
+    {
+      "id": "1co",
+      "name": "1 Corinthians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 46,
+      "author": "Paul",
+      "date": "c. AD 55",
+      "theme": "The gospel shapes a messy church into a holy, loving body.",
+      "keyVerse": {
+        "reference": "1 Corinthians 15:3–4",
+        "text": "Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.",
+        "translation": "NIV"
+      },
+      "christConnection": "The cross and resurrection are the church's center."
+    },
+    {
+      "id": "2co",
+      "name": "2 Corinthians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 47,
+      "author": "Paul",
+      "date": "c. AD 55–56",
+      "theme": "God's power is shown in weakness, and ministry is a ministry of reconciliation.",
+      "keyVerse": {
+        "reference": "2 Corinthians 5:17",
+        "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+        "translation": "NIV"
+      },
+      "christConnection": "New creation is found in union with Christ."
+    },
+    {
+      "id": "gal",
+      "name": "Galatians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 48,
+      "author": "Paul",
+      "date": "c. AD 48–55",
+      "theme": "We are justified by faith, not by works of the law, and called to walk by the Spirit.",
+      "keyVerse": {
+        "reference": "Galatians 2:16",
+        "text": "A person is not justified by the works of the law, but by faith in Jesus Christ.",
+        "translation": "NIV"
+      },
+      "christConnection": "Christ has set us free; we must not go back to earning favor."
+    },
+    {
+      "id": "eph",
+      "name": "Ephesians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 49,
+      "author": "Paul",
+      "date": "c. AD 60–62",
+      "theme": "God's grace in Christ makes a new people, the church, for his glory.",
+      "keyVerse": {
+        "reference": "Ephesians 2:8–9",
+        "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+        "translation": "NIV"
+      },
+      "christConnection": "Union with Christ is the letter's heartbeat."
+    },
+    {
+      "id": "php",
+      "name": "Philippians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 50,
+      "author": "Paul",
+      "date": "c. AD 60–62",
+      "theme": "Joy in Christ, even in prison, and a call to have the mind of Christ.",
+      "keyVerse": {
+        "reference": "Philippians 2:5–7",
+        "text": "In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing.",
+        "translation": "NIV"
+      },
+      "christConnection": "Jesus' humility is our pattern and our salvation."
+    },
+    {
+      "id": "col",
+      "name": "Colossians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 51,
+      "author": "Paul",
+      "date": "c. AD 60–62",
+      "theme": "Christ is supreme over all, and we are complete in him.",
+      "keyVerse": {
+        "reference": "Colossians 1:15",
+        "text": "The Son is the image of the invisible God, the firstborn over all creation.",
+        "translation": "NIV"
+      },
+      "christConnection": "Do not add to Christ; he is enough."
+    },
+    {
+      "id": "1th",
+      "name": "1 Thessalonians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 52,
+      "author": "Paul",
+      "date": "c. AD 50–51",
+      "theme": "Live in holiness and hope as you wait for Jesus' return.",
+      "keyVerse": {
+        "reference": "1 Thessalonians 4:16–17",
+        "text": "For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever.",
+        "translation": "NIV"
+      },
+      "christConnection": "The coming of Jesus is the church's living hope."
+    },
+    {
+      "id": "2th",
+      "name": "2 Thessalonians",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 53,
+      "author": "Paul",
+      "date": "c. AD 51",
+      "theme": "Stand firm; do not be shaken by rumors about the Day of the Lord.",
+      "keyVerse": {
+        "reference": "2 Thessalonians 2:16–17",
+        "text": "May our Lord Jesus Christ himself and God our Father... encourage your hearts and strengthen you in every good deed and word.",
+        "translation": "NIV"
+      },
+      "christConnection": "Christ will set all things right when he comes."
+    },
+    {
+      "id": "1ti",
+      "name": "1 Timothy",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 54,
+      "author": "Paul",
+      "date": "c. AD 62–64",
+      "theme": "Guard the gospel and order the church with godliness.",
+      "keyVerse": {
+        "reference": "1 Timothy 3:15",
+        "text": "God's household, which is the church of the living God, the pillar and foundation of the truth.",
+        "translation": "NIV"
+      },
+      "christConnection": "The church is entrusted with the truth about Christ."
+    },
+    {
+      "id": "2ti",
+      "name": "2 Timothy",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 55,
+      "author": "Paul",
+      "date": "c. AD 64–67",
+      "theme": "Finish the race; the Scriptures are God-breathed and make you complete.",
+      "keyVerse": {
+        "reference": "2 Timothy 3:16–17",
+        "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.",
+        "translation": "NIV"
+      },
+      "christConnection": "The sacred writings make you wise for salvation through faith in Christ Jesus."
+    },
+    {
+      "id": "tit",
+      "name": "Titus",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 56,
+      "author": "Paul",
+      "date": "c. AD 62–64",
+      "theme": "Sound doctrine produces a well-ordered, good life in the church and home.",
+      "keyVerse": {
+        "reference": "Titus 2:11–12",
+        "text": "For the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age.",
+        "translation": "NIV"
+      },
+      "christConnection": "Grace trains us to live for the appearing of Christ."
+    },
+    {
+      "id": "phm",
+      "name": "Philemon",
+      "testament": "New",
+      "section": "Paul's Letters",
+      "order": 57,
+      "author": "Paul",
+      "date": "c. AD 60–62",
+      "theme": "The gospel turns a runaway slave and his owner into brothers in Christ.",
+      "keyVerse": {
+        "reference": "Philemon 1:17–18",
+        "text": "So if you consider me a partner, welcome him as you would welcome me. If he has done you any wrong or owes you anything, charge it to me.",
+        "translation": "NIV"
+      },
+      "christConnection": "Paul's offer to pay the debt pictures Christ's substitution."
+    },
+    {
+      "id": "heb",
+      "name": "Hebrews",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 58,
+      "author": "Unknown (traditionally debated; not named in the letter)",
+      "date": "c. AD 60s",
+      "theme": "Jesus is better than every shadow in the old covenant.",
+      "keyVerse": {
+        "reference": "Hebrews 1:1–2",
+        "text": "In the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son.",
+        "translation": "NIV"
+      },
+      "christConnection": "Christ is the final Word, the great High Priest, and the once-for-all sacrifice."
+    },
+    {
+      "id": "jas",
+      "name": "James",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 59,
+      "author": "James, the brother of Jesus (traditionally)",
+      "date": "c. AD 40s–60s",
+      "theme": "Genuine faith works itself out in a life of wisdom and love.",
+      "keyVerse": {
+        "reference": "James 1:22",
+        "text": "Do not merely listen to the word, and so deceive yourselves. Do what it says.",
+        "translation": "NIV"
+      },
+      "christConnection": "Faith in Christ is living, obedient faith."
+    },
+    {
+      "id": "1pe",
+      "name": "1 Peter",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 60,
+      "author": "Peter",
+      "date": "c. AD 60–64",
+      "theme": "Hope and holiness for exiles who follow a suffering, risen Christ.",
+      "keyVerse": {
+        "reference": "1 Peter 2:9",
+        "text": "But you are a chosen people, a royal priesthood, a holy nation, God's special possession.",
+        "translation": "NIV"
+      },
+      "christConnection": "Christ suffered for you, leaving you an example."
+    },
+    {
+      "id": "2pe",
+      "name": "2 Peter",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 61,
+      "author": "Peter",
+      "date": "c. AD 64–68",
+      "theme": "Grow in grace; remember that the Lord will surely come.",
+      "keyVerse": {
+        "reference": "2 Peter 3:18",
+        "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ.",
+        "translation": "NIV"
+      },
+      "christConnection": "Hold fast to the apostolic testimony about Jesus."
+    },
+    {
+      "id": "1jn",
+      "name": "1 John",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 62,
+      "author": "John",
+      "date": "c. AD 80s–90s",
+      "theme": "Those who belong to Jesus walk in the light, love the brothers, and believe the truth.",
+      "keyVerse": {
+        "reference": "1 John 1:9",
+        "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+        "translation": "NIV"
+      },
+      "christConnection": "Fellowship is with the Father and with his Son, Jesus Christ."
+    },
+    {
+      "id": "2jn",
+      "name": "2 John",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 63,
+      "author": "John",
+      "date": "c. AD 80s–90s",
+      "theme": "Walk in love and do not welcome teachers who deny that Jesus came in the flesh.",
+      "keyVerse": {
+        "reference": "2 John 1:6",
+        "text": "And this is love: that we walk in obedience to his commands.",
+        "translation": "NIV"
+      },
+      "christConnection": "The truth about the incarnate Christ must be guarded."
+    },
+    {
+      "id": "3jn",
+      "name": "3 John",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 64,
+      "author": "John",
+      "date": "c. AD 80s–90s",
+      "theme": "Welcome faithful workers and copy what is good, not what is evil.",
+      "keyVerse": {
+        "reference": "3 John 1:4",
+        "text": "I have no greater joy than to hear that my children are walking in the truth.",
+        "translation": "NIV"
+      },
+      "christConnection": "Hospitality serves the mission of Christ."
+    },
+    {
+      "id": "jud",
+      "name": "Jude",
+      "testament": "New",
+      "section": "General Letters",
+      "order": 65,
+      "author": "Jude, the brother of Jesus (traditionally)",
+      "date": "c. AD 60s–80s",
+      "theme": "Contend for the faith once for all entrusted to God's people.",
+      "keyVerse": {
+        "reference": "Jude 1:24",
+        "text": "To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy.",
+        "translation": "NIV"
+      },
+      "christConnection": "Jesus keeps his people to the end."
+    },
+    {
+      "id": "rev",
+      "name": "Revelation",
+      "testament": "New",
+      "section": "Prophecy / Apocalypse",
+      "order": 66,
+      "author": "John",
+      "date": "c. AD 90s",
+      "theme": "The risen Christ rules, comforts his churches, and will make all things new.",
+      "keyVerse": {
+        "reference": "Revelation 21:5",
+        "text": "He who was seated on the throne said, 'I am making everything new!'",
+        "translation": "NIV"
+      },
+      "christConnection": "The Lamb who was slain is worthy, and he will return."
+    }
+  ]
+}

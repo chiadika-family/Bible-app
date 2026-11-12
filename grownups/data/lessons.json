@@ -1,0 +1,1258 @@
+{
+  "contentVersion": "2026.11.12.3",
+  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
+  "tracks": [
+    {
+      "id": "foundations",
+      "title": "Foundations",
+      "summary": "Who God is, who we are, and how we walk with him. Shown for the man profile.",
+      "audience": "man",
+      "lessonIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "id": "man-husband-father",
+      "title": "Man, Husband, Father",
+      "summary": "Godly manhood at home: as a man, a husband, and a father.",
+      "audience": "man",
+      "lessonIds": [
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": "church-practices",
+      "title": "Church practices",
+      "summary": "The church, baptism, and the practices Jesus gave his people. Shown for the man profile.",
+      "audience": "man",
+      "lessonIds": [
+        "9",
+        "13"
+      ]
+    },
+    {
+      "id": "foundations-women",
+      "title": "Foundations for women",
+      "summary": "The same foundations, written for a woman. Shown when the profile is set to woman.",
+      "audience": "woman",
+      "lessonIds": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5",
+        "w6",
+        "w7",
+        "w8"
+      ]
+    },
+    {
+      "id": "woman-wife-mother",
+      "title": "Woman, Wife, Mother",
+      "summary": "Godly womanhood at home: as a woman, a wife, and a mother.",
+      "audience": "woman",
+      "lessonIds": [
+        "w10",
+        "w11",
+        "w12"
+      ]
+    },
+    {
+      "id": "church-practices-women",
+      "title": "Church practices for women",
+      "summary": "The church and baptism, written for a woman.",
+      "audience": "woman",
+      "lessonIds": [
+        "w9",
+        "w13"
+      ]
+    },
+    {
+      "id": "books-of-the-bible",
+      "title": "Books of the Bible",
+      "summary": "How the Bible is organized, the big storyline, the covenants, and how to read different kinds of writing. Pair this with the 66-book reference.",
+      "audience": "all",
+      "lessonIds": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ]
+    },
+    {
+      "id": "key-elements",
+      "title": "Other key elements",
+      "summary": "The Trinity, the gospel, law and grace, the covenants, Bible translations, and end-times basics.",
+      "audience": "all",
+      "lessonIds": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6"
+      ]
+    },
+    {
+      "id": "role-husband",
+      "title": "Husband",
+      "summary": "A husband's duties, and sex in marriage as God's good design.",
+      "audience": "man",
+      "showIf": {
+        "married": true
+      },
+      "lessonIds": [
+        "r-husband",
+        "r-sex-husband"
+      ]
+    },
+    {
+      "id": "role-father",
+      "title": "Father",
+      "summary": "A father's duties: bringing children up in the Lord.",
+      "audience": "man",
+      "showIf": {
+        "hasKids": true
+      },
+      "lessonIds": [
+        "r-father"
+      ]
+    },
+    {
+      "id": "role-single-man",
+      "title": "Single man",
+      "summary": "Purity, contentment, and preparing to lead.",
+      "audience": "man",
+      "showIf": {
+        "married": false
+      },
+      "lessonIds": [
+        "r-single-man"
+      ]
+    },
+    {
+      "id": "role-wife",
+      "title": "Wife",
+      "summary": "A wife's duties, and sex in marriage as God's good design.",
+      "audience": "woman",
+      "showIf": {
+        "married": true
+      },
+      "lessonIds": [
+        "r-wife",
+        "r-sex-wife"
+      ]
+    },
+    {
+      "id": "role-mother",
+      "title": "Mother",
+      "summary": "A mother's duties: faithful instruction at home.",
+      "audience": "woman",
+      "showIf": {
+        "hasKids": true
+      },
+      "lessonIds": [
+        "r-mother"
+      ]
+    },
+    {
+      "id": "role-single-woman",
+      "title": "Single woman",
+      "summary": "Purity, contentment, and preparing — receiving whatever God gives.",
+      "audience": "woman",
+      "showIf": {
+        "married": false
+      },
+      "lessonIds": [
+        "r-single-woman"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "number": 1,
+      "date": "2026-10-31",
+      "title": "Grace, the foundation of everything",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "Ephesians 2:1–10",
+        "John 3:16"
+      ],
+      "translation": "NIV and NLT",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 1: Grace, the foundation of everything**\n\nBefore anything about being a better man, the Bible starts with what God has already done. Ephesians 2:8–9 (NIV) says, \"For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.\" Grace means God gives us what we could never earn. You don't become a better husband and father to win God's love; you grow because you already have it.\n\nJohn 3:16 (NIV) shows where that grace comes from: \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" Billy Graham built his whole ministry on this message, and his book *Peace with God* explains it in plain language. When you're ready for the man, husband, and father part, Tony Evans' *Kingdom Man* is written exactly for that.\n\n**To reflect on this week:** Read Ephesians 2:1–10 in the NLT, which is very easy to follow. Then ask yourself one question: do I ever act like I have to earn God's approval, or my family's?\n\n**Ephesians 2:1–10 (NLT)**\n\n¹ Once you were dead because of your disobedience and your many sins. ² You used to live in sin, just like the rest of the world, obeying the devil—the commander of the powers in the unseen world. He is the spirit at work in the hearts of those who refuse to obey God. ³ All of us used to live that way, following the passionate desires and inclinations of our sinful nature. By our very nature we were subject to God's anger, just like everyone else.\n\n⁴ But God is so rich in mercy, and he loved us so much, ⁵ that even though we were dead because of our sins, he gave us life when he raised Christ from the dead. (It is only by God's grace that you have been saved!) ⁶ For he raised us from the dead along with Christ and seated us with him in the heavenly realms because we are united with Christ Jesus. ⁷ So God can point to us in all future ages as examples of the incredible wealth of his grace and kindness toward us, as shown in all he has done for us who are united with Christ Jesus.\n\n⁸ God saved you by his grace when you believed. And you can't take credit for this; it is a gift from God. ⁹ Salvation is not a reward for the good things we have done, so none of us can boast about it. ¹⁰ For we are God's masterpiece. He has created us anew in Christ Jesus, so we can do the good things he planned for us long ago.\n\n*Holy Bible, New Living Translation, © 1996, 2004, 2015 by Tyndale House Foundation. Used by permission. All rights reserved.*\n\nLook at the order: verses 1–9 are what God did, and only then does verse 10 talk about the good things we do. The good things you do as a husband and father flow out of grace. They don't earn it. From now on I'll include the full reading in every lesson.",
+      "missingReason": null
+    },
+    {
+      "id": "2",
+      "number": 2,
+      "date": "2026-11-01",
+      "title": "Who God Is",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "Psalm 103:1–13"
+      ],
+      "translation": "NLT",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 2: Who God Is**\n\nGood morning, Gregory. Yesterday's lesson was about grace, which is God saving us as a gift we didn't earn. Today we look at the God who gives that grace. How you picture God shapes everything else: how you pray, how you deal with failure, and even how you lead at home.\n\nIn Psalm 103, David reminds himself what God is really like. God isn't a harsh judge waiting for us to slip up. He forgives, heals, redeems, and fills our lives with good things. Verse 8 echoes what God told Moses about himself in Exodus 34. He is compassionate and merciful, slow to get angry, and full of unfailing love. When we turn to him, our sins aren't just set aside. They're removed \"as far from us as the east is from the west.\"\n\nVerse 13 matters a lot for you as a dad. \"The Lord is like a father to his children.\" Your children's first picture of fatherhood is you. God is the perfect Father, and the more you get to know his tenderness and patience, the more you'll have to give your family. If you'd like to go deeper, J.I. Packer's classic book *Knowing God* is a great next step.\n\n**Today's reading: Psalm 103:1–13 (NLT)**\n\n*A psalm of David.*\n¹ Let all that I am praise the Lord; with my whole heart, I will praise his holy name.\n² Let all that I am praise the Lord; may I never forget the good things he does for me.\n³ He forgives all my sins and heals all my diseases.\n⁴ He redeems me from death and crowns me with love and tender mercies.\n⁵ He fills my life with good things. My youth is renewed like the eagle's!\n⁶ The Lord gives righteousness and justice to all who are treated unfairly.\n⁷ He revealed his character to Moses and his deeds to the people of Israel.\n⁸ The Lord is compassionate and merciful, slow to get angry and filled with unfailing love.\n⁹ He will not constantly accuse us, nor remain angry forever.\n¹⁰ He does not punish us for all our sins; he does not deal harshly with us, as we deserve.\n¹¹ For his unfailing love toward those who fear him is as great as the height of the heavens above the earth.\n¹² He has removed our sins as far from us as the east is from the west.\n¹³ The Lord is like a father to his children, tender and compassionate to those who fear him.\n\n*Scripture quotations are taken from the Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.*\n\n**Reflection:** Verse 8 says God is \"slow to get angry and filled with unfailing love.\" Think of one moment this week with your wife or kids when you could show that same patience. What would it look like for you to be slow to anger there?",
+      "missingReason": null
+    },
+    {
+      "id": "3",
+      "number": 3,
+      "date": "2026-11-02",
+      "title": "Who Jesus Is",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "Colossians 1:15–20"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 3: Who Jesus Is**\n\nYesterday we saw God as a compassionate Father. Today's question is the one everything else depends on: who is Jesus? Paul answers it in one of the richest passages in the Bible. Jesus isn't just a good teacher or a moral example. He is \"the image of the invisible God,\" so if you want to know what the Father is like, you look at Jesus.\n\nPaul makes three big claims. First, Jesus is over creation: everything was made through him and for him, and he's the one holding it all together right now, even on the days when your life feels like it's coming apart. Second, he's over the church. He's its head, and he's the first to rise from the dead for good, the promise that his people will rise too. Third, he's the peacemaker. The fullness of God lives in him, and he brought us back to God \"by making peace through his blood, shed on the cross.\" Lesson 1's grace has a name and a face, and it's Jesus.\n\nFor a man, a husband, and a father, this matters in a practical way. Jesus isn't one more thing to fit into your schedule. He's the center everything else holds onto. When he has \"the supremacy\" in your life, your marriage, your work, and your parenting get steadier, because they're no longer carrying weight only he can carry.\n\n**Today's reading: Colossians 1:15–20 (NIV)**\n\n*The Supremacy of the Son of God*\n15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in hea...n of all creation,\" and the LSB keeps that word for word. The NIV puts the meaning into the wording. In the Bible, \"firstborn\" often means the one with the highest rank and the right to inherit, the way God calls David his \"firstborn\" in Psalm 89:27 even though David was the youngest son. Verse 16 settles it: all things were created in him, so he isn't part of creation. He's its Lord.\n\n*Verse 19.* The NIV says \"God was pleased to have all his fullness dwell in him,\" and the LSB says \"in Him all the fullness of God was pleased to dwell.\" The Greek is short and a little open here. The LSB stays close to that form, while the NIV makes it plain that God is the one who was pleased. Both say the same thing: everything God is lives fully in Jesus.\n\n**Going deeper**\n\n- John Piper's book *Seeing and Savoring Jesus Christ* is a short, readable look at who Jesus is.\n- Billy Graham's *Peace with God* is a classic on how Jesus makes peace between us and God.\n- Grace Life is preaching through Hebrews in its \"What a Savior\" series, and Hebrews is also about Jesus being greater than everything else. Yesterday's sermon, [What a Savior, Part 11](https://www.youtube.com/watch?v=Sp9u-I5s3dk), fits right alongside today's reading, and the rest of the series is on their [media page](https://yourgracelife.com/media).\n\n**Reflection question**\n\nVerse 17 says \"in him all things hold together.\" What are you trying to hold together on your own right now, at home, at work, or in your marriage, that you need to hand back to Jesus this week? What would it look like to show Sanqueta and the kids that he's at the center?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Scripture quotations taken from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "4",
+      "number": 4,
+      "date": "2026-11-03",
+      "title": "Sin and Forgiveness, Walking in the Light",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "1 John 1:5–2:2"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 4: Sin and Forgiveness, Walking in the Light**\n\nGood morning, Gregory. Yesterday we looked at who Jesus is. Today is about what He does for us when we fail. John starts with a simple fact: God is light, with no darkness in Him at all. If we're honest, that's a problem for us, because all of us have some darkness in us. John names two ways we try to get around it. We can say \"I'm fine, I don't really sin\" (v. 8, 10), or we can claim to be close to God while quietly living in the dark (v. 6). Both are lies, and they keep us stuck.\n\nGod's way out is confession (v. 9). To confess means to agree with God about what we did, calling it what He calls it instead of making excuses. The promise is that He is \"faithful and just\" to forgive. That's not because God goes easy on sin. It's because Jesus already paid for it. That's why 2:1–2 calls Jesus our advocate, the one who stands up for us with the Father, and the sacrifice for our sins. Forgiveness rests on the cross, not on how sorry we feel.\n\nThis matters at home too. Walking in the light gives us \"fellowship with one another\" (v. 7). A husband and father who's quick to admit his wrongs, first to God and then to his wife and kids, shows them what grace looks like. If you want to go deeper, John Piper's short book *Fifty Reasons Why Jesus Came to Die* is good here (its first reason is \"To absorb the wrath of God\"), and so is Billy Graham's classic *Peace with God*, which covers sin and forgiveness in plain words.\n\n**Today's reading: 1 John 1:5–2:2 (NIV)**\n\n5 This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all. 6 If we claim to have fellowship with him and yet walk in the darkness, we lie and do not live out the truth. 7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin. 8 If we claim to be without sin, we deceive ourselves and the truth is not in us. 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness. 10 If we claim we have not sinned, we make him out to be a liar and his word is not in us.\n\n2:1 My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One. 2 He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.\n\n**Translation note (1 John 2:2)**\nNIV: \"He is the atoning sacrifice for our sins\"\nLSB: \"He Himself is the propitiation for our sins\"\nThe Greek word here is *hilasmos*. The LSB translates word for word and keeps the older theological term \"propitiation,\" which means a sacrifice that turns away God's righteous anger against sin and makes Him favorable toward us. The NIV translates by meaning and uses \"atoning sacrifice,\" which is easier to read but doesn't spell out the idea of God's wrath being satisfied. Both are faithful. The LSB just makes it clearer that on the cross Jesus took the judgment we deserved, which is the point Piper stresses in the book above.\n\n**Reflection question:** Is there something you've been quietly keeping in the dark, whether with God, with Sanqueta, or with one of the kids, that you could bring into the light this week by simply saying \"I was wrong, please forgive me\"?\n\n*Scripture quotations taken from The Holy Bible, New International Version® NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide. Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "5",
+      "number": 5,
+      "date": "2026-11-04",
+      "title": "Faith and Repentance, Coming Home to the Father",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "Luke 15:11–24"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 5: Faith and Repentance, Coming Home to the Father**\n\nYesterday we saw that when we confess our sins, Jesus is our advocate. Today is about the turn that starts it all. Repentance means more than feeling bad. It means changing your mind about your sin and turning around, away from it and back toward God. Faith is the other half of that same turn: trusting that God will really receive you because of Jesus, not because you've cleaned yourself up first.\n\nJesus paints this in the story of the lost son. The younger son wanted the father's stuff without the father. When everything ran out, he \"came to his senses.\" That's repentance: he saw his life truthfully, admitted \"I have sinned,\" and got up and went home. Faith is what moved his feet. He believed his father was good enough to go back to, even if all he hoped for was a servant's job.\n\nLook at the father, though. He sees his son \"while he was still a long way off,\" runs to him, and covers him with a robe, a ring, and a feast before the son even finishes his speech. That's the heart of God toward anyone who turns back. For you as a dad, it's also a picture of the kind of father you get to be: one who watches the road, runs toward his kids, and restores them instead of making them earn their way back.\n\nFor further reading, Billy Graham's *Peace with God* walks through repentance and faith in plain language, and [Desiring God](https://www.desiringgod.org), John Piper's ministry, has many articles and sermons on repentance.\n\n**Today's reading: Luke 15:11–24 (NIV)**\n\n11 Jesus continued: \"There was a man who had two sons. 12 The younger one said to his father, 'Father, give me my share of the estate.' So he divided his property between them.\n\n13 \"Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. 14 After he had spent everything, there was a severe famine in that whole country, and he began to be in need. 15 So he went and hi...up and went to his father.\n\n\"But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.\n\n21 \"The son said to him, 'Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.'\n\n22 \"But the father said to his servants, 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let's have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.' So they began to celebrate.\"\n\n**Translation note**\n\n*Verse 17.* The NIV says \"When he came to his senses,\" and the LSB says \"But when he came to himself.\" The Greek literally reads \"coming to himself.\" The LSB keeps that word-for-word wording, which suggests that sin had made him a stranger to who he really was. The NIV gives the meaning in everyday English: he finally started thinking clearly.\n\n*Verse 22.* The NIV says \"the father said to his servants,\" and the LSB says \"the father said to his slaves.\" The Greek word *doulos* can mean either one. The LSB translates it more literally. The contrast it draws is striking: the son asked to be treated like a hired man, and the father gives orders to his household slaves to dress him as an honored son.\n\n**Reflection question:** Is there an area of your life where you need to \"come to your senses\" and turn back to God today? And when one of your kids, or Sanqueta, comes to you after messing up, do they meet a father and husband who runs toward them?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Scripture quotations taken from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "6",
+      "number": 6,
+      "date": "2026-11-05",
+      "title": "The Holy Spirit, the Helper Who Stays With You",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "John 14:15–26"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 6: The Holy Spirit, the Helper Who Stays With You**\n\nAfter Jesus, the next person of God you need to know is the Holy Spirit. On the night before the cross, Jesus told his friends he was leaving, and that he would not leave them alone. He would ask the Father to send \"another advocate,\" the Spirit of truth, to be with them forever and to live in them. You are not an orphan in the Christian life. The same Spirit who was with the disciples is with you and in you.\n\nTony Evans teaches that the Greek word *parakletos* means someone called alongside: a helper, an advocate, a companion of the same kind as Jesus. The Spirit walks with you and lives in you at the same time, so you are never by yourself. John Piper, in *The Holy Spirit: He Is God!* (on John 14:15–17, 25–26), stresses that the Spirit is a person, not a force, and fully God, your Teacher and Counselor. Billy Graham likewise describes him as the personal Helper who lives in believers, helps us grasp Scripture, and gives us power to live for Christ.\n\nYour church has already preached this passage. Pastor Joel's sermon [We Believe in the Holy Spirit](https://web.sermonaudio.com/sermons/762508482639) (Grace Life Baptist Church, June 29, 2025) walks through John 14–16. He shows that the Spirit fully lives in every believer from the moment they're saved, and that he helps and advocates, teaches and reminds, points to Jesus, convicts, guides through the Word, and glorifies Christ. It's not fog machines or vibes. It's the living God at work through Scripture.\n\n**Today's reading: John 14:15–26 (NIV)**\n\n15 \"If you love me, keep my commands. 16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18 I will not leave you as orphans; I will come to you. 19 Before long, the world will not see me anymore, but you w... you. 21 Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them.\"\n\n22 Then Judas (not Judas Iscariot) said, \"But, Lord, why do you intend to show yourself to us and not to the world?\"\n\n23 Jesus replied, \"Anyone who loves me will obey my teaching. My Father will love them, and we will come to them and make our home with them. 24 Anyone who does not love me will not obey my teaching. These words you hear are not my own; they belong to the Father who sent me.\n\n25 \"All this I have spoken while still with you. 26 But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.\"\n\n**Translation note**\n\n*Verse 15.* The NIV says \"If you love me, *keep* my commands,\" and the LSB says \"If you love Me, *you will keep* My commandments.\" The LSB stays closer to the Greek future tense, which shows that obedience naturally grows out of love. The NIV's \"keep\" can read like a command. Both point to the same link: real love for Jesus shows up in a life that follows him.\n\n*Verses 16 and 26.* Both the NIV and the LSB say \"advocate.\" The LSB's footnote gives the Greek word, *parakletos*, which means one called alongside as a helper. It's a rich word, and English translations bring out different sides of it: legal advocate, counselor, and helper.\n\n**Reflection question:** Where do you feel most alone as a husband or dad this week, and how does it change things to remember the Spirit is already with you and in you there?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Scripture quotations taken from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "7",
+      "number": 7,
+      "date": "2026-11-06",
+      "title": "Prayer, Talking With Your Father",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "Matthew 6:5–13"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 7: Prayer, Talking With Your Father**\n\nYesterday we sat with the Holy Spirit, the Helper who stays with you. Today Jesus shows you what to do with that: talk to your Father. Prayer isn't a performance or a pile of fancy words. It's a son coming to his Dad.\n\nJesus warns against praying to be seen and against empty repetition. Then he gives a pattern, not a script to mumble. Billy Graham put it plainly: the Lord's Prayer is a model, but \"simply saying a memorized prayer doesn't accomplish anything if we aren't paying attention to its meaning and saying it from our hearts.\" Tony Evans teaches the same shape as a pattern for real conversation with God: worship, God's will, daily needs, forgiveness, and protection. John Piper presses that the opening lines are petitions too. \"Hallowed be your name,\" \"Your kingdom come,\" and \"Your will be done\" are requests that God's name be cherished first in your heart, then in your home and beyond. As a husband and dad, that means your closet prayer shapes how you lead Sanqueta and the kids, seeking God's name and will before you ask for bread.\n\nAt Grace Life, Joel Frederick's [Acts: Church On The Move Part 18](https://yourgracelife.com/media/acts-church-on-the-move-part-18) (Acts 12:1–25) is tagged for prayer and trust, the church praying while God acts. Worth a listen when you want to see prayer lived out in the early church.\n\n**Today's reading: Matthew 6:5–13 (NIV)**\n\n\"And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full. But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words. Do not be like them, for your Father knows what you need before you ask him.\n\n\"This, then, is how you should pray:\n\n\"'Our Father in heaven,\nhallowed be your name,\nyour kingdom come,\nyour will be done,\non earth as it is in heaven.\nGive us today our daily bread.\nAnd forgive us our debts,\nas we also have forgiven our debtors.\nAnd lead us not into temptation,\nbut deliver us from the evil one.'\"\n\n**Translation note**\n\n*Verse 7.* The NIV says \"do not keep on babbling like pagans,\" and the LSB says \"do not use meaningless repetition as the Gentiles do.\" Same warning: empty volume doesn't impress God. The LSB stays closer to the Greek idea of vain, empty phrases, and the NIV's \"babbling\" captures the sense in everyday English.\n\n*Verse 6.* The NIV says \"go into your room… your Father, who is unseen,\" and the LSB says \"go into your inner room… your Father who is in secret.\" The LSB's word-for-word feel stresses a private inner place and a Father who meets you there. The NIV's meaning-based \"unseen\" says the same thing more simply.\n\n*Verse 13.* The LSB brackets \"[For Yours is the kingdom and the power and the glory forever. Amen.]\" and notes that early manuscripts omit it. The NIV puts a similar note in a footnote. Many churches still pray that closing praise; the earliest copies of Matthew often end at \"the evil one.\"\n\n**Reflection question:** Where can you take ten quiet minutes today, before the kids are up or after they're down, to pray this pattern from the heart for Sanqueta, Jordyn, Elijah, and Enoch: God's name first, then his will in your home, then today's needs, forgiveness, and protection?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Scripture quotations taken from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "8",
+      "number": 8,
+      "date": "2026-11-07",
+      "title": "Reading Scripture — God-breathed words that equip you",
+      "track": "foundations",
+      "audience": "man",
+      "passages": [
+        "2 Timothy 3:14–17"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 8: Reading Scripture — God-breathed words that equip you**\n\nPrayer (yesterday) is talking with your Father. Reading Scripture is listening to Him. Paul writes to Timothy like a spiritual son: stay in what you learned, because the writings themselves are *God-breathed*. Not merely inspiring ideas, but God’s own words on the page—able to make you wise for salvation through faith in Christ Jesus, and to shape you for every good work as a man, husband, and father.\n\nJohn Piper puts it plainly in *[All Scripture Is Breathed Out by God — Continue in It](https://www.desiringgod.org/messages/all-scripture-is-breathed-out-by-god-continue-in-it)*: the focus is on the *writings*, so that when you open the Bible you are hearing God. Scripture teaches, then reproves (stops you), corrects (turns you), and trains you in righteousness—so you are thoroughly equipped. A short daily reading gives you regular opportunities to understand and practice what God says; longer study can deepen that habit too.\n\nOpen [Grace Life’s sermon media](https://yourgracelife.com/media) anytime you want your church’s preaching of the Word alongside this reading.\n\n**Today’s reading — 2 Timothy 3:14–17 (NIV)**\n\n> 14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, 15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work.\n\n**Translation note**\n\n- **Verse 15:** NIV “Holy Scriptures” / LSB “sacred writings.” Both translate *hiera grammata*. The wording differs, but both refer here to the sacred writings Timothy had known from childhood.\n- **Verse 16:** NIV “useful for teaching, rebuking, correcting” / LSB “profitable for teaching, for reproof, for correction.” These are largely vocabulary differences: “useful” and “profitable” express benefit, while “rebuking” and “reproof” describe exposing and confronting error.\n- **Verse 17:** NIV “servant of God” / LSB “man of God.” The LSB preserves the traditional wording of the Greek expression. The NIV emphasizes the person’s role in serving God. Paul is addressing Timothy directly; the passage also shows how Scripture equips God’s people for good work.\n\n**LSB (for comparison)**\n\n> 14 But you, continue in the things you learned and became convinced of, knowing from whom you learned them, 15 and that from childhood you have known the sacred writings which are able to make you wise unto salvation through faith which is in Christ Jesus. 16 All Scripture is God-breathed and profitable for teaching, for reproof, for correction, for training in righteousness, 17 so that the man of God may be equipped, having been thoroughly equipped for every good work.\n\n**Reflection**\n\nWhere will you put even ten quiet minutes with Scripture this week so God’s Word can teach, correct, and train you—and so Jordyn, Elijah, and Enoch see their dad listening to the Father?\n\n*Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.*\n\n*Legacy Standard Bible® Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc.*",
+      "missingReason": null
+    },
+    {
+      "id": "9",
+      "number": 9,
+      "date": "2026-11-08",
+      "title": "The Church, a Family That's Devoted Together",
+      "track": "church-practices",
+      "audience": "man",
+      "passages": [
+        "Acts 2:42–47"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 9: The Church, a Family That's Devoted Together**\n\nEvery lesson so far has been about your own walk: grace, prayer, Scripture. Today's reading shows that God never meant you to walk alone. Right after Pentecost, the first believers didn't just attend something. They *devoted themselves* to four things together: the apostles' teaching, fellowship, the breaking of bread, and prayer. We receive the apostles' teaching through Scripture.\n\nJohn Piper explains that the Greek word for fellowship, *koinonia*, comes from the word for “common”: “Koinonia (fellowship) means having things koina (in common).” That's why Luke goes straight on to say they shared what they had with anyone in need. Real fellowship goes deeper than coffee after service. It means caring enough that another person's need becomes your concern.\n\nNotice the rhythm, too. They met in large gatherings at the temple and in homes around a table. For you, that can include Sunday at Grace Life and sharing life with church members during the week. Your dinner table with Sanqueta and the kids can reflect that same gladness, prayer, and generosity, though family life doesn't replace belonging to a church.\n\n**Today's reading: Acts 2:42–47 (NIV)**\n\n42 They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.\n\n**Translation notes**\n\n- **Verse 42:** NIV “to prayer” / LSB “to the prayers.” The Greek has the definite article and a plural. The LSB preserves that form, which ...on of baptized believers, associated by covenant.” It operates “under the Lordship of Christ through democratic processes,” with pastors and deacons as its officers. It also describes the church as the Body of Christ, “which includes all of the redeemed of all the ages.” In plain words, each local congregation governs its own affairs under Christ, while also belonging to the larger fellowship of God's people.\n\nBy comparison, the Catholic Catechism, paragraph 816, teaches that Christ's church “subsists in the Catholic Church, which is governed by the successor of Peter and by the bishops in communion with him.” That's a real difference in how church unity and authority are understood. It doesn't mean Catholic teaching denies that other Christians belong to Christ. We'll unpack these differences gradually, including Orthodox and other Protestant perspectives, without treating disagreement as a reason for disrespect.\n\n**Go deeper**\n\n- [The Fear of God and Freedom from Goods](https://www.desiringgod.org/messages/the-fear-of-god-and-freedom-from-goods), John Piper's sermon on this passage, December 2, 1990.\n- [Grace Life Doctrines](https://yourgracelife.com/doctrines), your church's statement on the Bible, God, salvation, and the church.\n- [Acts: Church on the Move Part 2](https://yourgracelife.com/media/acts-church-on-the-move-part-2), an early sermon in Grace Life's Acts series; its exact passage wasn't confirmed.\n\n**Reflection question**\n\nWhat's one way this week you could make your family's table reflect the gladness and generosity of Acts 2—and is there someone in your church family whose need you could help carry?\n\n*Scripture quotations are from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording is from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc.*",
+      "missingReason": null
+    },
+    {
+      "id": "10",
+      "number": 10,
+      "date": "2026-11-09",
+      "title": "Godly Manhood, Strong and Anchored in God's Word",
+      "track": "man-husband-father",
+      "audience": "man",
+      "passages": [
+        "Joshua 1:5–9",
+        "1 Corinthians 16:13–14"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 10: Godly Manhood, Strong and Anchored in God's Word**\n\nGood morning, Gregory. Today we start the \"man, husband, father\" part of the path. Notice what the Bible says makes a man strong: it isn't toughness or having it all together. God tells Joshua to be strong and courageous, and each time he gives the reason: \"I will be with you.\" Courage comes from God's presence, not from our own nerve.\n\nGod also ties that strength to his Word. Joshua is told to keep it on his lips and think on it day and night, so he can obey it. A strong man, then, is one who stays near God, listens to him, and acts on what he hears. Paul adds the final piece: be strong, but \"do everything in love.\" Strength without love hurts people, and love without strength can't protect them. A godly man carries both.\n\n**Today's reading: Joshua 1:5–9 (NIV)**\n\n5 No one will be able to stand against you all the days of your life. As I was with Moses, so I will be with you; I will never leave you nor forsake you. 6 Be strong and courageous, because you will lead these people to inherit the land I swore to their ancestors to give them. 7 \"Be strong and very courageous. Be careful to obey all the law my servant Moses gave you; do not turn from it to the right or to the left, that you may be successful wherever you go. 8 Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. 9 Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.\"\n\n**1 Corinthians 16:13–14 (NIV)**\n\n13 Be on your guard; stand firm in the faith; be courageous; be strong. 14 Do everything in love.\n\n**Translation note**\n\n*1 Corinthians 16:13.* The NIV says \"be courageous,\" and the LSB says \"act like men.\" The Greek word *andrizesthe* comes from the word for \"man,\" so the LSB keeps that root visible, while the NIV gives the sense, which is courage. Both point to grown-up, brave faithfulness. Also, the NIV's \"Be on your guard\" and the LSB's \"Be watchful\" translate the same call to stay alert.\n\n*Joshua 1:7–8.* The NIV says \"Be careful to obey… do everything written in it,\" and the LSB says \"be careful to do according to…\" with a footnote that the Hebrew literally means \"observe,\" as in guard or keep. Obeying is more than hearing; it means guarding God's Word and putting it into practice. The LSB footnote also notes that the Hebrew behind \"successful\" and \"prosperous\" can mean \"act wisely,\" so in context, success is wise obedience, not just results.\n\n*Joshua 1:9.* The NIV says \"the Lord,\" and the LSB says \"Yahweh.\" Both translate God's personal covenant name; the NIV uses the traditional title.\n\n**Go deeper:** Tony Evans' book *Kingdom Man* fits this theme well. It's about a man living under God's authority and taking responsibility for his family and community.\n\n**Reflection question:** Where do you most need \"I will be with you\" this week, at work, with Sanqueta, or with the kids? What's one concrete way to stay in God's Word so you act from his strength and not your own?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Scripture quotations taken from the Legacy Standard Bible®, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*",
+      "missingReason": null
+    },
+    {
+      "id": "11",
+      "number": 11,
+      "date": "2026-11-10",
+      "title": "Marriage, loving your wife the way Christ loves the church",
+      "track": "man-husband-father",
+      "audience": "man",
+      "passages": [
+        "Ephesians 5:21–33"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 11: Marriage, loving your wife the way Christ loves the church**\n\nYesterday was about being a strong, courageous man anchored in God's Word. Today we look at where that strength gets tested most every day: at home, with your wife. Ephesians 5 is one of the best-known marriage passages in the Bible. It's also one of the most misunderstood.\n\nNotice where Paul starts in verse 21: \"Submit to one another out of reverence for Christ.\" Before he says anything to husbands or wives, he puts the whole household under Jesus. Then he gives each spouse a different calling. Wives are asked to submit to their husbands \"as you do to the Lord.\" Husbands get the longer and heavier command: \"love your wives, just as Christ loved the church and gave himself up for her.\" The standard for a husband isn't how other men treat their wives. It's the cross.\n\nJohn Piper preached two sermons on this passage. In the first he says headship \"is not a right to control or to abuse or to neglect. (Christ's sacrifice is the pattern.) Rather, it's the responsibility to love like Christ in leading and protecting and providing for your wife and family.\" He defines headship as \"the divine calling of a husband to take primary responsibility for Christ-like, servant leadership, protection, and provision in the home.\" He calls the Christian husband \"lionhearted and lamblike,\" because Jesus is both the Lion of Judah and the Lamb of God (Revelation 5:5–6): \"strong and meek, tough and tender.\"\n\nVerses 28–29 make it concrete. A man feeds and cares for his own body without anyone having to remind him. Paul says to give your wife that same everyday, instinctive care, the way Christ keeps caring for his church. Verse 32 shows the bigger picture: your marriage is meant to be a small, living picture of Christ and his people that your kids and neighbors can watch.\n\n**Today's reading: Ephesians 5:21–33 (NIV)**\n\n21 Submit to one another out of reverence for Christ.\n\n22 Wives, submit yourselves to your own husbands as you do to the Lord. 23 For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. 24 Now as the church submits to Christ, so also wives should submit to their husbands in everything.\n\n25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. 28 In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. 29 After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— 30 for we are members of his body. 31 \"For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.\" 32 This is a profound mystery—but I am talking about Christ and the church. 33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n(NIV footnotes: v26 \"cleansing\" can also be read \"having cleansed.\" v31 quotes Genesis 2:24.)\n\n**Translation notes (LSB)**\n\n- **Verse 21.** NIV: \"Submit to one another out of reverence for Christ.\" LSB: \"and being subject to one another in the fear of Christ.\" In Greek, verse 21 isn't a separate command. It's a participle (\"being subject\") that carries on Paul's sentence from verse 18, \"be filled with the Spirit.\" The LSB keeps that grammar, so you can see mutual submission is one of the things a Spirit-filled life looks like. The NIV makes it its own sentence so it reads clearly in English. The noun is *phobos*, \"fear.\" The LSB keeps \"fear,\" and the NIV gives the sense as \"reverence.\" The LSB's own footnote allows \"reverence\" too.\n- **Verse 33.** NIV: \"the wife must respect her husband.\" LSB: \"the wife must see to it that she respects her husband.\" The LSB footnote says \"respects\" is literally \"fear,\" and points back to verse 21. Paul uses the same word family for honoring Christ and for a wife honoring her husband. It means deep respect, not being afraid. The NIV gives the meaning, and the LSB footnote shows the link to verse 21.\n- **Verse 29.** NIV: \"no one ever hated their own body, but they feed and care for their body.\" LSB: \"no one ever hated his own flesh, but nourishes and cherishes it.\" The Greek says \"flesh,\" which the LSB keeps. That ties it to \"one flesh\" in verse 31. The NIV says \"body\" to match verse 28. \"Cherishes\" is a warm word that means keeping something warm and tenderly caring for it, and the LSB's wording brings out that tenderness a bit more.\n\n**Going deeper**\n\n- [Lionhearted and Lamblike: The Christian Husband as Head, Part 1](https://www.desiringgod.org/messages/lionhearted-and-lamblike-the-christian-husband-as-head-part-1), John Piper, Mar 18, 2007\n- [Lionhearted and Lamblike: What Does It Mean to Lead? Part 2](https://www.desiringgod.org/messages/lionhearted-and-lamblike-the-christian-husband-as-head-part-2), John Piper, Mar 25, 2007\n- Tony Evans' book *Kingdom Marriage* goes well with *Kingdom Man* from yesterday.\n\n**Reflection question:** Verse 29 says to \"feed and care for\" your wife the way you naturally take care of yourself. What's one specific way you can nourish and cherish Sanqueta this week, without her asking, so that Jordyn, Elijah, and Enoch get a clear picture of how Christ loves his church?\n\n*Scripture quotations taken from The Holy Bible, New International Version® NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide. Scripture quotations taken from the (LSB®) Legacy Standard Bible®, Copyright © 2021 by The Lockman Foundation. Used by permission. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org*\n",
+      "missingReason": null
+    },
+    {
+      "id": "12",
+      "number": 12,
+      "date": "2026-11-11",
+      "title": "Fatherhood: passing faith on at home",
+      "track": "man-husband-father",
+      "audience": "man",
+      "passages": [
+        "Deuteronomy 6:4–9",
+        "Ephesians 6:4"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 12: Fatherhood: passing faith on at home**\n\nYesterday's lesson was about loving Sanqueta the way Christ loves the church. Today the focus moves to Jordyn, Elijah, and Enoch. God's plan for passing on faith isn't mainly a program or a class. It's a dad whose own heart is full of God's words, and those words come out in ordinary moments: at the dinner table, in the car, at bedtime, at breakfast. Deuteronomy 6 says it plainly. First, *\"these commandments… are to be on your hearts.\"* Only after that comes *\"impress them on your children.\"* You can't pass on what you don't carry yourself.\n\nEphesians 6:4 adds a warning and a calling. The warning is \"do not exasperate your children.\" John Piper points out that of all the things Paul could have warned fathers about, he picked anger. Piper's reading is that fathers usually pass anger on by living with it themselves, and the cure is the gospel: being \"kind… tenderhearted, forgiving… as God in Christ forgave you\" (Ephesians 4:32). He's also clear that this verse doesn't make a dad passive. Kids are still called to obey. The point is to avoid things like nagging, harshness, and petty rules that don't connect to anything bigger. The calling is to \"bring them up in the training and instruction of the Lord.\" Piper says that means showing your kids something great to live for, so that when you say no, they can see it serves God's bigger purpose for them and not just your convenience.\n\nPiper also notes that Paul says \"Fathers\" here, while the verse just before it says \"parents.\" That gives dads the leading responsibility. He's careful to say it isn't the only responsibility.\n\n**Today's reading (NIV)**\n\n*Deuteronomy 6:4–9*\n4 Hear, O Israel: The Lord our God, the Lord is one. 5 Love the Lord your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n*Ephesians 6:4*\n4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\n\n**Translation notes (LSB)**\n\n- **Deuteronomy 6:7.** The NIV says \"Impress them on your children,\" and the LSB says \"You shall teach them diligently to your sons.\" The Hebrew verb carries the idea of sharpening, or repeating something until it sticks. The NIV goes with \"impress\" and the LSB with \"teach diligently.\" The Hebrew word for \"sons\" is often used for children in general, so the NIV translates the sense (\"children\") and the LSB keeps the literal word (\"sons\").\n- **Deuteronomy 6:8.** The NIV says \"bind them on your foreheads,\" and the LSB says \"they shall be as phylacteries between your eyes.\" The Hebrew word is rare. The NIV gives a general meaning (\"symbols\"), while the LSB uses \"phylacteries,\" the small Scripture boxes Jewish men later wore to obey this verse. The LSB's footnote also gives \"frontals.\"\n- **Ephesians 6:4.** The NIV says \"do not exasperate your children; instead, bring them up in the training,\" and the LSB says \"do not provoke your children to anger, but bring them up in the discipline.\" The Greek verb has \"anger\" built into it, and the LSB spells that out. The Greek noun *paideia* covers both training and correction, so each translation brings out a different side of the same word. The NIV also has a footnote on \"Fathers\" that reads \"Or *Parents*,\" because the Greek word can occasionally mean both parents.\n\n**Go deeper**\n- [Marriage Is Meant for Making Children… Disciples of Jesus, Part 2](https://www.desiringgod.org/messages/marriage-is-meant-for-making-children-disciples-of-jesus-part-2), John Piper's sermon on Ephesians 6:4\n- [More Thoughts for Fathers on Ephesians 6:4](https://www.desiringgod.org/articles/more-thoughts-for-fathers-on-ephesians-6-4), a short Desiring God follow-up article\n\n**Reflection**\nWhen your kids look back on this week, would they say \"Dad talked about God with me\" in some ordinary moment, like the car ride, dinner, or bedtime? And is there one place, maybe a tone or a rule you keep repeating, where you might be stirring up anger in one of them instead of drawing them toward something bigger?\n\n*Scripture quotations taken from The Holy Bible, New International Version® NIV®, Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Legacy Standard Bible, Copyright © 2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*\n",
+      "missingReason": null
+    },
+    {
+      "id": "13",
+      "number": 13,
+      "date": "2026-11-12",
+      "title": "Baptism, buried with Christ and raised to walk in new life",
+      "track": "church-practices",
+      "audience": "man",
+      "passages": [
+        "Romans 6:1–11"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "deliveredMarkdown": "**Lesson 13: Baptism, buried with Christ and raised to walk in new life**\n\nGood morning, Greg. Yesterday we talked about passing faith on at home. Today we look at the first public step of that faith: baptism. In Romans 6, Paul answers a fair question. If God's grace covers all our sin, why not keep sinning? His answer is that a believer has died to that old life. Baptism is the picture of that death and new beginning. You go down into the water like a burial and come up like a resurrection.\n\nJohn Piper explains this in three steps in his sermon [United with Christ in Death and Life, Part 2](https://www.desiringgod.org/messages/united-with-christ-in-death-and-life-part-2) (Oct 1, 2000). First, Christ died at Calvary, and God counted his death as ours. Second, we trusted Christ, and that death became personal to us. Third, we were baptized, which shows it publicly. In his words: \"Accomplishment in history, application by faith, signification through baptism.\" He also calls baptism \"an ordinance performed only once in the Christian's life\" that \"signifies our dying and rising with Christ by faith.\"\n\nThe practical point is verse 11. You don't have to strain to become dead to sin. In Christ you already are, so you \"count\" it true and live like it. When an old habit or temper pulls at you, you can tell yourself, \"That man was buried. I don't live there anymore.\"\n\n**Today's reading: Romans 6:1–11 (NIV)**\n\n> 6 What shall we say, then? Shall we go on sinning so that grace may increase? 2 By no means! We are those who have died to sin; how can we live in it any longer? 3 Or don't you know that all of us who were baptized into Christ Jesus were baptized into his death? 4 We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.\n>\n> 5 For if we have been united with him in a death like his, we will certainly also be united with him in a resurrection like his. 6 For we know that our old self was crucified with him so that the body ruled by sin might be done away with, that we should no longer be slaves to sin— 7 because anyone who has died has been set free from sin.\n>\n> 8 Now if we died with Christ, we believe that we will also live with him. 9 For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him. 10 The death he died, he died to sin once for all; but the life he lives, he lives to God.\n>\n> 11 In the same way, count yourselves dead to sin but alive to God in Christ Jesus.\n\n*NIV footnote on v6, \"done away with\": \"Or be rendered powerless.\"*\n\n**Translation notes (LSB)**\n\n- **v4.** The NIV has \"we too may live a new life.\" The LSB has \"so we too might walk in newness of life.\" Paul's Greek verb means \"to walk,\" a common Jewish way of describing how a person conducts their life. The LSB keeps the walking picture, and the NIV gives the meaning in plain modern English.\n- **v6.** The NIV has \"our old self… the body ruled by sin.\" The LSB has \"our old man… our body of sin.\" The Greek says \"old man\" (*anthrōpos*), meaning the person you were before Christ, and \"body of sin.\" The NIV reads that as \"the body ruled by sin,\" and the LSB keeps the shorter phrase and leaves it to the reader. Both translations note that \"done away with\" can also mean \"made powerless.\"\n- **v7.** The NIV has \"has been set free from sin.\" The LSB has \"has been justified from sin,\" with a footnote: \"Or acquitted.\" The Greek verb (*dikaioō*) is the one usually translated \"justify.\" Here it carries the sense of being released from sin's claim, like a dead man the law can no longer charge. The NIV puts that result into words, and the LSB keeps the legal word.\n\n**A brief look at how Christians understand baptism**\n\nChristians broadly agree that Jesus commanded baptism (\"Go… make disciples of all the nations, baptizing them,\" Matthew 28:19) and that it is tied to union with Christ. They differ on what baptism does and who should receive it.\n\n- **Grace Life (Baptist).** Grace Life's [Doctrines page](https://yourgracelife.com/doctrines) describes the church as a congregation \"of baptized believers\" observing \"the two ordinances of Christ.\" \"Ordinance\" means a practice Christ commanded us to obey. Piper, himself a Baptist, holds the same believer's-baptism view. He argues that baptism follows faith, that it pictures what faith has already received, and that immersion best shows Romans 6:4's burial and resurrection.\n- **Catholic Church (in its own words).** The Catechism, paragraph 1213, calls baptism a sacrament: \"Through Baptism we are freed from sin and reborn as sons of God.\" In that view, baptism is God's means of giving new life, not only a sign of it.\n\nThese are real differences, and there are differences within traditions too. They're worth understanding with respect, not arguing over.\n\n**Reflection question:** Your kids watch how you live more than what you say. What is one \"old man\" habit, like a short temper, a screen habit, or a sharp word, that you can treat as buried this week so they see what \"walking in newness of life\" looks like?\n\n*Scripture quotations taken from The Holy Bible, New International Version® NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright © 2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*\n",
+      "missingReason": null
+    },
+    {
+      "id": "w1",
+      "number": 1,
+      "date": "2026-10-31",
+      "title": "Grace, the foundation of everything",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "Ephesians 2:1–10"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Grace, the foundation of everything\n\n**Date:** Saturday, October 31, 2026\n**Scripture:** Ephesians 2:1–10\n**Translation used:** NIV\n\nBefore you take up any other lesson in this track — who God is, who you are as a woman, how to pray, how to love a husband or a child — start here. Grace is the foundation. You do not build a life with God by proving yourself useful, pretty, organized, or strong enough. You receive a gift.\n\n## The passage (NIV)\n\n1 As for you, you were dead in your transgressions and sins, 2 in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. 3 All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath. 4 But because of his great love for us, God, who is rich in mercy, 5 made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved. 6 And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, 7 in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus. 8 For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— 9 not by works, so that no one can boast. 10 For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\n\n## What this is saying\n\nPaul does not start with your gifts or your roles. He starts with a hard truth: without Christ, we were dead, not merely discouraged. That is true of women and of men. Then comes the mercy: “But because of his great love for us, God, who is rich in mercy, made us alive with Christ.” Grace is God doing for you what you could not do for yourself.\n\nVerses 8–9 take the weight off your performance. Salvation is a gift. You cannot earn a father’s welcome by keeping a beautiful home, by never missing a quiet time, or by being the woman everyone needs. Good works matter — verse 10 says you are God’s handiwork, created in Christ Jesus for good works he prepared. But those works are the fruit of grace, not the root of it.\n\nPriscilla Shirer, who teaches with Going Beyond Ministries and is Tony Evans’s daughter, often comes back to this same center: the Christian life is a response to what God has already done, not a way of getting him to notice you. Her teaching on prayer and on the Spirit starts with people who already belong to Jesus. We are not quoting a single line from her here, because we could not pin one short sentence to a public page with enough certainty, but that is the pattern of her ministry, and it matches Ephesians 2.\n\n## Go deeper\n\n- [Ephesians 2:1–10 on Bible Gateway (NIV)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1-10&version=NIV)\n- [Going Beyond Ministries](https://goingbeyond.com/ministry/)\n\n## How this applies\n\nIf you are tired of trying to be enough, this passage is for you. Receive the gift. Then walk, as a living woman, into the good works God already prepared — not to be loved, but because you are.\n\n## Reflection\n\nWhere have you been trying to earn what God has already given you in Christ? What would it look like, today, to receive grace as a gift and then do the next good work from rest, not from fear?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Ephesians 2:1–10 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A1-10&version=NIV"
+        },
+        {
+          "label": "Priscilla Shirer, Going Beyond Ministries",
+          "url": "https://goingbeyond.com/ministry/"
+        },
+        {
+          "label": "Tony Evans on Priscilla and the family teaching ministry",
+          "url": "https://tonyevans.org/blog/the-evans-family-five-takeaways-from-our-new-film"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "number": 2,
+      "date": "2026-11-01",
+      "title": "Who God Is",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "Exodus 34:6–7",
+        "Isaiah 6:1–5",
+        "1 John 4:8–10"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Who God Is\n\n**Date:** Sunday, November 1, 2026\n**Scripture:** Exodus 34:6–7; Isaiah 6:1–5; 1 John 4:8–10\n**Translation used:** NIV\n\nIf grace is the foundation, you need to know the God who gives it. He is not an idea you shape to fit your feelings. He has told you his name.\n\n## The passages (NIV)\n\n**Exodus 34:6–7**\n6 And he passed in front of Moses, proclaiming, “The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness, 7 maintaining love to thousands, and forgiving wickedness, rebellion and sin. Yet he does not leave the guilty unpunished; he punishes the children and their children for the sin of the parents to the third and fourth generation.”\n\n**Isaiah 6:1–5**\n1 In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple. 2 Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. 3 And they were calling to one another: “Holy, holy, holy is the Lord Almighty; the whole earth is full of his glory.” 4 At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. 5 “Woe to me!” I cried. “I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the Lord Almighty.”\n\n**1 John 4:8–10**\n8 Whoever does not love does not know God, because God is love. 9 This is how God showed his love among us: He sent his one and only Son into the world that we might live through him. 10 This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.\n\n## What this is saying\n\nGod names himself: compassionate, gracious, slow to anger, abounding in love and faithfulness — and also just. He does not leave the guilty unpunished. His holiness is not a harsh mood; it is his blazing purity. Isaiah does not stroll into that throne room feeling affirmed. He says, “Woe to me.”\n\nAnd this same God is love. John will not let you shrink love into a warm feeling. “This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.” The God who is holy is the God who comes near in Christ.\n\nAnne Graham Lotz, Billy Graham’s daughter, has spent her life calling women and men to this God as he has spoken in Scripture. She writes, “God’s Word doesn’t change. And you can build your life on it knowing that God’s Word works.” ([The Power of Our Example](https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/)) You do not have to invent a god you can manage. You can build your life on the God who has spoken.\n\n## Go deeper\n\n- [Exodus 34:6–7 (NIV)](https://www.biblegateway.com/passage/?search=Exodus+34%3A6-7&version=NIV)\n- [Anne Graham Lotz, “The Power of Our Example”](https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/)\n\n## How this applies\n\nWhen fear or shame names God for you, go back to his own words. He is holy and he is love. Both are true at once, and both are good for you.\n\n## Reflection\n\nWhich side of God’s name do you quietly drop — his holiness, or his love? What would it look like to trust both today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Exodus 34:6–7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+34%3A6-7&version=NIV"
+        },
+        {
+          "label": "Anne Graham Lotz, “The Power of Our Example”",
+          "url": "https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/"
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "number": 3,
+      "date": "2026-11-02",
+      "title": "Who Jesus Is",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "John 1:1–14",
+        "Colossians 1:15–20",
+        "Hebrews 1:1–3"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Who Jesus Is\n\n**Date:** Monday, November 2, 2026\n**Scripture:** John 1:1–14; Colossians 1:15–20; Hebrews 1:1–3\n**Translation used:** NIV\n\nThe God who is holy and loving has a face. His name is Jesus. Everything in this study hangs on who he is, not only on what he can do for your week.\n\n## The passages (NIV)\n\n**John 1:1–4, 14**\n1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made. 4 In him was life, and that life was the light of all mankind.\n\n14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.\n\n**Colossians 1:15–20**\n15 The Son is the image of the invisible God, the firstborn over all creation. 16 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. 17 He is before all things, and in him all things hold together. 18 And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. 19 For God was pleased to have all his fullness dwell in him, 20 and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.\n\n**Hebrews 1:1–3**\n1 In the past God spoke to our ancestors through the prophets at many times and in various ways, 2 but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe. 3 The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word. After he had provided purification for sins, he sat down at the right hand of the Majesty in heaven.\n\n## What this is saying\n\nJesus is not only a teacher, a friend, or a helper for hard days — though he is a friend. He is the Word who was with God and was God. He became flesh. He holds all things together. He made peace by his blood. After he provided purification for sins, he sat down. The work is finished.\n\nThat means a woman’s hope is not first in a husband, a child, a ministry, or her own grit. Your hope is a Person who is God with us, and who has already dealt with sin.\n\nElisabeth Elliot, whose life and teaching John Piper has long recommended, prayed to be a woman who received from God whatever he chose to give. Piper quotes her: “We are women, and my plea is Let me be a woman, holy through and through, asking for nothing but what God wants to give me, receiving with both hands and with all my heart whatever that is.” ([Peaches in Paradise](https://www.desiringgod.org/articles/peaches-in-paradise)) The first gift God gives is his Son. Receive him with both hands.\n\n## Go deeper\n\n- [John 1:1–14 (NIV)](https://www.biblegateway.com/passage/?search=John+1%3A1-14&version=NIV)\n- [John Piper on Elisabeth Elliot](https://www.desiringgod.org/articles/peaches-in-paradise)\n\n## How this applies\n\nWhen you are tempted to treat Jesus as one resource among many, come back to these texts. He is the center. Every other gift in your life is held together by him.\n\n## Reflection\n\nIn what part of your life have you been asking Jesus only to help, rather than to be Lord? What would it look like to receive him with both hands today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "John 1:1–14 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A1-14&version=NIV"
+        },
+        {
+          "label": "John Piper, “Peaches in Paradise: The Joy of Christian Womanhood” (on Elisabeth Elliot)",
+          "url": "https://www.desiringgod.org/articles/peaches-in-paradise"
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "number": 4,
+      "date": "2026-11-03",
+      "title": "Sin and Forgiveness, Walking in the Light",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "1 John 1:5–9",
+        "Psalm 51:1–12",
+        "Romans 3:23–24"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Sin and Forgiveness, Walking in the Light\n\n**Date:** Tuesday, November 3, 2026\n**Scripture:** 1 John 1:5–9; Psalm 51:1–12; Romans 3:23–24\n**Translation used:** NIV\n\nGrace does not pretend you are fine. It brings you into the light, where sin is named and forgiven.\n\n## The passages (NIV)\n\n**1 John 1:5–9**\n5 This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all. 6 If we claim to have fellowship with him and yet walk in the darkness, we lie and do not live out the truth. 7 But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin. 8 If we claim to be without sin, we deceive ourselves and the truth is not in us. 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.\n\n**Psalm 51:1–2, 10**\n1 Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. 2 Wash away all my iniquity and cleanse me from my sin.\n\n10 Create in me a pure heart, O God, and renew a steadfast spirit within me.\n\n**Romans 3:23–24**\n23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus.\n\n## What this is saying\n\nThere is no special women’s sin and men’s sin at the root. “All have sinned.” A woman’s temptations may often run toward comparison, control, people-pleasing, bitterness, or hidden impurity, just as a man’s may run toward pride, lust, or passivity — but the problem is the same: we fall short of God’s glory. Hiding it is the darkness. Confessing it is the way into fellowship.\n\nForgiveness is not God waving a feeling over you. It is God being “faithful and just.” The blood of Jesus really purifies. You can tell the truth without being crushed, because the cross has already told the truth about your sin and paid for it.\n\n## Go deeper\n\n- [1 John 1:5–9 (NIV)](https://www.biblegateway.com/passage/?search=1+John+1%3A5-9&version=NIV)\n- [Psalm 51 (NIV)](https://www.biblegateway.com/passage/?search=Psalm+51&version=NIV)\n\n## How this applies\n\nIs there something you have been managing in the dark — a resentment, a habit, a hidden screen, a story you tell yourself about someone? Bring it into the light with God, and, where it is wise, with a trusted sister or with your husband.\n\n## Reflection\n\nWhat would walking in the light look like for you this week — not later, and not in general, but with one honest confession?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 John 1:5–9 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+John+1%3A5-9&version=NIV"
+        },
+        {
+          "label": "Psalm 51:1–12 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+51%3A1-12&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "number": 5,
+      "date": "2026-11-04",
+      "title": "Faith and Repentance, Coming Home to the Father",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "Luke 15:11–24",
+        "Mark 1:14–15",
+        "Acts 3:19"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Faith and Repentance, Coming Home to the Father\n\n**Date:** Wednesday, November 4, 2026\n**Scripture:** Luke 15:11–24; Mark 1:14–15; Acts 3:19\n**Translation used:** NIV\n\nFaith is not a vague optimism. It is coming home. Repentance is the turn that faith takes when it believes the Father is good.\n\n## The passages (NIV)\n\n**Mark 1:14–15**\n14 After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. 15 “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”\n\n**Acts 3:19**\n19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord.\n\n**Luke 15:20–24**\n20 So he got up and went to his father. But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 The son said to him, “Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.” 22 But the father said to his servants, “Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.” So they began to celebrate.\n\n## What this is saying\n\nJesus joins two words that some of us pull apart: repent and believe. Repentance is not self-hatred. It is turning around. Faith is not a feeling you try to inflate. It is trusting the good news enough to come home.\n\nThe father in Jesus’ story runs. He does not make the child earn the porch. If you have wandered — in obvious ways or in quiet, respectable ones — the way back is the same. Get up and go to your Father. He is not waiting to shame you. He is waiting to embrace you.\n\n## Go deeper\n\n- [Luke 15:11–32 (NIV)](https://www.biblegateway.com/passage/?search=Luke+15%3A11-32&version=NIV)\n\n## How this applies\n\nComing home may mean a first turning to Christ, or it may mean a fresh turning in a place you have been managing on your own. Either way, the Father’s welcome is the same.\n\n## Reflection\n\nWhere do you need to get up and go to the Father today? What keeps you standing a long way off?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Luke 15:11–24 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+15%3A11-24&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "number": 6,
+      "date": "2026-11-05",
+      "title": "The Holy Spirit, the Helper Who Stays With You",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "John 14:16–26",
+        "Galatians 5:22–25",
+        "Romans 8:14–16"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The Holy Spirit, the Helper Who Stays With You\n\n**Date:** Thursday, November 5, 2026\n**Scripture:** John 14:16–26; Galatians 5:22–25; Romans 8:14–16\n**Translation used:** NIV\n\nYou are not asked to live the Christian life as a solo project. Jesus promised another Helper, the Spirit of truth, who stays with you.\n\n## The passages (NIV)\n\n**John 14:16–17, 26**\n16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.\n\n26 But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.\n\n**Galatians 5:22–25**\n22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law. 24 Those who belong to Christ Jesus have crucified the flesh with its passions and desires. 25 Since we live by the Spirit, let us keep in step with the Spirit.\n\n**Romans 8:14–16**\n14 For those who are led by the Spirit of God are the children of God. 15 The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.” 16 The Spirit himself testifies with our spirit that we are God’s children.\n\n## What this is saying\n\nThe Spirit is not a mood or a force. He is a Person — the Helper who teaches, reminds, leads, and bears fruit in you. Adoption is his gift. He teaches your heart to say “Abba, Father,” which is as true for a daughter as it is for a son.\n\nThe fruit in Galatians 5 is not a personality type. A quiet woman and a strong, entrepreneurial woman can both keep in step with the Spirit. Love, patience, faithfulness, and self-control are his work in you, including in hidden work at home.\n\nPriscilla Shirer has spent much of her public teaching helping women take the Holy Spirit seriously as a Person who lives in them and who is enough for ordinary obedience. Her Going Beyond ministry, tied to the Evans family, keeps coming back to that: you are not left on your own to produce a holy life.\n\n## Go deeper\n\n- [John 14 (NIV)](https://www.biblegateway.com/passage/?search=John+14&version=NIV)\n- [Going Beyond Ministries](https://goingbeyond.com/ministry/)\n\n## How this applies\n\nYou do not have to manufacture fruit. Ask the Spirit to lead you in the next conversation, the next task, the next temptation. Keep in step, one ordinary hour at a time.\n\n## Reflection\n\nWhere have you been trying to produce fruit in your own strength? What would it look like to ask the Helper to lead you there today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "John 14:16–26 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+14%3A16-26&version=NIV"
+        },
+        {
+          "label": "Priscilla Shirer, Going Beyond Ministries",
+          "url": "https://goingbeyond.com/ministry/"
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "number": 7,
+      "date": "2026-11-06",
+      "title": "Prayer, Talking With Your Father",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "Matthew 6:5–13",
+        "Philippians 4:6–7",
+        "James 5:16"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Prayer, Talking With Your Father\n\n**Date:** Friday, November 6, 2026\n**Scripture:** Matthew 6:5–13; Philippians 4:6–7; James 5:16\n**Translation used:** NIV\n\nPrayer is not a performance and it is not a last resort. It is a daughter talking with her Father.\n\n## The passages (NIV)\n\n**Matthew 6:6–13**\n6 But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. 7 And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words. 8 Do not be like them, for your Father knows what you need before you ask him.\n\n9 “This, then, is how you should pray: ‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’”\n\n**Philippians 4:6–7**\n6 Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.\n\n**James 5:16**\n16 Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\n\n## What this is saying\n\nJesus teaches a hidden life of prayer. Your Father already knows what you need. You still ask, because prayer is relationship, not information. You hallow his name, seek his kingdom, ask for daily bread, confess, forgive, and ask for deliverance.\n\nAnxiety is not solved by more circling thoughts. It is brought to God “in every situation,” with thanksgiving. His peace then guards you.\n\nPriscilla Shirer’s book *Fervent* (Moody Publishers) calls women to targeted, urgent, Scripture-shaped prayer — not as a way to impress God, but as a way to fight for their families and their own hearts. We paraphrase her emphasis here rather than force a sentence we could not verify word-for-word on a public page: prayer is a real work, and it is effective because God is faithful, not because you found the perfect wording. Anne Graham Lotz, in the same way, keeps pointing people back to God’s unchanging Word as the place you stand when you pray ([The Power of Our Example](https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/)).\n\n## Go deeper\n\n- [Matthew 6:5–13 (NIV)](https://www.biblegateway.com/passage/?search=Matthew+6%3A5-13&version=NIV)\n- [Fervent, Moody Publishers](https://www.moodypublishers.com/fervent/)\n\n## How this applies\n\nYou do not need a long, public prayer life to begin. Close the door. Use Jesus’ words if your own feel thin. Pray for your people by name.\n\n## Reflection\n\nWhat anxiety or person will you actually bring to the Father today, in secret, with thanksgiving?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Matthew 6:5–13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+6%3A5-13&version=NIV"
+        },
+        {
+          "label": "Priscilla Shirer, Fervent (Moody Publishers)",
+          "url": "https://www.moodypublishers.com/fervent/"
+        },
+        {
+          "label": "Anne Graham Lotz, “The Power of Our Example”",
+          "url": "https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/"
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "number": 8,
+      "date": "2026-11-07",
+      "title": "Reading Scripture — God-breathed words that equip you",
+      "track": "foundations-women",
+      "audience": "woman",
+      "passages": [
+        "2 Timothy 3:14–17",
+        "Psalm 19:7–11",
+        "Psalm 119:105"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Reading Scripture — God-breathed words that equip you\n\n**Date:** Saturday, November 7, 2026\n**Scripture:** 2 Timothy 3:14–17; Psalm 19:7–11; Psalm 119:105\n**Translation used:** NIV\n\nGod has not left you to guess. He has spoken, and his words are enough to make you wise for salvation and equipped for every good work — including the hidden ones.\n\n## The passages (NIV)\n\n**2 Timothy 3:14–17**\n14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, 15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work.\n\n**Psalm 19:7–11**\n7 The law of the Lord is perfect, refreshing the soul. The statutes of the Lord are trustworthy, making wise the simple. 8 The precepts of the Lord are right, giving joy to the heart. The commands of the Lord are radiant, giving light to the eyes. 9 The fear of the Lord is pure, enduring forever. The decrees of the Lord are firm, and all of them are righteous. 10 They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the honeycomb. 11 By them your servant is warned; in keeping them there is great reward.\n\n**Psalm 119:105**\n105 Your word is a lamp for my feet, a light on my path.\n\n## What this is saying\n\nTimothy learned the Scriptures from infancy, and Paul names the people who taught him — which, in his case, included his mother and grandmother (2 Timothy 1:5). A woman’s voice, teaching the Bible in the home, is not small. The same God-breathed Word that saves also trains.\n\nYou do not have to be a scholar to begin. Read a short passage slowly. Ask what it says about God, about you, and about the next step of obedience. Let it rebuke and correct you, not only comfort you.\n\nAnne Graham Lotz writes, “God’s Word doesn’t change. And you can build your life on it knowing that God’s Word works.” She also recalls the inscription her mother, Ruth Bell Graham, wrote in a Bible: “Read it, study it, love it, live it.” ([The Power of Our Example](https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/)) That is a whole life’s plan in one line.\n\n## Go deeper\n\n- [2 Timothy 3:14–17 (NIV)](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A14-17&version=NIV)\n- [Anne Graham Lotz, “The Power of Our Example”](https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/)\n\n## How this applies\n\nSet a small, steady time with an open Bible — even if it is short, and even if a child interrupts it. The aim is not a perfect routine. The aim is to keep coming to God-breathed words.\n\n## Reflection\n\nWhat would “read it, study it, love it, live it” look like in your actual week, not in an ideal one?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "2 Timothy 3:14–17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=2+Timothy+3%3A14-17&version=NIV"
+        },
+        {
+          "label": "Anne Graham Lotz, “The Power of Our Example” (includes Ruth Bell Graham’s Bible inscription)",
+          "url": "https://annegrahamlotz.org/2021/05/06/the-power-of-our-example/"
+        }
+      ]
+    },
+    {
+      "id": "w9",
+      "number": 9,
+      "date": "2026-11-08",
+      "title": "The Church, a Family That's Devoted Together",
+      "track": "church-practices-women",
+      "audience": "woman",
+      "passages": [
+        "Acts 2:42–47",
+        "Hebrews 10:23–25",
+        "Romans 12:4–13"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The Church, a Family That's Devoted Together\n\n**Date:** Sunday, November 8, 2026\n**Scripture:** Acts 2:42–47; Hebrews 10:23–25; Romans 12:4–13\n**Translation used:** NIV\n\nYou were not saved to walk alone. God places daughters in a family called the church.\n\n## The passages (NIV)\n\n**Acts 2:42–47**\n42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.\n\n**Hebrews 10:23–25**\n23 Let us hold unswervingly to the hope we profess, for he who promised is faithful. 24 And let us consider how we may spur one another on toward love and good deeds, 25 not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.\n\n**Romans 12:9–13**\n9 Love must be sincere. Hate what is evil; cling to what is good. 10 Be devoted to one another in love. Honor one another above yourselves. 11 Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. 12 Be joyful in hope, patient in affliction, faithful in prayer. 13 Share with the Lord’s people who are in need. Practice hospitality.\n\n## What this is saying\n\nThe first church was devoted: to the Word, to one another, to the table, and to prayer. That devotion is not less than a Sunday gathering, and it is more than a Sunday gathering. Homes matter. Hospitality matters. Older women teaching younger women (Titus 2) happens in this family, not in isolation.\n\nHebrews is honest that some form the habit of staying away. The call is to keep meeting, and to consider how you can stir others up. You are not only a consumer of ministry. You are a sister who can encourage, feed, visit, and pray.\n\n## Go deeper\n\n- [Acts 2:42–47 (NIV)](https://www.biblegateway.com/passage/?search=Acts+2%3A42-47&version=NIV)\n- [Hebrews 10:23–25 (NIV)](https://www.biblegateway.com/passage/?search=Hebrews+10%3A23-25&version=NIV)\n\n## How this applies\n\nBelong to a local church. Be present. Practice one concrete form of devotion this week — a meal, a message, a prayer, a visit — that helps another believer hold fast.\n\n## Reflection\n\nWhere have you been tempted to treat church as optional? Who can you spur on toward love and good deeds this week?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Acts 2:42–47 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Acts+2%3A42-47&version=NIV"
+        },
+        {
+          "label": "Hebrews 10:23–25 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A23-25&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "number": 10,
+      "date": "2026-11-09",
+      "title": "Godly Womanhood, Strength and a Quiet Trust",
+      "track": "woman-wife-mother",
+      "audience": "woman",
+      "passages": [
+        "Proverbs 31:10–31",
+        "Titus 2:3–5",
+        "1 Peter 3:1–6"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Godly Womanhood, Strength and a Quiet Trust\n\n**Date:** Monday, November 9, 2026\n**Scripture:** Proverbs 31:10–31; Titus 2:3–5; 1 Peter 3:1–6\n**Translation used:** NIV\n\nGodly womanhood is not fragility, and it is not a copy of manhood. It is strength under God, a holy trust, and a life that does good.\n\n## The passages (NIV)\n\n**Proverbs 31:10–12, 25–31**\n10 A wife of noble character who can find? She is worth far more than rubies. 11 Her husband has full confidence in her and lacks nothing of value. 12 She brings him good, not harm, all the days of her life.\n\n25 She is clothed with strength and dignity; she can laugh at the days to come. 26 She speaks with wisdom, and faithful instruction is on her tongue. 27 She watches over the affairs of her household and does not eat the bread of idleness. 28 Her children arise and call her blessed; her husband also, and he praises her: 29 “Many women do noble things, but you surpass them all.” 30 Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised. 31 Honor her for all that her hands have done, and let her works bring her praise at the city gate.\n\n**Titus 2:3–5**\n3 Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good. 4 Then they can urge the younger women to love their husbands and children, 5 to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.\n\n**1 Peter 3:1–6**\n1 Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, 2 when they see the purity and reverence of your lives. 3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. 5 For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, 6 like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear.\n\n## What this is saying\n\nProverbs 31 is not a checklist for crushing yourself. It is a portrait of a woman who fears the Lord: strong, wise, industrious, generous, and a blessing to her household. Charm and beauty are not the measure. The fear of the Lord is.\n\nTitus 2 gives the church a beautiful pattern: older women, living reverent lives, teaching what is good to younger women — love, self-control, purity, kindness, and a well-ordered home. This is not a slight. It is discipleship, woman to woman.\n\n1 Peter 3 speaks of a gentle and quiet spirit. That is not silence or smallness. It is a settled hope in God that does not give way to fear. Sarah is named as a daughter-line for women who do what is right.\n\nThis is the complementarian vision taught at Grace Life and in the stream of pastors such as John Piper and Tony Evans: men and women are equal in dignity, and they are not interchangeable in every calling. A woman’s holy strength often looks like helping, nurturing, teaching what is good, and, in marriage, a glad, intelligent submission to her own husband’s servant leadership. That teaching is offered here with respect, not as a weapon.\n\nElisabeth Elliot, recommended by Piper, said: “We are women, and my plea is Let me be a woman, holy through and through, asking for nothing but what God wants to give me, receiving with both hands and with all my heart whatever that is.” ([Peaches in Paradise](https://www.desiringgod.org/articles/peaches-in-paradise)) Nancy DeMoss Wolgemuth, summarizing the True Woman Manifesto, has taught: “When we respond humbly to the male leadership in our homes and our churches, we demonstrate a noble submission to authority that reflects Christ’s submission to God His Father.” ([Revive Our Hearts](https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/)) Submission in Scripture is never a call to follow a husband into sin, and it is never an excuse for a man to be harsh.\n\n## Go deeper\n\n- [Proverbs 31:10–31 (NIV)](https://www.biblegateway.com/passage/?search=Proverbs+31%3A10-31&version=NIV)\n- [Elisabeth Elliot, quoted by John Piper](https://www.desiringgod.org/articles/peaches-in-paradise)\n- [Nancy DeMoss Wolgemuth on submission](https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/)\n\n## How this applies\n\nAsk God to make you a woman, holy through and through — strong and gentle, useful and unhurried in your fear of the Lord. If you are younger, seek an older woman who can teach what is good. If you are older, do not bury that calling.\n\n## Reflection\n\nWhere is God asking you to receive being a woman as a gift — with both hands — rather than resenting it, hiding it, or turning it into a performance?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Proverbs 31:10–31 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbs+31%3A10-31&version=NIV"
+        },
+        {
+          "label": "Titus 2:3–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Titus+2%3A3-5&version=NIV"
+        },
+        {
+          "label": "1 Peter 3:1–6 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A1-6&version=NIV"
+        },
+        {
+          "label": "Elisabeth Elliot, quoted by John Piper in “Peaches in Paradise”",
+          "url": "https://www.desiringgod.org/articles/peaches-in-paradise"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth / True Woman Manifesto, discussed on Revive Our Hearts",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/"
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "number": 11,
+      "date": "2026-11-10",
+      "title": "Marriage, respecting and helping your husband as the church does Christ",
+      "track": "woman-wife-mother",
+      "audience": "woman",
+      "passages": [
+        "Ephesians 5:21–33",
+        "Proverbs 31:11–12"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Marriage, respecting and helping your husband as the church does Christ\n\n**Date:** Tuesday, November 10, 2026\n**Scripture:** Ephesians 5:21–33\n**Translation used:** NIV\n\nChristian marriage is not a contest for control. It is a living picture of Christ and the church. This lesson looks at that picture from the wife’s side.\n\n## The passage (NIV)\n\n**Ephesians 5:21–33**\n21 Submit to one another out of reverence for Christ.\n\n22 Wives, submit yourselves to your own husbands as you do to the Lord. 23 For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. 24 Now as the church submits to Christ, so also wives should submit to their husbands in everything.\n\n25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. 28 In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. 29 After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— 30 for we are members of his body. 31 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” 32 This is a profound mystery—but I am talking about Christ and the church. 33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n## What this is saying\n\nVerse 21 sets the tone: both husband and wife submit to one another out of reverence for Christ. Then Paul gives each a particular call. The husband’s is costly love. The wife’s is respectful submission to her own husband, “as the church submits to Christ.”\n\nThis is not the erasure of a wife’s mind, gifts, or voice. A Proverbs 31 wife has her husband’s full confidence. She does him good, not harm, all the days of her life. Helping him is strong, intelligent work. Respect is not flattery. It is honoring the office God has given him and making it easier, not harder, for him to lead in love.\n\nRuth Bell Graham, who shared a long marriage with Billy Graham, is remembered for this line: “A happy marriage is the union of two good forgivers.” ([Billy Graham Library](https://billygrahamlibrary.org/what-makes-a-marriage-work/)) Forgiveness will matter as much as any skill. Nancy DeMoss Wolgemuth has taught that a wife’s humble response to godly leadership “reflects Christ’s submission to God His Father.” ([Revive Our Hearts](https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/))\n\nA hard but needed word: this passage is never a covering for abuse, and it never asks a wife to sin. If you are in danger, get safe help. A husband’s headship is patterned on Christ the Savior, who gave himself up — not on a man who uses his wife.\n\n## Go deeper\n\n- [Ephesians 5:21–33 (NIV)](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV)\n- [“What Makes a Marriage Work?”](https://billygrahamlibrary.org/what-makes-a-marriage-work/)\n\n## How this applies\n\nAsk, “What would do my husband good today? What would respect look like in our actual conversations?” If you need to forgive, or to ask forgiveness, do not wait for a perfect mood.\n\n## Reflection\n\nWhere can you offer your husband respect and help this week in a way that is honest, specific, and free of bitterness?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Ephesians 5:21–33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV"
+        },
+        {
+          "label": "Billy Graham Library, “What Makes a Marriage Work?” (Ruth Bell Graham)",
+          "url": "https://billygrahamlibrary.org/what-makes-a-marriage-work/"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth on submission, Revive Our Hearts",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/"
+        }
+      ]
+    },
+    {
+      "id": "w12",
+      "number": 12,
+      "date": "2026-11-11",
+      "title": "Motherhood: passing faith on at home",
+      "track": "woman-wife-mother",
+      "audience": "woman",
+      "passages": [
+        "2 Timothy 1:5",
+        "Deuteronomy 6:4–9",
+        "Psalm 127:3–5",
+        "Proverbs 31:26–28"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Motherhood: passing faith on at home\n\n**Date:** Wednesday, November 11, 2026\n**Scripture:** 2 Timothy 1:5; Deuteronomy 6:4–9; Psalm 127:3–5; Proverbs 31:26–28\n**Translation used:** NIV\n\nIf God has given you children, the home is one of the first places faith is either passed on or quietly neglected. Motherhood is not a side story in the kingdom of God.\n\n## The passages (NIV)\n\n**2 Timothy 1:5**\n5 I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.\n\n**Deuteronomy 6:4–9**\n4 Hear, O Israel: The Lord our God, the Lord is one. 5 Love the Lord your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n**Psalm 127:3–5**\n3 Children are a heritage from the Lord, offspring a reward from him. 4 Like arrows in the hands of a warrior are children born in one’s youth. 5 Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court.\n\n**Proverbs 31:26–28**\n26 She speaks with wisdom, and faithful instruction is on her tongue. 27 She watches over the affairs of her household and does not eat the bread of idleness. 28 Her children arise and call her blessed; her husband also, and he praises her.\n\n## What this is saying\n\nTimothy’s sincere faith first lived in a grandmother and a mother. God often uses a woman’s ordinary, repeated words to plant a life of faith. Deuteronomy 6 is not a once-a-week lesson only. It is talk at the table, on the road, at bedtime, in the morning. The commands must be on your heart first, or they will not be impressed on your children.\n\nChildren are a heritage, not an interruption. That does not mean the days are easy. It means the work has weight.\n\nGloria Furman, writing for Desiring God, said: “Because motherhood is missional, there’s something of eternal value taking place in the realm of the unseen.” ([Missional Motherhood](https://www.desiringgod.org/articles/missional-motherhood)) The unseen hours count.\n\nLois Evans, Tony Evans’s late wife and ministry partner, spent decades investing in family and in women; we are not attaching a quote to her name here, because we could not verify one on a public page with enough certainty. Her life still stands as a testimony that a woman’s partnership in the gospel and in the home can bear fruit for generations. You can read a remembrance of her work at [tonyevans.org/lois-evans](https://tonyevans.org/lois-evans/).\n\n## Go deeper\n\n- [2 Timothy 1:3–7 (NIV)](https://www.biblegateway.com/passage/?search=2+Timothy+1%3A3-7&version=NIV)\n- [Gloria Furman, “Missional Motherhood”](https://www.desiringgod.org/articles/missional-motherhood)\n- [Lois Evans](https://tonyevans.org/lois-evans/)\n\n## How this applies\n\nYou do not have to turn every hour into a formal lesson. Put the Word on your own heart, then talk about it as you go. One sincere conversation, one prayer at bedtime, one apology to a child, is real ministry.\n\n## Reflection\n\nWhat unseen, missional moment is in front of you today with your child — and how will you meet it with the Word on your heart?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "2 Timothy 1:5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=2+Timothy+1%3A5&version=NIV"
+        },
+        {
+          "label": "Gloria Furman, “Missional Motherhood,” Desiring God",
+          "url": "https://www.desiringgod.org/articles/missional-motherhood"
+        },
+        {
+          "label": "Lois Evans, ministry remembrance",
+          "url": "https://tonyevans.org/lois-evans/"
+        }
+      ]
+    },
+    {
+      "id": "w13",
+      "number": 13,
+      "date": "2026-11-12",
+      "title": "Baptism, buried with Christ and raised to walk in new life",
+      "track": "church-practices-women",
+      "audience": "woman",
+      "passages": [
+        "Matthew 28:18–20",
+        "Romans 6:3–4",
+        "Acts 2:38–41"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Baptism, buried with Christ and raised to walk in new life\n\n**Date:** Thursday, November 12, 2026\n**Scripture:** Matthew 28:18–20; Romans 6:3–4; Acts 2:38–41\n**Translation used:** NIV\n\nBaptism is not a style of church or a family tradition only. It is the public sign that you have died with Christ and been raised to walk in new life.\n\n## The passages (NIV)\n\n**Matthew 28:18–20**\n18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”\n\n**Romans 6:3–4**\n3 Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death? 4 We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.\n\n**Acts 2:38–41**\n38 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit. 39 The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.” 40 With many other words he warned them; and he pleaded with them, “Save yourselves from this corrupt generation.” 41 Those who accepted his message were baptized, and about three thousand were added to their number that day.\n\n## What this is saying\n\nJesus commands baptism as part of making disciples. It is in the name of the Father, the Son, and the Holy Spirit. Romans 6 explains the meaning: burial with Christ, and a raised life. The old life is not just improved. It is left in the tomb, and you walk out in newness.\n\nChurches differ on the timing and mode of baptism — some baptize believing adults and older children, some also baptize the infants of believers as a sign of the covenant. This lesson does not pretend those differences are small, and it does not treat sisters in either practice as outsiders. What must not be lost is the gospel the sign points to: repentance, faith, forgiveness, and a new walk.\n\nIf you have trusted Christ and have not been baptized, this is a clear next step of obedience. If you have been baptized, remember what it meant. You do not live as if the old life still owns you.\n\n## Go deeper\n\n- [Romans 6:1–14 (NIV)](https://www.biblegateway.com/passage/?search=Romans+6%3A1-14&version=NIV)\n- [Matthew 28:16–20 (NIV)](https://www.biblegateway.com/passage/?search=Matthew+28%3A16-20&version=NIV)\n\n## How this applies\n\nRemember your baptism, or take the step if you have delayed it. Walk today as a woman who has already been raised with Christ.\n\n## Reflection\n\nWhat would “walking in new life” look like in one concrete place where you are still living as if the old life were in charge?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Romans 6:3–4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+6%3A3-4&version=NIV"
+        },
+        {
+          "label": "Matthew 28:18–20 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "b1",
+      "number": 1,
+      "date": null,
+      "title": "How the Bible is organized",
+      "track": "books-of-the-bible",
+      "audience": "all",
+      "passages": [
+        "Luke 24:27",
+        "2 Timothy 3:16"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# How the Bible is organized\n\n**Scripture:** Luke 24:27; 2 Timothy 3:16\n**Translation used:** NIV\n\nThe Bible is one book, and it is a library. It has 66 books, written by many human authors over many centuries, and one divine Author who breathes out all of it.\n\n## The passages (NIV)\n\n**Luke 24:27**\n27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.\n\n**2 Timothy 3:16**\n16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.\n\n## The big map\n\nThe **Old Testament** (39 books) tells of creation, the fall, God’s promises to Israel, and the long wait for the Messiah. It is often grouped this way:\n\n- **Law** (5): Genesis–Deuteronomy\n- **History** (12): Joshua–Esther\n- **Poetry and Wisdom** (5): Job–Song of Songs\n- **Major Prophets** (5): Isaiah–Daniel\n- **Minor Prophets** (12): Hosea–Malachi (“minor” means shorter, not less important)\n\nThe **New Testament** (27 books) tells of Jesus, the beginning of the church, and the hope of his return:\n\n- **Gospels** (4): Matthew, Mark, Luke, John\n- **History** (1): Acts\n- **Paul’s Letters** (13): Romans–Philemon\n- **General Letters** (8): Hebrews–Jude\n- **Prophecy** (1): Revelation\n\nThis app includes a card for each of the 66 books — author, date, theme, a key verse, and how the book points to Christ. Use this lesson as the map, then browse the reference whenever you need it.\n\nJesus read the Old Testament as a book about himself. That is how you should read it too: not as a random stack of sayings, but as one story that leads to Christ.\n\n## Go deeper\n\n- Open the **Books of the Bible** reference in this Grown-ups section.\n- [Luke 24:13–35 (NIV)](https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NIV)\n\n## Reflection\n\nWhen you open your Bible this week, can you name which section you are in, and how that book might point to Jesus?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Luke 24:27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+24%3A27&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "number": 2,
+      "date": null,
+      "title": "The big storyline: creation to new creation",
+      "track": "books-of-the-bible",
+      "audience": "all",
+      "passages": [
+        "Genesis 1:1",
+        "Genesis 3:15",
+        "Galatians 4:4–5",
+        "Revelation 21:1–5"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The big storyline: creation to new creation\n\n**Scripture:** Genesis 1:1; Genesis 3:15; Galatians 4:4–5; Revelation 21:1–5\n**Translation used:** NIV\n\nIf you only read the Bible in fragments, you can miss the story. Here is the spine that holds the 66 books together.\n\n## The passages (NIV)\n\n**Genesis 1:1**\n1 In the beginning God created the heavens and the earth.\n\n**Genesis 3:15**\n15 “And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.”\n\n**Galatians 4:4–5**\n4 But when the set time had fully come, God sent his Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive adoption to sonship.\n\n**Revelation 21:1, 3–5**\n1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea.\n\n3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!”\n\n## The six movements\n\n1. **Creation.** God makes a good world and makes people in his image, to know him and care for his world.\n2. **Fall.** Human sin breaks fellowship with God. Death and sorrow enter. God already promises an offspring who will crush the serpent.\n3. **Israel.** God chooses Abraham, forms a people, gives the law, the land, the kings, and the prophets. They keep failing, and God keeps promising a faithful King and a new covenant.\n4. **Christ.** In the fullness of time, God sends his Son. Jesus lives the faithful life Israel (and we) did not live, dies for sin, and rises.\n5. **Church.** The risen Christ pours out the Spirit and gathers a people from all nations to witness until he comes.\n6. **New creation.** Jesus will return. God will wipe away every tear and dwell with his people forever.\n\nEvery book you read sits somewhere on this line. Ask, “Where am I in the story, and what does this show me about the God who finishes what he started?”\n\n## Reflection\n\nWhere do you usually live in this story — stuck at the fall, busy in the church age, or forgetful of the ending? How does the whole line steady you today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Revelation 21:1–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A1-5&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "number": 3,
+      "date": null,
+      "title": "The covenants: God’s binding promises",
+      "track": "books-of-the-bible",
+      "audience": "all",
+      "passages": [
+        "Genesis 12:1–3",
+        "Exodus 19:4–6",
+        "2 Samuel 7:12–16",
+        "Jeremiah 31:31–34",
+        "Luke 22:20"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The covenants: God’s binding promises\n\n**Scripture:** Genesis 12:1–3; Exodus 19:4–6; 2 Samuel 7:12–16; Jeremiah 31:31–34; Luke 22:20\n**Translation used:** NIV\n\nA covenant is a solemn, binding promise. The Bible’s story is held together by the covenants God makes — and keeps.\n\n## The passages (NIV)\n\n**Genesis 12:2–3**\n2 “I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. 3 I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.”\n\n**Exodus 19:5–6**\n5 “Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession. Although the whole earth is mine, 6 you will be for me a kingdom of priests and a holy nation.”\n\n**2 Samuel 7:16**\n16 “Your house and your kingdom will endure forever before me; your throne will be established forever.”\n\n**Jeremiah 31:33–34**\n33 “This is the covenant I will make with the people of Israel after that time,” declares the Lord. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people. 34 … For I will forgive their wickedness and will remember their sins no more.”\n\n**Luke 22:20**\n20 In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.”\n\n## A simple map of the covenants\n\nChristians describe the covenants with slightly different outlines, but these are the main ones most evangelical teachers trace:\n\n- **Noah** (Genesis 9): God preserves the world; the rainbow is the sign.\n- **Abraham** (Genesis 12, 15, 17): land, offspring, and blessing for the nations; circumcision is the sign.\n- **Sinai / Moses** (Exodus 19–24): God makes Israel his treasured people and gives the law.\n- **David** (2 Samuel 7): an everlasting throne in David’s line.\n- **The new covenant** (Jeremiah 31; Luke 22): forgiven hearts, the Spirit, and God’s law written within — sealed in Jesus’ blood.\n\nThere is also the first promise in the garden, sometimes called the covenant of grace already breaking in: the offspring will crush the serpent (Genesis 3:15). All of these roads run toward Christ. He is Abraham’s offspring, the true Israelite, the Son of David, and the mediator of the new covenant.\n\n## Reflection\n\nWhich of these promises do you most need to remember — that God preserves, that he blesses the nations, that he has a King, or that he forgives and writes his law on the heart?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Jeremiah 31:31–34 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "number": 4,
+      "date": null,
+      "title": "Reading the Bible by genre",
+      "track": "books-of-the-bible",
+      "audience": "all",
+      "passages": [
+        "Psalm 1:1–3",
+        "2 Peter 1:19–21"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Reading the Bible by genre\n\n**Scripture:** Psalm 1:1–3; 2 Peter 1:19–21\n**Translation used:** NIV\n\nAll Scripture is God-breathed, but it is not all the same kind of writing. You read a proverb differently than you read a gospel, and a psalm differently than a law.\n\n## The passages (NIV)\n\n**Psalm 1:1–3**\n1 Blessed is the one who does not walk in step with the wicked or stand in the way that sinners take or sit in the company of mockers, 2 but whose delight is in the law of the Lord, and who meditates on his law day and night. 3 That person is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither—whatever they do prospers.\n\n**2 Peter 1:20–21**\n20 Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation of things. 21 For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit.\n\n## A short reading guide\n\n- **Narrative** (Genesis, the Gospels, Acts): Ask what happened, what it shows about God, and how it fits the big story. Do not treat every action as a command for you.\n- **Law**: See God’s holiness, Israel’s life as his people, and the need for a Savior. Christ fulfills the law; he does not toss it aside.\n- **Poetry and Psalms**: Pray them. Let metaphors work as metaphors. The psalms give you words for joy, grief, repentance, and hope.\n- **Wisdom** (Proverbs, Ecclesiastes, Job): Proverbs are generally true, not mechanical promises. Job and Ecclesiastes wrestle when life is hard or empty.\n- **Prophecy**: Hear the original word to that people, the warnings and promises, and then how it is fulfilled in Christ — already, and not yet.\n- **Letters**: Read whole arguments, not only favorite verses. Note who is writing, and what the church needed.\n- **Apocalypse** (Revelation, parts of Daniel): These are visions full of images. They comfort suffering churches and tell the truth about Jesus’ victory. Do not treat every symbol like a newspaper code.\n\nMeditate. Read slowly. Scripture interprets Scripture. And always read with Christ at the center, because the Spirit who carried the prophets along is the Spirit who glorifies the Son.\n\n## Reflection\n\nWhich kind of writing do you usually avoid? What would it look like to read one short passage of that kind this week, patiently?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Psalm 1:1–3 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+1%3A1-3&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "e1",
+      "number": 1,
+      "date": null,
+      "title": "The Trinity: one God, three Persons",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "Deuteronomy 6:4",
+        "Matthew 3:16–17",
+        "Matthew 28:19",
+        "2 Corinthians 13:14"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The Trinity: one God, three Persons\n\n**Scripture:** Deuteronomy 6:4; Matthew 3:16–17; Matthew 28:19; 2 Corinthians 13:14\n**Translation used:** NIV\n\nChristians confess what Scripture teaches, even when it stretches the mind: there is one God, and the Father, the Son, and the Holy Spirit are each fully God.\n\n## The passages (NIV)\n\n**Deuteronomy 6:4**\n4 Hear, O Israel: The Lord our God, the Lord is one.\n\n**Matthew 3:16–17**\n16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”\n\n**Matthew 28:19**\n19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.\n\n**2 Corinthians 13:14**\n14 May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.\n\n## What this is saying\n\nThe Bible does not give a math puzzle. It gives a revelation. God is one. At Jesus’ baptism the Son is in the water, the Spirit descends, and the Father speaks. Disciples are baptized into one name — Father, Son, and Spirit. The church is blessed by all three.\n\nHistoric Christian teaching (which Grace Life and evangelical churches share with the wider church) says: there is one God in three Persons; each Person is fully God; the Persons are not three gods, and they are not one Person wearing three masks. We do not have to explain away the mystery. We worship.\n\nThis matters for prayer, for the gospel, and for everyday life. The Father sends the Son. The Son accomplishes redemption. The Spirit applies it and lives in you. You are invited into the love that was already there before the world began.\n\n## Reflection\n\nWhen you pray, do you remember you are speaking to the Father, through the Son, in the Spirit? How might that change the way you come to God today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Matthew 28:19 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "number": 2,
+      "date": null,
+      "title": "The gospel: the good news in full",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "1 Corinthians 15:1–4",
+        "Romans 3:21–26",
+        "Romans 10:9"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The gospel: the good news in full\n\n**Scripture:** 1 Corinthians 15:1–4; Romans 3:21–26; Romans 10:9\n**Translation used:** NIV\n\nThe gospel is not “try harder” or “be nicer.” It is news. God has done something in Jesus, and you are called to believe it.\n\n## The passages (NIV)\n\n**1 Corinthians 15:1–4**\n1 Now, brothers and sisters, I want to remind you of the gospel I preached to you, which you received and on which you have taken your stand. 2 By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain. 3 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, 4 that he was buried, that he was raised on the third day according to the Scriptures.\n\n**Romans 3:23–25**\n23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus. 25 God presented Christ as a sacrifice of atonement, through the shedding of his blood—to be received by faith.\n\n**Romans 10:9**\n9 If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.\n\n## What this is saying\n\nPaul says this is “of first importance”: Christ died for our sins, he was buried, and he was raised. The gospel names our sin, Christ’s substitution, and his victory over death. Justification is a gift — God declares the ungodly righteous through faith in Jesus, not through works.\n\nAtonement (the LSB and many teachers will also use the word *propitiation*) means Jesus really dealt with the wrath our sin deserved. That is not cruelty. It is mercy: God himself provides the sacrifice.\n\nThe right response is repentance and faith — to confess Jesus as Lord and to believe that God raised him. This is the same gospel for a parent, a child, a husband, a wife, a single adult. There is no second way in.\n\n## Reflection\n\nCould you tell this good news, in your own words, to someone in your family this week? Where do you still treat it as something you must add to?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Corinthians 15:1–4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-4&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "number": 3,
+      "date": null,
+      "title": "Law and grace",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "Romans 3:19–24",
+        "Romans 6:14–15",
+        "Galatians 3:24–26",
+        "Titus 2:11–12"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Law and grace\n\n**Scripture:** Romans 3:19–24; Romans 6:14–15; Galatians 3:24–26; Titus 2:11–12\n**Translation used:** NIV\n\nThe law is good, and it cannot save you. Grace saves you, and it does not leave you lawless.\n\n## The passages (NIV)\n\n**Romans 3:19–24**\n19 Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God. 20 Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin. 21 But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify. 22 This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus.\n\n**Romans 6:14–15**\n14 For sin shall no longer be your master, because you are not under the law, but under grace. 15 What then? Shall we sin because we are not under the law but under grace? By no means!\n\n**Galatians 3:24–26**\n24 So the law was our guardian until Christ came that we might be justified by faith. 25 Now that this faith has come, we are no longer under a guardian. 26 So in Christ Jesus you are all children of God through faith.\n\n**Titus 2:11–12**\n11 For the grace of God has appeared that offers salvation to all people. 12 It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age.\n\n## What this is saying\n\nThe law shows us God’s holiness and our sin. It is a guardian, a mirror, a good standard. It is not a ladder into God’s family. Righteousness is given through faith in Jesus.\n\n“Not under the law, but under grace” is not permission to sin. Grace is a teacher. It trains you to say no to ungodliness and yes to a self-controlled life. That includes how you treat a spouse, how you parent, how you handle your body, and how you speak.\n\nIf you are exhausted by religious performance, come under grace. If you are using grace as a cover for a habit you will not name, come under the same grace — the kind that teaches and changes you.\n\n## Reflection\n\nAre you more tempted to use the law as a ladder, or to use grace as a cover? What would it look like to let grace both pardon you and train you today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Titus 2:11–12 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Titus+2%3A11-12&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "e4",
+      "number": 4,
+      "date": null,
+      "title": "The covenants, in brief",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "Genesis 15:5–6",
+        "Jeremiah 31:31–34",
+        "Hebrews 8:6"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# The covenants, in brief\n\n**Scripture:** Genesis 15:5–6; Jeremiah 31:31–34; Hebrews 8:6\n**Translation used:** NIV\n\nThis short lesson sits beside the longer Books of the Bible lesson on the covenants. Here is the heart of it for everyday faith.\n\n## The passages (NIV)\n\n**Genesis 15:5–6**\n5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” 6 Abram believed the Lord, and he credited it to him as righteousness.\n\n**Jeremiah 31:33**\n33 “This is the covenant I will make with the people of Israel after that time,” declares the Lord. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.”\n\n**Hebrews 8:6**\n6 But in fact the ministry Jesus has received is as superior to theirs as the covenant of which he is mediator is superior to the old one, since the new covenant is established on better promises.\n\n## What this is saying\n\nGod relates to his people by promise, not by mood. Abraham is counted righteous by faith. The new covenant, promised through Jeremiah and made in Jesus’ blood, gives forgiven hearts and a new inner life. Jesus is the mediator of a better covenant.\n\nYou do not have to hold a whole academic chart in your head. You do need to know this: God keeps his word, and the center of that word is Christ.\n\n## Reflection\n\nWhere do you need to trust a promise of God more than your present feelings?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Hebrews 8:6 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+8%3A6&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "e5",
+      "number": 5,
+      "date": null,
+      "title": "How we got the Bible, and how translations work",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "2 Timothy 3:16–17",
+        "Nehemiah 8:8"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# How we got the Bible, and how translations work\n\n**Scripture:** 2 Timothy 3:16–17; Nehemiah 8:8\n**Translation used:** NIV\n\nThe Bible did not drop from the sky in English last year. God spoke through many writers, in Hebrew, Aramaic, and Greek. His people have copied, translated, and read those words ever since.\n\n## The passages (NIV)\n\n**2 Timothy 3:16–17**\n16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work.\n\n**Nehemiah 8:8**\n8 They read from the Book of the Law of God, making it clear and giving the meaning so that the people understood what was being read.\n\n## A short history\n\nThe Old Testament was written mainly in Hebrew (with some Aramaic). The New Testament was written in Greek. Faithful copyists preserved these texts with extraordinary care. We have a very strong manuscript tradition. When you hear about “variants,” remember that the vast majority are small, and no central doctrine hangs on a doubtful line.\n\nFrom early on, the church translated the Bible so ordinary people could understand it — into Latin, Syriac, Coptic, and, much later, into English through men like Wycliffe and Tyndale, then the King James Version, and many modern translations.\n\nThis study uses three translations Gregory asked us to stay with:\n\n- **NIV** (New International Version): a widely used “thought-for-thought” / mediating translation, clear for reading aloud and for study. The lessons quote the NIV in full.\n- **LSB** (Legacy Standard Bible): a more literal translation in the NASB tradition. It often uses “Yahweh” for God’s name and aims at word-level precision. We include LSB notes, not long LSB quotations.\n- **NLT** (New Living Translation): a clear, meaning-driven translation that can help a passage open up, especially for newer readers. We may point you there as a second reading, not as a replacement for the NIV text in the lesson.\n\nNo translation is itself inspired in the way the original words are. A good translation is a faithful witness. Read one main Bible steadily. Compare a second when a line is hard. And remember Nehemiah 8: the aim is that the people understand.\n\n## Reflection\n\nWhich Bible will you actually open this week? If a verse is hard, will you compare a second translation and ask for help rather than giving up?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "2 Timothy 3:16–17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV"
+        },
+        {
+          "label": "About the NIV",
+          "url": "https://www.thenivbible.com/"
+        },
+        {
+          "label": "Legacy Standard Bible",
+          "url": "https://lsbible.org/"
+        },
+        {
+          "label": "About the NLT",
+          "url": "https://www.tyndale.com/nlt/"
+        }
+      ]
+    },
+    {
+      "id": "e6",
+      "number": 6,
+      "date": null,
+      "title": "End times: what Christians agree on, and where they differ",
+      "track": "key-elements",
+      "audience": "all",
+      "passages": [
+        "John 14:1–3",
+        "1 Thessalonians 4:16–18",
+        "Revelation 21:1–5"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# End times: what Christians agree on, and where they differ\n\n**Scripture:** John 14:1–3; 1 Thessalonians 4:16–18; Revelation 21:1–5\n**Translation used:** NIV\n\nThe Bible is clear about the main things, and faithful Christians have not all agreed about the timetable. This lesson aims to be fair and calm, in the mainstream of evangelical teaching.\n\n## The passages (NIV)\n\n**John 14:1–3**\n1 “Do not let your hearts be troubled. You believe in God; believe also in me. 2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.”\n\n**1 Thessalonians 4:16–18**\n16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. 18 Therefore encourage one another with these words.\n\n**Revelation 21:3–5**\n3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!”\n\n## What almost all evangelical Christians agree on\n\n- Jesus will return, personally and visibly.\n- The dead will be raised.\n- There will be a final judgment.\n- God’s people will be with the Lord forever in a renewed creation.\n- No one knows the day or the hour; we are called to be ready, holy, and hopeful.\n\nThose are not small points. They are the hope of the church.\n\n## Where faithful readers differ\n\nChristians who love the same Bible differ on how to order some of the details:\n\n- **The millennium** (Revelation 20). *Premillennial* readers expect Christ to return before a future thousand-year reign. *Amillennial* readers see that reign as Christ’s present rule, with a final coming at the end. *Postmillennial* readers expect a future flourishing of the gospel before Christ returns. All three have been held by serious evangelicals.\n- **The timing of the “catching up”** in 1 Thessalonians 4 (often called the rapture). Some expect it before a future tribulation, some in the middle, some at Christ’s public return. The text clearly teaches a real gathering to the Lord. The exact placement in a timetable is where the family discussion is.\n\nThis app does not require you to pick a chart. It does ask you not to despise brothers and sisters who differ, and not to ignore the clear hope: Jesus is coming, and it will be good for those who are his.\n\nGrace Life and many conservative churches often teach a premillennial hope; other faithful churches do not. Hold your view with an open Bible and a humble heart. Let the point of the texts do their work: “Do not let your hearts be troubled.” “Encourage one another with these words.”\n\n## Reflection\n\nDoes the promise of Jesus’ return make you anxious, argumentative, or hopeful? What would it look like to encourage someone in your family with these words this week?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Thessalonians 4:16–18 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A16-18&version=NIV"
+        },
+        {
+          "label": "John 14:1–3 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+14%3A1-3&version=NIV"
+        }
+      ]
+    },
+    {
+      "id": "r-husband",
+      "number": 1,
+      "date": null,
+      "title": "A husband's duties: love, lead, and give yourself up",
+      "track": "role-husband",
+      "audience": "man",
+      "passages": [
+        "Ephesians 5:25–33",
+        "1 Peter 3:7",
+        "Colossians 3:19"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A husband's duties: love, lead, and give yourself up\n\n**Scripture:** Ephesians 5:25–33; 1 Peter 3:7; Colossians 3:19\n**Translation used:** NIV\n\nIf you are a husband, God has given you a clear, heavy, and beautiful work: love your wife as Christ loved the church.\n\n## The passages (NIV)\n\n**Ephesians 5:25–28, 33**\n25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. 28 In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.\n\n33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n**1 Peter 3:7**\n7 Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.\n\n**Colossians 3:19**\n19 Husbands, love your wives and do not be harsh with them.\n\n## What this is saying\n\nHeadship in Ephesians 5 is not a ticket to be served. It is a call to give yourself up. Christ’s love is the pattern: sacrificial, holy, cleansing, nourishing, and faithful. You use your strength for her good, not for your comfort.\n\nPeter says to live with your wife in an understanding way, honoring her as a co-heir of grace. “Weaker partner” is not an insult; it is a call to gentleness, never to control or contempt. If you are harsh, your prayers are hindered. God is not impressed by a man who can lead a meeting and cannot be kind at home.\n\nThis is the complementarian pattern taught at Grace Life and by pastors such as John Piper and Tony Evans: equal dignity, distinct callings. Your wife is not your child and not your servant. She is your sister in Christ and your one-flesh partner. Leadership means going first in repentance, in prayer, in provision, in protection, and in the Word.\n\n## How this applies\n\nAsk your wife, or honestly ask yourself: have I been harsh, absent, or selfish? What would giving myself up look like this week — in time, in words, in the work of the house, in spiritual care?\n\n## Reflection\n\nWhere is Christlike love asking you to die to yourself for your wife’s good today?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Ephesians 5:25–33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A25-33&version=NIV"
+        },
+        {
+          "label": "1 Peter 3:7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A7&version=NIV"
+        }
+      ],
+      "showIf": {
+        "married": true
+      }
+    },
+    {
+      "id": "r-father",
+      "number": 2,
+      "date": null,
+      "title": "A father's duties: bring your children up in the Lord",
+      "track": "role-father",
+      "audience": "man",
+      "passages": [
+        "Ephesians 6:4",
+        "Deuteronomy 6:4–9",
+        "Psalm 103:13",
+        "Proverbs 22:6"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A father's duties: bring your children up in the Lord\n\n**Scripture:** Ephesians 6:4; Deuteronomy 6:4–9; Psalm 103:13; Proverbs 22:6\n**Translation used:** NIV\n\nFatherhood is more than provision. God tells fathers not to exasperate their children, but to bring them up in the training and instruction of the Lord.\n\n## The passages (NIV)\n\n**Ephesians 6:4**\n4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\n\n**Deuteronomy 6:6–7**\n6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.\n\n**Psalm 103:13**\n13 As a father has compassion on his children, so the Lord has compassion on those who fear him.\n\n**Proverbs 22:6**\n6 Start children off on the way they should go, and even when they are old they will not turn from it.\n\n## What this is saying\n\nYou are not the only parent, and you are not a backup parent. The Word addresses fathers by name. Do not provoke. Do not be a short fuse or a distant boss. Have compassion, as the Lord does. And do not outsource all the discipleship to your wife, a church program, or this family’s kids’ app — those are helps, not substitutes.\n\nThe commands must be on your heart first. Then talk about them in ordinary time. Proverbs 22:6 is a wise pattern, not a mechanical guarantee. You plant and water; God gives the growth. Still, the work of planting is yours to take up with your wife.\n\n## Reflection\n\nWhat is one way you have been exasperating your children, and one way you will instruct them in the Lord this week — in person, out loud?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Ephesians 6:4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A4&version=NIV"
+        }
+      ],
+      "showIf": {
+        "hasKids": true
+      }
+    },
+    {
+      "id": "r-single-man",
+      "number": 3,
+      "date": null,
+      "title": "A single man's path: purity and preparing to lead",
+      "track": "role-single-man",
+      "audience": "man",
+      "passages": [
+        "1 Corinthians 6:18–20",
+        "1 Thessalonians 4:3–5",
+        "1 Timothy 4:12",
+        "Matthew 19:11–12"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A single man's path: purity and preparing to lead\n\n**Scripture:** 1 Corinthians 6:18–20; 1 Thessalonians 4:3–5; 1 Timothy 4:12; Matthew 19:11–12\n**Translation used:** NIV\n\nSingleness is not a waiting room where holiness is optional. It is a season — short or long — in which you belong to Christ with your body, your mind, and your future.\n\n## The passages (NIV)\n\n**1 Corinthians 6:18–20**\n18 Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body. 19 Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; 20 you were bought at a price. Therefore honor God with your bodies.\n\n**1 Thessalonians 4:3–5**\n3 It is God’s will that you should be sanctified: that you should avoid sexual immorality; 4 that each of you should learn to control your own body in a way that is holy and honorable, 5 not in passionate lust like the pagans, who do not know God.\n\n**1 Timothy 4:12**\n12 Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity.\n\n**Matthew 19:11–12**\n11 Jesus replied, “Not everyone can accept this word, but only those to whom it has been given. 12 … The one who can accept this should accept it.”\n\n## What this is saying\n\nYour body is not your playground. It was bought at a price. Sexual purity includes fleeing pornography, sexual activity outside marriage, and the slow fire of lust you feed in private. Flee is an action word. Get help. Tell a brother. Cut off what you must. Grace is not a shrug; it is power to walk in the light.\n\nIf you hope to marry, prepare now to be the kind of man who can love a wife as Christ loved the church: a man of prayer, self-control, steady work, and a gentle strength. If God gives a long season of singleness, that too can be a gift for undivided devotion. Jesus treated singleness as honorable, not as a failure.\n\nPurity is not only about what you avoid. It is about honoring God with your body, serving the church, and becoming trustworthy with small things.\n\n## Reflection\n\nWhat do you need to flee, and what kind of man are you actually preparing to be — for a wife if God gives one, and for the Lord either way?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Corinthians 6:18–20 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A18-20&version=NIV"
+        },
+        {
+          "label": "1 Thessalonians 4:3–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A3-5&version=NIV"
+        }
+      ],
+      "showIf": {
+        "married": false
+      }
+    },
+    {
+      "id": "r-sex-husband",
+      "number": 4,
+      "date": null,
+      "title": "Sex in marriage: a holy gift for a husband",
+      "track": "role-husband",
+      "audience": "man",
+      "passages": [
+        "Genesis 2:24–25",
+        "Proverbs 5:15–19",
+        "1 Corinthians 7:3–5",
+        "Hebrews 13:4"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Sex in marriage: a holy gift for a husband\n\n**Scripture:** Genesis 2:24–25; Proverbs 5:15–19; 1 Corinthians 7:3–5; Hebrews 13:4\n**Translation used:** NIV\n\nThis lesson is adult, frank, and meant to be tasteful. God is not embarrassed by the gift he made. Sex belongs in marriage, and in marriage it is good.\n\n## The passages (NIV)\n\n**Genesis 2:24–25**\n24 That is why a man leaves his father and mother and is united to his wife, and they become one flesh. 25 Adam and his wife were both naked, and they felt no shame.\n\n**Proverbs 5:15–19**\n15 Drink water from your own cistern, running water from your own well. 16 Should your springs overflow in the streets, your streams of water in the public squares? 17 Let them be yours alone, never to be shared with strangers. 18 May your fountain be blessed, and may you rejoice in the wife of your youth. 19 A loving doe, a graceful deer—may her breasts satisfy you always, may you ever be intoxicated with her love.\n\n**1 Corinthians 7:3–5**\n3 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. 4 The wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife. 5 Do not deprive each other except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer. Then come together again so that Satan will not tempt you because of your lack of self-control.\n\n**Hebrews 13:4**\n4 Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral.\n\n## What this is saying\n\nOne flesh is more than a ceremony. God designed sexual intimacy as a joining of husband and wife — loyal, embodied, joyful, and without shame. Proverbs 5 is not prudish. It tells a husband to delight in his wife, and only in his wife.\n\n1 Corinthians 7 is strikingly mutual. Authority over the body is yielded both ways. Sex is not a husband’s demand, and it is not a wife’s bargaining chip. It is a gift you give to one another. Depriving one another, except by brief mutual agreement for prayer, opens a door to temptation.\n\nPurity in marriage still matters. Pornography is not a private harmless habit. It trains you to take, to compare, and to hide. It is unfaithfulness of the heart, and often of the body, and it wounds your wife even when she does not know. Adultery, fantasy you feed, and sexual hardness or pressure are all out of place in a marriage bed that is to be kept honorable.\n\nBe a generous, gentle, unselfish husband. Talk honestly with your wife. If there is pain, history, or a stuck pattern, get wise help rather than staying in silence or in sin. Desire for your wife is not dirty. Using her, neglecting her, or replacing her with a screen is.\n\n## Reflection\n\nHave you treated intimacy as a right to take, a subject to avoid, or a gift to give? What would honorable, joyful faithfulness look like with your wife this season?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Corinthians 7:3–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A3-5&version=NIV"
+        },
+        {
+          "label": "Hebrews 13:4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A4&version=NIV"
+        },
+        {
+          "label": "Proverbs 5:15–19 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Proverbs+5%3A15-19&version=NIV"
+        }
+      ],
+      "showIf": {
+        "married": true
+      }
+    },
+    {
+      "id": "r-wife",
+      "number": 1,
+      "date": null,
+      "title": "A wife's duties: respect, help, and do him good",
+      "track": "role-wife",
+      "audience": "woman",
+      "passages": [
+        "Ephesians 5:21–24, 33",
+        "Proverbs 31:11–12",
+        "1 Peter 3:1–6"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A wife's duties: respect, help, and do him good\n\n**Scripture:** Ephesians 5:21–24, 33; Proverbs 31:11–12; 1 Peter 3:1–6\n**Translation used:** NIV\n\nIf you are a wife, God has given you a clear and honorable work: to be a helper who does her husband good, and to respect him as the church respects Christ.\n\n## The passages (NIV)\n\n**Ephesians 5:21–24, 33**\n21 Submit to one another out of reverence for Christ. 22 Wives, submit yourselves to your own husbands as you do to the Lord. 23 For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. 24 Now as the church submits to Christ, so also wives should submit to their husbands in everything. 33 … and the wife must respect her husband.\n\n**Proverbs 31:11–12**\n11 Her husband has full confidence in her and lacks nothing of value. 12 She brings him good, not harm, all the days of her life.\n\n**1 Peter 3:3–4**\n3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight.\n\n## What this is saying\n\nRespect is not fake cheer, and help is not silence. A trusted wife uses her wisdom, tells the truth, and aims at her husband’s good. Submission, in the complementarian teaching of Grace Life, Piper, and Evans, is a wife’s glad, intelligent support of her own husband’s servant leadership — never a call to follow him into sin, and never a covering for harm. If you are in danger, get safe help.\n\nRuth Bell Graham said, “A happy marriage is the union of two good forgivers.” ([Billy Graham Library](https://billygrahamlibrary.org/what-makes-a-marriage-work/)) Nancy DeMoss Wolgemuth has taught that humble response to godly leadership “reflects Christ’s submission to God His Father.” ([Revive Our Hearts](https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/))\n\nYour inner life matters more than managing an image. A gentle and quiet spirit is courage that hopes in God.\n\n## Reflection\n\nWhat would doing your husband good — not harm — look like in one ordinary decision this week?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Ephesians 5:21–33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV"
+        },
+        {
+          "label": "Billy Graham Library, Ruth Bell Graham on marriage",
+          "url": "https://billygrahamlibrary.org/what-makes-a-marriage-work/"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth on submission",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/what-submission-does-and-does-not-mean-1/"
+        }
+      ],
+      "showIf": {
+        "married": true
+      }
+    },
+    {
+      "id": "r-mother",
+      "number": 2,
+      "date": null,
+      "title": "A mother's duties: faithful instruction at home",
+      "track": "role-mother",
+      "audience": "woman",
+      "passages": [
+        "Titus 2:3–5",
+        "2 Timothy 1:5",
+        "Proverbs 31:26–28"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A mother's duties: faithful instruction at home\n\n**Scripture:** Titus 2:3–5; 2 Timothy 1:5; Proverbs 31:26–28\n**Translation used:** NIV\n\nMotherhood is a calling with eternal weight, even when the work is unseen.\n\n## The passages (NIV)\n\n**Titus 2:3–5**\n3 Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good. 4 Then they can urge the younger women to love their husbands and children, 5 to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.\n\n**2 Timothy 1:5**\n5 I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.\n\n**Proverbs 31:26–28**\n26 She speaks with wisdom, and faithful instruction is on her tongue. 27 She watches over the affairs of her household and does not eat the bread of idleness. 28 Her children arise and call her blessed; her husband also, and he praises her.\n\n## What this is saying\n\nLove for children is taught, not only felt. It looks like wisdom on the tongue, a watched-over household, kindness, and purity. Older women are meant to help younger women in this, so you do not have to invent motherhood alone.\n\nGloria Furman wrote, “Because motherhood is missional, there’s something of eternal value taking place in the realm of the unseen.” ([Missional Motherhood](https://www.desiringgod.org/articles/missional-motherhood)) Lois Evans’s long partnership in family and ministry, remembered at [tonyevans.org/lois-evans](https://tonyevans.org/lois-evans/), is one picture of that hidden faithfulness, even though we are not attaching a sentence to her name we could not verify.\n\nYou will not do this perfectly. You can do it sincerely, with the Word on your heart, and with help from your husband and your church.\n\n## Reflection\n\nWhat unseen work with your children has eternal value today, and how will you meet it with faithful instruction rather than only with hurry?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "Gloria Furman, “Missional Motherhood,” Desiring God",
+          "url": "https://www.desiringgod.org/articles/missional-motherhood"
+        },
+        {
+          "label": "Lois Evans",
+          "url": "https://tonyevans.org/lois-evans/"
+        },
+        {
+          "label": "Titus 2:3–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Titus+2%3A3-5&version=NIV"
+        }
+      ],
+      "showIf": {
+        "hasKids": true
+      }
+    },
+    {
+      "id": "r-single-woman",
+      "number": 3,
+      "date": null,
+      "title": "A single woman's path: purity, contentment, and preparing",
+      "track": "role-single-woman",
+      "audience": "woman",
+      "passages": [
+        "1 Corinthians 6:18–20",
+        "1 Thessalonians 4:3–5",
+        "Philippians 4:11–13",
+        "1 Corinthians 7:32–35"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# A single woman's path: purity, contentment, and preparing\n\n**Scripture:** 1 Corinthians 6:18–20; 1 Thessalonians 4:3–5; Philippians 4:11–13; 1 Corinthians 7:32–35\n**Translation used:** NIV\n\nYou are not on hold. In Christ you are already a whole woman, called to holiness, contentment, and a useful life — whether marriage comes soon, late, or not in this life.\n\n## The passages (NIV)\n\n**1 Corinthians 6:19–20**\n19 Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; 20 you were bought at a price. Therefore honor God with your bodies.\n\n**1 Thessalonians 4:3–4**\n3 It is God’s will that you should be sanctified: that you should avoid sexual immorality; 4 that each of you should learn to control your own body in a way that is holy and honorable.\n\n**Philippians 4:11–13**\n11 I am not saying this because I am in need, for I have learned to be content whatever the circumstances. 12 I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want. 13 I can do all this through him who gives me strength.\n\n**1 Corinthians 7:34–35**\n34 An unmarried woman or virgin is concerned about the Lord’s affairs: Her aim is to be devoted to the Lord in both body and spirit. … 35 I am saying this for your own good, not to restrict you, but that you may live in a right way in undivided devotion to the Lord.\n\n## What this is saying\n\nPurity is not only a rule for men. Honor God with your body. Flee sexual immorality, including pornography, fantasy, and relationships that play at marriage without the covenant. You are not your own. You were bought at a price.\n\nContentment is learned. It is not a denial of good longings. It is refusing to treat marriage as the only life that counts. Paul even names undivided devotion to the Lord as a real advantage of singleness.\n\nIf you hope to marry, prepare — not by performing, but by becoming a woman of the Word, a faithful friend, a member of a church, and a person who can help and respect a godly man. Elisabeth Elliot prayed, “Let me be a woman, holy through and through, asking for nothing but what God wants to give me, receiving with both hands and with all my heart whatever that is.” ([Peaches in Paradise](https://www.desiringgod.org/articles/peaches-in-paradise)) That prayer is as fitting in singleness as it is in marriage.\n\n## Reflection\n\nWhat would undivided devotion, holy purity, and real contentment look like in your actual week — not in the life you wish you had?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Corinthians 7:32–35 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A32-35&version=NIV"
+        },
+        {
+          "label": "Elisabeth Elliot, quoted by John Piper",
+          "url": "https://www.desiringgod.org/articles/peaches-in-paradise"
+        }
+      ],
+      "showIf": {
+        "married": false
+      }
+    },
+    {
+      "id": "r-sex-wife",
+      "number": 4,
+      "date": null,
+      "title": "Sex in marriage: a holy gift for a wife",
+      "track": "role-wife",
+      "audience": "woman",
+      "passages": [
+        "Genesis 2:24–25",
+        "Song of Songs 2:16",
+        "1 Corinthians 7:3–5",
+        "Hebrews 13:4"
+      ],
+      "translation": "NIV",
+      "exact": false,
+      "deliveredMarkdown": "# Sex in marriage: a holy gift for a wife\n\n**Scripture:** Genesis 2:24–25; Song of Songs 2:16; 1 Corinthians 7:3–5; Hebrews 13:4\n**Translation used:** NIV\n\nThis lesson is adult, frank, and meant to be tasteful. God made sexual intimacy, and he called it good in the covenant of marriage. A wife is not a spectator in that gift.\n\n## The passages (NIV)\n\n**Genesis 2:24–25**\n24 That is why a man leaves his father and mother and is united to his wife, and they become one flesh. 25 Adam and his wife were both naked, and they felt no shame.\n\n**Song of Songs 2:16**\n16 My beloved is mine and I am his.\n\n**1 Corinthians 7:3–5**\n3 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. 4 The wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife. 5 Do not deprive each other except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer. Then come together again so that Satan will not tempt you because of your lack of self-control.\n\n**Hebrews 13:4**\n4 Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral.\n\n## What this is saying\n\nOne flesh is a shared gift. The Song of Songs is not ashamed of desire inside a faithful bond: “My beloved is mine and I am his.” God does not only tolerate a wife’s pleasure; he designed mutual joy.\n\n1 Corinthians 7 is careful and mutual. This is not a license for a husband to demand, and it is not a license for a wife to use sex as a reward or a punishment. You yield to one another. There may be wise, agreed seasons of waiting for prayer, or for real reasons of health and weariness. Then you come together again, kindly, so that temptation does not get a foothold.\n\nThe marriage bed is to be kept pure. That means loyalty in body and in mind. Pornography, romantic comparison, hidden chats, or sexual involvement outside the marriage all break covenant. If you have been hurt, or if intimacy has become a place of fear, pressure, or emptiness, you are not required to pretend. Tell the truth to God, and, as it is safe, to your husband or to a wise counselor. Healing and holiness can grow together.\n\nA wife’s part is not reluctant endurance only. It is generous, honest, and chaste love — the kind that does her husband good and also tells the truth about her own heart and body.\n\n## Reflection\n\nHave you treated intimacy as a duty to survive, a tool to manage, or a gift to give and receive? What would honorable, joyful faithfulness look like with your husband this season?\n\nLSB notes: The Legacy Standard Bible often uses “Yahweh” where the NIV has “the Lord,” and “Messiah” or a more literal wording in some New Testament lines. The meaning of the verses in these lessons is the same.\n\n---\n\nScripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com\n",
+      "missingReason": null,
+      "sources": [
+        {
+          "label": "1 Corinthians 7:3–5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A3-5&version=NIV"
+        },
+        {
+          "label": "Hebrews 13:4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Hebrews+13%3A4&version=NIV"
+        },
+        {
+          "label": "Song of Songs 2:16 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Song+of+Songs+2%3A16&version=NIV"
+        }
+      ],
+      "showIf": {
+        "married": true
+      }
+    }
+  ]
+}

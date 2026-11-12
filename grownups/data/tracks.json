@@ -1,0 +1,179 @@
+{
+  "contentVersion": "2026.11.12.3",
+  "tracks": [
+    {
+      "id": "foundations",
+      "title": "Foundations",
+      "summary": "Who God is, who we are, and how we walk with him. Shown for the man profile.",
+      "audience": "man",
+      "lessonIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "id": "man-husband-father",
+      "title": "Man, Husband, Father",
+      "summary": "Godly manhood at home: as a man, a husband, and a father.",
+      "audience": "man",
+      "lessonIds": [
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "id": "church-practices",
+      "title": "Church practices",
+      "summary": "The church, baptism, and the practices Jesus gave his people. Shown for the man profile.",
+      "audience": "man",
+      "lessonIds": [
+        "9",
+        "13"
+      ]
+    },
+    {
+      "id": "foundations-women",
+      "title": "Foundations for women",
+      "summary": "The same foundations, written for a woman. Shown when the profile is set to woman.",
+      "audience": "woman",
+      "lessonIds": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5",
+        "w6",
+        "w7",
+        "w8"
+      ]
+    },
+    {
+      "id": "woman-wife-mother",
+      "title": "Woman, Wife, Mother",
+      "summary": "Godly womanhood at home: as a woman, a wife, and a mother.",
+      "audience": "woman",
+      "lessonIds": [
+        "w10",
+        "w11",
+        "w12"
+      ]
+    },
+    {
+      "id": "church-practices-women",
+      "title": "Church practices for women",
+      "summary": "The church and baptism, written for a woman.",
+      "audience": "woman",
+      "lessonIds": [
+        "w9",
+        "w13"
+      ]
+    },
+    {
+      "id": "books-of-the-bible",
+      "title": "Books of the Bible",
+      "summary": "How the Bible is organized, the big storyline, the covenants, and how to read different kinds of writing. Pair this with the 66-book reference.",
+      "audience": "all",
+      "lessonIds": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ]
+    },
+    {
+      "id": "key-elements",
+      "title": "Other key elements",
+      "summary": "The Trinity, the gospel, law and grace, the covenants, Bible translations, and end-times basics.",
+      "audience": "all",
+      "lessonIds": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5",
+        "e6"
+      ]
+    },
+    {
+      "id": "role-husband",
+      "title": "Husband",
+      "summary": "A husband's duties, and sex in marriage as God's good design.",
+      "audience": "man",
+      "showIf": {
+        "married": true
+      },
+      "lessonIds": [
+        "r-husband",
+        "r-sex-husband"
+      ]
+    },
+    {
+      "id": "role-father",
+      "title": "Father",
+      "summary": "A father's duties: bringing children up in the Lord.",
+      "audience": "man",
+      "showIf": {
+        "hasKids": true
+      },
+      "lessonIds": [
+        "r-father"
+      ]
+    },
+    {
+      "id": "role-single-man",
+      "title": "Single man",
+      "summary": "Purity, contentment, and preparing to lead.",
+      "audience": "man",
+      "showIf": {
+        "married": false
+      },
+      "lessonIds": [
+        "r-single-man"
+      ]
+    },
+    {
+      "id": "role-wife",
+      "title": "Wife",
+      "summary": "A wife's duties, and sex in marriage as God's good design.",
+      "audience": "woman",
+      "showIf": {
+        "married": true
+      },
+      "lessonIds": [
+        "r-wife",
+        "r-sex-wife"
+      ]
+    },
+    {
+      "id": "role-mother",
+      "title": "Mother",
+      "summary": "A mother's duties: faithful instruction at home.",
+      "audience": "woman",
+      "showIf": {
+        "hasKids": true
+      },
+      "lessonIds": [
+        "r-mother"
+      ]
+    },
+    {
+      "id": "role-single-woman",
+      "title": "Single woman",
+      "summary": "Purity, contentment, and preparing — receiving whatever God gives.",
+      "audience": "woman",
+      "showIf": {
+        "married": false
+      },
+      "lessonIds": [
+        "r-single-woman"
+      ]
+    }
+  ]
+}

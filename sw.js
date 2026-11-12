@@ -1,7 +1,7 @@
 /* Family Bible Study service worker.
    Network-first for the shell and lesson file so a new pack is not stuck behind an old cache.
    Cache-first only for icons. Old caches are deleted when the version changes. */
-const VERSION = "2026.11.12.1";
+const VERSION = "2026.11.12.2";
 const CACHE = `family-bible-${VERSION}`;
 const PRECACHE = [
   "./",
@@ -15,6 +15,12 @@ const PRECACHE = [
   "./icon-maskable-512.png",
   "./apple-touch-icon.png",
   "./setup-qr.html",
+  "./grownups/data/lessons.json",
+  "./grownups/data/sermons.json",
+  "./grownups/data/tracks.json",
+  "./grownups/data/books.json",
+  "./grownups/data/flashcards.json",
+  "./grownups/data/version.txt",
 ];
 
 self.addEventListener("install", (event) => {
@@ -57,7 +63,7 @@ self.addEventListener("fetch", (event) => {
   if (url.origin !== self.location.origin) return;
   if (!url.pathname.startsWith(SCOPE_PATH)) return;
 
-  if (isShell(request, url)) {
+  if (isShell(request, url) || url.pathname.includes("/grownups/data/")) {
     event.respondWith(
       fetch(request)
         .then((response) => {

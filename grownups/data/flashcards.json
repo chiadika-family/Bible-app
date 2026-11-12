@@ -1,0 +1,1911 @@
+{
+  "contentVersion": "2026.11.12.3",
+  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
+  "decks": [
+    {
+      "id": "books-section",
+      "title": "Books of the Bible: name to section",
+      "summary": "See a book name, recall testament and section."
+    },
+    {
+      "id": "books-theme",
+      "title": "Books of the Bible: theme",
+      "summary": "See a book name, recall its theme."
+    },
+    {
+      "id": "books-verse",
+      "title": "Books of the Bible: key verse",
+      "summary": "See a book name, recall its key verse."
+    },
+    {
+      "id": "lesson-verses",
+      "title": "Key verses from the lessons",
+      "summary": "Verses that appear in the Grown-ups lessons."
+    },
+    {
+      "id": "terms",
+      "title": "Key terms",
+      "summary": "Grace, propitiation, justification, and other words used in the lessons."
+    }
+  ],
+  "cards": [
+    {
+      "id": "sec-gen",
+      "deckId": "books-section",
+      "front": "Genesis",
+      "back": "Old Testament · Law",
+      "kind": "section",
+      "bookId": "gen"
+    },
+    {
+      "id": "theme-gen",
+      "deckId": "books-theme",
+      "front": "Genesis",
+      "back": "God creates, judges, and begins a people through Abraham.",
+      "kind": "theme",
+      "bookId": "gen"
+    },
+    {
+      "id": "verse-gen",
+      "deckId": "books-verse",
+      "front": "Genesis",
+      "back": "Genesis 1:1 (NIV)\nIn the beginning God created the heavens and the earth.",
+      "kind": "verse",
+      "bookId": "gen",
+      "reference": "Genesis 1:1"
+    },
+    {
+      "id": "sec-exo",
+      "deckId": "books-section",
+      "front": "Exodus",
+      "back": "Old Testament · Law",
+      "kind": "section",
+      "bookId": "exo"
+    },
+    {
+      "id": "theme-exo",
+      "deckId": "books-theme",
+      "front": "Exodus",
+      "back": "God redeems Israel from slavery and makes them his people at Sinai.",
+      "kind": "theme",
+      "bookId": "exo"
+    },
+    {
+      "id": "verse-exo",
+      "deckId": "books-verse",
+      "front": "Exodus",
+      "back": "Exodus 20:2 (NIV)\nI am the Lord your God, who brought you out of Egypt, out of the land of slavery.",
+      "kind": "verse",
+      "bookId": "exo",
+      "reference": "Exodus 20:2"
+    },
+    {
+      "id": "sec-lev",
+      "deckId": "books-section",
+      "front": "Leviticus",
+      "back": "Old Testament · Law",
+      "kind": "section",
+      "bookId": "lev"
+    },
+    {
+      "id": "theme-lev",
+      "deckId": "books-theme",
+      "front": "Leviticus",
+      "back": "A holy God makes a way for a sinful people to live near him.",
+      "kind": "theme",
+      "bookId": "lev"
+    },
+    {
+      "id": "verse-lev",
+      "deckId": "books-verse",
+      "front": "Leviticus",
+      "back": "Leviticus 19:2 (NIV)\nBe holy because I, the Lord your God, am holy.",
+      "kind": "verse",
+      "bookId": "lev",
+      "reference": "Leviticus 19:2"
+    },
+    {
+      "id": "sec-num",
+      "deckId": "books-section",
+      "front": "Numbers",
+      "back": "Old Testament · Law",
+      "kind": "section",
+      "bookId": "num"
+    },
+    {
+      "id": "theme-num",
+      "deckId": "books-theme",
+      "front": "Numbers",
+      "back": "God leads Israel through the wilderness, in their wandering and his faithfulness.",
+      "kind": "theme",
+      "bookId": "num"
+    },
+    {
+      "id": "verse-num",
+      "deckId": "books-verse",
+      "front": "Numbers",
+      "back": "Numbers 6:24 (NIV)\nThe Lord bless you and keep you.",
+      "kind": "verse",
+      "bookId": "num",
+      "reference": "Numbers 6:24"
+    },
+    {
+      "id": "sec-deu",
+      "deckId": "books-section",
+      "front": "Deuteronomy",
+      "back": "Old Testament · Law",
+      "kind": "section",
+      "bookId": "deu"
+    },
+    {
+      "id": "theme-deu",
+      "deckId": "books-theme",
+      "front": "Deuteronomy",
+      "back": "Moses retells the law and calls Israel to love the Lord with all their heart.",
+      "kind": "theme",
+      "bookId": "deu"
+    },
+    {
+      "id": "verse-deu",
+      "deckId": "books-verse",
+      "front": "Deuteronomy",
+      "back": "Deuteronomy 6:5 (NIV)\nLove the Lord your God with all your heart and with all your soul and with all your strength.",
+      "kind": "verse",
+      "bookId": "deu",
+      "reference": "Deuteronomy 6:5"
+    },
+    {
+      "id": "sec-jos",
+      "deckId": "books-section",
+      "front": "Joshua",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "jos"
+    },
+    {
+      "id": "theme-jos",
+      "deckId": "books-theme",
+      "front": "Joshua",
+      "back": "God keeps his promise and brings Israel into the land.",
+      "kind": "theme",
+      "bookId": "jos"
+    },
+    {
+      "id": "verse-jos",
+      "deckId": "books-verse",
+      "front": "Joshua",
+      "back": "Joshua 1:9 (NIV)\nBe strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+      "kind": "verse",
+      "bookId": "jos",
+      "reference": "Joshua 1:9"
+    },
+    {
+      "id": "sec-jdg",
+      "deckId": "books-section",
+      "front": "Judges",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "jdg"
+    },
+    {
+      "id": "theme-jdg",
+      "deckId": "books-theme",
+      "front": "Judges",
+      "back": "Israel cycles through sin, oppression, crying out, and God's rescue.",
+      "kind": "theme",
+      "bookId": "jdg"
+    },
+    {
+      "id": "verse-jdg",
+      "deckId": "books-verse",
+      "front": "Judges",
+      "back": "Judges 21:25 (NIV)\nIn those days Israel had no king; everyone did as they saw fit.",
+      "kind": "verse",
+      "bookId": "jdg",
+      "reference": "Judges 21:25"
+    },
+    {
+      "id": "sec-rut",
+      "deckId": "books-section",
+      "front": "Ruth",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "rut"
+    },
+    {
+      "id": "theme-rut",
+      "deckId": "books-theme",
+      "front": "Ruth",
+      "back": "God's kindness works through ordinary faithfulness in the line of David.",
+      "kind": "theme",
+      "bookId": "rut"
+    },
+    {
+      "id": "verse-rut",
+      "deckId": "books-verse",
+      "front": "Ruth",
+      "back": "Ruth 1:16 (NIV)\nWhere you go I will go, and where you stay I will stay. Your people will be my people and your God my God.",
+      "kind": "verse",
+      "bookId": "rut",
+      "reference": "Ruth 1:16"
+    },
+    {
+      "id": "sec-1sa",
+      "deckId": "books-section",
+      "front": "1 Samuel",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "1sa"
+    },
+    {
+      "id": "theme-1sa",
+      "deckId": "books-theme",
+      "front": "1 Samuel",
+      "back": "God raises up Samuel, Saul, and David, and looks at the heart.",
+      "kind": "theme",
+      "bookId": "1sa"
+    },
+    {
+      "id": "verse-1sa",
+      "deckId": "books-verse",
+      "front": "1 Samuel",
+      "back": "1 Samuel 16:7 (NIV)\nPeople look at the outward appearance, but the Lord looks at the heart.",
+      "kind": "verse",
+      "bookId": "1sa",
+      "reference": "1 Samuel 16:7"
+    },
+    {
+      "id": "sec-2sa",
+      "deckId": "books-section",
+      "front": "2 Samuel",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "2sa"
+    },
+    {
+      "id": "theme-2sa",
+      "deckId": "books-theme",
+      "front": "2 Samuel",
+      "back": "David's reign, his sin, and God's covenant promise of an everlasting throne.",
+      "kind": "theme",
+      "bookId": "2sa"
+    },
+    {
+      "id": "verse-2sa",
+      "deckId": "books-verse",
+      "front": "2 Samuel",
+      "back": "2 Samuel 7:16 (NIV)\nYour house and your kingdom will endure forever before me; your throne will be established forever.",
+      "kind": "verse",
+      "bookId": "2sa",
+      "reference": "2 Samuel 7:16"
+    },
+    {
+      "id": "sec-1ki",
+      "deckId": "books-section",
+      "front": "1 Kings",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "1ki"
+    },
+    {
+      "id": "theme-1ki",
+      "deckId": "books-theme",
+      "front": "1 Kings",
+      "back": "Solomon's glory, the divided kingdom, and the call to listen to God's word.",
+      "kind": "theme",
+      "bookId": "1ki"
+    },
+    {
+      "id": "verse-1ki",
+      "deckId": "books-verse",
+      "front": "1 Kings",
+      "back": "1 Kings 8:27 (NIV)\nThe heavens, even the highest heaven, cannot contain you. How much less this temple I have built!",
+      "kind": "verse",
+      "bookId": "1ki",
+      "reference": "1 Kings 8:27"
+    },
+    {
+      "id": "sec-2ki",
+      "deckId": "books-section",
+      "front": "2 Kings",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "2ki"
+    },
+    {
+      "id": "theme-2ki",
+      "deckId": "books-theme",
+      "front": "2 Kings",
+      "back": "The kingdoms fall; God remains faithful even in exile.",
+      "kind": "theme",
+      "bookId": "2ki"
+    },
+    {
+      "id": "verse-2ki",
+      "deckId": "books-verse",
+      "front": "2 Kings",
+      "back": "2 Kings 17:13 (NIV)\nThe Lord warned Israel and Judah through all his prophets and seers: 'Turn from your evil ways.'",
+      "kind": "verse",
+      "bookId": "2ki",
+      "reference": "2 Kings 17:13"
+    },
+    {
+      "id": "sec-1ch",
+      "deckId": "books-section",
+      "front": "1 Chronicles",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "1ch"
+    },
+    {
+      "id": "theme-1ch",
+      "deckId": "books-theme",
+      "front": "1 Chronicles",
+      "back": "A priestly retelling of Israel's story, centered on worship and David's line.",
+      "kind": "theme",
+      "bookId": "1ch"
+    },
+    {
+      "id": "verse-1ch",
+      "deckId": "books-verse",
+      "front": "1 Chronicles",
+      "back": "1 Chronicles 16:34 (NIV)\nGive thanks to the Lord, for he is good; his love endures forever.",
+      "kind": "verse",
+      "bookId": "1ch",
+      "reference": "1 Chronicles 16:34"
+    },
+    {
+      "id": "sec-2ch",
+      "deckId": "books-section",
+      "front": "2 Chronicles",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "2ch"
+    },
+    {
+      "id": "theme-2ch",
+      "deckId": "books-theme",
+      "front": "2 Chronicles",
+      "back": "The temple, revival, and the hope of return after judgment.",
+      "kind": "theme",
+      "bookId": "2ch"
+    },
+    {
+      "id": "verse-2ch",
+      "deckId": "books-verse",
+      "front": "2 Chronicles",
+      "back": "2 Chronicles 7:14 (NIV)\nIf my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land.",
+      "kind": "verse",
+      "bookId": "2ch",
+      "reference": "2 Chronicles 7:14"
+    },
+    {
+      "id": "sec-ezr",
+      "deckId": "books-section",
+      "front": "Ezra",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "ezr"
+    },
+    {
+      "id": "theme-ezr",
+      "deckId": "books-theme",
+      "front": "Ezra",
+      "back": "God brings a remnant home and restores worship around his Word.",
+      "kind": "theme",
+      "bookId": "ezr"
+    },
+    {
+      "id": "verse-ezr",
+      "deckId": "books-verse",
+      "front": "Ezra",
+      "back": "Ezra 7:10 (NIV)\nEzra had devoted himself to the study and observance of the Law of the Lord, and to teaching its decrees and laws in Israel.",
+      "kind": "verse",
+      "bookId": "ezr",
+      "reference": "Ezra 7:10"
+    },
+    {
+      "id": "sec-neh",
+      "deckId": "books-section",
+      "front": "Nehemiah",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "neh"
+    },
+    {
+      "id": "theme-neh",
+      "deckId": "books-theme",
+      "front": "Nehemiah",
+      "back": "God uses Nehemiah to rebuild the wall and call the people back to the Word.",
+      "kind": "theme",
+      "bookId": "neh"
+    },
+    {
+      "id": "verse-neh",
+      "deckId": "books-verse",
+      "front": "Nehemiah",
+      "back": "Nehemiah 8:10 (NIV)\nThe joy of the Lord is your strength.",
+      "kind": "verse",
+      "bookId": "neh",
+      "reference": "Nehemiah 8:10"
+    },
+    {
+      "id": "sec-est",
+      "deckId": "books-section",
+      "front": "Esther",
+      "back": "Old Testament · History",
+      "kind": "section",
+      "bookId": "est"
+    },
+    {
+      "id": "theme-est",
+      "deckId": "books-theme",
+      "front": "Esther",
+      "back": "God quietly preserves his people in Persia when they seem forgotten.",
+      "kind": "theme",
+      "bookId": "est"
+    },
+    {
+      "id": "verse-est",
+      "deckId": "books-verse",
+      "front": "Esther",
+      "back": "Esther 4:14 (NIV)\nAnd who knows but that you have come to your royal position for such a time as this?",
+      "kind": "verse",
+      "bookId": "est",
+      "reference": "Esther 4:14"
+    },
+    {
+      "id": "sec-job",
+      "deckId": "books-section",
+      "front": "Job",
+      "back": "Old Testament · Poetry / Wisdom",
+      "kind": "section",
+      "bookId": "job"
+    },
+    {
+      "id": "theme-job",
+      "deckId": "books-theme",
+      "front": "Job",
+      "back": "A righteous sufferer wrestles with God and finds that God is wise and good.",
+      "kind": "theme",
+      "bookId": "job"
+    },
+    {
+      "id": "verse-job",
+      "deckId": "books-verse",
+      "front": "Job",
+      "back": "Job 19:25 (NIV)\nI know that my redeemer lives, and that in the end he will stand on the earth.",
+      "kind": "verse",
+      "bookId": "job",
+      "reference": "Job 19:25"
+    },
+    {
+      "id": "sec-psa",
+      "deckId": "books-section",
+      "front": "Psalms",
+      "back": "Old Testament · Poetry / Wisdom",
+      "kind": "section",
+      "bookId": "psa"
+    },
+    {
+      "id": "theme-psa",
+      "deckId": "books-theme",
+      "front": "Psalms",
+      "back": "Songs of prayer and praise for every season of the soul.",
+      "kind": "theme",
+      "bookId": "psa"
+    },
+    {
+      "id": "verse-psa",
+      "deckId": "books-verse",
+      "front": "Psalms",
+      "back": "Psalm 23:1 (NIV)\nThe Lord is my shepherd, I lack nothing.",
+      "kind": "verse",
+      "bookId": "psa",
+      "reference": "Psalm 23:1"
+    },
+    {
+      "id": "sec-pro",
+      "deckId": "books-section",
+      "front": "Proverbs",
+      "back": "Old Testament · Poetry / Wisdom",
+      "kind": "section",
+      "bookId": "pro"
+    },
+    {
+      "id": "theme-pro",
+      "deckId": "books-theme",
+      "front": "Proverbs",
+      "back": "The fear of the Lord is the beginning of wisdom for everyday life.",
+      "kind": "theme",
+      "bookId": "pro"
+    },
+    {
+      "id": "verse-pro",
+      "deckId": "books-verse",
+      "front": "Proverbs",
+      "back": "Proverbs 1:7 (NIV)\nThe fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+      "kind": "verse",
+      "bookId": "pro",
+      "reference": "Proverbs 1:7"
+    },
+    {
+      "id": "sec-ecc",
+      "deckId": "books-section",
+      "front": "Ecclesiastes",
+      "back": "Old Testament · Poetry / Wisdom",
+      "kind": "section",
+      "bookId": "ecc"
+    },
+    {
+      "id": "theme-ecc",
+      "deckId": "books-theme",
+      "front": "Ecclesiastes",
+      "back": "Life 'under the sun' is empty unless we fear God and keep his commands.",
+      "kind": "theme",
+      "bookId": "ecc"
+    },
+    {
+      "id": "verse-ecc",
+      "deckId": "books-verse",
+      "front": "Ecclesiastes",
+      "back": "Ecclesiastes 12:13 (NIV)\nFear God and keep his commandments, for this is the duty of all mankind.",
+      "kind": "verse",
+      "bookId": "ecc",
+      "reference": "Ecclesiastes 12:13"
+    },
+    {
+      "id": "sec-sng",
+      "deckId": "books-section",
+      "front": "Song of Songs",
+      "back": "Old Testament · Poetry / Wisdom",
+      "kind": "section",
+      "bookId": "sng"
+    },
+    {
+      "id": "theme-sng",
+      "deckId": "books-theme",
+      "front": "Song of Songs",
+      "back": "A joyful, faithful picture of marital love as a gift from God.",
+      "kind": "theme",
+      "bookId": "sng"
+    },
+    {
+      "id": "verse-sng",
+      "deckId": "books-verse",
+      "front": "Song of Songs",
+      "back": "Song of Songs 2:16 (NIV)\nMy beloved is mine and I am his.",
+      "kind": "verse",
+      "bookId": "sng",
+      "reference": "Song of Songs 2:16"
+    },
+    {
+      "id": "sec-isa",
+      "deckId": "books-section",
+      "front": "Isaiah",
+      "back": "Old Testament · Major Prophets",
+      "kind": "section",
+      "bookId": "isa"
+    },
+    {
+      "id": "theme-isa",
+      "deckId": "books-theme",
+      "front": "Isaiah",
+      "back": "The Holy One of Israel judges sin and promises a coming Servant-King.",
+      "kind": "theme",
+      "bookId": "isa"
+    },
+    {
+      "id": "verse-isa",
+      "deckId": "books-verse",
+      "front": "Isaiah",
+      "back": "Isaiah 9:6 (NIV)\nFor to us a child is born, to us a son is given, and the government will be on his shoulders.",
+      "kind": "verse",
+      "bookId": "isa",
+      "reference": "Isaiah 9:6"
+    },
+    {
+      "id": "sec-jer",
+      "deckId": "books-section",
+      "front": "Jeremiah",
+      "back": "Old Testament · Major Prophets",
+      "kind": "section",
+      "bookId": "jer"
+    },
+    {
+      "id": "theme-jer",
+      "deckId": "books-theme",
+      "front": "Jeremiah",
+      "back": "God judges Judah and promises a new covenant written on the heart.",
+      "kind": "theme",
+      "bookId": "jer"
+    },
+    {
+      "id": "verse-jer",
+      "deckId": "books-verse",
+      "front": "Jeremiah",
+      "back": "Jeremiah 31:33 (NIV)\nI will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.",
+      "kind": "verse",
+      "bookId": "jer",
+      "reference": "Jeremiah 31:33"
+    },
+    {
+      "id": "sec-lam",
+      "deckId": "books-section",
+      "front": "Lamentations",
+      "back": "Old Testament · Major Prophets",
+      "kind": "section",
+      "bookId": "lam"
+    },
+    {
+      "id": "theme-lam",
+      "deckId": "books-theme",
+      "front": "Lamentations",
+      "back": "Honest grief after Jerusalem falls, with hope in God's mercies.",
+      "kind": "theme",
+      "bookId": "lam"
+    },
+    {
+      "id": "verse-lam",
+      "deckId": "books-verse",
+      "front": "Lamentations",
+      "back": "Lamentations 3:22–23 (NIV)\nBecause of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning.",
+      "kind": "verse",
+      "bookId": "lam",
+      "reference": "Lamentations 3:22–23"
+    },
+    {
+      "id": "sec-eze",
+      "deckId": "books-section",
+      "front": "Ezekiel",
+      "back": "Old Testament · Major Prophets",
+      "kind": "section",
+      "bookId": "eze"
+    },
+    {
+      "id": "theme-eze",
+      "deckId": "books-theme",
+      "front": "Ezekiel",
+      "back": "God is still present in exile and promises a new heart and a new temple.",
+      "kind": "theme",
+      "bookId": "eze"
+    },
+    {
+      "id": "verse-eze",
+      "deckId": "books-verse",
+      "front": "Ezekiel",
+      "back": "Ezekiel 36:26 (NIV)\nI will give you a new heart and put a new spirit in you.",
+      "kind": "verse",
+      "bookId": "eze",
+      "reference": "Ezekiel 36:26"
+    },
+    {
+      "id": "sec-dan",
+      "deckId": "books-section",
+      "front": "Daniel",
+      "back": "Old Testament · Major Prophets",
+      "kind": "section",
+      "bookId": "dan"
+    },
+    {
+      "id": "theme-dan",
+      "deckId": "books-theme",
+      "front": "Daniel",
+      "back": "God rules the nations; his kingdom will never be destroyed.",
+      "kind": "theme",
+      "bookId": "dan"
+    },
+    {
+      "id": "verse-dan",
+      "deckId": "books-verse",
+      "front": "Daniel",
+      "back": "Daniel 7:14 (NIV)\nHis dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.",
+      "kind": "verse",
+      "bookId": "dan",
+      "reference": "Daniel 7:14"
+    },
+    {
+      "id": "sec-hos",
+      "deckId": "books-section",
+      "front": "Hosea",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "hos"
+    },
+    {
+      "id": "theme-hos",
+      "deckId": "books-theme",
+      "front": "Hosea",
+      "back": "God's faithful love pursues an unfaithful people.",
+      "kind": "theme",
+      "bookId": "hos"
+    },
+    {
+      "id": "verse-hos",
+      "deckId": "books-verse",
+      "front": "Hosea",
+      "back": "Hosea 6:6 (NIV)\nFor I desire mercy, not sacrifice, and acknowledgment of God rather than burnt offerings.",
+      "kind": "verse",
+      "bookId": "hos",
+      "reference": "Hosea 6:6"
+    },
+    {
+      "id": "sec-joe",
+      "deckId": "books-section",
+      "front": "Joel",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "joe"
+    },
+    {
+      "id": "theme-joe",
+      "deckId": "books-theme",
+      "front": "Joel",
+      "back": "A locust plague becomes a call to repent and a promise of the Spirit.",
+      "kind": "theme",
+      "bookId": "joe"
+    },
+    {
+      "id": "verse-joe",
+      "deckId": "books-verse",
+      "front": "Joel",
+      "back": "Joel 2:13 (NIV)\nRend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate.",
+      "kind": "verse",
+      "bookId": "joe",
+      "reference": "Joel 2:13"
+    },
+    {
+      "id": "sec-amo",
+      "deckId": "books-section",
+      "front": "Amos",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "amo"
+    },
+    {
+      "id": "theme-amo",
+      "deckId": "books-theme",
+      "front": "Amos",
+      "back": "God calls for justice and true worship, not empty religion.",
+      "kind": "theme",
+      "bookId": "amo"
+    },
+    {
+      "id": "verse-amo",
+      "deckId": "books-verse",
+      "front": "Amos",
+      "back": "Amos 5:24 (NIV)\nBut let justice roll on like a river, righteousness like a never-failing stream!",
+      "kind": "verse",
+      "bookId": "amo",
+      "reference": "Amos 5:24"
+    },
+    {
+      "id": "sec-oba",
+      "deckId": "books-section",
+      "front": "Obadiah",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "oba"
+    },
+    {
+      "id": "theme-oba",
+      "deckId": "books-theme",
+      "front": "Obadiah",
+      "back": "God judges Edom's pride and promises that the kingdom will be the Lord's.",
+      "kind": "theme",
+      "bookId": "oba"
+    },
+    {
+      "id": "verse-oba",
+      "deckId": "books-verse",
+      "front": "Obadiah",
+      "back": "Obadiah 1:15 (NIV)\nThe day of the Lord is near for all nations.",
+      "kind": "verse",
+      "bookId": "oba",
+      "reference": "Obadiah 1:15"
+    },
+    {
+      "id": "sec-jon",
+      "deckId": "books-section",
+      "front": "Jonah",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "jon"
+    },
+    {
+      "id": "theme-jon",
+      "deckId": "books-theme",
+      "front": "Jonah",
+      "back": "God's compassion reaches even Nineveh, and he is patient with a reluctant prophet.",
+      "kind": "theme",
+      "bookId": "jon"
+    },
+    {
+      "id": "verse-jon",
+      "deckId": "books-verse",
+      "front": "Jonah",
+      "back": "Jonah 2:9 (NIV)\nSalvation comes from the Lord.",
+      "kind": "verse",
+      "bookId": "jon",
+      "reference": "Jonah 2:9"
+    },
+    {
+      "id": "sec-mic",
+      "deckId": "books-section",
+      "front": "Micah",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "mic"
+    },
+    {
+      "id": "theme-mic",
+      "deckId": "books-theme",
+      "front": "Micah",
+      "back": "God requires justice, mercy, and humility, and promises a ruler from Bethlehem.",
+      "kind": "theme",
+      "bookId": "mic"
+    },
+    {
+      "id": "verse-mic",
+      "deckId": "books-verse",
+      "front": "Micah",
+      "back": "Micah 5:2 (NIV)\nBut you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel.",
+      "kind": "verse",
+      "bookId": "mic",
+      "reference": "Micah 5:2"
+    },
+    {
+      "id": "sec-nah",
+      "deckId": "books-section",
+      "front": "Nahum",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "nah"
+    },
+    {
+      "id": "theme-nah",
+      "deckId": "books-theme",
+      "front": "Nahum",
+      "back": "God is slow to anger, yet he will not leave the guilty unpunished.",
+      "kind": "theme",
+      "bookId": "nah"
+    },
+    {
+      "id": "verse-nah",
+      "deckId": "books-verse",
+      "front": "Nahum",
+      "back": "Nahum 1:7 (NIV)\nThe Lord is good, a refuge in times of trouble. He cares for those who trust in him.",
+      "kind": "verse",
+      "bookId": "nah",
+      "reference": "Nahum 1:7"
+    },
+    {
+      "id": "sec-hab",
+      "deckId": "books-section",
+      "front": "Habakkuk",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "hab"
+    },
+    {
+      "id": "theme-hab",
+      "deckId": "books-theme",
+      "front": "Habakkuk",
+      "back": "A prophet asks why God allows injustice, and learns to live by faith.",
+      "kind": "theme",
+      "bookId": "hab"
+    },
+    {
+      "id": "verse-hab",
+      "deckId": "books-verse",
+      "front": "Habakkuk",
+      "back": "Habakkuk 2:4 (NIV)\nThe righteous person will live by his faithfulness.",
+      "kind": "verse",
+      "bookId": "hab",
+      "reference": "Habakkuk 2:4"
+    },
+    {
+      "id": "sec-zep",
+      "deckId": "books-section",
+      "front": "Zephaniah",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "zep"
+    },
+    {
+      "id": "theme-zep",
+      "deckId": "books-theme",
+      "front": "Zephaniah",
+      "back": "The Day of the Lord is near; God will judge and then rejoice over his people.",
+      "kind": "theme",
+      "bookId": "zep"
+    },
+    {
+      "id": "verse-zep",
+      "deckId": "books-verse",
+      "front": "Zephaniah",
+      "back": "Zephaniah 3:17 (NIV)\nThe Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you; in his love he will no longer rebuke you, but will rejoice over you with singing.",
+      "kind": "verse",
+      "bookId": "zep",
+      "reference": "Zephaniah 3:17"
+    },
+    {
+      "id": "sec-hag",
+      "deckId": "books-section",
+      "front": "Haggai",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "hag"
+    },
+    {
+      "id": "theme-hag",
+      "deckId": "books-theme",
+      "front": "Haggai",
+      "back": "God calls the returned exiles to put his house first.",
+      "kind": "theme",
+      "bookId": "hag"
+    },
+    {
+      "id": "verse-hag",
+      "deckId": "books-verse",
+      "front": "Haggai",
+      "back": "Haggai 2:9 (NIV)\nThe glory of this present house will be greater than the glory of the former house.",
+      "kind": "verse",
+      "bookId": "hag",
+      "reference": "Haggai 2:9"
+    },
+    {
+      "id": "sec-zec",
+      "deckId": "books-section",
+      "front": "Zechariah",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "zec"
+    },
+    {
+      "id": "theme-zec",
+      "deckId": "books-theme",
+      "front": "Zechariah",
+      "back": "Visions of cleansing, a humble King, and the Lord coming to his people.",
+      "kind": "theme",
+      "bookId": "zec"
+    },
+    {
+      "id": "verse-zec",
+      "deckId": "books-verse",
+      "front": "Zechariah",
+      "back": "Zechariah 9:9 (NIV)\nSee, your king comes to you, righteous and victorious, lowly and riding on a donkey.",
+      "kind": "verse",
+      "bookId": "zec",
+      "reference": "Zechariah 9:9"
+    },
+    {
+      "id": "sec-mal",
+      "deckId": "books-section",
+      "front": "Malachi",
+      "back": "Old Testament · Minor Prophets",
+      "kind": "section",
+      "bookId": "mal"
+    },
+    {
+      "id": "theme-mal",
+      "deckId": "books-theme",
+      "front": "Malachi",
+      "back": "God still loves his people and promises a messenger before the Lord comes.",
+      "kind": "theme",
+      "bookId": "mal"
+    },
+    {
+      "id": "verse-mal",
+      "deckId": "books-verse",
+      "front": "Malachi",
+      "back": "Malachi 3:1 (NIV)\nI will send my messenger, who will prepare the way before me.",
+      "kind": "verse",
+      "bookId": "mal",
+      "reference": "Malachi 3:1"
+    },
+    {
+      "id": "sec-mat",
+      "deckId": "books-section",
+      "front": "Matthew",
+      "back": "New Testament · Gospels",
+      "kind": "section",
+      "bookId": "mat"
+    },
+    {
+      "id": "theme-mat",
+      "deckId": "books-theme",
+      "front": "Matthew",
+      "back": "Jesus is the promised Messiah, the Son of David who fulfills the Scriptures.",
+      "kind": "theme",
+      "bookId": "mat"
+    },
+    {
+      "id": "verse-mat",
+      "deckId": "books-verse",
+      "front": "Matthew",
+      "back": "Matthew 1:21 (NIV)\nShe will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.",
+      "kind": "verse",
+      "bookId": "mat",
+      "reference": "Matthew 1:21"
+    },
+    {
+      "id": "sec-mrk",
+      "deckId": "books-section",
+      "front": "Mark",
+      "back": "New Testament · Gospels",
+      "kind": "section",
+      "bookId": "mrk"
+    },
+    {
+      "id": "theme-mrk",
+      "deckId": "books-theme",
+      "front": "Mark",
+      "back": "Jesus is the suffering Son of God who came not to be served but to serve.",
+      "kind": "theme",
+      "bookId": "mrk"
+    },
+    {
+      "id": "verse-mrk",
+      "deckId": "books-verse",
+      "front": "Mark",
+      "back": "Mark 10:45 (NIV)\nFor even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
+      "kind": "verse",
+      "bookId": "mrk",
+      "reference": "Mark 10:45"
+    },
+    {
+      "id": "sec-luk",
+      "deckId": "books-section",
+      "front": "Luke",
+      "back": "New Testament · Gospels",
+      "kind": "section",
+      "bookId": "luk"
+    },
+    {
+      "id": "theme-luk",
+      "deckId": "books-theme",
+      "front": "Luke",
+      "back": "Jesus is the Savior of all kinds of people, announced with joy and historical care.",
+      "kind": "theme",
+      "bookId": "luk"
+    },
+    {
+      "id": "verse-luk",
+      "deckId": "books-verse",
+      "front": "Luke",
+      "back": "Luke 19:10 (NIV)\nFor the Son of Man came to seek and to save the lost.",
+      "kind": "verse",
+      "bookId": "luk",
+      "reference": "Luke 19:10"
+    },
+    {
+      "id": "sec-jhn",
+      "deckId": "books-section",
+      "front": "John",
+      "back": "New Testament · Gospels",
+      "kind": "section",
+      "bookId": "jhn"
+    },
+    {
+      "id": "theme-jhn",
+      "deckId": "books-theme",
+      "front": "John",
+      "back": "Jesus is the eternal Word made flesh, the Son who gives life.",
+      "kind": "theme",
+      "bookId": "jhn"
+    },
+    {
+      "id": "verse-jhn",
+      "deckId": "books-verse",
+      "front": "John",
+      "back": "John 20:31 (NIV)\nBut these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.",
+      "kind": "verse",
+      "bookId": "jhn",
+      "reference": "John 20:31"
+    },
+    {
+      "id": "sec-act",
+      "deckId": "books-section",
+      "front": "Acts",
+      "back": "New Testament · History",
+      "kind": "section",
+      "bookId": "act"
+    },
+    {
+      "id": "theme-act",
+      "deckId": "books-theme",
+      "front": "Acts",
+      "back": "The risen Jesus sends his Spirit and his church to the ends of the earth.",
+      "kind": "theme",
+      "bookId": "act"
+    },
+    {
+      "id": "verse-act",
+      "deckId": "books-verse",
+      "front": "Acts",
+      "back": "Acts 1:8 (NIV)\nBut you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.",
+      "kind": "verse",
+      "bookId": "act",
+      "reference": "Acts 1:8"
+    },
+    {
+      "id": "sec-rom",
+      "deckId": "books-section",
+      "front": "Romans",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "rom"
+    },
+    {
+      "id": "theme-rom",
+      "deckId": "books-theme",
+      "front": "Romans",
+      "back": "The gospel of God's righteousness given by grace through faith in Christ.",
+      "kind": "theme",
+      "bookId": "rom"
+    },
+    {
+      "id": "verse-rom",
+      "deckId": "books-verse",
+      "front": "Romans",
+      "back": "Romans 1:16 (NIV)\nFor I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes.",
+      "kind": "verse",
+      "bookId": "rom",
+      "reference": "Romans 1:16"
+    },
+    {
+      "id": "sec-1co",
+      "deckId": "books-section",
+      "front": "1 Corinthians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "1co"
+    },
+    {
+      "id": "theme-1co",
+      "deckId": "books-theme",
+      "front": "1 Corinthians",
+      "back": "The gospel shapes a messy church into a holy, loving body.",
+      "kind": "theme",
+      "bookId": "1co"
+    },
+    {
+      "id": "verse-1co",
+      "deckId": "books-verse",
+      "front": "1 Corinthians",
+      "back": "1 Corinthians 15:3–4 (NIV)\nChrist died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.",
+      "kind": "verse",
+      "bookId": "1co",
+      "reference": "1 Corinthians 15:3–4"
+    },
+    {
+      "id": "sec-2co",
+      "deckId": "books-section",
+      "front": "2 Corinthians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "2co"
+    },
+    {
+      "id": "theme-2co",
+      "deckId": "books-theme",
+      "front": "2 Corinthians",
+      "back": "God's power is shown in weakness, and ministry is a ministry of reconciliation.",
+      "kind": "theme",
+      "bookId": "2co"
+    },
+    {
+      "id": "verse-2co",
+      "deckId": "books-verse",
+      "front": "2 Corinthians",
+      "back": "2 Corinthians 5:17 (NIV)\nTherefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+      "kind": "verse",
+      "bookId": "2co",
+      "reference": "2 Corinthians 5:17"
+    },
+    {
+      "id": "sec-gal",
+      "deckId": "books-section",
+      "front": "Galatians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "gal"
+    },
+    {
+      "id": "theme-gal",
+      "deckId": "books-theme",
+      "front": "Galatians",
+      "back": "We are justified by faith, not by works of the law, and called to walk by the Spirit.",
+      "kind": "theme",
+      "bookId": "gal"
+    },
+    {
+      "id": "verse-gal",
+      "deckId": "books-verse",
+      "front": "Galatians",
+      "back": "Galatians 2:16 (NIV)\nA person is not justified by the works of the law, but by faith in Jesus Christ.",
+      "kind": "verse",
+      "bookId": "gal",
+      "reference": "Galatians 2:16"
+    },
+    {
+      "id": "sec-eph",
+      "deckId": "books-section",
+      "front": "Ephesians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "eph"
+    },
+    {
+      "id": "theme-eph",
+      "deckId": "books-theme",
+      "front": "Ephesians",
+      "back": "God's grace in Christ makes a new people, the church, for his glory.",
+      "kind": "theme",
+      "bookId": "eph"
+    },
+    {
+      "id": "verse-eph",
+      "deckId": "books-verse",
+      "front": "Ephesians",
+      "back": "Ephesians 2:8–9 (NIV)\nFor it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+      "kind": "verse",
+      "bookId": "eph",
+      "reference": "Ephesians 2:8–9"
+    },
+    {
+      "id": "sec-php",
+      "deckId": "books-section",
+      "front": "Philippians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "php"
+    },
+    {
+      "id": "theme-php",
+      "deckId": "books-theme",
+      "front": "Philippians",
+      "back": "Joy in Christ, even in prison, and a call to have the mind of Christ.",
+      "kind": "theme",
+      "bookId": "php"
+    },
+    {
+      "id": "verse-php",
+      "deckId": "books-verse",
+      "front": "Philippians",
+      "back": "Philippians 2:5–7 (NIV)\nIn your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing.",
+      "kind": "verse",
+      "bookId": "php",
+      "reference": "Philippians 2:5–7"
+    },
+    {
+      "id": "sec-col",
+      "deckId": "books-section",
+      "front": "Colossians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "col"
+    },
+    {
+      "id": "theme-col",
+      "deckId": "books-theme",
+      "front": "Colossians",
+      "back": "Christ is supreme over all, and we are complete in him.",
+      "kind": "theme",
+      "bookId": "col"
+    },
+    {
+      "id": "verse-col",
+      "deckId": "books-verse",
+      "front": "Colossians",
+      "back": "Colossians 1:15 (NIV)\nThe Son is the image of the invisible God, the firstborn over all creation.",
+      "kind": "verse",
+      "bookId": "col",
+      "reference": "Colossians 1:15"
+    },
+    {
+      "id": "sec-1th",
+      "deckId": "books-section",
+      "front": "1 Thessalonians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "1th"
+    },
+    {
+      "id": "theme-1th",
+      "deckId": "books-theme",
+      "front": "1 Thessalonians",
+      "back": "Live in holiness and hope as you wait for Jesus' return.",
+      "kind": "theme",
+      "bookId": "1th"
+    },
+    {
+      "id": "verse-1th",
+      "deckId": "books-verse",
+      "front": "1 Thessalonians",
+      "back": "1 Thessalonians 4:16–17 (NIV)\nFor the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever.",
+      "kind": "verse",
+      "bookId": "1th",
+      "reference": "1 Thessalonians 4:16–17"
+    },
+    {
+      "id": "sec-2th",
+      "deckId": "books-section",
+      "front": "2 Thessalonians",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "2th"
+    },
+    {
+      "id": "theme-2th",
+      "deckId": "books-theme",
+      "front": "2 Thessalonians",
+      "back": "Stand firm; do not be shaken by rumors about the Day of the Lord.",
+      "kind": "theme",
+      "bookId": "2th"
+    },
+    {
+      "id": "verse-2th",
+      "deckId": "books-verse",
+      "front": "2 Thessalonians",
+      "back": "2 Thessalonians 2:16–17 (NIV)\nMay our Lord Jesus Christ himself and God our Father... encourage your hearts and strengthen you in every good deed and word.",
+      "kind": "verse",
+      "bookId": "2th",
+      "reference": "2 Thessalonians 2:16–17"
+    },
+    {
+      "id": "sec-1ti",
+      "deckId": "books-section",
+      "front": "1 Timothy",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "1ti"
+    },
+    {
+      "id": "theme-1ti",
+      "deckId": "books-theme",
+      "front": "1 Timothy",
+      "back": "Guard the gospel and order the church with godliness.",
+      "kind": "theme",
+      "bookId": "1ti"
+    },
+    {
+      "id": "verse-1ti",
+      "deckId": "books-verse",
+      "front": "1 Timothy",
+      "back": "1 Timothy 3:15 (NIV)\nGod's household, which is the church of the living God, the pillar and foundation of the truth.",
+      "kind": "verse",
+      "bookId": "1ti",
+      "reference": "1 Timothy 3:15"
+    },
+    {
+      "id": "sec-2ti",
+      "deckId": "books-section",
+      "front": "2 Timothy",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "2ti"
+    },
+    {
+      "id": "theme-2ti",
+      "deckId": "books-theme",
+      "front": "2 Timothy",
+      "back": "Finish the race; the Scriptures are God-breathed and make you complete.",
+      "kind": "theme",
+      "bookId": "2ti"
+    },
+    {
+      "id": "verse-2ti",
+      "deckId": "books-verse",
+      "front": "2 Timothy",
+      "back": "2 Timothy 3:16–17 (NIV)\nAll Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.",
+      "kind": "verse",
+      "bookId": "2ti",
+      "reference": "2 Timothy 3:16–17"
+    },
+    {
+      "id": "sec-tit",
+      "deckId": "books-section",
+      "front": "Titus",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "tit"
+    },
+    {
+      "id": "theme-tit",
+      "deckId": "books-theme",
+      "front": "Titus",
+      "back": "Sound doctrine produces a well-ordered, good life in the church and home.",
+      "kind": "theme",
+      "bookId": "tit"
+    },
+    {
+      "id": "verse-tit",
+      "deckId": "books-verse",
+      "front": "Titus",
+      "back": "Titus 2:11–12 (NIV)\nFor the grace of God has appeared that offers salvation to all people. It teaches us to say 'No' to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age.",
+      "kind": "verse",
+      "bookId": "tit",
+      "reference": "Titus 2:11–12"
+    },
+    {
+      "id": "sec-phm",
+      "deckId": "books-section",
+      "front": "Philemon",
+      "back": "New Testament · Paul's Letters",
+      "kind": "section",
+      "bookId": "phm"
+    },
+    {
+      "id": "theme-phm",
+      "deckId": "books-theme",
+      "front": "Philemon",
+      "back": "The gospel turns a runaway slave and his owner into brothers in Christ.",
+      "kind": "theme",
+      "bookId": "phm"
+    },
+    {
+      "id": "verse-phm",
+      "deckId": "books-verse",
+      "front": "Philemon",
+      "back": "Philemon 1:17–18 (NIV)\nSo if you consider me a partner, welcome him as you would welcome me. If he has done you any wrong or owes you anything, charge it to me.",
+      "kind": "verse",
+      "bookId": "phm",
+      "reference": "Philemon 1:17–18"
+    },
+    {
+      "id": "sec-heb",
+      "deckId": "books-section",
+      "front": "Hebrews",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "heb"
+    },
+    {
+      "id": "theme-heb",
+      "deckId": "books-theme",
+      "front": "Hebrews",
+      "back": "Jesus is better than every shadow in the old covenant.",
+      "kind": "theme",
+      "bookId": "heb"
+    },
+    {
+      "id": "verse-heb",
+      "deckId": "books-verse",
+      "front": "Hebrews",
+      "back": "Hebrews 1:1–2 (NIV)\nIn the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son.",
+      "kind": "verse",
+      "bookId": "heb",
+      "reference": "Hebrews 1:1–2"
+    },
+    {
+      "id": "sec-jas",
+      "deckId": "books-section",
+      "front": "James",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "jas"
+    },
+    {
+      "id": "theme-jas",
+      "deckId": "books-theme",
+      "front": "James",
+      "back": "Genuine faith works itself out in a life of wisdom and love.",
+      "kind": "theme",
+      "bookId": "jas"
+    },
+    {
+      "id": "verse-jas",
+      "deckId": "books-verse",
+      "front": "James",
+      "back": "James 1:22 (NIV)\nDo not merely listen to the word, and so deceive yourselves. Do what it says.",
+      "kind": "verse",
+      "bookId": "jas",
+      "reference": "James 1:22"
+    },
+    {
+      "id": "sec-1pe",
+      "deckId": "books-section",
+      "front": "1 Peter",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "1pe"
+    },
+    {
+      "id": "theme-1pe",
+      "deckId": "books-theme",
+      "front": "1 Peter",
+      "back": "Hope and holiness for exiles who follow a suffering, risen Christ.",
+      "kind": "theme",
+      "bookId": "1pe"
+    },
+    {
+      "id": "verse-1pe",
+      "deckId": "books-verse",
+      "front": "1 Peter",
+      "back": "1 Peter 2:9 (NIV)\nBut you are a chosen people, a royal priesthood, a holy nation, God's special possession.",
+      "kind": "verse",
+      "bookId": "1pe",
+      "reference": "1 Peter 2:9"
+    },
+    {
+      "id": "sec-2pe",
+      "deckId": "books-section",
+      "front": "2 Peter",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "2pe"
+    },
+    {
+      "id": "theme-2pe",
+      "deckId": "books-theme",
+      "front": "2 Peter",
+      "back": "Grow in grace; remember that the Lord will surely come.",
+      "kind": "theme",
+      "bookId": "2pe"
+    },
+    {
+      "id": "verse-2pe",
+      "deckId": "books-verse",
+      "front": "2 Peter",
+      "back": "2 Peter 3:18 (NIV)\nBut grow in the grace and knowledge of our Lord and Savior Jesus Christ.",
+      "kind": "verse",
+      "bookId": "2pe",
+      "reference": "2 Peter 3:18"
+    },
+    {
+      "id": "sec-1jn",
+      "deckId": "books-section",
+      "front": "1 John",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "1jn"
+    },
+    {
+      "id": "theme-1jn",
+      "deckId": "books-theme",
+      "front": "1 John",
+      "back": "Those who belong to Jesus walk in the light, love the brothers, and believe the truth.",
+      "kind": "theme",
+      "bookId": "1jn"
+    },
+    {
+      "id": "verse-1jn",
+      "deckId": "books-verse",
+      "front": "1 John",
+      "back": "1 John 1:9 (NIV)\nIf we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+      "kind": "verse",
+      "bookId": "1jn",
+      "reference": "1 John 1:9"
+    },
+    {
+      "id": "sec-2jn",
+      "deckId": "books-section",
+      "front": "2 John",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "2jn"
+    },
+    {
+      "id": "theme-2jn",
+      "deckId": "books-theme",
+      "front": "2 John",
+      "back": "Walk in love and do not welcome teachers who deny that Jesus came in the flesh.",
+      "kind": "theme",
+      "bookId": "2jn"
+    },
+    {
+      "id": "verse-2jn",
+      "deckId": "books-verse",
+      "front": "2 John",
+      "back": "2 John 1:6 (NIV)\nAnd this is love: that we walk in obedience to his commands.",
+      "kind": "verse",
+      "bookId": "2jn",
+      "reference": "2 John 1:6"
+    },
+    {
+      "id": "sec-3jn",
+      "deckId": "books-section",
+      "front": "3 John",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "3jn"
+    },
+    {
+      "id": "theme-3jn",
+      "deckId": "books-theme",
+      "front": "3 John",
+      "back": "Welcome faithful workers and copy what is good, not what is evil.",
+      "kind": "theme",
+      "bookId": "3jn"
+    },
+    {
+      "id": "verse-3jn",
+      "deckId": "books-verse",
+      "front": "3 John",
+      "back": "3 John 1:4 (NIV)\nI have no greater joy than to hear that my children are walking in the truth.",
+      "kind": "verse",
+      "bookId": "3jn",
+      "reference": "3 John 1:4"
+    },
+    {
+      "id": "sec-jud",
+      "deckId": "books-section",
+      "front": "Jude",
+      "back": "New Testament · General Letters",
+      "kind": "section",
+      "bookId": "jud"
+    },
+    {
+      "id": "theme-jud",
+      "deckId": "books-theme",
+      "front": "Jude",
+      "back": "Contend for the faith once for all entrusted to God's people.",
+      "kind": "theme",
+      "bookId": "jud"
+    },
+    {
+      "id": "verse-jud",
+      "deckId": "books-verse",
+      "front": "Jude",
+      "back": "Jude 1:24 (NIV)\nTo him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy.",
+      "kind": "verse",
+      "bookId": "jud",
+      "reference": "Jude 1:24"
+    },
+    {
+      "id": "sec-rev",
+      "deckId": "books-section",
+      "front": "Revelation",
+      "back": "New Testament · Prophecy / Apocalypse",
+      "kind": "section",
+      "bookId": "rev"
+    },
+    {
+      "id": "theme-rev",
+      "deckId": "books-theme",
+      "front": "Revelation",
+      "back": "The risen Christ rules, comforts his churches, and will make all things new.",
+      "kind": "theme",
+      "bookId": "rev"
+    },
+    {
+      "id": "verse-rev",
+      "deckId": "books-verse",
+      "front": "Revelation",
+      "back": "Revelation 21:5 (NIV)\nHe who was seated on the throne said, 'I am making everything new!'",
+      "kind": "verse",
+      "bookId": "rev",
+      "reference": "Revelation 21:5"
+    },
+    {
+      "id": "eph-2-8",
+      "deckId": "lesson-verses",
+      "front": "Ephesians 2:8–9",
+      "back": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.\n\n(Grace)",
+      "kind": "verse",
+      "reference": "Ephesians 2:8–9"
+    },
+    {
+      "id": "john-1-14",
+      "deckId": "lesson-verses",
+      "front": "John 1:14",
+      "back": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.\n\n(Who Jesus is)",
+      "kind": "verse",
+      "reference": "John 1:14"
+    },
+    {
+      "id": "1john-1-9",
+      "deckId": "lesson-verses",
+      "front": "1 John 1:9",
+      "back": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.\n\n(Sin and forgiveness)",
+      "kind": "verse",
+      "reference": "1 John 1:9"
+    },
+    {
+      "id": "2tim-3-16",
+      "deckId": "lesson-verses",
+      "front": "2 Timothy 3:16–17",
+      "back": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.\n\n(Reading Scripture)",
+      "kind": "verse",
+      "reference": "2 Timothy 3:16–17"
+    },
+    {
+      "id": "eph-5-25",
+      "deckId": "lesson-verses",
+      "front": "Ephesians 5:25",
+      "back": "Husbands, love your wives, just as Christ loved the church and gave himself up for her.\n\n(Marriage)",
+      "kind": "verse",
+      "reference": "Ephesians 5:25"
+    },
+    {
+      "id": "eph-5-33",
+      "deckId": "lesson-verses",
+      "front": "Ephesians 5:33",
+      "back": "However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n(Marriage)",
+      "kind": "verse",
+      "reference": "Ephesians 5:33"
+    },
+    {
+      "id": "eph-6-4",
+      "deckId": "lesson-verses",
+      "front": "Ephesians 6:4",
+      "back": "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\n\n(Fatherhood)",
+      "kind": "verse",
+      "reference": "Ephesians 6:4"
+    },
+    {
+      "id": "prov-31-30",
+      "deckId": "lesson-verses",
+      "front": "Proverbs 31:30",
+      "back": "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.\n\n(Godly womanhood)",
+      "kind": "verse",
+      "reference": "Proverbs 31:30"
+    },
+    {
+      "id": "titus-2-11",
+      "deckId": "lesson-verses",
+      "front": "Titus 2:11–12",
+      "back": "For the grace of God has appeared that offers salvation to all people. It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age.\n\n(Law and grace)",
+      "kind": "verse",
+      "reference": "Titus 2:11–12"
+    },
+    {
+      "id": "1cor-15-3",
+      "deckId": "lesson-verses",
+      "front": "1 Corinthians 15:3–4",
+      "back": "Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.\n\n(The gospel)",
+      "kind": "verse",
+      "reference": "1 Corinthians 15:3–4"
+    },
+    {
+      "id": "rom-6-4",
+      "deckId": "lesson-verses",
+      "front": "Romans 6:4",
+      "back": "We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.\n\n(Baptism)",
+      "kind": "verse",
+      "reference": "Romans 6:4"
+    },
+    {
+      "id": "heb-13-4",
+      "deckId": "lesson-verses",
+      "front": "Hebrews 13:4",
+      "back": "Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral.\n\n(Sex in marriage)",
+      "kind": "verse",
+      "reference": "Hebrews 13:4"
+    },
+    {
+      "id": "1cor-7-3",
+      "deckId": "lesson-verses",
+      "front": "1 Corinthians 7:3–4",
+      "back": "The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. The wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife.\n\n(Sex in marriage)",
+      "kind": "verse",
+      "reference": "1 Corinthians 7:3–4"
+    },
+    {
+      "id": "1thess-4-16",
+      "deckId": "lesson-verses",
+      "front": "1 Thessalonians 4:16–17",
+      "back": "For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever.\n\n(End times)",
+      "kind": "verse",
+      "reference": "1 Thessalonians 4:16–17"
+    },
+    {
+      "id": "matt-28-19",
+      "deckId": "lesson-verses",
+      "front": "Matthew 28:19",
+      "back": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.\n\n(Trinity / baptism)",
+      "kind": "verse",
+      "reference": "Matthew 28:19"
+    },
+    {
+      "id": "deut-6-7",
+      "deckId": "lesson-verses",
+      "front": "Deuteronomy 6:6–7",
+      "back": "These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.\n\n(Parenthood)",
+      "kind": "verse",
+      "reference": "Deuteronomy 6:6–7"
+    },
+    {
+      "id": "1cor-6-19",
+      "deckId": "lesson-verses",
+      "front": "1 Corinthians 6:19–20",
+      "back": "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.\n\n(Purity)",
+      "kind": "verse",
+      "reference": "1 Corinthians 6:19–20"
+    },
+    {
+      "id": "gal-5-22",
+      "deckId": "lesson-verses",
+      "front": "Galatians 5:22–23",
+      "back": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.\n\n(Holy Spirit)",
+      "kind": "verse",
+      "reference": "Galatians 5:22–23"
+    },
+    {
+      "id": "term-grace",
+      "deckId": "terms",
+      "front": "Grace",
+      "back": "God's undeserved favor. In salvation, God makes us alive with Christ as a gift, not as a wage (Ephesians 2:8–9).",
+      "kind": "term"
+    },
+    {
+      "id": "term-propitiation",
+      "deckId": "terms",
+      "front": "Propitiation",
+      "back": "Christ's sacrifice turns aside God's righteous wrath against sin. Romans 3:25 speaks of Christ as a 'sacrifice of atonement' in the NIV; many literal translations say 'propitiation.'",
+      "kind": "term"
+    },
+    {
+      "id": "term-justification",
+      "deckId": "terms",
+      "front": "Justification",
+      "back": "God's declaration that a sinner is righteous, freely, through faith in Jesus — not by works of the law (Romans 3:24).",
+      "kind": "term"
+    },
+    {
+      "id": "term-repentance",
+      "deckId": "terms",
+      "front": "Repentance",
+      "back": "Turning from sin to God. Jesus joins it to faith: 'Repent and believe the good news' (Mark 1:15).",
+      "kind": "term"
+    },
+    {
+      "id": "term-faith",
+      "deckId": "terms",
+      "front": "Faith",
+      "back": "Trusting God's promise and God's Son — receiving a gift, not earning a wage (Ephesians 2:8).",
+      "kind": "term"
+    },
+    {
+      "id": "term-sanctification",
+      "deckId": "terms",
+      "front": "Sanctification",
+      "back": "Being made holy. It is God's will that we be sanctified, including in how we handle our bodies (1 Thessalonians 4:3).",
+      "kind": "term"
+    },
+    {
+      "id": "term-covenant",
+      "deckId": "terms",
+      "front": "Covenant",
+      "back": "A solemn, binding promise. The Bible's story is held together by the covenants God makes and keeps, fulfilled in the new covenant in Jesus' blood.",
+      "kind": "term"
+    },
+    {
+      "id": "term-trinity",
+      "deckId": "terms",
+      "front": "Trinity",
+      "back": "There is one God in three Persons: Father, Son, and Holy Spirit. Each is fully God; they are not three gods and not one Person wearing three masks.",
+      "kind": "term"
+    },
+    {
+      "id": "term-gospel",
+      "deckId": "terms",
+      "front": "Gospel",
+      "back": "The good news of first importance: Christ died for our sins, was buried, and was raised on the third day (1 Corinthians 15:3–4).",
+      "kind": "term"
+    },
+    {
+      "id": "term-atonement",
+      "deckId": "terms",
+      "front": "Atonement",
+      "back": "The work by which God and sinners are made at one through the blood of Jesus.",
+      "kind": "term"
+    },
+    {
+      "id": "term-complementarian",
+      "deckId": "terms",
+      "front": "Complementarian",
+      "back": "The view that men and women are equal in dignity and not interchangeable in every calling — as taught at Grace Life and by teachers such as John Piper and Tony Evans.",
+      "kind": "term"
+    },
+    {
+      "id": "term-new-covenant",
+      "deckId": "terms",
+      "front": "New covenant",
+      "back": "The promised covenant written on the heart, sealed in Jesus' blood, bringing forgiveness and the Spirit (Jeremiah 31; Luke 22:20).",
+      "kind": "term"
+    }
+  ]
+}
