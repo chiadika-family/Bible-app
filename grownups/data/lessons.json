@@ -3,6 +3,48 @@
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "tracks": [
     {
+      "id": "daily",
+      "title": "Daily lessons",
+      "summary": "Every morning lesson in order, Day 1 onward. Shown for the man profile.",
+      "audience": "man",
+      "lessonIds": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "id": "daily-women",
+      "title": "Daily lessons for women",
+      "summary": "Every morning lesson in order, written for a woman.",
+      "audience": "woman",
+      "lessonIds": [
+        "w1",
+        "w2",
+        "w3",
+        "w4",
+        "w5",
+        "w6",
+        "w7",
+        "w8",
+        "w9",
+        "w10",
+        "w11",
+        "w12",
+        "w13"
+      ]
+    },
+    {
       "id": "foundations",
       "title": "Foundations",
       "summary": "Who God is, who we are, and how we walk with him. Shown for the man profile.",
