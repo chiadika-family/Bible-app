@@ -1,7 +1,7 @@
 /* Family Bible Study service worker.
    Network-first for the shell and lesson file so a new pack is not stuck behind an old cache.
    Cache-first only for icons. Old caches are deleted when the version changes. */
-const VERSION = "2026.11.13.1";
+const VERSION = "2026.11.13.3";
 const CACHE = `family-bible-${VERSION}`;
 const PRECACHE = [
   "./",
@@ -20,6 +20,7 @@ const PRECACHE = [
   "./grownups/data/tracks.json",
   "./grownups/data/books.json",
   "./grownups/data/flashcards.json",
+  "./grownups/data/roadmap.json",
   "./grownups/data/version.txt",
 ];
 
@@ -36,8 +37,14 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((key) => key.startsWith("family-bible-") && key !== CACHE).map((key) => caches.delete(key))))
-      .then(() => self.clients.claim()),
+      .then(async (keys) => {
+        const older = keys.filter((key) => key.startsWith("family-bible-") && key !== CACHE);
+        await Promise.all(older.map((key) => caches.delete(key)));
+        await self.clients.claim();
+        const windows = await self.clients.matchAll({ type: "window" });
+        await Promise.all(windows.map((client) => client.postMessage({ type: "bible-app-updated", version: VERSION })));
+        if (older.length > 0) await Promise.all(windows.map((client) => client.navigate(client.url)));
+      }),
   );
 });
 

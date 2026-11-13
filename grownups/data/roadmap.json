@@ -1,0 +1,4344 @@
+{
+  "version": "2026.11.12",
+  "start": "2026-10-31",
+  "phases": [
+    {
+      "id": "foundations",
+      "title": "Foundations of the Christian life",
+      "description": "Finish the core of the faith before the long walk through Scripture: grace, who God is, who Jesus is, sin and forgiveness, faith and repentance, the Holy Spirit, prayer, Scripture, the church, godly manhood, marriage, fatherhood, baptism, the Lord's Supper, worship, giving, sharing your faith, spiritual warfare, identity in Christ, holiness, love, forgiveness, spiritual gifts, and living hope. Lessons 1–13 are already complete (October 31–November 12, 2026). Lessons 14–30 close the foundations, beginning with the Lord's Supper on November 13.",
+      "from": 1,
+      "to": 30
+    },
+    {
+      "id": "books-of-the-bible",
+      "title": "A walk through all 66 books of the Bible",
+      "description": "A BibleProject- and Thru the Word-style survey of every book, in Protestant canonical order. Major books receive about a week; shorter books receive one to three days. Each day has a focused title and real NIV passages so you can read the heart of the book without stalling. Sundays still advance the walk, but they are flagged as sermon-tie-in days, with that day's book lesson as the fallback if you want a planned reading after church.",
+      "from": 31,
+      "to": 260
+    },
+    {
+      "id": "marriage",
+      "title": "Marriage: covenant, duties, and intimacy",
+      "description": "A deeper run for husbands and wives: God's design, leaving and cleaving, the duties of husband and wife, mutual honor, the holiness and joy of the marriage bed, honest speech, conflict, forgiveness, praying together, purity, repairing trust, and cherishing one another for a lifetime. The women's version of each lesson keeps the same passages and emphasizes the wife's calling alongside the husband's.",
+      "from": 261,
+      "to": 288
+    },
+    {
+      "id": "parenting",
+      "title": "Parenting: discipling the next generation",
+      "description": "Go deeper than the first fatherhood lesson: teach diligently at home, discipline in love, family worship, example, prayer, prodigals, protecting and preparing your children, blessing them on purpose, and trusting the Father who runs to meet them.",
+      "from": 289,
+      "to": 309
+    },
+    {
+      "id": "money",
+      "title": "Money: stewardship, debt, and generosity",
+      "description": "God owns it all; you are a steward. This run faces debt head-on (including Proverbs 22:7, 'the borrower is slave to the lender'), contentment, greed, honest work and honest scales, saving without hoarding, providing for your household, open hands toward the poor, cheerful generosity, and treasure in heaven.",
+      "from": 310,
+      "to": 330
+    },
+    {
+      "id": "work",
+      "title": "Work: vocation, excellence, and rest",
+      "description": "Work was God's idea before the fall. These lessons cover labor as worship, integrity when no one is watching, skill and excellence, sloth, justice for workers, witness on the job, Sabbath rest, thorns and frustration, and vocational faithfulness over a lifetime.",
+      "from": 331,
+      "to": 344
+    },
+    {
+      "id": "character",
+      "title": "Character: the fruit of a life in Christ",
+      "description": "Close the year with the fruit of the Spirit and the marks of a mature life: love, joy, peace, patience, kindness, faithfulness, gentleness, self-control, humility, courage, integrity, a tamed tongue, truth-telling, compassion, perseverance, and abiding in Christ. Lesson 365, on October 30, 2027, looks back on a year of grace and looks ahead: he who began a good work will carry it on.",
+      "from": 345,
+      "to": 365
+    }
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "date": "2026-10-31",
+      "phase": "foundations",
+      "title": "Grace, the foundation of everything",
+      "passages": [
+        "Ephesians 2:1–10",
+        "John 3:16"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 2,
+      "date": "2026-11-01",
+      "phase": "foundations",
+      "title": "Who God Is",
+      "passages": [
+        "Psalm 103:1–13"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 3,
+      "date": "2026-11-02",
+      "phase": "foundations",
+      "title": "Who Jesus Is",
+      "passages": [
+        "Colossians 1:15–20"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 4,
+      "date": "2026-11-03",
+      "phase": "foundations",
+      "title": "Sin and Forgiveness, Walking in the Light",
+      "passages": [
+        "1 John 1:5–2:2"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 5,
+      "date": "2026-11-04",
+      "phase": "foundations",
+      "title": "Faith and Repentance, Coming Home to the Father",
+      "passages": [
+        "Luke 15:11–24"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 6,
+      "date": "2026-11-05",
+      "phase": "foundations",
+      "title": "The Holy Spirit, the Helper Who Stays With You",
+      "passages": [
+        "John 14:15–26"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 7,
+      "date": "2026-11-06",
+      "phase": "foundations",
+      "title": "Prayer, Talking With Your Father",
+      "passages": [
+        "Matthew 6:5–13"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 8,
+      "date": "2026-11-07",
+      "phase": "foundations",
+      "title": "Reading Scripture — God-breathed words that equip you",
+      "passages": [
+        "2 Timothy 3:14–17"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 9,
+      "date": "2026-11-08",
+      "phase": "foundations",
+      "title": "The Church, a Family That's Devoted Together",
+      "passages": [
+        "Acts 2:42–47"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 10,
+      "date": "2026-11-09",
+      "phase": "foundations",
+      "title": "Godly Manhood, Strong and Anchored in God's Word",
+      "passages": [
+        "Joshua 1:5–9",
+        "1 Corinthians 16:13–14"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 11,
+      "date": "2026-11-10",
+      "phase": "foundations",
+      "title": "Marriage, loving your wife the way Christ loves the church",
+      "passages": [
+        "Ephesians 5:21–33"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 12,
+      "date": "2026-11-11",
+      "phase": "foundations",
+      "title": "Fatherhood: passing faith on at home",
+      "passages": [
+        "Deuteronomy 6:4–9",
+        "Ephesians 6:4"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 13,
+      "date": "2026-11-12",
+      "phase": "foundations",
+      "title": "Baptism, buried with Christ and raised to walk in new life",
+      "passages": [
+        "Romans 6:1–11"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 14,
+      "date": "2026-11-13",
+      "phase": "foundations",
+      "title": "The Lord's Supper, remembering the Lord's death until he comes",
+      "passages": [
+        "1 Corinthians 11:23–32",
+        "Luke 22:14–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 15,
+      "date": "2026-11-14",
+      "phase": "foundations",
+      "title": "Worship, offering your whole life to God",
+      "passages": [
+        "Romans 12:1–2",
+        "John 4:21–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 16,
+      "date": "2026-11-15",
+      "phase": "foundations",
+      "title": "Sunday: connect with this week's Grace Life sermon — Gathering as the people of God, and rest for your souls",
+      "passages": [
+        "Hebrews 10:23–25",
+        "Matthew 11:28–30"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 17,
+      "date": "2026-11-16",
+      "phase": "foundations",
+      "title": "Giving and generosity, sowing generously and giving cheerfully",
+      "passages": [
+        "2 Corinthians 9:6–15",
+        "Proverbs 11:24–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 18,
+      "date": "2026-11-17",
+      "phase": "foundations",
+      "title": "Sharing your faith: sent with good news",
+      "passages": [
+        "Matthew 28:16–20",
+        "Romans 10:9–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 19,
+      "date": "2026-11-18",
+      "phase": "foundations",
+      "title": "A ready witness in ordinary life",
+      "passages": [
+        "1 Peter 3:15–16",
+        "Colossians 4:5–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 20,
+      "date": "2026-11-19",
+      "phase": "foundations",
+      "title": "Spiritual warfare: the full armor of God",
+      "passages": [
+        "Ephesians 6:10–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 21,
+      "date": "2026-11-20",
+      "phase": "foundations",
+      "title": "The enemy is real, but greater is He who is in you",
+      "passages": [
+        "1 John 4:4",
+        "1 Peter 5:6–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 22,
+      "date": "2026-11-21",
+      "phase": "foundations",
+      "title": "Identity in Christ: a new creation",
+      "passages": [
+        "2 Corinthians 5:17",
+        "Galatians 2:20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 23,
+      "date": "2026-11-22",
+      "phase": "foundations",
+      "title": "Sunday: connect with this week's Grace Life sermon — Who you are in Christ, blessed with every spiritual blessing",
+      "passages": [
+        "Ephesians 1:3–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 24,
+      "date": "2026-11-23",
+      "phase": "foundations",
+      "title": "Sanctification: growing in holiness",
+      "passages": [
+        "1 Thessalonians 4:1–8",
+        "Hebrews 12:14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 25,
+      "date": "2026-11-24",
+      "phase": "foundations",
+      "title": "The greatest commandment: love God and love your neighbor",
+      "passages": [
+        "Matthew 22:34–40",
+        "Deuteronomy 6:4–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 26,
+      "date": "2026-11-25",
+      "phase": "foundations",
+      "title": "Forgiving others as you have been forgiven",
+      "passages": [
+        "Matthew 18:21–35",
+        "Ephesians 4:31–32"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 27,
+      "date": "2026-11-26",
+      "phase": "foundations",
+      "title": "Spiritual gifts and one body in Christ",
+      "passages": [
+        "1 Corinthians 12:4–27",
+        "Romans 12:3–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 28,
+      "date": "2026-11-27",
+      "phase": "foundations",
+      "title": "Suffering, hope, and the God who is near",
+      "passages": [
+        "Romans 8:18–28",
+        "1 Peter 1:3–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 29,
+      "date": "2026-11-28",
+      "phase": "foundations",
+      "title": "The blessed hope: the resurrection and the Lord's return",
+      "passages": [
+        "1 Thessalonians 4:13–18",
+        "1 Corinthians 15:50–58"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 30,
+      "date": "2026-11-29",
+      "phase": "foundations",
+      "title": "Sunday: connect with this week's Grace Life sermon — The fear of the Lord, and a life of thanksgiving",
+      "passages": [
+        "Proverbs 9:10",
+        "1 Thessalonians 5:16–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 31,
+      "date": "2026-11-30",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: in the beginning, God creates",
+      "passages": [
+        "Genesis 1:1–2:3"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 32,
+      "date": "2026-12-01",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: the fall, and the first promise of a Savior",
+      "passages": [
+        "Genesis 3:1–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 33,
+      "date": "2026-12-02",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: Noah, the flood, and God's covenant",
+      "passages": [
+        "Genesis 6:9–22",
+        "Genesis 9:8–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 34,
+      "date": "2026-12-03",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: Abraham, called and counted righteous",
+      "passages": [
+        "Genesis 12:1–9",
+        "Genesis 15:1–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 35,
+      "date": "2026-12-04",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: Abraham tested, and the Lord will provide",
+      "passages": [
+        "Genesis 22:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 36,
+      "date": "2026-12-05",
+      "phase": "books-of-the-bible",
+      "title": "Genesis: Jacob wrestles, and Joseph the dreamer",
+      "passages": [
+        "Genesis 32:22–32",
+        "Genesis 37:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 37,
+      "date": "2026-12-06",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Genesis: Joseph forgives — God meant it for good",
+      "passages": [
+        "Genesis 45:1–15",
+        "Genesis 50:15–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 38,
+      "date": "2026-12-07",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: a people oppressed, and a deliverer born",
+      "passages": [
+        "Exodus 1:8–22",
+        "Exodus 2:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 39,
+      "date": "2026-12-08",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: the burning bush — I AM sends Moses",
+      "passages": [
+        "Exodus 3:1–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 40,
+      "date": "2026-12-09",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: Passover — saved by the blood",
+      "passages": [
+        "Exodus 12:1–13",
+        "Exodus 12:29–42"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 41,
+      "date": "2026-12-10",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: through the sea — the Lord fights for you",
+      "passages": [
+        "Exodus 14:10–31"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 42,
+      "date": "2026-12-11",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: Sinai and the Ten Commandments",
+      "passages": [
+        "Exodus 19:1–8",
+        "Exodus 20:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 43,
+      "date": "2026-12-12",
+      "phase": "books-of-the-bible",
+      "title": "Exodus: the golden calf, and Moses sees God's glory",
+      "passages": [
+        "Exodus 32:1–14",
+        "Exodus 33:12–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 44,
+      "date": "2026-12-13",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Exodus: the tabernacle — God dwells with his people",
+      "passages": [
+        "Exodus 40:1–17",
+        "Exodus 40:34–38"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 45,
+      "date": "2026-12-14",
+      "phase": "books-of-the-bible",
+      "title": "Leviticus: sacrifice and the Day of Atonement",
+      "passages": [
+        "Leviticus 1:1–9",
+        "Leviticus 16:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 46,
+      "date": "2026-12-15",
+      "phase": "books-of-the-bible",
+      "title": "Leviticus: be holy, for I am holy",
+      "passages": [
+        "Leviticus 11:44–45",
+        "Leviticus 19:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 47,
+      "date": "2026-12-16",
+      "phase": "books-of-the-bible",
+      "title": "Leviticus: the appointed feasts of the Lord",
+      "passages": [
+        "Leviticus 23:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 48,
+      "date": "2026-12-17",
+      "phase": "books-of-the-bible",
+      "title": "Leviticus: Jubilee, rest, and covenant blessing",
+      "passages": [
+        "Leviticus 25:8–24",
+        "Leviticus 26:3–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 49,
+      "date": "2026-12-18",
+      "phase": "books-of-the-bible",
+      "title": "Numbers: the priestly blessing, and the cloud",
+      "passages": [
+        "Numbers 6:22–27",
+        "Numbers 9:15–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 50,
+      "date": "2026-12-19",
+      "phase": "books-of-the-bible",
+      "title": "Numbers: spies, unbelief, and a forty-year delay",
+      "passages": [
+        "Numbers 13:26–14:12",
+        "Numbers 14:20–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 51,
+      "date": "2026-12-20",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Numbers: water from the rock, and the bronze serpent",
+      "passages": [
+        "Numbers 20:1–13",
+        "Numbers 21:4–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 52,
+      "date": "2026-12-21",
+      "phase": "books-of-the-bible",
+      "title": "Numbers: Balaam, a talking donkey, and a coming King",
+      "passages": [
+        "Numbers 22:21–35",
+        "Numbers 24:15–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 53,
+      "date": "2026-12-22",
+      "phase": "books-of-the-bible",
+      "title": "Deuteronomy: hear, O Israel — remember and obey",
+      "passages": [
+        "Deuteronomy 4:1–14",
+        "Deuteronomy 4:32–40"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 54,
+      "date": "2026-12-23",
+      "phase": "books-of-the-bible",
+      "title": "Deuteronomy: love the Lord with all your heart",
+      "passages": [
+        "Deuteronomy 6:1–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 55,
+      "date": "2026-12-24",
+      "phase": "books-of-the-bible",
+      "title": "Deuteronomy: do not forget the Lord in the land",
+      "passages": [
+        "Deuteronomy 8:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 56,
+      "date": "2026-12-25",
+      "phase": "books-of-the-bible",
+      "title": "Deuteronomy: a prophet like Moses, and choose life",
+      "passages": [
+        "Deuteronomy 18:15–22",
+        "Deuteronomy 30:11–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 57,
+      "date": "2026-12-26",
+      "phase": "books-of-the-bible",
+      "title": "Deuteronomy: be strong and courageous — Moses dies, Joshua rises",
+      "passages": [
+        "Deuteronomy 31:1–8",
+        "Deuteronomy 34:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 58,
+      "date": "2026-12-27",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Joshua: be strong — Rahab hides the spies",
+      "passages": [
+        "Joshua 1:1–9",
+        "Joshua 2:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 59,
+      "date": "2026-12-28",
+      "phase": "books-of-the-bible",
+      "title": "Joshua: through the Jordan, and the walls of Jericho",
+      "passages": [
+        "Joshua 3:14–17",
+        "Joshua 6:1–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 60,
+      "date": "2026-12-29",
+      "phase": "books-of-the-bible",
+      "title": "Joshua: choose this day whom you will serve",
+      "passages": [
+        "Joshua 23:1–16",
+        "Joshua 24:14–28"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 61,
+      "date": "2026-12-30",
+      "phase": "books-of-the-bible",
+      "title": "Judges: a cycle of sin, slavery, and deliverance",
+      "passages": [
+        "Judges 2:6–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 62,
+      "date": "2026-12-31",
+      "phase": "books-of-the-bible",
+      "title": "Judges: Gideon — the Lord is with the weak",
+      "passages": [
+        "Judges 6:11–24",
+        "Judges 7:1–8",
+        "Judges 7:19–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 63,
+      "date": "2027-01-01",
+      "phase": "books-of-the-bible",
+      "title": "Judges: Samson, and everyone doing what is right in their own eyes",
+      "passages": [
+        "Judges 16:4–30",
+        "Judges 21:25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 64,
+      "date": "2027-01-02",
+      "phase": "books-of-the-bible",
+      "title": "Ruth: where you go I will go",
+      "passages": [
+        "Ruth 1:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 65,
+      "date": "2027-01-03",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Ruth: the kinsman-redeemer — from bitterness to blessing",
+      "passages": [
+        "Ruth 2:1–12",
+        "Ruth 4:13–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 66,
+      "date": "2027-01-04",
+      "phase": "books-of-the-bible",
+      "title": "1 Samuel: Hannah's prayer, and Samuel hears the Lord",
+      "passages": [
+        "1 Samuel 1:9–28",
+        "1 Samuel 3:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 67,
+      "date": "2027-01-05",
+      "phase": "books-of-the-bible",
+      "title": "1 Samuel: give us a king — Israel wants to be like the nations",
+      "passages": [
+        "1 Samuel 8:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 68,
+      "date": "2027-01-06",
+      "phase": "books-of-the-bible",
+      "title": "1 Samuel: David anointed, and Goliath falls",
+      "passages": [
+        "1 Samuel 16:1–13",
+        "1 Samuel 17:32–50"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 69,
+      "date": "2027-01-07",
+      "phase": "books-of-the-bible",
+      "title": "1 Samuel: Jonathan's friendship, and David spares Saul",
+      "passages": [
+        "1 Samuel 18:1–16",
+        "1 Samuel 24:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 70,
+      "date": "2027-01-08",
+      "phase": "books-of-the-bible",
+      "title": "1 Samuel: Saul's fall — seeking the Lord too late",
+      "passages": [
+        "1 Samuel 28:3–20",
+        "1 Samuel 31:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 71,
+      "date": "2027-01-09",
+      "phase": "books-of-the-bible",
+      "title": "2 Samuel: David the king, and an everlasting house",
+      "passages": [
+        "2 Samuel 5:1–12",
+        "2 Samuel 7:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 72,
+      "date": "2027-01-10",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 2 Samuel: David and Bathsheba — a king falls",
+      "passages": [
+        "2 Samuel 11:1–17",
+        "2 Samuel 11:26–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 73,
+      "date": "2027-01-11",
+      "phase": "books-of-the-bible",
+      "title": "2 Samuel: you are the man — confession and mercy",
+      "passages": [
+        "2 Samuel 12:1–13",
+        "Psalm 51:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 74,
+      "date": "2027-01-12",
+      "phase": "books-of-the-bible",
+      "title": "2 Samuel: David's song — the Lord is my rock",
+      "passages": [
+        "2 Samuel 22:1–7",
+        "2 Samuel 22:31–51"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 75,
+      "date": "2027-01-13",
+      "phase": "books-of-the-bible",
+      "title": "1 Kings: Solomon asks for wisdom",
+      "passages": [
+        "1 Kings 3:3–15",
+        "1 Kings 4:29–34"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 76,
+      "date": "2027-01-14",
+      "phase": "books-of-the-bible",
+      "title": "1 Kings: the temple dedicated — will God really dwell on earth?",
+      "passages": [
+        "1 Kings 8:22–30",
+        "1 Kings 8:54–61"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 77,
+      "date": "2027-01-15",
+      "phase": "books-of-the-bible",
+      "title": "1 Kings: a divided heart, and a divided kingdom",
+      "passages": [
+        "1 Kings 11:1–13",
+        "1 Kings 12:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 78,
+      "date": "2027-01-16",
+      "phase": "books-of-the-bible",
+      "title": "1 Kings: Elijah on Carmel — the Lord, he is God",
+      "passages": [
+        "1 Kings 18:16–39"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 79,
+      "date": "2027-01-17",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 2 Kings: Elisha's mantle, and Naaman washed clean",
+      "passages": [
+        "2 Kings 2:1–14",
+        "2 Kings 5:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 80,
+      "date": "2027-01-18",
+      "phase": "books-of-the-bible",
+      "title": "2 Kings: Israel falls — they would not listen",
+      "passages": [
+        "2 Kings 17:5–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 81,
+      "date": "2027-01-19",
+      "phase": "books-of-the-bible",
+      "title": "2 Kings: Hezekiah — a king who trusted the Lord",
+      "passages": [
+        "2 Kings 18:1–8",
+        "2 Kings 19:14–19",
+        "2 Kings 19:32–36"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 82,
+      "date": "2027-01-20",
+      "phase": "books-of-the-bible",
+      "title": "2 Kings: Josiah and the rediscovered Book",
+      "passages": [
+        "2 Kings 22:1–13",
+        "2 Kings 23:1–3",
+        "2 Kings 23:21–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 83,
+      "date": "2027-01-21",
+      "phase": "books-of-the-bible",
+      "title": "1 Chronicles: give thanks — David's song of praise",
+      "passages": [
+        "1 Chronicles 16:7–36"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 84,
+      "date": "2027-01-22",
+      "phase": "books-of-the-bible",
+      "title": "1 Chronicles: who am I, Lord, that you have brought me this far?",
+      "passages": [
+        "1 Chronicles 17:16–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 85,
+      "date": "2027-01-23",
+      "phase": "books-of-the-bible",
+      "title": "1 Chronicles: everything comes from you",
+      "passages": [
+        "1 Chronicles 29:10–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 86,
+      "date": "2027-01-24",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 2 Chronicles: if my people, who are called by my name, will humble themselves",
+      "passages": [
+        "2 Chronicles 7:11–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 87,
+      "date": "2027-01-25",
+      "phase": "books-of-the-bible",
+      "title": "2 Chronicles: the battle belongs to the Lord",
+      "passages": [
+        "2 Chronicles 20:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 88,
+      "date": "2027-01-26",
+      "phase": "books-of-the-bible",
+      "title": "2 Chronicles: exile, and a surprising decree of return",
+      "passages": [
+        "2 Chronicles 36:11–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 89,
+      "date": "2027-01-27",
+      "phase": "books-of-the-bible",
+      "title": "Ezra: going home, and rebuilding the altar",
+      "passages": [
+        "Ezra 1:1–11",
+        "Ezra 3:10–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 90,
+      "date": "2027-01-28",
+      "phase": "books-of-the-bible",
+      "title": "Ezra: a heart set to study, and a call to repent",
+      "passages": [
+        "Ezra 7:8–10",
+        "Ezra 9:1–9",
+        "Ezra 10:1–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 91,
+      "date": "2027-01-29",
+      "phase": "books-of-the-bible",
+      "title": "Nehemiah: a wall in ruins, and a leader who prays",
+      "passages": [
+        "Nehemiah 1:1–11",
+        "Nehemiah 2:11–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 92,
+      "date": "2027-01-30",
+      "phase": "books-of-the-bible",
+      "title": "Nehemiah: build with a sword in one hand",
+      "passages": [
+        "Nehemiah 4:6–23",
+        "Nehemiah 6:15–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 93,
+      "date": "2027-01-31",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Nehemiah: the Book is opened, and the people weep and rejoice",
+      "passages": [
+        "Nehemiah 8:1–12",
+        "Nehemiah 9:5–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 94,
+      "date": "2027-02-01",
+      "phase": "books-of-the-bible",
+      "title": "Esther: for such a time as this",
+      "passages": [
+        "Esther 2:15–18",
+        "Esther 3:1–6",
+        "Esther 4:12–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 95,
+      "date": "2027-02-02",
+      "phase": "books-of-the-bible",
+      "title": "Esther: reversal — the humble are lifted up",
+      "passages": [
+        "Esther 6:1–13",
+        "Esther 7:1–10",
+        "Esther 9:20–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 96,
+      "date": "2027-02-03",
+      "phase": "books-of-the-bible",
+      "title": "Job: a blameless man, and a day of loss",
+      "passages": [
+        "Job 1:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 97,
+      "date": "2027-02-04",
+      "phase": "books-of-the-bible",
+      "title": "Job: sitting in silence, and the cry of a crushed heart",
+      "passages": [
+        "Job 2:11–13",
+        "Job 3:1–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 98,
+      "date": "2027-02-05",
+      "phase": "books-of-the-bible",
+      "title": "Job: I know that my Redeemer lives",
+      "passages": [
+        "Job 19:23–27",
+        "Job 23:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 99,
+      "date": "2027-02-06",
+      "phase": "books-of-the-bible",
+      "title": "Job: then the Lord answered Job out of the storm",
+      "passages": [
+        "Job 38:1–18",
+        "Job 40:1–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 100,
+      "date": "2027-02-07",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Job: repentance, restoration, and praying for your friends",
+      "passages": [
+        "Job 42:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 101,
+      "date": "2027-02-08",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: two ways, and the Lord's Anointed",
+      "passages": [
+        "Psalm 1:1–6",
+        "Psalm 2:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 102,
+      "date": "2027-02-09",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: the heavens declare, and the Lord is my shepherd",
+      "passages": [
+        "Psalm 19:1–14",
+        "Psalm 23:1–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 103,
+      "date": "2027-02-10",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: the Lord is my light, and the joy of forgiveness",
+      "passages": [
+        "Psalm 27:1–14",
+        "Psalm 32:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 104,
+      "date": "2027-02-11",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: God is our refuge, and my soul thirsts for you",
+      "passages": [
+        "Psalm 46:1–11",
+        "Psalm 63:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 105,
+      "date": "2027-02-12",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: when the wicked prosper, and teach us to number our days",
+      "passages": [
+        "Psalm 73:1–28",
+        "Psalm 90:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 106,
+      "date": "2027-02-13",
+      "phase": "books-of-the-bible",
+      "title": "Psalms: bless the Lord, O my soul; my help comes from the Lord",
+      "passages": [
+        "Psalm 103:1–22",
+        "Psalm 121:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 107,
+      "date": "2027-02-14",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Psalms: searched and known, and let everything that has breath praise the Lord",
+      "passages": [
+        "Psalm 139:1–24",
+        "Psalm 150:1–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 108,
+      "date": "2027-02-15",
+      "phase": "books-of-the-bible",
+      "title": "Proverbs: the beginning of wisdom, and trust in the Lord",
+      "passages": [
+        "Proverbs 1:1–19",
+        "Proverbs 3:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 109,
+      "date": "2027-02-16",
+      "phase": "books-of-the-bible",
+      "title": "Proverbs: guard your heart, for everything you do flows from it",
+      "passages": [
+        "Proverbs 4:1–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 110,
+      "date": "2027-02-17",
+      "phase": "books-of-the-bible",
+      "title": "Proverbs: diligence, and the mouth of the righteous",
+      "passages": [
+        "Proverbs 6:6–11",
+        "Proverbs 10:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 111,
+      "date": "2027-02-18",
+      "phase": "books-of-the-bible",
+      "title": "Proverbs: a gentle answer, and a friend who sticks closer than a brother",
+      "passages": [
+        "Proverbs 15:1–9",
+        "Proverbs 18:10–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 112,
+      "date": "2027-02-19",
+      "phase": "books-of-the-bible",
+      "title": "Proverbs: speak up for the voiceless, and a life of faithful strength",
+      "passages": [
+        "Proverbs 31:8–31"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 113,
+      "date": "2027-02-20",
+      "phase": "books-of-the-bible",
+      "title": "Ecclesiastes: meaningless under the sun?",
+      "passages": [
+        "Ecclesiastes 1:1–14",
+        "Ecclesiastes 2:9–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 114,
+      "date": "2027-02-21",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Ecclesiastes: a time for everything, and eternity in our hearts",
+      "passages": [
+        "Ecclesiastes 3:1–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 115,
+      "date": "2027-02-22",
+      "phase": "books-of-the-bible",
+      "title": "Ecclesiastes: remember your Creator, and fear God",
+      "passages": [
+        "Ecclesiastes 5:8–20",
+        "Ecclesiastes 12:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 116,
+      "date": "2027-02-23",
+      "phase": "books-of-the-bible",
+      "title": "Song of Songs: love that is strong and glad",
+      "passages": [
+        "Song of Songs 2:8–17",
+        "Song of Songs 4:9–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 117,
+      "date": "2027-02-24",
+      "phase": "books-of-the-bible",
+      "title": "Song of Songs: many waters cannot quench love",
+      "passages": [
+        "Song of Songs 8:5–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 118,
+      "date": "2027-02-25",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: come now, let us settle the matter — scarlet to white",
+      "passages": [
+        "Isaiah 1:1–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 119,
+      "date": "2027-02-26",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: holy, holy, holy — a prophet undone and sent",
+      "passages": [
+        "Isaiah 6:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 120,
+      "date": "2027-02-27",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: a child is born, a shoot from Jesse",
+      "passages": [
+        "Isaiah 9:1–7",
+        "Isaiah 11:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 121,
+      "date": "2027-02-28",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Isaiah: comfort my people — those who hope in the Lord renew their strength",
+      "passages": [
+        "Isaiah 40:1–31"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 122,
+      "date": "2027-03-01",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: the Suffering Servant",
+      "passages": [
+        "Isaiah 52:13–53:12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 123,
+      "date": "2027-03-02",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: come, all who are thirsty",
+      "passages": [
+        "Isaiah 55:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 124,
+      "date": "2027-03-03",
+      "phase": "books-of-the-bible",
+      "title": "Isaiah: good news for the poor, and a new heavens and a new earth",
+      "passages": [
+        "Isaiah 61:1–11",
+        "Isaiah 65:17–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 125,
+      "date": "2027-03-04",
+      "phase": "books-of-the-bible",
+      "title": "Jeremiah: before I formed you, I appointed you",
+      "passages": [
+        "Jeremiah 1:4–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 126,
+      "date": "2027-03-05",
+      "phase": "books-of-the-bible",
+      "title": "Jeremiah: my people have forsaken me, the spring of living water",
+      "passages": [
+        "Jeremiah 2:4–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 127,
+      "date": "2027-03-06",
+      "phase": "books-of-the-bible",
+      "title": "Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord",
+      "passages": [
+        "Jeremiah 17:5–10",
+        "Jeremiah 17:19–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 128,
+      "date": "2027-03-07",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Jeremiah: seek the peace of the city; I know the plans I have for you",
+      "passages": [
+        "Jeremiah 29:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 129,
+      "date": "2027-03-08",
+      "phase": "books-of-the-bible",
+      "title": "Jeremiah: a new covenant written on the heart",
+      "passages": [
+        "Jeremiah 31:31–37"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 130,
+      "date": "2027-03-09",
+      "phase": "books-of-the-bible",
+      "title": "Jeremiah: nothing is too hard for the Lord",
+      "passages": [
+        "Jeremiah 32:16–27",
+        "Jeremiah 38:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 131,
+      "date": "2027-03-10",
+      "phase": "books-of-the-bible",
+      "title": "Lamentations: a city weeps — pouring out your heart",
+      "passages": [
+        "Lamentations 1:1–11",
+        "Lamentations 2:11–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 132,
+      "date": "2027-03-11",
+      "phase": "books-of-the-bible",
+      "title": "Lamentations: great is your faithfulness; his mercies are new every morning",
+      "passages": [
+        "Lamentations 3:19–33"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 133,
+      "date": "2027-03-12",
+      "phase": "books-of-the-bible",
+      "title": "Ezekiel: visions of the glory of the Lord",
+      "passages": [
+        "Ezekiel 1:1–28"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 134,
+      "date": "2027-03-13",
+      "phase": "books-of-the-bible",
+      "title": "Ezekiel: the soul who sins will die; turn and live",
+      "passages": [
+        "Ezekiel 18:1–32"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 135,
+      "date": "2027-03-14",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Ezekiel: shepherds who feed themselves, and the true Shepherd",
+      "passages": [
+        "Ezekiel 34:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 136,
+      "date": "2027-03-15",
+      "phase": "books-of-the-bible",
+      "title": "Ezekiel: a new heart, and dry bones live",
+      "passages": [
+        "Ezekiel 36:22–32",
+        "Ezekiel 37:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 137,
+      "date": "2027-03-16",
+      "phase": "books-of-the-bible",
+      "title": "Ezekiel: a river from the temple — everything will live where the river flows",
+      "passages": [
+        "Ezekiel 47:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 138,
+      "date": "2027-03-17",
+      "phase": "books-of-the-bible",
+      "title": "Daniel: resolved not to defile himself",
+      "passages": [
+        "Daniel 1:1–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 139,
+      "date": "2027-03-18",
+      "phase": "books-of-the-bible",
+      "title": "Daniel: the fiery furnace — we will not serve your gods",
+      "passages": [
+        "Daniel 3:13–30"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 140,
+      "date": "2027-03-19",
+      "phase": "books-of-the-bible",
+      "title": "Daniel: the lion's den — a man who still prays",
+      "passages": [
+        "Daniel 6:1–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 141,
+      "date": "2027-03-20",
+      "phase": "books-of-the-bible",
+      "title": "Daniel: one like a son of man, and a prayer of confession",
+      "passages": [
+        "Daniel 7:9–14",
+        "Daniel 9:1–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 142,
+      "date": "2027-03-21",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Hosea: a faithful God and an unfaithful people",
+      "passages": [
+        "Hosea 1:1–11",
+        "Hosea 2:14–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 143,
+      "date": "2027-03-22",
+      "phase": "books-of-the-bible",
+      "title": "Hosea: come, let us return to the Lord",
+      "passages": [
+        "Hosea 6:1–6",
+        "Hosea 11:1–11",
+        "Hosea 14:1–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 144,
+      "date": "2027-03-23",
+      "phase": "books-of-the-bible",
+      "title": "Joel: return to me with all your heart; I will pour out my Spirit",
+      "passages": [
+        "Joel 2:12–32"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 145,
+      "date": "2027-03-24",
+      "phase": "books-of-the-bible",
+      "title": "Amos: let justice roll on like a river",
+      "passages": [
+        "Amos 5:14–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 146,
+      "date": "2027-03-25",
+      "phase": "books-of-the-bible",
+      "title": "Amos: the plumb line, and a promise to restore",
+      "passages": [
+        "Amos 7:7–9",
+        "Amos 9:11–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 147,
+      "date": "2027-03-26",
+      "phase": "books-of-the-bible",
+      "title": "Obadiah: pride goes before a fall; the kingdom will be the Lord's",
+      "passages": [
+        "Obadiah 1:1–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 148,
+      "date": "2027-03-27",
+      "phase": "books-of-the-bible",
+      "title": "Jonah: running from God, and a prayer from the deep",
+      "passages": [
+        "Jonah 1:1–17",
+        "Jonah 2:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 149,
+      "date": "2027-03-28",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Jonah: a reluctant preacher, and a God who pities Nineveh",
+      "passages": [
+        "Jonah 3:1–10",
+        "Jonah 4:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 150,
+      "date": "2027-03-29",
+      "phase": "books-of-the-bible",
+      "title": "Micah: from Bethlehem, a ruler over Israel",
+      "passages": [
+        "Micah 4:1–5",
+        "Micah 5:2–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 151,
+      "date": "2027-03-30",
+      "phase": "books-of-the-bible",
+      "title": "Micah: act justly, love mercy, walk humbly",
+      "passages": [
+        "Micah 6:6–8",
+        "Micah 7:18–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 152,
+      "date": "2027-03-31",
+      "phase": "books-of-the-bible",
+      "title": "Nahum: the Lord is slow to anger, but will not leave the guilty unpunished",
+      "passages": [
+        "Nahum 1:1–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 153,
+      "date": "2027-04-01",
+      "phase": "books-of-the-bible",
+      "title": "Habakkuk: how long, Lord? The righteous will live by faith",
+      "passages": [
+        "Habakkuk 1:1–11",
+        "Habakkuk 2:1–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 154,
+      "date": "2027-04-02",
+      "phase": "books-of-the-bible",
+      "title": "Habakkuk: yet I will rejoice in the Lord",
+      "passages": [
+        "Habakkuk 3:1–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 155,
+      "date": "2027-04-03",
+      "phase": "books-of-the-bible",
+      "title": "Zephaniah: the Lord your God is with you, a mighty warrior who saves",
+      "passages": [
+        "Zephaniah 3:9–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 156,
+      "date": "2027-04-04",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Haggai: rebuild the house; the glory of this present house",
+      "passages": [
+        "Haggai 1:1–15",
+        "Haggai 2:1–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 157,
+      "date": "2027-04-05",
+      "phase": "books-of-the-bible",
+      "title": "Zechariah: clean garments, and not by might nor by power",
+      "passages": [
+        "Zechariah 3:1–10",
+        "Zechariah 4:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 158,
+      "date": "2027-04-06",
+      "phase": "books-of-the-bible",
+      "title": "Zechariah: your king comes, humble and riding on a donkey",
+      "passages": [
+        "Zechariah 9:9–17",
+        "Zechariah 12:10",
+        "Zechariah 14:3–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 159,
+      "date": "2027-04-07",
+      "phase": "books-of-the-bible",
+      "title": "Malachi: where is the honor due me? Faithless hearts and covenant",
+      "passages": [
+        "Malachi 1:6–14",
+        "Malachi 2:13–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 160,
+      "date": "2027-04-08",
+      "phase": "books-of-the-bible",
+      "title": "Malachi: a refiner's fire, and the coming of Elijah",
+      "passages": [
+        "Malachi 3:1–12",
+        "Malachi 4:1–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 161,
+      "date": "2027-04-09",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: Immanuel — God with us",
+      "passages": [
+        "Matthew 1:18–25",
+        "Matthew 2:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 162,
+      "date": "2027-04-10",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: the Beatitudes — the good life of the kingdom",
+      "passages": [
+        "Matthew 5:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 163,
+      "date": "2027-04-11",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Matthew: fulfilling the Law — a righteousness that goes to the heart",
+      "passages": [
+        "Matthew 5:17–48"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 164,
+      "date": "2027-04-12",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: treasure in heaven, and do not worry",
+      "passages": [
+        "Matthew 6:19–34"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 165,
+      "date": "2027-04-13",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: the parable of the sower",
+      "passages": [
+        "Matthew 13:1–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 166,
+      "date": "2027-04-14",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: who do you say I am? Take up your cross",
+      "passages": [
+        "Matthew 16:13–28"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 167,
+      "date": "2027-04-15",
+      "phase": "books-of-the-bible",
+      "title": "Matthew: the cross, the empty tomb, and the Great Commission",
+      "passages": [
+        "Matthew 27:45–54",
+        "Matthew 28:1–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 168,
+      "date": "2027-04-16",
+      "phase": "books-of-the-bible",
+      "title": "Mark: the beginning of the good news — follow me",
+      "passages": [
+        "Mark 1:1–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 169,
+      "date": "2027-04-17",
+      "phase": "books-of-the-bible",
+      "title": "Mark: your sins are forgiven; I have come for sinners",
+      "passages": [
+        "Mark 2:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 170,
+      "date": "2027-04-18",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Mark: who is this? Even the wind and the dead obey him",
+      "passages": [
+        "Mark 4:35–41",
+        "Mark 5:21–43"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 171,
+      "date": "2027-04-19",
+      "phase": "books-of-the-bible",
+      "title": "Mark: the Christ, the cross, and the transfiguration",
+      "passages": [
+        "Mark 8:27–38",
+        "Mark 9:2–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 172,
+      "date": "2027-04-20",
+      "phase": "books-of-the-bible",
+      "title": "Mark: the Son of Man came to serve, and a centurion believes",
+      "passages": [
+        "Mark 10:35–45",
+        "Mark 15:33–39"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 173,
+      "date": "2027-04-21",
+      "phase": "books-of-the-bible",
+      "title": "Luke: a virgin conceives, and shepherds hear good news",
+      "passages": [
+        "Luke 1:26–38",
+        "Luke 2:1–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 174,
+      "date": "2027-04-22",
+      "phase": "books-of-the-bible",
+      "title": "Luke: the Spirit of the Lord is on me",
+      "passages": [
+        "Luke 4:14–30"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 175,
+      "date": "2027-04-23",
+      "phase": "books-of-the-bible",
+      "title": "Luke: the good Samaritan — who is my neighbor?",
+      "passages": [
+        "Luke 10:25–37"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 176,
+      "date": "2027-04-24",
+      "phase": "books-of-the-bible",
+      "title": "Luke: lost sheep, lost coin, lost son",
+      "passages": [
+        "Luke 15:1–32"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 177,
+      "date": "2027-04-25",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Luke: the Pharisee and the tax collector; Zacchaeus",
+      "passages": [
+        "Luke 18:9–17",
+        "Luke 19:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 178,
+      "date": "2027-04-26",
+      "phase": "books-of-the-bible",
+      "title": "Luke: the last supper, and a garden of surrender",
+      "passages": [
+        "Luke 22:14–23",
+        "Luke 22:39–46"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 179,
+      "date": "2027-04-27",
+      "phase": "books-of-the-bible",
+      "title": "Luke: the road to Emmaus — the risen Lord opens the Scriptures",
+      "passages": [
+        "Luke 24:13–35",
+        "Luke 24:44–53"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 180,
+      "date": "2027-04-28",
+      "phase": "books-of-the-bible",
+      "title": "John: the Word became flesh",
+      "passages": [
+        "John 1:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 181,
+      "date": "2027-04-29",
+      "phase": "books-of-the-bible",
+      "title": "John: you must be born again",
+      "passages": [
+        "John 3:1–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 182,
+      "date": "2027-04-30",
+      "phase": "books-of-the-bible",
+      "title": "John: living water, and a Samaritan town believes",
+      "passages": [
+        "John 4:1–26",
+        "John 4:39–42"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 183,
+      "date": "2027-05-01",
+      "phase": "books-of-the-bible",
+      "title": "John: I am the good shepherd",
+      "passages": [
+        "John 10:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 184,
+      "date": "2027-05-02",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — John: I am the resurrection and the life",
+      "passages": [
+        "John 11:17–44"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 185,
+      "date": "2027-05-03",
+      "phase": "books-of-the-bible",
+      "title": "John: a basin and a towel; abide in me",
+      "passages": [
+        "John 13:1–17",
+        "John 15:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 186,
+      "date": "2027-05-04",
+      "phase": "books-of-the-bible",
+      "title": "John: it is finished; blessed are those who have not seen and yet believe",
+      "passages": [
+        "John 19:16–30",
+        "John 20:19–31"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 187,
+      "date": "2027-05-05",
+      "phase": "books-of-the-bible",
+      "title": "Acts: you will be my witnesses; the Spirit comes at Pentecost",
+      "passages": [
+        "Acts 1:1–11",
+        "Acts 2:1–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 188,
+      "date": "2027-05-06",
+      "phase": "books-of-the-bible",
+      "title": "Acts: in the name of Jesus, we cannot help speaking",
+      "passages": [
+        "Acts 3:1–16",
+        "Acts 4:8–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 189,
+      "date": "2027-05-07",
+      "phase": "books-of-the-bible",
+      "title": "Acts: Stephen's witness, and an Ethiopian believes",
+      "passages": [
+        "Acts 7:51–60",
+        "Acts 8:26–40"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 190,
+      "date": "2027-05-08",
+      "phase": "books-of-the-bible",
+      "title": "Acts: Saul meets Jesus on the road",
+      "passages": [
+        "Acts 9:1–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 191,
+      "date": "2027-05-09",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Acts: God shows no favoritism",
+      "passages": [
+        "Acts 10:1–35",
+        "Acts 10:44–48"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 192,
+      "date": "2027-05-10",
+      "phase": "books-of-the-bible",
+      "title": "Acts: the Macedonian call, and a jailer believes",
+      "passages": [
+        "Acts 16:6–34"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 193,
+      "date": "2027-05-11",
+      "phase": "books-of-the-bible",
+      "title": "Acts: an unknown God, a tearful farewell, and the gospel unhindered",
+      "passages": [
+        "Acts 17:22–34",
+        "Acts 20:17–32",
+        "Acts 28:23–31"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 194,
+      "date": "2027-05-12",
+      "phase": "books-of-the-bible",
+      "title": "Romans: not ashamed of the gospel",
+      "passages": [
+        "Romans 1:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 195,
+      "date": "2027-05-13",
+      "phase": "books-of-the-bible",
+      "title": "Romans: all have sinned, and justification by grace",
+      "passages": [
+        "Romans 3:9–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 196,
+      "date": "2027-05-14",
+      "phase": "books-of-the-bible",
+      "title": "Romans: peace with God, and love poured out",
+      "passages": [
+        "Romans 5:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 197,
+      "date": "2027-05-15",
+      "phase": "books-of-the-bible",
+      "title": "Romans: no condemnation, and the Spirit of adoption",
+      "passages": [
+        "Romans 8:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 198,
+      "date": "2027-05-16",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Romans: more than conquerors; nothing can separate us",
+      "passages": [
+        "Romans 8:18–39"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 199,
+      "date": "2027-05-17",
+      "phase": "books-of-the-bible",
+      "title": "Romans: living sacrifices, and overcoming evil with good",
+      "passages": [
+        "Romans 12:1–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 200,
+      "date": "2027-05-18",
+      "phase": "books-of-the-bible",
+      "title": "Romans: love fulfills the law; accept one another",
+      "passages": [
+        "Romans 13:8–14",
+        "Romans 15:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 201,
+      "date": "2027-05-19",
+      "phase": "books-of-the-bible",
+      "title": "1 Corinthians: the foolishness of the cross",
+      "passages": [
+        "1 Corinthians 1:18–31",
+        "1 Corinthians 2:1–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 202,
+      "date": "2027-05-20",
+      "phase": "books-of-the-bible",
+      "title": "1 Corinthians: your body is a temple; honor God with it",
+      "passages": [
+        "1 Corinthians 6:12–20",
+        "1 Corinthians 7:1–7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 203,
+      "date": "2027-05-21",
+      "phase": "books-of-the-bible",
+      "title": "1 Corinthians: one body, and the greatest of these is love",
+      "passages": [
+        "1 Corinthians 12:12–27",
+        "1 Corinthians 13:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 204,
+      "date": "2027-05-22",
+      "phase": "books-of-the-bible",
+      "title": "1 Corinthians: the gospel of first importance, and the risen Christ",
+      "passages": [
+        "1 Corinthians 15:1–28"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 205,
+      "date": "2027-05-23",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 1 Corinthians: victory over death; stand firm in the faith",
+      "passages": [
+        "1 Corinthians 15:50–58",
+        "1 Corinthians 16:13–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 206,
+      "date": "2027-05-24",
+      "phase": "books-of-the-bible",
+      "title": "2 Corinthians: the God of all comfort",
+      "passages": [
+        "2 Corinthians 1:3–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 207,
+      "date": "2027-05-25",
+      "phase": "books-of-the-bible",
+      "title": "2 Corinthians: treasure in jars of clay",
+      "passages": [
+        "2 Corinthians 4:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 208,
+      "date": "2027-05-26",
+      "phase": "books-of-the-bible",
+      "title": "2 Corinthians: the ministry of reconciliation",
+      "passages": [
+        "2 Corinthians 5:11–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 209,
+      "date": "2027-05-27",
+      "phase": "books-of-the-bible",
+      "title": "2 Corinthians: my grace is sufficient; power in weakness",
+      "passages": [
+        "2 Corinthians 12:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 210,
+      "date": "2027-05-28",
+      "phase": "books-of-the-bible",
+      "title": "Galatians: one gospel, and crucified with Christ",
+      "passages": [
+        "Galatians 1:1–12",
+        "Galatians 2:15–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 211,
+      "date": "2027-05-29",
+      "phase": "books-of-the-bible",
+      "title": "Galatians: justified by faith, and all one in Christ",
+      "passages": [
+        "Galatians 3:1–14",
+        "Galatians 3:26–29"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 212,
+      "date": "2027-05-30",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Galatians: walk by the Spirit; do not grow weary",
+      "passages": [
+        "Galatians 5:13–26",
+        "Galatians 6:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 213,
+      "date": "2027-05-31",
+      "phase": "books-of-the-bible",
+      "title": "Ephesians: every spiritual blessing in Christ",
+      "passages": [
+        "Ephesians 1:3–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 214,
+      "date": "2027-06-01",
+      "phase": "books-of-the-bible",
+      "title": "Ephesians: from far away to one new humanity; rooted in love",
+      "passages": [
+        "Ephesians 2:11–22",
+        "Ephesians 3:14–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 215,
+      "date": "2027-06-02",
+      "phase": "books-of-the-bible",
+      "title": "Ephesians: walk worthy — one body, a new self",
+      "passages": [
+        "Ephesians 4:1–16",
+        "Ephesians 4:22–32"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 216,
+      "date": "2027-06-03",
+      "phase": "books-of-the-bible",
+      "title": "Ephesians: walk in love, and put on the full armor",
+      "passages": [
+        "Ephesians 5:1–21",
+        "Ephesians 6:10–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 217,
+      "date": "2027-06-04",
+      "phase": "books-of-the-bible",
+      "title": "Philippians: to live is Christ",
+      "passages": [
+        "Philippians 1:3–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 218,
+      "date": "2027-06-05",
+      "phase": "books-of-the-bible",
+      "title": "Philippians: the mindset of Christ — humility and joy",
+      "passages": [
+        "Philippians 2:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 219,
+      "date": "2027-06-06",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Philippians: pressing on; rejoice, and I can do all this through him",
+      "passages": [
+        "Philippians 3:7–14",
+        "Philippians 4:4–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 220,
+      "date": "2027-06-07",
+      "phase": "books-of-the-bible",
+      "title": "Colossians: Christ supreme, and fullness in him",
+      "passages": [
+        "Colossians 1:15–23",
+        "Colossians 2:6–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 221,
+      "date": "2027-06-08",
+      "phase": "books-of-the-bible",
+      "title": "Colossians: set your minds on things above",
+      "passages": [
+        "Colossians 3:1–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 222,
+      "date": "2027-06-09",
+      "phase": "books-of-the-bible",
+      "title": "Colossians: the household of God, and wisdom toward outsiders",
+      "passages": [
+        "Colossians 3:18–4:6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 223,
+      "date": "2027-06-10",
+      "phase": "books-of-the-bible",
+      "title": "1 Thessalonians: a gospel that came with power, and a life worthy of it",
+      "passages": [
+        "1 Thessalonians 1:1–10",
+        "1 Thessalonians 2:1–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 224,
+      "date": "2027-06-11",
+      "phase": "books-of-the-bible",
+      "title": "1 Thessalonians: the Lord will come; be awake, and be sanctified through and through",
+      "passages": [
+        "1 Thessalonians 4:13–18",
+        "1 Thessalonians 5:1–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 225,
+      "date": "2027-06-12",
+      "phase": "books-of-the-bible",
+      "title": "2 Thessalonians: endurance in affliction, and standing firm",
+      "passages": [
+        "2 Thessalonians 1:3–12",
+        "2 Thessalonians 2:13–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 226,
+      "date": "2027-06-13",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 2 Thessalonians: do not be idle; the Lord is faithful",
+      "passages": [
+        "2 Thessalonians 3:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 227,
+      "date": "2027-06-14",
+      "phase": "books-of-the-bible",
+      "title": "1 Timothy: the worst of sinners, and prayer for all people",
+      "passages": [
+        "1 Timothy 1:12–17",
+        "1 Timothy 2:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 228,
+      "date": "2027-06-15",
+      "phase": "books-of-the-bible",
+      "title": "1 Timothy: godly leadership, and watch your life and doctrine",
+      "passages": [
+        "1 Timothy 3:1–13",
+        "1 Timothy 4:11–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 229,
+      "date": "2027-06-16",
+      "phase": "books-of-the-bible",
+      "title": "1 Timothy: godliness with contentment; fight the good fight",
+      "passages": [
+        "1 Timothy 6:6–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 230,
+      "date": "2027-06-17",
+      "phase": "books-of-the-bible",
+      "title": "2 Timothy: fan into flame the gift; endure as a good soldier",
+      "passages": [
+        "2 Timothy 1:3–14",
+        "2 Timothy 2:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 231,
+      "date": "2027-06-18",
+      "phase": "books-of-the-bible",
+      "title": "2 Timothy: all Scripture is God-breathed; finish the race",
+      "passages": [
+        "2 Timothy 3:10–17",
+        "2 Timothy 4:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 232,
+      "date": "2027-06-19",
+      "phase": "books-of-the-bible",
+      "title": "Titus: sound doctrine that produces sound lives",
+      "passages": [
+        "Titus 1:5–9",
+        "Titus 2:1–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 233,
+      "date": "2027-06-20",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Titus: grace teaches us to say no, and yes to good works",
+      "passages": [
+        "Titus 2:11–15",
+        "Titus 3:3–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 234,
+      "date": "2027-06-21",
+      "phase": "books-of-the-bible",
+      "title": "Philemon: a runaway, a brother, and the power of forgiveness",
+      "passages": [
+        "Philemon 1:1–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 235,
+      "date": "2027-06-22",
+      "phase": "books-of-the-bible",
+      "title": "Hebrews: the Son superior to angels — pay careful attention",
+      "passages": [
+        "Hebrews 1:1–14",
+        "Hebrews 2:1–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 236,
+      "date": "2027-06-23",
+      "phase": "books-of-the-bible",
+      "title": "Hebrews: a great high priest who sympathizes",
+      "passages": [
+        "Hebrews 4:14–16",
+        "Hebrews 5:7–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 237,
+      "date": "2027-06-24",
+      "phase": "books-of-the-bible",
+      "title": "Hebrews: a better covenant, and blood that cleanses the conscience",
+      "passages": [
+        "Hebrews 8:1–13",
+        "Hebrews 9:11–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 238,
+      "date": "2027-06-25",
+      "phase": "books-of-the-bible",
+      "title": "Hebrews: draw near; faith is confidence in what we hope for",
+      "passages": [
+        "Hebrews 10:19–25",
+        "Hebrews 11:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 239,
+      "date": "2027-06-26",
+      "phase": "books-of-the-bible",
+      "title": "Hebrews: run with perseverance; Jesus is the same yesterday, today, and forever",
+      "passages": [
+        "Hebrews 12:1–13",
+        "Hebrews 13:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 240,
+      "date": "2027-06-27",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — James: consider it pure joy — faith, trials, and every good gift",
+      "passages": [
+        "James 1:2–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 241,
+      "date": "2027-06-28",
+      "phase": "books-of-the-bible",
+      "title": "James: be doers of the word; faith without works is dead",
+      "passages": [
+        "James 1:19–27",
+        "James 2:14–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 242,
+      "date": "2027-06-29",
+      "phase": "books-of-the-bible",
+      "title": "James: tame the tongue; humble yourselves; pray for one another",
+      "passages": [
+        "James 3:1–12",
+        "James 4:1–10",
+        "James 5:13–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 243,
+      "date": "2027-06-30",
+      "phase": "books-of-the-bible",
+      "title": "1 Peter: a living hope, and be holy",
+      "passages": [
+        "1 Peter 1:3–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 244,
+      "date": "2027-07-01",
+      "phase": "books-of-the-bible",
+      "title": "1 Peter: a chosen people, and Christ suffered for you",
+      "passages": [
+        "1 Peter 2:9–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 245,
+      "date": "2027-07-02",
+      "phase": "books-of-the-bible",
+      "title": "1 Peter: always be prepared; suffer well; cast your anxiety on him",
+      "passages": [
+        "1 Peter 3:8–17",
+        "1 Peter 4:12–19",
+        "1 Peter 5:6–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 246,
+      "date": "2027-07-03",
+      "phase": "books-of-the-bible",
+      "title": "2 Peter: everything we need for a godly life",
+      "passages": [
+        "2 Peter 1:3–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 247,
+      "date": "2027-07-04",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — 2 Peter: the day of the Lord; grow in grace",
+      "passages": [
+        "2 Peter 3:1–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 248,
+      "date": "2027-07-05",
+      "phase": "books-of-the-bible",
+      "title": "1 John: see what great love the Father has lavished on us",
+      "passages": [
+        "1 John 2:28–3:10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 249,
+      "date": "2027-07-06",
+      "phase": "books-of-the-bible",
+      "title": "1 John: love one another, because God is love",
+      "passages": [
+        "1 John 3:11–24",
+        "1 John 4:7–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 250,
+      "date": "2027-07-07",
+      "phase": "books-of-the-bible",
+      "title": "1 John: this is the victory — faith, and that you may know you have eternal life",
+      "passages": [
+        "1 John 5:1–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 251,
+      "date": "2027-07-08",
+      "phase": "books-of-the-bible",
+      "title": "2 John: walk in truth and love; watch out for deceivers",
+      "passages": [
+        "2 John 1:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 252,
+      "date": "2027-07-09",
+      "phase": "books-of-the-bible",
+      "title": "3 John: faithful hospitality; do not imitate what is evil but what is good",
+      "passages": [
+        "3 John 1:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 253,
+      "date": "2027-07-10",
+      "phase": "books-of-the-bible",
+      "title": "Jude: contend for the faith; to him who is able to keep you from stumbling",
+      "passages": [
+        "Jude 1:1–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 254,
+      "date": "2027-07-11",
+      "phase": "books-of-the-bible",
+      "title": "Sunday: connect with this week's Grace Life sermon — Revelation: a vision of the risen Christ among the lampstands",
+      "passages": [
+        "Revelation 1:9–20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 255,
+      "date": "2027-07-12",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: letters to the churches — first love, and lukewarm no more",
+      "passages": [
+        "Revelation 2:1–11",
+        "Revelation 3:14–22"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 256,
+      "date": "2027-07-13",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: the Lamb who was slain is worthy",
+      "passages": [
+        "Revelation 5:1–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 257,
+      "date": "2027-07-14",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: a multitude no one can count, and the accuser thrown down",
+      "passages": [
+        "Revelation 7:9–17",
+        "Revelation 12:7–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 258,
+      "date": "2027-07-15",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: the wedding of the Lamb, and the King of kings",
+      "passages": [
+        "Revelation 19:1–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 259,
+      "date": "2027-07-16",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: the last judgment, and a new heaven and a new earth",
+      "passages": [
+        "Revelation 20:11–15",
+        "Revelation 21:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 260,
+      "date": "2027-07-17",
+      "phase": "books-of-the-bible",
+      "title": "Revelation: the river of life; yes, I am coming soon",
+      "passages": [
+        "Revelation 21:9–27",
+        "Revelation 22:1–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 261,
+      "date": "2027-07-18",
+      "phase": "marriage",
+      "title": "Sunday: connect with this week's Grace Life sermon — Marriage as covenant, not contract",
+      "passages": [
+        "Malachi 2:13–16",
+        "Matthew 19:4–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 262,
+      "date": "2027-07-19",
+      "phase": "marriage",
+      "title": "The design of marriage: one flesh",
+      "passages": [
+        "Genesis 2:18–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 263,
+      "date": "2027-07-20",
+      "phase": "marriage",
+      "title": "Leaving and cleaving",
+      "passages": [
+        "Genesis 2:24",
+        "Matthew 19:4–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 264,
+      "date": "2027-07-21",
+      "phase": "marriage",
+      "title": "A husband's duty: love her as Christ loved the church",
+      "passages": [
+        "Ephesians 5:25–33"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 265,
+      "date": "2027-07-22",
+      "phase": "marriage",
+      "title": "A husband's duty: live with her according to knowledge",
+      "passages": [
+        "1 Peter 3:7",
+        "Colossians 3:19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 266,
+      "date": "2027-07-23",
+      "phase": "marriage",
+      "title": "A wife's honor, help, and holy strength",
+      "passages": [
+        "Proverbs 31:10–12",
+        "Ephesians 5:22–24",
+        "Genesis 2:18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 267,
+      "date": "2027-07-24",
+      "phase": "marriage",
+      "title": "Mutual honor: submit to one another out of reverence for Christ",
+      "passages": [
+        "Ephesians 5:21",
+        "Philippians 2:1–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 268,
+      "date": "2027-07-25",
+      "phase": "marriage",
+      "title": "Sunday: connect with this week's Grace Life sermon — The marriage bed: holiness and joy",
+      "passages": [
+        "Hebrews 13:4",
+        "Proverbs 5:15–23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 269,
+      "date": "2027-07-26",
+      "phase": "marriage",
+      "title": "Intimacy: belonging to one another",
+      "passages": [
+        "1 Corinthians 7:1–5",
+        "Song of Songs 4:9–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 270,
+      "date": "2027-07-27",
+      "phase": "marriage",
+      "title": "Desire, delight, and self-control",
+      "passages": [
+        "Song of Songs 7:10–13",
+        "1 Thessalonians 4:3–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 271,
+      "date": "2027-07-28",
+      "phase": "marriage",
+      "title": "Many waters cannot quench love",
+      "passages": [
+        "Song of Songs 8:6–7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 272,
+      "date": "2027-07-29",
+      "phase": "marriage",
+      "title": "Talking honestly: listen before you speak",
+      "passages": [
+        "James 1:19–20",
+        "Proverbs 18:13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 273,
+      "date": "2027-07-30",
+      "phase": "marriage",
+      "title": "A gentle answer and careful words at home",
+      "passages": [
+        "Proverbs 15:1",
+        "Ephesians 4:29"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 274,
+      "date": "2027-07-31",
+      "phase": "marriage",
+      "title": "Conflict without tearing down",
+      "passages": [
+        "Matthew 5:23–26",
+        "Ephesians 4:26–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 275,
+      "date": "2027-08-01",
+      "phase": "marriage",
+      "title": "Sunday: connect with this week's Grace Life sermon — Forgiveness in the home",
+      "passages": [
+        "Colossians 3:12–15",
+        "Matthew 6:14–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 276,
+      "date": "2027-08-02",
+      "phase": "marriage",
+      "title": "Praying together as husband and wife",
+      "passages": [
+        "Matthew 18:19–20",
+        "1 Peter 3:7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 277,
+      "date": "2027-08-03",
+      "phase": "marriage",
+      "title": "Serving one another in ordinary days",
+      "passages": [
+        "Galatians 5:13",
+        "John 13:12–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 278,
+      "date": "2027-08-04",
+      "phase": "marriage",
+      "title": "The two shall become one",
+      "passages": [
+        "Mark 10:6–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 279,
+      "date": "2027-08-05",
+      "phase": "marriage",
+      "title": "When marriage is hard: endurance and hope",
+      "passages": [
+        "1 Corinthians 13:4–7",
+        "Romans 12:9–12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 280,
+      "date": "2027-08-06",
+      "phase": "marriage",
+      "title": "Guarding the covenant: purity and a hedge",
+      "passages": [
+        "Job 31:1",
+        "Matthew 5:27–30",
+        "Proverbs 6:20–35"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 281,
+      "date": "2027-08-07",
+      "phase": "marriage",
+      "title": "Repairing trust after hurt",
+      "passages": [
+        "Luke 17:3–4",
+        "Psalm 51:10–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 282,
+      "date": "2027-08-08",
+      "phase": "marriage",
+      "title": "Sunday: connect with this week's Grace Life sermon — Shared mission: building a house on the rock",
+      "passages": [
+        "Matthew 7:24–27",
+        "Psalm 127:1"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 283,
+      "date": "2027-08-09",
+      "phase": "marriage",
+      "title": "Honoring in-laws, and leaving well",
+      "passages": [
+        "Genesis 2:24",
+        "Ruth 1:16–17",
+        "1 Timothy 5:4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 284,
+      "date": "2027-08-10",
+      "phase": "marriage",
+      "title": "Joy, friendship, and laughing together",
+      "passages": [
+        "Ecclesiastes 4:9–12",
+        "Proverbs 17:22",
+        "Song of Songs 5:16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 285,
+      "date": "2027-08-11",
+      "phase": "marriage",
+      "title": "Love never fails",
+      "passages": [
+        "1 Corinthians 13:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 286,
+      "date": "2027-08-12",
+      "phase": "marriage",
+      "title": "A lifetime of cherishing",
+      "passages": [
+        "Proverbs 5:18–19",
+        "Ecclesiastes 9:9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 287,
+      "date": "2027-08-13",
+      "phase": "marriage",
+      "title": "When you disagree: unity without erasing each other",
+      "passages": [
+        "Romans 14:19",
+        "Philippians 2:2–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 288,
+      "date": "2027-08-14",
+      "phase": "marriage",
+      "title": "A charge to husbands and wives",
+      "passages": [
+        "Ephesians 5:21–33",
+        "1 Peter 3:1–7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 289,
+      "date": "2027-08-15",
+      "phase": "parenting",
+      "title": "Sunday: connect with this week's Grace Life sermon — Teach your children diligently",
+      "passages": [
+        "Deuteronomy 6:4–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 290,
+      "date": "2027-08-16",
+      "phase": "parenting",
+      "title": "Fathers, do not exasperate; bring them up in the Lord",
+      "passages": [
+        "Ephesians 6:4",
+        "Colossians 3:21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 291,
+      "date": "2027-08-17",
+      "phase": "parenting",
+      "title": "Children, honor your father and mother",
+      "passages": [
+        "Exodus 20:12",
+        "Ephesians 6:1–3"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 292,
+      "date": "2027-08-18",
+      "phase": "parenting",
+      "title": "Children are a heritage from the Lord",
+      "passages": [
+        "Psalm 127:3–5",
+        "Psalm 128:1–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 293,
+      "date": "2027-08-19",
+      "phase": "parenting",
+      "title": "As for me and my house, we will serve the Lord",
+      "passages": [
+        "Joshua 24:14–15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 294,
+      "date": "2027-08-20",
+      "phase": "parenting",
+      "title": "Family worship in ordinary time",
+      "passages": [
+        "Deuteronomy 6:6–9",
+        "Psalm 78:1–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 295,
+      "date": "2027-08-21",
+      "phase": "parenting",
+      "title": "Discipline that loves, not that crushes",
+      "passages": [
+        "Proverbs 13:24",
+        "Hebrews 12:5–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 296,
+      "date": "2027-08-22",
+      "phase": "parenting",
+      "title": "Sunday: connect with this week's Grace Life sermon — Train a child in the way they should go",
+      "passages": [
+        "Proverbs 22:6",
+        "Deuteronomy 11:18–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 297,
+      "date": "2027-08-23",
+      "phase": "parenting",
+      "title": "Tell the next generation the praiseworthy deeds of the Lord",
+      "passages": [
+        "Psalm 78:4–8",
+        "Joel 1:3"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 298,
+      "date": "2027-08-24",
+      "phase": "parenting",
+      "title": "Your example preaches louder than your rules",
+      "passages": [
+        "1 Corinthians 11:1",
+        "Philippians 4:9",
+        "Deuteronomy 4:9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 299,
+      "date": "2027-08-25",
+      "phase": "parenting",
+      "title": "Patience with little hearts",
+      "passages": [
+        "1 Thessalonians 2:7–12",
+        "2 Timothy 2:24–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 300,
+      "date": "2027-08-26",
+      "phase": "parenting",
+      "title": "Let the little children come to me",
+      "passages": [
+        "Mark 10:13–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 301,
+      "date": "2027-08-27",
+      "phase": "parenting",
+      "title": "A parent's prayer",
+      "passages": [
+        "1 Samuel 1:27–28",
+        "3 John 1:4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 302,
+      "date": "2027-08-28",
+      "phase": "parenting",
+      "title": "When a child wanders: the Father who runs",
+      "passages": [
+        "Luke 15:11–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 303,
+      "date": "2027-08-29",
+      "phase": "parenting",
+      "title": "Sunday: connect with this week's Grace Life sermon — Wisdom for daughters and sons",
+      "passages": [
+        "Proverbs 1:8–9",
+        "Proverbs 4:1–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 304,
+      "date": "2027-08-30",
+      "phase": "parenting",
+      "title": "Protecting innocence, and preparing them for the world",
+      "passages": [
+        "Matthew 10:16",
+        "Philippians 2:15",
+        "Proverbs 4:23"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 305,
+      "date": "2027-08-31",
+      "phase": "parenting",
+      "title": "Justice, kindness, and humility at home",
+      "passages": [
+        "Micah 6:8",
+        "Colossians 3:12–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 306,
+      "date": "2027-09-01",
+      "phase": "parenting",
+      "title": "Honoring the unique child God gave you",
+      "passages": [
+        "Psalm 139:13–16",
+        "Proverbs 22:6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 307,
+      "date": "2027-09-02",
+      "phase": "parenting",
+      "title": "When your children ask, tell them what the Lord has done",
+      "passages": [
+        "Deuteronomy 6:20–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 308,
+      "date": "2027-09-03",
+      "phase": "parenting",
+      "title": "Shepherding a family under pressure",
+      "passages": [
+        "Psalm 34:11",
+        "1 Peter 5:2–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 309,
+      "date": "2027-09-04",
+      "phase": "parenting",
+      "title": "Blessing your children on purpose",
+      "passages": [
+        "Numbers 6:22–27",
+        "Genesis 48:15–16",
+        "Mark 10:16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 310,
+      "date": "2027-09-05",
+      "phase": "money",
+      "title": "Sunday: connect with this week's Grace Life sermon — The earth is the Lord's: you are a steward",
+      "passages": [
+        "Psalm 24:1",
+        "1 Chronicles 29:11–14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 311,
+      "date": "2027-09-06",
+      "phase": "money",
+      "title": "The borrower is slave to the lender",
+      "passages": [
+        "Proverbs 22:7",
+        "Romans 13:8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 312,
+      "date": "2027-09-07",
+      "phase": "money",
+      "title": "Becoming free from the yoke of debt",
+      "passages": [
+        "Proverbs 22:3",
+        "2 Kings 4:1–7",
+        "Romans 13:7–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 313,
+      "date": "2027-09-08",
+      "phase": "money",
+      "title": "Contentment: godliness with enough",
+      "passages": [
+        "1 Timothy 6:6–10",
+        "Philippians 4:11–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 314,
+      "date": "2027-09-09",
+      "phase": "money",
+      "title": "You cannot serve both God and money",
+      "passages": [
+        "Matthew 6:19–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 315,
+      "date": "2027-09-10",
+      "phase": "money",
+      "title": "Seek first the kingdom, and do not worry",
+      "passages": [
+        "Matthew 6:25–34"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 316,
+      "date": "2027-09-11",
+      "phase": "money",
+      "title": "Diligence versus get-rich-quick",
+      "passages": [
+        "Proverbs 13:11",
+        "Proverbs 21:5",
+        "Proverbs 28:20"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 317,
+      "date": "2027-09-12",
+      "phase": "money",
+      "title": "Sunday: connect with this week's Grace Life sermon — Honest scales: integrity with money",
+      "passages": [
+        "Proverbs 11:1",
+        "Leviticus 19:35–36",
+        "2 Corinthians 8:21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 318,
+      "date": "2027-09-13",
+      "phase": "money",
+      "title": "Greed, coveting, and the love of money",
+      "passages": [
+        "Exodus 20:17",
+        "Luke 12:13–21",
+        "1 Timothy 6:9–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 319,
+      "date": "2027-09-14",
+      "phase": "money",
+      "title": "Treasure in heaven: a rich man and a needle",
+      "passages": [
+        "Mark 10:17–27",
+        "Matthew 6:19–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 320,
+      "date": "2027-09-15",
+      "phase": "money",
+      "title": "The tithe and firstfruits",
+      "passages": [
+        "Malachi 3:8–12",
+        "Proverbs 3:9–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 321,
+      "date": "2027-09-16",
+      "phase": "money",
+      "title": "Cheerful, sacrificial generosity",
+      "passages": [
+        "2 Corinthians 8:1–9",
+        "2 Corinthians 9:6–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 322,
+      "date": "2027-09-17",
+      "phase": "money",
+      "title": "It is more blessed to give than to receive",
+      "passages": [
+        "Acts 20:32–35"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 323,
+      "date": "2027-09-18",
+      "phase": "money",
+      "title": "Saving with wisdom, hoarding with fear",
+      "passages": [
+        "Proverbs 6:6–8",
+        "Proverbs 21:20",
+        "Luke 12:16–21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 324,
+      "date": "2027-09-19",
+      "phase": "money",
+      "title": "Sunday: connect with this week's Grace Life sermon — Providing for your household",
+      "passages": [
+        "1 Timothy 5:8",
+        "Proverbs 27:23–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 325,
+      "date": "2027-09-20",
+      "phase": "money",
+      "title": "The poor, the weak, and open hands",
+      "passages": [
+        "Proverbs 19:17",
+        "Deuteronomy 15:7–11",
+        "James 2:14–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 326,
+      "date": "2027-09-21",
+      "phase": "money",
+      "title": "Taxes, Caesar, and a clean conscience",
+      "passages": [
+        "Matthew 22:15–22",
+        "Romans 13:6–7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 327,
+      "date": "2027-09-22",
+      "phase": "money",
+      "title": "Wealth that rusts, and a life that lasts",
+      "passages": [
+        "James 5:1–6",
+        "1 Timothy 6:17–19"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 328,
+      "date": "2027-09-23",
+      "phase": "money",
+      "title": "Honor the Lord with your wealth",
+      "passages": [
+        "Proverbs 3:9–10",
+        "Psalm 37:16–26"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 329,
+      "date": "2027-09-24",
+      "phase": "money",
+      "title": "A budget of the heart: where your treasure is",
+      "passages": [
+        "Matthew 6:21",
+        "Luke 16:10–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 330,
+      "date": "2027-09-25",
+      "phase": "money",
+      "title": "Leaving a wise inheritance",
+      "passages": [
+        "Proverbs 13:22",
+        "Psalm 112:1–5",
+        "2 Corinthians 12:14"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 331,
+      "date": "2027-09-26",
+      "phase": "work",
+      "title": "Sunday: connect with this week's Grace Life sermon — Work as worship: from the beginning God worked",
+      "passages": [
+        "Genesis 1:26–28",
+        "Genesis 2:15"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 332,
+      "date": "2027-09-27",
+      "phase": "work",
+      "title": "Six days you shall labor",
+      "passages": [
+        "Exodus 20:8–11",
+        "Colossians 3:23–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 333,
+      "date": "2027-09-28",
+      "phase": "work",
+      "title": "Work with all your heart, as working for the Lord",
+      "passages": [
+        "Colossians 3:22–24",
+        "Ephesians 6:5–8"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 334,
+      "date": "2027-09-29",
+      "phase": "work",
+      "title": "Integrity when no one is watching",
+      "passages": [
+        "Proverbs 11:3",
+        "Daniel 6:3–5"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 335,
+      "date": "2027-09-30",
+      "phase": "work",
+      "title": "Skill, excellence, and a job done well",
+      "passages": [
+        "Proverbs 22:29",
+        "Exodus 31:1–6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 336,
+      "date": "2027-10-01",
+      "phase": "work",
+      "title": "Whatever you do, do it all for the Lord",
+      "passages": [
+        "1 Corinthians 10:31",
+        "Colossians 3:17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 337,
+      "date": "2027-10-02",
+      "phase": "work",
+      "title": "Sloth, excuses, and the sluggard",
+      "passages": [
+        "Proverbs 6:6–11",
+        "Proverbs 26:13–16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 338,
+      "date": "2027-10-03",
+      "phase": "work",
+      "title": "Sunday: connect with this week's Grace Life sermon — Fair bosses and faithful workers",
+      "passages": [
+        "James 5:1–6",
+        "Ephesians 6:9",
+        "Leviticus 19:13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 339,
+      "date": "2027-10-04",
+      "phase": "work",
+      "title": "Ambition, calling, and the gift of limits",
+      "passages": [
+        "Romans 12:3–8",
+        "Psalm 90:17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 340,
+      "date": "2027-10-05",
+      "phase": "work",
+      "title": "Witness at work: salt and light on the job",
+      "passages": [
+        "Matthew 5:13–16",
+        "1 Peter 2:12",
+        "Titus 2:9–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 341,
+      "date": "2027-10-06",
+      "phase": "work",
+      "title": "Rest is obedience, not laziness",
+      "passages": [
+        "Mark 6:30–32",
+        "Exodus 23:12",
+        "Hebrews 4:9–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 342,
+      "date": "2027-10-07",
+      "phase": "work",
+      "title": "The Lord blesses the work of your hands",
+      "passages": [
+        "Deuteronomy 28:1–8",
+        "Psalm 90:16–17"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 343,
+      "date": "2027-10-08",
+      "phase": "work",
+      "title": "When work is frustrating: thorns and grace",
+      "passages": [
+        "Genesis 3:17–19",
+        "Ecclesiastes 2:22–24"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 344,
+      "date": "2027-10-09",
+      "phase": "work",
+      "title": "Vocational faithfulness over a lifetime",
+      "passages": [
+        "2 Thessalonians 3:6–13",
+        "Proverbs 16:3"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 345,
+      "date": "2027-10-10",
+      "phase": "character",
+      "title": "Sunday: connect with this week's Grace Life sermon — The fruit of the Spirit",
+      "passages": [
+        "Galatians 5:16–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 346,
+      "date": "2027-10-11",
+      "phase": "character",
+      "title": "Love is the greatest",
+      "passages": [
+        "1 Corinthians 13:1–13"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 347,
+      "date": "2027-10-12",
+      "phase": "character",
+      "title": "Joy that remains",
+      "passages": [
+        "John 15:9–11",
+        "Philippians 4:4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 348,
+      "date": "2027-10-13",
+      "phase": "character",
+      "title": "Peace that guards your heart",
+      "passages": [
+        "John 14:27",
+        "Philippians 4:6–9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 349,
+      "date": "2027-10-14",
+      "phase": "character",
+      "title": "A harvest of righteousness",
+      "passages": [
+        "James 3:13–18"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 350,
+      "date": "2027-10-15",
+      "phase": "character",
+      "title": "Patience and long-suffering",
+      "passages": [
+        "James 5:7–11",
+        "Romans 12:12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 351,
+      "date": "2027-10-16",
+      "phase": "character",
+      "title": "Kindness and goodness",
+      "passages": [
+        "Ephesians 4:32",
+        "Galatians 6:9–10"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 352,
+      "date": "2027-10-17",
+      "phase": "character",
+      "title": "Sunday: connect with this week's Grace Life sermon — Faithfulness in little things",
+      "passages": [
+        "Luke 16:10",
+        "Matthew 25:21"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 353,
+      "date": "2027-10-18",
+      "phase": "character",
+      "title": "Gentleness and self-control",
+      "passages": [
+        "Titus 3:1–2",
+        "1 Corinthians 9:24–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 354,
+      "date": "2027-10-19",
+      "phase": "character",
+      "title": "Humility: he must become greater",
+      "passages": [
+        "Philippians 2:1–11",
+        "John 3:30"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 355,
+      "date": "2027-10-20",
+      "phase": "character",
+      "title": "Courage: be strong and very courageous",
+      "passages": [
+        "Joshua 1:6–9",
+        "2 Timothy 1:7"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 356,
+      "date": "2027-10-21",
+      "phase": "character",
+      "title": "The unchanging character of God",
+      "passages": [
+        "Exodus 34:5–7",
+        "Malachi 3:6"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 357,
+      "date": "2027-10-22",
+      "phase": "character",
+      "title": "Integrity: a life that matches its confession",
+      "passages": [
+        "Psalm 15:1–5",
+        "Proverbs 10:9"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 358,
+      "date": "2027-10-23",
+      "phase": "character",
+      "title": "The tongue: life and death in the power of words",
+      "passages": [
+        "Proverbs 18:21",
+        "James 3:1–12",
+        "Ephesians 4:29"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 359,
+      "date": "2027-10-24",
+      "phase": "character",
+      "title": "Sunday: connect with this week's Grace Life sermon — Anger: slow to speak, slow to become angry",
+      "passages": [
+        "James 1:19–20",
+        "Proverbs 16:32",
+        "Ephesians 4:26–27"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": true
+    },
+    {
+      "number": 360,
+      "date": "2027-10-25",
+      "phase": "character",
+      "title": "Truth-telling and a clean conscience",
+      "passages": [
+        "Ephesians 4:25",
+        "Zechariah 8:16–17",
+        "Acts 24:16"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 361,
+      "date": "2027-10-26",
+      "phase": "character",
+      "title": "Compassion for the hurting",
+      "passages": [
+        "Luke 10:25–37",
+        "Colossians 3:12"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 362,
+      "date": "2027-10-27",
+      "phase": "character",
+      "title": "Finish the race",
+      "passages": [
+        "2 Timothy 4:6–8",
+        "Hebrews 12:1–3"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 363,
+      "date": "2027-10-28",
+      "phase": "character",
+      "title": "Perseverance when you want to quit",
+      "passages": [
+        "Romans 5:1–5",
+        "James 1:2–4"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 364,
+      "date": "2027-10-29",
+      "phase": "character",
+      "title": "Abiding in Christ: the only way to bear fruit",
+      "passages": [
+        "John 15:1–11"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 365,
+      "date": "2027-10-30",
+      "phase": "character",
+      "title": "A year of grace: walk on, hold fast, hope to the end",
+      "passages": [
+        "Philippians 1:3–6",
+        "Hebrews 10:23",
+        "Jude 1:24–25"
+      ],
+      "status": "planned",
+      "sundaySermonTieIn": false
+    }
+  ]
+}
