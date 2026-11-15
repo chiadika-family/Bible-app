@@ -201,14 +201,14 @@
     },
     {
       "number": 14,
-      "date": "2026-11-13",
+      "date": "2026-11-15",
       "phase": "foundations",
       "title": "The Lord's Supper, remembering the Lord's death until he comes",
       "passages": [
         "1 Corinthians 11:23–32",
         "Luke 22:14–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
