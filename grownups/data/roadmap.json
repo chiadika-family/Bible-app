@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.12",
+  "version": "2026.11.20",
   "start": "2026-10-31",
   "phases": [
     {
@@ -225,50 +225,50 @@
     },
     {
       "number": 16,
-      "date": "2026-11-15",
+      "date": "2026-11-17",
       "phase": "foundations",
       "title": "Sunday: connect with this week's Grace Life sermon — Gathering as the people of God, and rest for your souls",
       "passages": [
         "Hebrews 10:23–25",
         "Matthew 11:28–30"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
       "number": 17,
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "phase": "foundations",
       "title": "Giving and generosity, sowing generously and giving cheerfully",
       "passages": [
         "2 Corinthians 9:6–15",
         "Proverbs 11:24–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 18,
-      "date": "2026-11-17",
+      "date": "2026-11-19",
       "phase": "foundations",
       "title": "Sharing your faith: sent with good news",
       "passages": [
         "Matthew 28:16–20",
         "Romans 10:9–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 19,
-      "date": "2026-11-18",
+      "date": "2026-11-20",
       "phase": "foundations",
       "title": "A ready witness in ordinary life",
       "passages": [
         "1 Peter 3:15–16",
         "Colossians 4:5–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
