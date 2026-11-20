@@ -1,660 +1,1602 @@
 {
-  "contentVersion": "2026.11.13.4",
-  "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
-  "parents": ["Gregory", "Sanqueta"],
-  "children": [
+ "contentVersion": "2026.11.20.3",
+ "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
+ "parents": [
+  "Gregory",
+  "Sanqueta"
+ ],
+ "children": [
+  {
+   "id": "enoch",
+   "name": "Enoch",
+   "age": 4,
+   "practice": "Short pieces with a parent. No typing."
+  },
+  {
+   "id": "elijah",
+   "name": "Elijah",
+   "age": 8,
+   "practice": "Hide some words, fill blanks with a word bank, then type the verse."
+  },
+  {
+   "id": "jordyn",
+   "name": "Jordyn",
+   "age": 11,
+   "practice": "More hidden words, type the blanks, then type the whole verse."
+  }
+ ],
+ "sundayMinutes": "15–20 minutes",
+ "dailyMinutes": "3–5 minutes",
+ "appFirstSunday": null,
+ "dailyFollowUpsStart": null,
+ "planEndLabel": "52 weeks",
+ "dated": false,
+ "schemaNote": "This curriculum is not tied to calendar dates. The plan is 52 weeks. Day 1 is the main family lesson for the week. Days 2–7 are the short daily bites. Each daily bite has id 'wN-dK' (week N, day K), a numeric day field, and label 'Day K'. Calendar fields have been removed: sundayISO, sundayLabel, and on each daily, dateISO, dateLabel, dayLabel, and shortLabel. selectLabel is 'Week N · Title'. nextUp names the next week without a date. Progress should follow the family's place in the plan (Week N, Day K), not the real-world calendar, so the family can start the plan over at any time. appFirstSunday and dailyFollowUpsStart are null because dated is false. Weeks with ready: false are title-and-passage stubs still to be written.",
+ "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
+ "sources": [
+  {
+   "label": "Genesis 1 (NIV)",
+   "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NIV"
+  },
+  {
+   "label": "Matthew 3:16–17 (NIV)",
+   "url": "https://www.biblegateway.com/passage/?search=Matthew+3%3A16-17&version=NIV"
+  },
+  {
+   "label": "Deuteronomy 6:4 (NIV)",
+   "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4&version=NIV"
+  },
+  {
+   "label": "Matthew 28:19 (NIV)",
+   "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=NIV"
+  },
+  {
+   "label": "2 Corinthians 13:14 (NIV)",
+   "url": "https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV"
+  }
+ ],
+ "weeks": [
+  {
+   "id": "1",
+   "week": 1,
+   "planTitle": "Creation: God the Creator",
+   "title": "Creation",
+   "selectLabel": "Week 1 · Creation",
+   "ready": true,
+   "passage": "Genesis 1:1–5, 26–31 (NIV)",
+   "time": "About 15–20 minutes",
+   "nextUp": "Week 2 · Who Is God? One God, Three Persons",
+   "bigIdea": "God made everything, and he made you on purpose, in his image, to know him and care for his world.",
+   "historicalNote": "A week is marked studied only when the family finishes it, so you can start the plan over any time. A date passing does not mark this week, or any later week, studied.",
+   "howSteps": [
     {
-      "id": "enoch",
-      "name": "Enoch",
-      "age": 4,
-      "practice": "Short pieces with a parent. No typing."
+     "title": "Read together",
+     "detail": "Open the Read tab and read Genesis 1:1–5 and 1:26–31 out loud as a family."
     },
     {
-      "id": "elijah",
-      "name": "Elijah",
-      "age": 8,
-      "practice": "Hide some words, fill blanks with a word bank, then type the verse."
+     "title": "Retell the story",
+     "detail": "Still on Read, walk through the kid-language retelling so everyone gets the picture."
     },
     {
-      "id": "jordyn",
-      "name": "Jordyn",
-      "age": 11,
-      "practice": "More hidden words, type the blanks, then type the whole verse."
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
     }
-  ],
-  "sundayMinutes": "15–20 minutes",
-  "dailyMinutes": "3–5 minutes",
-  "appFirstSunday": "2026-11-08",
-  "dailyFollowUpsStart": "2026-11-09",
-  "planEndLabel": "Easter, March 28, 2027",
-  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
-  "sources": [
+   ],
+   "readings": [
     {
-      "label": "Genesis 1 (NIV)",
-      "url": "https://www.biblegateway.com/passage/?search=Genesis+1&version=NIV"
+     "kind": "scripture",
+     "cite": "Genesis 1:1–2",
+     "text": "1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
     },
     {
-      "label": "Matthew 3:16–17 (NIV)",
-      "url": "https://www.biblegateway.com/passage/?search=Matthew+3%3A16-17&version=NIV"
+     "kind": "scripture",
+     "cite": "Genesis 1:3–5",
+     "text": "3 And God said, \"Let there be light,\" and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light \"day,\" and the darkness he called \"night.\" And there was evening, and there was morning—the first day."
     },
     {
-      "label": "Deuteronomy 6:4 (NIV)",
-      "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4&version=NIV"
+     "kind": "summary",
+     "lead": "Verses 6–25 (summary)",
+     "text": "God makes the sky, the land and seas, plants and trees, the sun, moon and stars, the fish and birds, and all the animals. Each time, God saw that it was good."
     },
     {
-      "label": "Matthew 28:19 (NIV)",
-      "url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=NIV"
+     "kind": "scripture",
+     "cite": "Genesis 1:26",
+     "text": "26 Then God said, \"Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.\""
     },
     {
-      "label": "2 Corinthians 13:14 (NIV)",
-      "url": "https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV"
+     "kind": "scripture",
+     "cite": "Genesis 1:27",
+     "text": "27 So God created mankind in his own image, in the image of God he created them; male and female he created them."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Genesis 1:28",
+     "text": "28 God blessed them and said to them, \"Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Genesis 1:29–30",
+     "text": "29 Then God said, \"I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food. 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.\" And it was so."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Genesis 1:31",
+     "text": "31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
     }
-  ],
-  "weeks": [
+   ],
+   "storyTitle": "The story in our words",
+   "story": [
+    "Long, long ago, before there were any people, animals, trees or even a sun, there was God. God has always been there. Everything else was dark and empty.",
+    "Then God spoke: \"Let there be light!\" And light appeared, just because God said so. He called the light \"day\" and the dark \"night.\" That was the very first day.",
+    "God kept creating. He spread out the big blue sky. He gathered the water into seas and made dry land appear. He filled the land with plants, flowers and fruit trees. He put the bright sun in the sky for daytime and the moon and stars for nighttime. He filled the oceans with fish and giant sea creatures, and he filled the sky with birds. Then he made every kind of animal: puppies and horses, lions and bugs. Every time, God looked at what he made and saw that it was good.",
+    "Then God made something extra special: people. He made them in his own image, which means people are made to be like God in special ways. We can love, think, create, talk with God and take care of his world. God blessed the people and gave them a job: take care of everything he made.",
+    "At the end of the sixth day, God looked at everything and saw that it was very good."
+   ],
+   "enochLine": "God made everything, and God made me!",
+   "enochActivities": [
+    "Activity: \"God Made It!\" pointing game. Walk around the house or yard. Point at things God made (the sky, a tree, a dog, Mommy, Daddy, Jordyn, Elijah, Enoch!) and say together, \"God made it!\"",
+    "God gave people a job: taking care of his world. For extra fun, have Enoch draw his favorite animal God made."
+   ],
+   "elijahQuestions": [
+    "When God said, \"Let there be light,\" what happened?",
+    "After God made each thing, what did he see about it? At the end of the sixth day, what did he see about all that he had made?",
+    "God made a huge number of different animals. Which one do you think is the coolest, and what does it show you about how creative God is?",
+    "God made people \"in his image.\" What is one way you can be like God this week, maybe by being kind, telling the truth, or helping someone?"
+   ],
+   "jordynQuestions": [
+    "Verse 3 says God simply spoke and light appeared. What does that tell us about how powerful God is compared to anything else?",
+    "What do you think it means to be made \"in the image of God\"? How should that change the way we treat people, including people who are hard to get along with?",
+    "God gave people the job to \"rule over\" and care for creation. How is ruling God's way, like a good caretaker, different from just being in charge?"
+   ],
+   "jordynApplication": "Everyone you meet this week, on your volleyball team, at school, or at home, is made in God's image. Pick one person who might feel left out or overlooked and do something on purpose to show them they matter: an encouraging word, a high-five after a play, or sitting with them. Your worth comes from the God who made you on purpose and saw that it was very good, not from how well you play or what others think.",
+   "elijahAnswers": [
+    "There was light (Genesis 1:3).",
+    "After each part of creation he saw that it was good. At the end, he saw that all he had made was very good (v. 31).",
+    "Any animal is fine. The point is God's creativity: variety, beauty, and design show how wise and imaginative he is.",
+    "Examples: being kind, telling the truth, helping at home, caring for a pet or creation. \"In his image\" means we can love, create, speak truth, and care for others the way God does."
+   ],
+   "jordynAnswers": [
+    "God's word alone has power to create. Nothing else is that powerful; he is not limited by tools, time, or materials.",
+    "Being made in God's image means people have God-given dignity and worth. We should treat everyone with respect and kindness, even people who are hard to get along with, because they bear his image too.",
+    "God's kind of ruling is serving and caring for what he made, not bossing people around for selfish gain. Like a good shepherd or caretaker, not a bully."
+   ],
+   "applicationCheck": "Look for one concrete person she can encourage this week (teammate, classmate, sibling) and celebrate that her worth comes from God, not performance.",
+   "prayer": "Dear God, thank you for making the whole world: the light, the sky, the oceans, the animals, and us. Thank you for making each person in our family in your image and on purpose. Help us remember that you made everything and that everything belongs to you. Help us take good care of your world and treat everyone with kindness, because they are made by you too. We love you. In Jesus' name, Amen.",
+   "dailies": [
     {
-      "id": "1",
-      "week": 1,
-      "sundayISO": "2026-11-01",
-      "sundayLabel": "Nov 1, 2026",
-      "planTitle": "Creation: God the Creator",
-      "title": "Creation",
-      "selectLabel": "Week 1 · Nov 1 · Creation",
-      "ready": true,
-      "passage": "Genesis 1:1–5, 26–31 (NIV)",
-      "time": "About 15–20 minutes",
-      "nextUp": "Who Is God? One God, Three Persons (Sunday, Nov 8)",
-      "bigIdea": "God made everything, and he made you on purpose, in his image, to know him and care for his world.",
-      "memoryVerse": "In the beginning God created the heavens and the earth.",
-      "memoryCite": "Genesis 1:1, NIV",
-      "memoryChunks": ["In the beginning", "God created the heavens and the earth."],
-      "historicalNote": "This lesson was already taught on Sunday, November 1, 2026, before this app. That is history from the family plan. A date passing does not mark this week, or any later week, studied.",
-      "howSteps": [
-        {
-          "title": "Read together",
-          "detail": "Open the Read tab and read Genesis 1:1–5 and 1:26–31 out loud as a family."
-        },
-        {
-          "title": "Retell the story",
-          "detail": "Still on Read, walk through the kid-language retelling so everyone gets the picture."
-        },
-        {
-          "title": "Age parts",
-          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
-        },
-        {
-          "title": "Pray",
-          "detail": "Close with the short family prayer on the Prayer tab."
-        }
-      ],
-      "readings": [
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:1–2",
-          "text": "1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:3–5",
-          "text": "3 And God said, \"Let there be light,\" and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light \"day,\" and the darkness he called \"night.\" And there was evening, and there was morning—the first day."
-        },
-        {
-          "kind": "summary",
-          "lead": "Verses 6–25 (summary)",
-          "text": "God makes the sky, the land and seas, plants and trees, the sun, moon and stars, the fish and birds, and all the animals. Each time, God saw that it was good."
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:26",
-          "text": "26 Then God said, \"Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.\""
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:27",
-          "text": "27 So God created mankind in his own image, in the image of God he created them; male and female he created them."
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:28",
-          "text": "28 God blessed them and said to them, \"Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.\""
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:29–30",
-          "text": "29 Then God said, \"I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food. 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.\" And it was so."
-        },
-        {
-          "kind": "scripture",
-          "cite": "Genesis 1:31",
-          "text": "31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
-        }
-      ],
-      "storyTitle": "The story in our words",
-      "story": [
-        "Long, long ago, before there were any people, animals, trees or even a sun, there was God. God has always been there. Everything else was dark and empty.",
-        "Then God spoke: \"Let there be light!\" And light appeared, just because God said so. He called the light \"day\" and the dark \"night.\" That was the very first day.",
-        "God kept creating. He spread out the big blue sky. He gathered the water into seas and made dry land appear. He filled the land with plants, flowers and fruit trees. He put the bright sun in the sky for daytime and the moon and stars for nighttime. He filled the oceans with fish and giant sea creatures, and he filled the sky with birds. Then he made every kind of animal: puppies and horses, lions and bugs. Every time, God looked at what he made and saw that it was good.",
-        "Then God made something extra special: people. He made them in his own image, which means people are made to be like God in special ways. We can love, think, create, talk with God and take care of his world. God blessed the people and gave them a job: take care of everything he made.",
-        "At the end of the sixth day, God looked at everything and said it was very good."
-      ],
-      "enochLine": "God made everything, and God made me!",
-      "enochActivities": [
-        "Activity: \"God Made It!\" pointing game. Walk around the house or yard. Point at things God made (the sky, a tree, a dog, Mommy, Daddy, Jordyn, Elijah, Enoch!) and say together, \"God made it!\"",
-        "Paw Patrol touch: the pups have a job helping Adventure Bay, and God gave people a job too, taking care of his world. For extra fun, have Enoch draw his favorite animal God made."
-      ],
-      "elijahQuestions": [
-        "What was the very first thing God made after he spoke?",
-        "After God made each thing, what did he say about it? What did he say after he made people?",
-        "God made a huge number of different animals. Which one do you think is the coolest, and what does it show you about how creative God is?",
-        "God made people \"in his image.\" What is one way you can be like God this week, maybe by being kind, telling the truth, or helping someone?"
-      ],
-      "jordynQuestions": [
-        "Verse 3 says God simply spoke and light appeared. What does that tell us about how powerful God is compared to anything else?",
-        "What do you think it means to be made \"in the image of God\"? How should that change the way we treat people, including people who are hard to get along with?",
-        "God gave people the job to \"rule over\" and care for creation. How is ruling God's way, like a good caretaker, different from just being in charge?"
-      ],
-      "jordynApplication": "Everyone you meet this week, on your volleyball team, at school, or at home, is made in God's image. Pick one person who might feel left out or overlooked and do something on purpose to show them they matter: an encouraging word, a high-five after a play, or sitting with them. Your worth comes from the God who made you on purpose and called it very good, not from how well you play or what others think.",
-      "elijahAnswers": [
-        "Light (Genesis 1:3).",
-        "After each part of creation he said it was good. After he made people he said it was very good (v. 31).",
-        "Any animal is fine. The point is God's creativity: variety, beauty, and design show how wise and imaginative he is.",
-        "Examples: being kind, telling the truth, helping at home, caring for a pet or creation. \"In his image\" means we can love, create, speak truth, and care for others the way God does."
-      ],
-      "jordynAnswers": [
-        "God's word alone has power to create. Nothing else is that powerful; he is not limited by tools, time, or materials.",
-        "Being made in God's image means people have God-given dignity and worth. We should treat everyone with respect and kindness, even people who are hard to get along with, because they bear his image too.",
-        "God's kind of ruling is serving and caring for what he made, not bossing people around for selfish gain. Like a good shepherd or caretaker, not a bully."
-      ],
-      "applicationCheck": "Look for one concrete person she can encourage this week (teammate, classmate, sibling) and celebrate that her worth comes from God, not performance.",
-      "prayer": "Dear God, thank you for making the whole world: the light, the sky, the oceans, the animals, and us. Thank you for making each person in our family in your image and on purpose. Help us remember that you made everything and that everything belongs to you. Help us take good care of your world and treat everyone with kindness, because they are made by you too. We love you. In Jesus' name, Amen.",
-      "dailies": [
-        {
-          "id": "2026-11-06",
-          "dateISO": "2026-11-06",
-          "shortLabel": "Fri, Nov 6",
-          "dayLabel": "Friday",
-          "dateLabel": "November 6, 2026",
-          "kind": "Real-life",
-          "focus": "God made you on purpose, in his image.",
-          "verse": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
-          "verseCite": "Genesis 1:27, NIV",
-          "enoch": "Point to Mommy, Daddy, Jordyn, Elijah, and yourself, and say, \"God made you!\"",
-          "elijah": "God made people \"in his image.\" What is one way you can be like God today?",
-          "jordyn": "Everyone you meet is made in God's image. How should that change the way you treat someone who is hard to get along with today?",
-          "elijahAnswer": "Examples: being kind, telling the truth, helping at home, or caring for someone. \"In his image\" means we can love, create, speak truth, and care for others the way God does.",
-          "jordynAnswer": "We should treat them with respect and kindness, because they have God-given dignity and worth too, even when they are hard to get along with.",
-          "action": "Do one kind thing on purpose tonight for someone in your family.",
-          "prayer": "Dear God, thank you for making each of us in your image. Help us treat everyone with kindness today. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-07",
-          "dateISO": "2026-11-07",
-          "shortLabel": "Sat, Nov 7",
-          "dayLabel": "Saturday",
-          "dateLabel": "November 7, 2026",
-          "kind": "Recap",
-          "focus": "Remember: God made everything, and he made you on purpose.",
-          "verse": "In the beginning God created the heavens and the earth.",
-          "verseCite": "Genesis 1:1, NIV",
-          "enoch": "Look around and name one thing you can see that God made.",
-          "elijah": "After God made people, what did he say about all that he had made?",
-          "jordyn": "What job did God give people when he made them?",
-          "elijahAnswer": "He said it was very good (Genesis 1:31).",
-          "jordynAnswer": "God gave people the job to care for his world, ruling as good caretakers, not as bullies.",
-          "action": "Say Genesis 1:1 out loud together two times, then play a quick \"God made it!\" pointing game around the room.",
-          "prayer": "Dear God, thank you for making the whole world and for making us on purpose. Help us remember that you made everything. In Jesus' name, Amen."
-        }
-      ]
+     "id": "w1-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "Before anything else, God was there.",
+     "verse": "In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.",
+     "verseCite": "Genesis 1:1–2, NIV",
+     "enoch": "Point up for the heavens and down for the earth, and say, \"God made it all!\"",
+     "elijah": "Before God made light and everything else, what was the earth like?",
+     "elijahAnswer": "It was formless and empty, and dark (Genesis 1:2).",
+     "jordyn": "Verse 2 says the Spirit of God was hovering over the waters before anything was made. What does that show about God?",
+     "jordynAnswer": "God was already there before anything existed. He was present and ready to bring order and life out of emptiness, so everything comes from him.",
+     "action": "Start with a blank piece of paper. Each person adds one thing God made, and together you watch the empty page fill up.",
+     "prayer": "Dear God, you were there before anything else. Thank you for making the heavens and the earth. In Jesus' name, Amen."
     },
     {
-      "id": "2",
-      "week": 2,
-      "sundayISO": "2026-11-08",
-      "sundayLabel": "Nov 8, 2026",
-      "planTitle": "Who is God? One God, three persons",
-      "title": "Who Is God? One God, Three Persons",
-      "selectLabel": "Week 2 · Nov 8 · Who Is God?",
-      "ready": true,
-      "passage": "Matthew 3:16–17; Deuteronomy 6:4; Matthew 28:19; 2 Corinthians 13:14 (NIV)",
-      "time": "About 15–20 minutes",
-      "nextUp": "God the Father, Sunday Nov 15",
-      "bigIdea": "There is one God who is Father, Son, and Holy Spirit: three persons, each fully God, forever one God.",
-      "memoryVerse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
-      "memoryCite": "Matthew 28:19, NIV",
-      "memoryChunks": [
-        "Therefore go and make disciples of all nations,",
-        "baptizing them in the name",
-        "of the Father and of the Son and of the Holy Spirit,"
-      ],
-      "scheduleNote": "This is the Sunday lesson for November 8, 2026, the first family Sunday in this app. The short daily bites start Monday, November 9.",
-      "howSteps": [
-        {
-          "title": "Read together",
-          "detail": "Open the Read tab and read Matthew 3:16–17, Deuteronomy 6:4, Matthew 28:19, and 2 Corinthians 13:14 out loud as a family."
-        },
-        {
-          "title": "Talk it through",
-          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
-        },
-        {
-          "title": "Age parts",
-          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
-        },
-        {
-          "title": "Pray",
-          "detail": "Close with the short family prayer on the Prayer tab."
-        }
-      ],
-      "readings": [
-        {
-          "kind": "scripture",
-          "cite": "Matthew 3:16–17",
-          "text": "16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\""
-        },
-        {
-          "kind": "scripture",
-          "cite": "Deuteronomy 6:4",
-          "text": "Hear, O Israel: The LORD our God, the LORD is one."
-        },
-        {
-          "kind": "scripture",
-          "cite": "Matthew 28:19",
-          "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
-        },
-        {
-          "kind": "scripture",
-          "cite": "2 Corinthians 13:14",
-          "text": "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all."
-        }
-      ],
-      "storyTitle": "In our words",
-      "story": [
-        "There is only one God. He is not one god among many. The Bible says, \"The LORD our God, the LORD is one.\"",
-        "This one God is three persons: the Father, the Son (Jesus), and the Holy Spirit. Each one is fully God. The Father is God. Jesus is God. The Holy Spirit is God. They are not three gods, and they are not one person putting on three different masks.",
-        "We cannot fully understand this, because God is greater than we are. People sometimes invent pictures to try to explain it, like water that can be ice, liquid, or steam. Pictures like that always fall short. Ice, water, and steam are forms of the same thing, usually one at a time. But at Jesus' baptism, the Father, the Son, and the Holy Spirit were all there at the same time, as distinct persons. So we do not lean on a picture. We trust what God has shown us.",
-        "At the Jordan River, Jesus was baptized. As soon as he came up out of the water, the Holy Spirit came down on him like a dove, and the Father's voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\" We meet all three persons at once.",
-        "Before Jesus returned to heaven, he told his followers to make disciples of all nations and baptize them in the name of the Father and of the Son and of the Holy Spirit. That is one name, and three persons.",
-        "Paul later blessed the church with all three together: the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit."
-      ],
-      "enochLine": "There is one God: the Father, the Son, and the Holy Spirit!",
-      "enochActivities": [
-        "Activity: \"One and three\" finger count. Hold up one finger and say, \"One God!\" Then hold up three fingers and say, \"Father, Son, and Holy Spirit!\" Then go back to one finger: \"One God!\"",
-        "Paw Patrol touch: you can make it a mission, like the pups heading out to help. Enoch's mission is to remember who God is. For extra fun, have him draw the baptism story: Jesus in the water, a dove, and a bright sky for the Father's voice. Tell him the picture helps us remember the story, but no picture can show everything about God."
-      ],
-      "elijahQuestions": [
-        "What does Deuteronomy 6:4 say about the LORD our God?",
-        "At Jesus' baptism in Matthew 3:16–17, who was in the water? Who came down like a dove? Who spoke from heaven?",
-        "In Matthew 28:19, Jesus says to baptize people in the name of whom?",
-        "2 Corinthians 13:14 names Jesus, God, and the Holy Spirit together in one blessing. What does that show us about God?"
-      ],
-      "jordynQuestions": [
-        "At Jesus' baptism, all three persons appear at the same time, doing different things. What does that tell us about whether the Father, the Son, and the Holy Spirit are just three names for one person?",
-        "Deuteronomy 6:4 says the LORD is one, and Matthew 28:19 speaks of \"the name\" of the Father and of the Son and of the Holy Spirit. How do those words guard us from thinking there are three gods?",
-        "Why is it wiser to say what the Bible shows — one God, three persons — than to explain God with a picture like water, ice, and steam?"
-      ],
-      "jordynApplication": "This week, when you pray before a volleyball game, at school, or at home, speak to the one God as he has made himself known: thank the Father who loves you, trust Jesus the Son who came for you, and ask the Holy Spirit to help you. If a friend asks who Christians worship, you can say simply: we worship one God — the Father, the Son, and the Holy Spirit.",
-      "elijahAnswers": [
-        "\"The LORD our God, the LORD is one.\" (Deuteronomy 6:4)",
-        "Jesus had just been baptized and came up out of the water. The Spirit of God came down like a dove and rested on him. The Father spoke from heaven: \"This is my Son, whom I love; with him I am well pleased.\" (Matthew 3:16–17)",
-        "In the name of the Father and of the Son and of the Holy Spirit (Matthew 28:19).",
-        "It shows that the Father, the Son, and the Holy Spirit belong together as the one God. This is one blessing from one God, not three separate gods."
-      ],
-      "jordynAnswers": [
-        "They are distinct persons. At the same moment, the Son is baptized, the Spirit descends, and the Father speaks. That is not one person switching roles or names.",
-        "There is one God (Deuteronomy 6:4). Jesus speaks of one \"name,\" then names the Father, the Son, and the Holy Spirit. One name, three persons — not three gods.",
-        "Pictures like water, ice, and steam describe one thing taking different forms, often at different times. Other pictures fail in other ways. At Jesus' baptism the Father, the Son, and the Holy Spirit are all present at once, each fully God, and still one God. Every picture falls short, so we stay with what Scripture shows and admit the mystery with humility."
-      ],
-      "applicationCheck": "Listen for her naming Father, Son, and Holy Spirit as one God, and notice a specific prayer or conversation this week.",
-      "prayer": "Dear God, thank you that you are the one true God. Thank you, Father, for loving us. Thank you, Jesus, for coming to us. Thank you, Holy Spirit, for being with us. We cannot understand everything about you, but we believe what you have shown us. Help our family love you, trust you, and tell the truth about who you are. We love you. In Jesus' name, Amen.",
-      "dailies": [
-        {
-          "id": "2026-11-09",
-          "dateISO": "2026-11-09",
-          "shortLabel": "Mon, Nov 9",
-          "dayLabel": "Monday",
-          "dateLabel": "November 9, 2026",
-          "kind": "Memory verse",
-          "focus": "There is one God: the Father, the Son, and the Holy Spirit.",
-          "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
-          "verseCite": "Matthew 28:19, NIV",
-          "enoch": "Hold up one finger and say, \"One God!\" Then hold up three fingers and say, \"Father, Son, and Holy Spirit!\"",
-          "elijah": "In Matthew 28:19, Jesus says to baptize people in the name of whom?",
-          "jordyn": "Why does Jesus say \"the name\" of the Father and of the Son and of the Holy Spirit, not \"the names\"?",
-          "elijahAnswer": "In the name of the Father and of the Son and of the Holy Spirit (Matthew 28:19).",
-          "jordynAnswer": "One \"name\" points to one God. The Father, the Son, and the Holy Spirit are three persons, not three gods.",
-          "action": "Say Matthew 28:19 out loud together two times.",
-          "prayer": "Dear God, thank you that you are one God, Father, Son, and Holy Spirit. Help us remember your name. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-10",
-          "dateISO": "2026-11-10",
-          "shortLabel": "Tue, Nov 10",
-          "dayLabel": "Tuesday",
-          "dateLabel": "November 10, 2026",
-          "kind": "Passage",
-          "focus": "The LORD our God is one.",
-          "verse": "Hear, O Israel: The LORD our God, the LORD is one.",
-          "verseCite": "Deuteronomy 6:4, NIV",
-          "enoch": "Say with the family, \"The LORD our God, the LORD is one!\"",
-          "elijah": "What does Deuteronomy 6:4 tell us about the LORD our God?",
-          "jordyn": "Why does it matter that Christians worship one God, not three gods?",
-          "elijahAnswer": "\"The LORD our God, the LORD is one.\" (Deuteronomy 6:4)",
-          "jordynAnswer": "There is only one God. The Father, the Son, and the Holy Spirit are not three gods; they are three persons who are the one God.",
-          "action": "When you hear the word \"God\" today, quietly remember: there is only one God.",
-          "prayer": "Dear God, thank you that you are the one true God. Help us love you with our whole heart. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-11",
-          "dateISO": "2026-11-11",
-          "shortLabel": "Wed, Nov 11",
-          "dayLabel": "Wednesday",
-          "dateLabel": "November 11, 2026",
-          "kind": "Game",
-          "focus": "At Jesus' baptism we meet the Father, the Son, and the Holy Spirit at the same time.",
-          "verse": "16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\"",
-          "verseCite": "Matthew 3:16–17, NIV",
-          "enoch": "Who was in the water? (Jesus!) Who came down like a dove? (the Holy Spirit!) Who spoke from heaven? (the Father!)",
-          "elijah": "At Jesus' baptism, who was in the water, who came down like a dove, and who spoke from heaven?",
-          "jordyn": "All three persons appear at the same time, doing different things. What does that tell us about whether they are just three names for one person?",
-          "elijahAnswer": "Jesus was in the water. The Spirit of God came down like a dove. The Father spoke from heaven (Matthew 3:16–17).",
-          "jordynAnswer": "They are distinct persons. At the same moment, the Son is baptized, the Spirit descends, and the Father speaks. That is not one person switching roles or names.",
-          "action": "Act out the baptism scene in about 30 seconds: one person standing as Jesus, one showing the Spirit coming down like a dove, and one speaking the Father's words.",
-          "prayer": "Dear God, thank you that at Jesus' baptism we see you as Father, Son, and Holy Spirit. Help us trust what you have shown us. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-12",
-          "dateISO": "2026-11-12",
-          "shortLabel": "Thu, Nov 12",
-          "dayLabel": "Thursday",
-          "dateLabel": "November 12, 2026",
-          "kind": "Passage",
-          "focus": "The Father, the Son, and the Holy Spirit bless us together.",
-          "verse": "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.",
-          "verseCite": "2 Corinthians 13:14, NIV",
-          "enoch": "Repeat: \"Thank you, Jesus. Thank you, Father. Thank you, Holy Spirit.\"",
-          "elijah": "Which three names do you hear in this blessing?",
-          "jordyn": "How does this one blessing show that the Father, the Son, and the Holy Spirit belong together as one God?",
-          "elijahAnswer": "The Lord Jesus Christ, God (the Father), and the Holy Spirit (2 Corinthians 13:14).",
-          "jordynAnswer": "It is one blessing, not three separate blessings from three gods. The grace of Jesus, the love of God, and the fellowship of the Holy Spirit come together from the one God.",
-          "action": "Read 2 Corinthians 13:14 out loud as a blessing over your family at dinner or bedtime.",
-          "prayer": "Dear God, thank you for the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-13",
-          "dateISO": "2026-11-13",
-          "shortLabel": "Fri, Nov 13",
-          "dayLabel": "Friday",
-          "dateLabel": "November 13, 2026",
-          "kind": "Challenge",
-          "focus": "Pray to the one God as Father, Son, and Holy Spirit.",
-          "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
-          "verseCite": "Matthew 28:19, NIV",
-          "enoch": "Say, \"Thank you, Father. Thank you, Jesus. Thank you, Holy Spirit.\"",
-          "elijah": "What is one thing you can thank God for today: something about the Father, about Jesus, or about the Holy Spirit?",
-          "jordyn": "If a friend asked who Christians worship, what would you say in one sentence?",
-          "elijahAnswer": "Any true answer is fine: thank the Father for loving us and making us, thank Jesus for coming to us, or thank the Holy Spirit for being with us.",
-          "jordynAnswer": "We worship one God — the Father, the Son, and the Holy Spirit.",
-          "action": "Pray once today naming the Father, the Son, and the Holy Spirit, before school, practice, or bed.",
-          "prayer": "Dear Father, thank you for loving us. Dear Jesus, thank you for coming to us. Dear Holy Spirit, thank you for being with us. In Jesus' name, Amen."
-        },
-        {
-          "id": "2026-11-14",
-          "dateISO": "2026-11-14",
-          "shortLabel": "Sat, Nov 14",
-          "dayLabel": "Saturday",
-          "dateLabel": "November 14, 2026",
-          "kind": "Recap",
-          "focus": "One God, three persons, each fully God.",
-          "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
-          "verseCite": "Matthew 28:19, NIV",
-          "enoch": "Do the one-and-three finger count again: \"One God!\" then \"Father, Son, and Holy Spirit!\" then \"One God!\"",
-          "elijah": "Are the Father, the Son, and the Holy Spirit three gods, or one God?",
-          "jordyn": "Why do pictures like water, ice, and steam fall short of describing God?",
-          "elijahAnswer": "One God. The Father, the Son, and the Holy Spirit are three persons, each fully God, not three gods.",
-          "jordynAnswer": "Pictures like water, ice, and steam describe one thing taking different forms, often at different times. At Jesus' baptism the Father, the Son, and the Holy Spirit are all present at once, each fully God, and still one God. Every picture falls short, so we stay with what the Bible shows.",
-          "action": "Recite Matthew 28:19 together, then play the finger-count game three times.",
-          "prayer": "Dear God, thank you that you are the one true God, Father, Son, and Holy Spirit. Help our family tell the truth about who you are. In Jesus' name, Amen."
-        }
-      ]
+     "id": "w1-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Passage",
+     "focus": "God spoke, and light appeared.",
+     "verse": "And God said, \"Let there be light,\" and there was light.",
+     "verseCite": "Genesis 1:3, NIV",
+     "enoch": "When Mom or Dad turns a light on, say, \"God made the light!\"",
+     "elijah": "When God said, \"Let there be light,\" what happened?",
+     "elijahAnswer": "There was light (Genesis 1:3).",
+     "jordyn": "God did not need tools or materials to make the light. What does that show about his power?",
+     "jordynAnswer": "God's word alone has power to create. Nothing else is that powerful.",
+     "action": "Turn the lights off, then on, and say together, \"Let there be light!\"",
+     "prayer": "Dear God, thank you for speaking light into the darkness. Thank you for making day and night. In Jesus' name, Amen."
     },
     {
-      "id": "3",
-      "week": 3,
-      "sundayISO": "2026-11-15",
-      "sundayLabel": "Nov 15, 2026",
-      "planTitle": "God the Father",
-      "title": "God the Father",
-      "selectLabel": "Week 3 · Nov 15 · God the Father",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
+     "id": "w1-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "God made people in his image and gave them a job.",
+     "verse": "Then God said, \"Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.\"",
+     "verseCite": "Genesis 1:26, NIV",
+     "enoch": "Give yourself a hug and say, \"God made me special!\"",
+     "elijah": "Who did God make in his image, and what job did he give them?",
+     "elijahAnswer": "God made people (mankind) in his image. He gave them the job of ruling over the fish, birds, and animals — caring for his world (Genesis 1:26).",
+     "jordyn": "God said people should \"rule over\" the animals and the earth. What kind of ruling does God want?",
+     "jordynAnswer": "God's kind of ruling is serving and caring for what he made, like a good caretaker, not a bully.",
+     "action": "Name one way your family can take care of something God made this week, like a pet, a plant, or the yard.",
+     "prayer": "Dear God, thank you for making people in your image. Help us take good care of your world. In Jesus' name, Amen."
     },
     {
-      "id": "4",
-      "week": 4,
-      "sundayISO": "2026-11-22",
-      "sundayLabel": "Nov 22, 2026",
-      "planTitle": "Jesus the Son (Thanksgiving)",
-      "title": "Jesus the Son (Thanksgiving)",
-      "selectLabel": "Week 4 · Nov 22 · Jesus the Son",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
+     "id": "w1-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Real-life",
+     "focus": "God made you on purpose, in his image.",
+     "verse": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+     "verseCite": "Genesis 1:27, NIV",
+     "enoch": "Point to Mommy, Daddy, Jordyn, Elijah, and yourself, and say, \"God made you!\"",
+     "elijah": "God made people \"in his image.\" What is one way you can be like God today?",
+     "elijahAnswer": "Examples: being kind, telling the truth, helping at home, or caring for someone. \"In his image\" means we can love, create, speak truth, and care for others the way God does.",
+     "jordyn": "Everyone you meet is made in God's image. How should that change the way you treat someone who is hard to get along with today?",
+     "jordynAnswer": "We should treat them with respect and kindness, because they have God-given dignity and worth too, even when they are hard to get along with.",
+     "action": "Do one kind thing on purpose tonight for someone in your family.",
+     "prayer": "Dear God, thank you for making each of us in your image. Help us treat everyone with kindness today. In Jesus' name, Amen."
     },
     {
-      "id": "5",
-      "week": 5,
-      "sundayISO": "2026-11-29",
-      "sundayLabel": "Nov 29, 2026",
-      "planTitle": "Advent: God promises a Savior (Isaiah 9:6)",
-      "title": "Advent: God promises a Savior (Isaiah 9:6)",
-      "selectLabel": "Week 5 · Nov 29 · God promises a Savior",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
+     "id": "w1-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "God saw all that he had made, and it was very good.",
+     "verse": "God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.",
+     "verseCite": "Genesis 1:31, NIV",
+     "enoch": "Fold your hands and say, \"Thank you, God, for making the world!\"",
+     "elijah": "At the end of the sixth day, what did God see about all that he had made?",
+     "elijahAnswer": "He saw that it was very good (Genesis 1:31).",
+     "jordyn": "God saw that his finished world was very good. How can you treat God's world, and the people in it, like they are very good gifts from him?",
+     "jordynAnswer": "We can thank God for what he made, take care of his world, and treat people with kindness because he made them on purpose.",
+     "action": "Take a quiet moment together to thank God for one thing he made that you love.",
+     "prayer": "Dear God, you saw all that you had made, and it was very good. Thank you for your good world and for making us. Help us take care of what you have made. In Jesus' name, Amen."
     },
     {
-      "id": "6",
-      "week": 6,
-      "sundayISO": "2026-12-06",
-      "sundayLabel": "Dec 6, 2026",
-      "planTitle": "Advent: The angel visits Mary",
-      "title": "Advent: The angel visits Mary",
-      "selectLabel": "Week 6 · Dec 6 · The angel visits Mary",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "7",
-      "week": 7,
-      "sundayISO": "2026-12-13",
-      "sundayLabel": "Dec 13, 2026",
-      "planTitle": "Advent: Immanuel, God with us (Joseph's dream)",
-      "title": "Advent: Immanuel, God with us (Joseph's dream)",
-      "selectLabel": "Week 7 · Dec 13 · Immanuel",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "8",
-      "week": 8,
-      "sundayISO": "2026-12-20",
-      "sundayLabel": "Dec 20, 2026",
-      "planTitle": "Christmas: Jesus is born, the shepherds",
-      "title": "Christmas: Jesus is born, the shepherds",
-      "selectLabel": "Week 8 · Dec 20 · Jesus is born",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "9",
-      "week": 9,
-      "sundayISO": "2026-12-27",
-      "sundayLabel": "Dec 27, 2026",
-      "planTitle": "The wise men worship Jesus",
-      "title": "The wise men worship Jesus",
-      "selectLabel": "Week 9 · Dec 27 · The wise men",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "10",
-      "week": 10,
-      "sundayISO": "2027-01-03",
-      "sundayLabel": "Jan 3, 2027",
-      "planTitle": "The Holy Spirit, our Helper",
-      "title": "The Holy Spirit, our Helper",
-      "selectLabel": "Week 10 · Jan 3 · The Holy Spirit",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "11",
-      "week": 11,
-      "sundayISO": "2027-01-10",
-      "sundayLabel": "Jan 10, 2027",
-      "planTitle": "What is sin?",
-      "title": "What is sin?",
-      "selectLabel": "Week 11 · Jan 10 · What is sin?",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "12",
-      "week": 12,
-      "sundayISO": "2027-01-17",
-      "sundayLabel": "Jan 17, 2027",
-      "planTitle": "What counts as sin? Heart, words and actions (Ten Commandments)",
-      "title": "What counts as sin? Heart, words and actions (Ten Commandments)",
-      "selectLabel": "Week 12 · Jan 17 · What counts as sin?",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "13",
-      "week": 13,
-      "sundayISO": "2027-01-24",
-      "sundayLabel": "Jan 24, 2027",
-      "planTitle": "Grace: Jesus paid for our sin",
-      "title": "Grace: Jesus paid for our sin",
-      "selectLabel": "Week 13 · Jan 24 · Grace",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "14",
-      "week": 14,
-      "sundayISO": "2027-01-31",
-      "sundayLabel": "Jan 31, 2027",
-      "planTitle": "Faith and repentance (the lost son)",
-      "title": "Faith and repentance (the lost son)",
-      "selectLabel": "Week 14 · Jan 31 · Faith and repentance",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "15",
-      "week": 15,
-      "sundayISO": "2027-02-07",
-      "sundayLabel": "Feb 7, 2027",
-      "planTitle": "Prayer: talking with our Father",
-      "title": "Prayer: talking with our Father",
-      "selectLabel": "Week 15 · Feb 7 · Prayer",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "16",
-      "week": 16,
-      "sundayISO": "2027-02-14",
-      "sundayLabel": "Feb 14, 2027",
-      "planTitle": "The Bible is God's Word",
-      "title": "The Bible is God's Word",
-      "selectLabel": "Week 16 · Feb 14 · The Bible",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "17",
-      "week": 17,
-      "sundayISO": "2027-02-21",
-      "sundayLabel": "Feb 21, 2027",
-      "planTitle": "God's design for marriage and family",
-      "title": "God's design for marriage and family",
-      "selectLabel": "Week 17 · Feb 21 · Marriage and family",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "18",
-      "week": 18,
-      "sundayISO": "2027-02-28",
-      "sundayLabel": "Feb 28, 2027",
-      "planTitle": "Loving everyone made in God's image",
-      "title": "Loving everyone made in God's image",
-      "selectLabel": "Week 18 · Feb 28 · Loving everyone",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "19",
-      "week": 19,
-      "sundayISO": "2027-03-07",
-      "sundayLabel": "Mar 7, 2027",
-      "planTitle": "Heaven: our forever home",
-      "title": "Heaven: our forever home",
-      "selectLabel": "Week 19 · Mar 7 · Heaven",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "20",
-      "week": 20,
-      "sundayISO": "2027-03-14",
-      "sundayLabel": "Mar 14, 2027",
-      "planTitle": "The church: God's family",
-      "title": "The church: God's family",
-      "selectLabel": "Week 20 · Mar 14 · The church",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "21",
-      "week": 21,
-      "sundayISO": "2027-03-21",
-      "sundayLabel": "Mar 21, 2027",
-      "planTitle": "Palm Sunday: Jesus enters Jerusalem",
-      "title": "Palm Sunday: Jesus enters Jerusalem",
-      "selectLabel": "Week 21 · Mar 21 · Palm Sunday",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet."
-    },
-    {
-      "id": "22",
-      "week": 22,
-      "sundayISO": "2027-03-28",
-      "sundayLabel": "Mar 28, 2027",
-      "planTitle": "Easter: Jesus is risen",
-      "title": "Easter: Jesus is risen",
-      "selectLabel": "Week 22 · Mar 28 · Easter",
-      "ready": false,
-      "time": "About 15–20 minutes",
-      "note": "This Sunday is on the family plan. The passage, memory verse, questions, prayer, and daily bites are not written yet. Easter Sunday on this plan is March 28, 2027."
+     "id": "w1-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Remember: God made everything, and he made you on purpose.",
+     "verse": "In the beginning God created the heavens and the earth.",
+     "verseCite": "Genesis 1:1, NIV",
+     "enoch": "Look around and name one thing you can see that God made.",
+     "elijah": "Name three things God made during the creation week.",
+     "elijahAnswer": "Any three: light, sky, land and seas, plants and trees, sun, moon and stars, fish and birds, animals, and people (Genesis 1).",
+     "jordyn": "What job did God give people when he made them?",
+     "jordynAnswer": "God gave people the job to care for his world, ruling as good caretakers, not as bullies.",
+     "action": "Play a quick \"God made it!\" pointing game around the room, then each person shares a favorite thing from this week.",
+     "prayer": "Dear God, thank you for making the whole world and for making us on purpose. Help us remember that you made everything. In Jesus' name, Amen."
     }
-  ]
+   ],
+   "lessonVerses": [
+    "Genesis 1:1",
+    "Genesis 1:3",
+    "Genesis 1:27",
+    "Genesis 1:31"
+   ]
+  },
+  {
+   "id": "2",
+   "week": 2,
+   "planTitle": "Who is God? One God, three persons",
+   "title": "Who Is God? One God, Three Persons",
+   "selectLabel": "Week 2 · Who Is God? One God, Three Persons",
+   "ready": true,
+   "passage": "Matthew 3:16–17; Deuteronomy 6:4; Matthew 28:19; 2 Corinthians 13:14 (NIV)",
+   "time": "About 15–20 minutes",
+   "nextUp": "Week 3 · God the Father",
+   "bigIdea": "There is one God who is Father, Son, and Holy Spirit: three persons, each fully God, forever one God.",
+   "scheduleNote": "This is the Week 2 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Matthew 3:16–17, Deuteronomy 6:4, Matthew 28:19, and 2 Corinthians 13:14 out loud as a family."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Matthew 3:16–17",
+     "text": "16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Deuteronomy 6:4",
+     "text": "Hear, O Israel: The LORD our God, the LORD is one."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 28:19",
+     "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
+    },
+    {
+     "kind": "scripture",
+     "cite": "2 Corinthians 13:14",
+     "text": "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "There is only one God. He is not one god among many. The Bible says, \"The LORD our God, the LORD is one.\"",
+    "This one God is three persons: the Father, the Son (Jesus), and the Holy Spirit. Each one is fully God. The Father is God. Jesus is God. The Holy Spirit is God. They are not three gods, and they are not one person putting on three different masks.",
+    "We cannot fully understand this, because God is greater than we are. People sometimes invent pictures to try to explain it, like water that can be ice, liquid, or steam. Pictures like that always fall short. Ice, water, and steam are forms of the same thing, usually one at a time. But at Jesus' baptism, the Father, the Son, and the Holy Spirit were all there at the same time, as distinct persons. So we do not lean on a picture. We trust what God has shown us.",
+    "At the Jordan River, Jesus was baptized. As soon as he came up out of the water, the Holy Spirit came down on him like a dove, and the Father's voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\" We meet all three persons at once.",
+    "Before Jesus returned to heaven, he told his followers to make disciples of all nations and baptize them in the name of the Father and of the Son and of the Holy Spirit. That is one name, and three persons.",
+    "Paul later blessed the church with all three together: the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit."
+   ],
+   "enochLine": "There is one God: the Father, the Son, and the Holy Spirit!",
+   "enochActivities": [
+    "Activity: \"One and three\" finger count. Hold up one finger and say, \"One God!\" Then hold up three fingers and say, \"Father, Son, and Holy Spirit!\" Then go back to one finger: \"One God!\"",
+    "Paw Patrol touch: you can make it a mission, like the pups heading out to help. Enoch's mission is to remember who God is. For extra fun, have him draw the baptism story: Jesus in the water, a dove, and a bright sky for the Father's voice. Tell him the picture helps us remember the story, but no picture can show everything about God."
+   ],
+   "elijahQuestions": [
+    "What does Deuteronomy 6:4 say about the LORD our God?",
+    "At Jesus' baptism in Matthew 3:16–17, who was in the water? Who came down like a dove? Who spoke from heaven?",
+    "In Matthew 28:19, Jesus says to baptize people in the name of whom?",
+    "2 Corinthians 13:14 names Jesus, God, and the Holy Spirit together in one blessing. What does that show us about God?"
+   ],
+   "jordynQuestions": [
+    "At Jesus' baptism, all three persons appear at the same time, doing different things. What does that tell us about whether the Father, the Son, and the Holy Spirit are just three names for one person?",
+    "Deuteronomy 6:4 says the LORD is one, and Matthew 28:19 speaks of \"the name\" of the Father and of the Son and of the Holy Spirit. How do those words guard us from thinking there are three gods?",
+    "Why is it wiser to say what the Bible shows — one God, three persons — than to explain God with a picture like water, ice, and steam?"
+   ],
+   "jordynApplication": "This week, when you pray before a volleyball game, at school, or at home, speak to the one God as he has made himself known: thank the Father who loves you, trust Jesus the Son who came for you, and ask the Holy Spirit to help you. If a friend asks who Christians worship, you can say simply: we worship one God — the Father, the Son, and the Holy Spirit.",
+   "elijahAnswers": [
+    "\"The LORD our God, the LORD is one.\" (Deuteronomy 6:4)",
+    "Jesus had just been baptized and came up out of the water. The Spirit of God came down like a dove and rested on him. The Father spoke from heaven: \"This is my Son, whom I love; with him I am well pleased.\" (Matthew 3:16–17)",
+    "In the name of the Father and of the Son and of the Holy Spirit (Matthew 28:19).",
+    "It shows that the Father, the Son, and the Holy Spirit belong together as the one God. This is one blessing from one God, not three separate gods."
+   ],
+   "jordynAnswers": [
+    "They are distinct persons. At the same moment, the Son is baptized, the Spirit descends, and the Father speaks. That is not one person switching roles or names.",
+    "There is one God (Deuteronomy 6:4). Jesus speaks of one \"name,\" then names the Father, the Son, and the Holy Spirit. One name, three persons — not three gods.",
+    "Pictures like water, ice, and steam describe one thing taking different forms, often at different times. Other pictures fail in other ways. At Jesus' baptism the Father, the Son, and the Holy Spirit are all present at once, each fully God, and still one God. Every picture falls short, so we stay with what Scripture shows and admit the mystery with humility."
+   ],
+   "applicationCheck": "Listen for her naming Father, Son, and Holy Spirit as one God, and notice a specific prayer or conversation this week.",
+   "prayer": "Dear God, thank you that you are the one true God. Thank you, Father, for loving us. Thank you, Jesus, for coming to us. Thank you, Holy Spirit, for being with us. We cannot understand everything about you, but we believe what you have shown us. Help our family love you, trust you, and tell the truth about who you are. We love you. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w2-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "There is one God: the Father, the Son, and the Holy Spirit.",
+     "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+     "verseCite": "Matthew 28:19, NIV",
+     "enoch": "Hold up one finger and say, \"One God!\" Then hold up three fingers and say, \"Father, Son, and Holy Spirit!\"",
+     "elijah": "In Matthew 28:19, Jesus says to baptize people in the name of whom?",
+     "elijahAnswer": "In the name of the Father and of the Son and of the Holy Spirit (Matthew 28:19).",
+     "jordyn": "Why does Jesus say \"the name\" of the Father and of the Son and of the Holy Spirit, not \"the names\"?",
+     "jordynAnswer": "One \"name\" points to one God. The Father, the Son, and the Holy Spirit are three persons, not three gods.",
+     "action": "Find Matthew 28:19 in a Bible together and point to the three persons named in one \"name.\"",
+     "prayer": "Dear God, thank you that you are one God, Father, Son, and Holy Spirit. Help us tell others about you. In Jesus' name, Amen."
+    },
+    {
+     "id": "w2-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Passage",
+     "focus": "The LORD our God is one.",
+     "verse": "Hear, O Israel: The LORD our God, the LORD is one.",
+     "verseCite": "Deuteronomy 6:4, NIV",
+     "enoch": "Say with the family, \"The LORD our God, the LORD is one!\"",
+     "elijah": "What does Deuteronomy 6:4 tell us about the LORD our God?",
+     "elijahAnswer": "\"The LORD our God, the LORD is one.\" (Deuteronomy 6:4)",
+     "jordyn": "Why does it matter that Christians worship one God, not three gods?",
+     "jordynAnswer": "There is only one God. The Father, the Son, and the Holy Spirit are not three gods; they are three persons who are the one God.",
+     "action": "When you hear the word \"God\" today, quietly remember: there is only one God.",
+     "prayer": "Dear God, thank you that you are the one true God. Help us love you with our whole heart. In Jesus' name, Amen."
+    },
+    {
+     "id": "w2-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Game",
+     "focus": "At Jesus' baptism we meet the Father, the Son, and the Holy Spirit at the same time.",
+     "verse": "16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, \"This is my Son, whom I love; with him I am well pleased.\"",
+     "verseCite": "Matthew 3:16–17, NIV",
+     "enoch": "Who was in the water? (Jesus!) Who came down like a dove? (the Holy Spirit!) Who spoke from heaven? (the Father!)",
+     "elijah": "At Jesus' baptism, who was in the water, who came down like a dove, and who spoke from heaven?",
+     "elijahAnswer": "Jesus was in the water. The Spirit of God came down like a dove. The Father spoke from heaven (Matthew 3:16–17).",
+     "jordyn": "All three persons appear at the same time, doing different things. What does that tell us about whether they are just three names for one person?",
+     "jordynAnswer": "They are distinct persons. At the same moment, the Son is baptized, the Spirit descends, and the Father speaks. That is not one person switching roles or names.",
+     "action": "Act out the baptism scene in about 30 seconds: one person standing as Jesus, one showing the Spirit coming down like a dove, and one speaking the Father's words.",
+     "prayer": "Dear God, thank you that at Jesus' baptism we see you as Father, Son, and Holy Spirit. Help us trust what you have shown us. In Jesus' name, Amen."
+    },
+    {
+     "id": "w2-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Passage",
+     "focus": "The Father, the Son, and the Holy Spirit bless us together.",
+     "verse": "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all.",
+     "verseCite": "2 Corinthians 13:14, NIV",
+     "enoch": "Repeat: \"Thank you, Jesus. Thank you, Father. Thank you, Holy Spirit.\"",
+     "elijah": "Which three names do you hear in this blessing?",
+     "elijahAnswer": "The Lord Jesus Christ, God (the Father), and the Holy Spirit (2 Corinthians 13:14).",
+     "jordyn": "How does this one blessing show that the Father, the Son, and the Holy Spirit belong together as one God?",
+     "jordynAnswer": "It is one blessing, not three separate blessings from three gods. The grace of Jesus, the love of God, and the fellowship of the Holy Spirit come together from the one God.",
+     "action": "Read 2 Corinthians 13:14 out loud as a blessing over your family at dinner or bedtime.",
+     "prayer": "Dear God, thank you for the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit. In Jesus' name, Amen."
+    },
+    {
+     "id": "w2-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Challenge",
+     "focus": "Pray to the one God as Father, Son, and Holy Spirit.",
+     "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+     "verseCite": "Matthew 28:19, NIV",
+     "enoch": "Say, \"Thank you, Father. Thank you, Jesus. Thank you, Holy Spirit.\"",
+     "elijah": "What is one thing you can thank God for today: something about the Father, about Jesus, or about the Holy Spirit?",
+     "elijahAnswer": "Any true answer is fine: thank the Father for loving us and making us, thank Jesus for coming to us, or thank the Holy Spirit for being with us.",
+     "jordyn": "If a friend asked who Christians worship, what would you say in one sentence?",
+     "jordynAnswer": "We worship one God — the Father, the Son, and the Holy Spirit.",
+     "action": "Pray once today naming the Father, the Son, and the Holy Spirit, before school, practice, or bed.",
+     "prayer": "Dear Father, thank you for loving us. Dear Jesus, thank you for coming to us. Dear Holy Spirit, thank you for being with us. In Jesus' name, Amen."
+    },
+    {
+     "id": "w2-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "One God, three persons, each fully God.",
+     "verse": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+     "verseCite": "Matthew 28:19, NIV",
+     "enoch": "Do the one-and-three finger count again: \"One God!\" then \"Father, Son, and Holy Spirit!\" then \"One God!\"",
+     "elijah": "Are the Father, the Son, and the Holy Spirit three gods, or one God?",
+     "elijahAnswer": "One God. The Father, the Son, and the Holy Spirit are three persons, each fully God, not three gods.",
+     "jordyn": "Why do pictures like water, ice, and steam fall short of describing God?",
+     "jordynAnswer": "Pictures like water, ice, and steam describe one thing taking different forms, often at different times. At Jesus' baptism the Father, the Son, and the Holy Spirit are all present at once, each fully God, and still one God. Every picture falls short, so we stay with what the Bible shows.",
+     "action": "Play the finger-count game three times, then each person shares one thing they learned about God this week.",
+     "prayer": "Dear God, thank you that you are the one true God, Father, Son, and Holy Spirit. Help our family tell the truth about who you are. In Jesus' name, Amen."
+    }
+   ],
+   "lessonVerses": [
+    "Deuteronomy 6:4",
+    "Matthew 3:16–17",
+    "Matthew 28:19",
+    "2 Corinthians 13:14"
+   ]
+  },
+  {
+   "id": "3",
+   "week": 3,
+   "planTitle": "God the Father",
+   "title": "God the Father",
+   "selectLabel": "Week 3 · God the Father",
+   "ready": true,
+   "passage": "Matthew 6:26; Matthew 7:9–11; Psalm 103:13; John 1:12; 1 John 3:1 (NIV)",
+   "time": "About 15–20 minutes",
+   "nextUp": "Week 4 · Jesus the Son (Thanksgiving)",
+   "bigIdea": "God the Father is a perfect, loving Father who cares for his children, and everyone who trusts in Jesus gets to be his child.",
+   "scheduleNote": "This is the Week 3 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read the five short passages out loud. Let a different person read each one."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Matthew 6:26",
+     "text": "26 Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?"
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 7:9–11",
+     "text": "9 \"Which of you, if your son asks for bread, will give him a stone? 10 Or if he asks for a fish, will give him a snake? 11 If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!"
+    },
+    {
+     "kind": "scripture",
+     "cite": "Psalm 103:13",
+     "text": "13 As a father has compassion on his children, so the LORD has compassion on those who fear him;"
+    },
+    {
+     "kind": "scripture",
+     "cite": "John 1:12",
+     "text": "12 Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—"
+    },
+    {
+     "kind": "scripture",
+     "cite": "1 John 3:1",
+     "text": "1 See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that there is one God in three persons: the Father, the Son, and the Holy Spirit. This week we get to know the first person, God the Father.",
+    "Jesus talked about his Father all the time. When he taught his friends to pray, he told them to start with \"Our Father in heaven.\" That means we can talk to the God who made everything the way a child talks to a dad who loves them.",
+    "Jesus pointed to the birds. Birds don't plant gardens or fill up barns with food, but they still eat, because \"your heavenly Father feeds them.\" Then Jesus asked, \"Are you not much more valuable than they?\" If God takes care of little birds, he will take care of you.",
+    "Jesus also said: if a kid asks his dad for bread, the dad won't hand him a rock. If he asks for a fish, the dad won't hand him a snake! Even moms and dads who sometimes do wrong know how to give good gifts. So our Father in heaven, who never does wrong, gives even better gifts to those who ask him.",
+    "The Bible says that like a good father has compassion on his children, God has compassion on his people. Compassion means he sees when we are hurting and cares about it. Even the best dads on earth make mistakes sometimes, but God the Father is perfect. He never stops loving, never gets too busy, and never changes.",
+    "Here is the best part. How do we become God's children? The Bible says that to everyone who receives Jesus and believes in his name, God gives the right to become children of God. It is a gift, not something we earn.",
+    "That is why John wrote, \"See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!\" Lavished means God poured out his love on us, way more than we need, like a bucket that keeps overflowing."
+   ],
+   "enochLine": "God is my Father in heaven, and he loves me!",
+   "enochActivities": [
+    "Activity: Bird snack hunt. Go to a window or the backyard and look for birds together. Each time you see one, say, \"God feeds the birds, and God takes care of me!\" If you have a snack, share it and say thank you to God the Father.",
+    "Song idea: sing \"Jesus Loves Me,\" then sing it again changing the first words to \"God my Father loves me.\" Paw Patrol touch: Ryder always takes care of his pups when they need help; God the Father takes even better care of his children, every single day."
+   ],
+   "elijahQuestions": [
+    "Jesus said God feeds the birds. What does that tell us about how God takes care of us?",
+    "In Jesus' example, would a dad give his son a rock when he asks for bread? Why is that silly? What does it teach us about God?",
+    "Who gets to become a child of God, according to John 1:12?",
+    "Think of a baseball coach or a dad who cheers for his kid at every game. How is God the Father even better than the best coach or dad you know?"
+   ],
+   "jordynQuestions": [
+    "Jesus said even imperfect parents give good gifts, so \"how much more\" will the Father in heaven. What does \"how much more\" tell you about the difference between earthly parents and God?",
+    "1 John 3:1 says the Father has \"lavished\" his love on us. How is being called God's child different from just being one of the things he made?",
+    "Being God's child is a gift we receive by believing in Jesus, not a prize we earn. Why does that matter on days when you feel like you messed up or didn't measure up?"
+   ],
+   "jordynApplication": "In Harry Potter, Harry grows up feeling unwanted until he finds out who he really is and who loved him. Your real identity is even better and it's true: if you trust Jesus, you are a child of God, loved by the Father. This week, before a volleyball match, a test, or anything that makes you nervous, remind yourself: \"Whatever happens, I am still God's child.\" Write 1 John 3:1 on a card and keep it in your bag or on your phone lock screen.",
+   "elijahAnswers": [
+    "God knows what we need and takes care of us. We are worth much more to him than birds (Matthew 6:26).",
+    "No, a good dad would never do that. If even earthly dads give good things, God the Father gives his children good gifts too (Matthew 7:9–11).",
+    "Everyone who receives Jesus and believes in his name (John 1:12).",
+    "Any good answer works: God never misses a game, never gets tired or grumpy, always knows what we need, never stops loving us, and is perfect."
+   ],
+   "jordynAnswers": [
+    "\"How much more\" means God is far better than even the best parent. Earthly parents are sinners who still love their kids; God is perfect, so his love and gifts are perfectly good and never fail.",
+    "Everything God made belongs to him, but being his child means a close, family relationship: he loves us as a Father, we belong in his family, we can talk to him anytime, and we share in his home forever. That is love poured out far beyond what we deserve.",
+    "Our place in God's family rests on Jesus, not on our performance. When we sin, we confess it and he forgives us; he doesn't kick his children out of the family. That gives security and peace instead of fear or pressure."
+   ],
+   "applicationCheck": "Ask later in the week whether she wrote the verse down and when she used it. Celebrate that her identity rests on being God's child, not on how she plays or what others think.",
+   "prayer": "Dear Father in heaven, thank you for loving us so much that you let us be called your children. Thank you for taking care of us like you take care of the birds, and for giving us good gifts every day. Help each of us trust Jesus and know that we belong to you. Help us talk to you like children who love their Father. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w3-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "If you trust Jesus, you are God's child, loved by the Father.",
+     "verse": "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!",
+     "verseCite": "1 John 3:1, NIV",
+     "enoch": "Give Enoch a big hug and say together, \"God loves me! I'm his child!\"",
+     "elijah": "What does the Father call us in 1 John 3:1?",
+     "elijahAnswer": "Children of God. And the verse says, \"that is what we are!\"",
+     "jordyn": "What does the word \"lavished\" tell you about how much God loves his children?",
+     "jordynAnswer": "Lavished means poured out generously, far more than needed. God's love isn't stingy or barely enough; it overflows.",
+     "action": "Read 1 John 3:1 together three times, getting a little louder each time.",
+     "prayer": "Father, thank you for calling us your children. In Jesus' name, Amen."
+    },
+    {
+     "id": "w3-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Passage",
+     "focus": "God the Father cares when his children are hurting.",
+     "verse": "As a father has compassion on his children, so the LORD has compassion on those who fear him;",
+     "verseCite": "Psalm 103:13, NIV",
+     "enoch": "Ask Enoch: \"What does Daddy do when you get a boo-boo?\" Then say, \"God cares about me too!\"",
+     "elijah": "What is compassion? Can you think of a time someone showed you compassion?",
+     "elijahAnswer": "Compassion means seeing someone is hurting and caring enough to help. Any real example works.",
+     "jordyn": "Why might it help to remember Psalm 103:13 on a hard or sad day?",
+     "jordynAnswer": "On hard days we can feel alone, but this verse says God sees us and cares deeply, like a loving father. We can bring our hurts to him.",
+     "action": "Tell each other one thing that is hard right now and pray for it together.",
+     "prayer": "Father, thank you that you care when we are hurting. In Jesus' name, Amen."
+    },
+    {
+     "id": "w3-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "Our Father knows what we need, so we don't have to worry.",
+     "verse": "31 So do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?' 32 For the pagans run after all these things, and your heavenly Father knows that you need them.",
+     "verseCite": "Matthew 6:31–32, NIV",
+     "enoch": "Point to your food, your drink, and your clothes and say, \"God gives me this!\"",
+     "elijah": "What three things does Jesus say we don't need to worry about?",
+     "elijahAnswer": "What we will eat, what we will drink, and what we will wear (Matthew 6:31).",
+     "jordyn": "What's one thing you tend to worry about? What would change if you really believed your Father knows you need it?",
+     "jordynAnswer": "Any honest answer. Trusting that the Father knows and cares lets us pray about it instead of carrying the worry alone.",
+     "action": "At dinner, have everyone name one thing God gave them today.",
+     "prayer": "Father, thank you that you know everything we need. Help us trust you instead of worrying. In Jesus' name, Amen."
+    },
+    {
+     "id": "w3-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "Every good gift comes from our Father, who never changes.",
+     "verse": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.",
+     "verseCite": "James 1:17, NIV",
+     "enoch": "Name one toy or treat Enoch loves and say, \"Thank you, God, for good gifts!\"",
+     "elijah": "Where do all good gifts come from, according to James 1:17?",
+     "elijahAnswer": "From above, from the Father (James 1:17).",
+     "jordyn": "James says the Father \"does not change like shifting shadows.\" Why is that comforting?",
+     "jordynAnswer": "Shadows move and change all day, and people's moods change too. God's love and goodness stay the same every day, so we can always count on him.",
+     "action": "Thank-you challenge: each person thanks God for five good gifts before bed.",
+     "prayer": "Father, thank you for every good gift you give us. In Jesus' name, Amen."
+    },
+    {
+     "id": "w3-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Game",
+     "focus": "Jesus taught us to talk to God as our Father.",
+     "verse": "\"This, then, is how you should pray: 'Our Father in heaven, hallowed be your name,",
+     "verseCite": "Matthew 6:9, NIV",
+     "enoch": "Fold hands and repeat after a parent: \"Our Father in heaven.\"",
+     "elijah": "What words did Jesus teach us to start our prayers with?",
+     "elijahAnswer": "\"Our Father in heaven, hallowed be your name\" (Matthew 6:9).",
+     "jordyn": "\"Hallowed\" means treated as holy. Why do you think Jesus put \"Father\" and \"holy\" together right at the start?",
+     "jordynAnswer": "God is close and loving like a Father, and he is also holy and great. We come to him with confidence and with respect at the same time.",
+     "action": "Game: pass a ball around; whoever catches it says the next word of \"Our Father in heaven, hallowed be your name\" until you finish it. Then each person prays one sentence starting with \"Our Father.\"",
+     "prayer": "Our Father in heaven, your name is holy. Thank you that we can talk to you anytime. In Jesus' name, Amen."
+    },
+    {
+     "id": "w3-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God the Father loves, cares for, and provides for his children, and we become his children by trusting Jesus.",
+     "verse": "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!",
+     "verseCite": "1 John 3:1, NIV",
+     "enoch": "Ask, \"Who takes care of the birds?\" (God!) \"Who takes care of you?\" (God!)",
+     "elijah": "Name two ways God the Father takes care of his children that we learned this week.",
+     "elijahAnswer": "He feeds us like the birds, gives good gifts, has compassion when we hurt, knows what we need, and listens when we pray.",
+     "jordyn": "How do we become children of God, and why can no one earn it?",
+     "jordynAnswer": "By receiving Jesus and believing in his name (John 1:12). It's a gift of God's love, because none of us is good enough on our own; we all need Jesus.",
+     "action": "Read 1 John 3:1 together, then each person shares one thing they learned about God the Father this week. Next lesson: Jesus the Son.",
+     "prayer": "Father, thank you for loving us and making us your children through Jesus. In Jesus' name, Amen."
+    }
+   ],
+   "lessonVerses": [
+    "Matthew 6:26",
+    "Matthew 7:9–11",
+    "Psalm 103:13",
+    "John 1:12",
+    "1 John 3:1"
+   ]
+  },
+  {
+   "id": "4",
+   "week": 4,
+   "planTitle": "Jesus the Son (Thanksgiving)",
+   "title": "Jesus the Son (Thanksgiving)",
+   "selectLabel": "Week 4 · Jesus the Son (Thanksgiving)",
+   "ready": true,
+   "passage": "John 1:1–3, 14; Matthew 16:15–16; John 3:16; 2 Corinthians 9:15 (NIV)",
+   "time": "About 15–20 minutes",
+   "nextUp": "Week 5 · Advent: God promises a Savior (Isaiah 9:6)",
+   "bigIdea": "Jesus is God the Son. He has always been God, and he became a person to save us. He is God's best gift, so we give thanks for him.",
+   "scheduleNote": "This is the Week 4 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read the five short passages out loud. Let a different person read each one."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "John 1:1–3",
+     "text": "1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made."
+    },
+    {
+     "kind": "scripture",
+     "cite": "John 1:14",
+     "text": "14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 16:15–16",
+     "text": "15 \"But what about you?\" he asked. \"Who do you say I am?\" 16 Simon Peter answered, \"You are the Messiah, the Son of the living God.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "John 3:16",
+     "text": "16 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+    },
+    {
+     "kind": "scripture",
+     "cite": "2 Corinthians 9:15",
+     "text": "15 Thanks be to God for his indescribable gift!"
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned about God the Father, who loves us and makes us his children. This week we get to know the second person of the one God: Jesus, God the Son.",
+    "John starts his book with something amazing: \"In the beginning was the Word, and the Word was with God, and the Word was God.\" \"The Word\" is a name for Jesus. Before there were any stars, oceans, or people, Jesus was already there with the Father. Nobody made Jesus. He has always been God, and \"through him all things were made.\"",
+    "Then John says, \"The Word became flesh and made his dwelling among us.\" That means God the Son became a real human being. He was born as a baby, grew up, got hungry and tired, and lived with people. Jesus is fully God and fully human at the same time.",
+    "One day Jesus asked his friends, \"Who do you say I am?\" Peter answered, \"You are the Messiah, the Son of the living God.\" Messiah means the Savior God promised to send. Peter was right!",
+    "Why did the Son come? Because God loves us. \"For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.\" Jesus came to save us from our sin, so that everyone who trusts him can live with God forever.",
+    "That is the best gift anyone has ever been given. When we give thanks, the Bible gives us the biggest thank-you of all: \"Thanks be to God for his indescribable gift!\" Indescribable means so great that words can't fully describe it. That gift is Jesus."
+   ],
+   "enochLine": "Jesus is God's Son, and he came to save me!",
+   "enochActivities": [
+    "Activity: Gift box. Wrap a small box (or cover a shoebox with a blanket) and put a drawing of baby Jesus or a cross inside. Let Enoch open it and say together, \"Jesus is God's best gift!\"",
+    "Thank-you circle: take turns naming things to thank God for. Every time it's Enoch's turn, he ends with, \"Thank you, God, for Jesus!\" Paw Patrol touch: when someone needs help, the pups come running. God the Son came all the way from heaven to help and save us."
+   ],
+   "elijahQuestions": [
+    "John 1:1 says, \"In the beginning was the Word.\" Who is the Word? Was he there before the world was made?",
+    "John 1:14 says, \"The Word became flesh.\" What does that mean Jesus did?",
+    "When Jesus asked, \"Who do you say I am?\", what did Peter answer?",
+    "In John 3:16, why did God give his Son, and what does everyone who believes in him get?"
+   ],
+   "jordynQuestions": [
+    "John 1:1 says the Word was \"with God\" and the Word \"was God.\" How does that fit with what we learned in Week 2 about one God in three persons?",
+    "Why does it matter that Jesus is both fully God and fully human? What would be missing if he were only one or the other?",
+    "People today say many things about Jesus: a good teacher, a nice man, a prophet. Why isn't \"just a good teacher\" enough, according to these verses?"
+   ],
+   "jordynApplication": "Jesus asks everyone the question he asked Peter: \"Who do you say I am?\" This week, think about your own answer and say it to God in prayer. At Thanksgiving dinner, or any meal this week, when it's your turn to say what you're thankful for, name Jesus and one reason why. If a friend at school or volleyball asks what you believe about Jesus, you can say, \"He's God's Son, and he came to save us.\"",
+   "elijahAnswers": [
+    "The Word is Jesus, God the Son. Yes, he was already there in the beginning, and all things were made through him (John 1:1–3).",
+    "God the Son became a real human being and lived among people (John 1:14).",
+    "\"You are the Messiah, the Son of the living God.\" (Matthew 16:16)",
+    "Because God so loved the world. Whoever believes in him shall not perish but have eternal life (John 3:16)."
+   ],
+   "jordynAnswers": [
+    "\"With God\" shows the Son is a distinct person from the Father. \"Was God\" shows he is fully God. That is one God in three persons: the Son is not the Father, yet both are the one God.",
+    "Because he is God, he has the power to save and shows us exactly what God is like. Because he is human, he could live among us, understand what we go through, and take our place. Only someone who is both could be the Savior we need.",
+    "John says the Word was God and made all things (John 1:1–3), and Peter calls him the Messiah, the Son of the living God (Matthew 16:16). A teacher can give good advice, but only God the Son can save. Jesus is much more than a good teacher; he is God who came for us."
+   ],
+   "applicationCheck": "Ask her later in the week what her answer to Jesus' question is, and listen for whether she named Jesus when the family shared what they were thankful for.",
+   "prayer": "Dear God, thank you for sending your Son, Jesus. Jesus, you have always been God, and you became a person to live with us and save us. Thank you for loving us so much. Help each of us believe in you and say with Peter, \"You are the Messiah, the Son of the living God.\" Thank you for your indescribable gift. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w4-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "Jesus is God the Son, who became a person and lived among us.",
+     "verse": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.",
+     "verseCite": "John 1:14, NIV",
+     "enoch": "Point to yourself and say, \"Jesus became a person, like me!\"",
+     "elijah": "What does \"The Word became flesh\" mean?",
+     "elijahAnswer": "Jesus, God the Son, became a real human being and lived among people (John 1:14).",
+     "jordyn": "John says the Son came \"full of grace and truth.\" Why do we need both grace and truth?",
+     "jordynAnswer": "Truth tells us what is right and shows us our sin. Grace is God's kindness we don't deserve. Jesus brings both: he tells us the truth, and he forgives and helps us.",
+     "action": "Read John 1:14 together, then each person names one thing Jesus did when he lived on earth, like healing people, teaching, or welcoming children.",
+     "prayer": "Jesus, thank you for coming to live among us, full of grace and truth. In Jesus' name, Amen."
+    },
+    {
+     "id": "w4-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Passage",
+     "focus": "Peter knew who Jesus is: the Messiah, the Son of the living God.",
+     "verse": "15 \"But what about you?\" he asked. \"Who do you say I am?\" 16 Simon Peter answered, \"You are the Messiah, the Son of the living God.\"",
+     "verseCite": "Matthew 16:15–16, NIV",
+     "enoch": "A parent asks, \"Who is Jesus?\" Enoch answers, \"God's Son!\"",
+     "elijah": "What did Peter say when Jesus asked, \"Who do you say I am?\"",
+     "elijahAnswer": "\"You are the Messiah, the Son of the living God.\" (Matthew 16:16)",
+     "jordyn": "Jesus didn't just ask what other people thought; he asked, \"Who do you say I am?\" Why does everyone have to answer that for themselves?",
+     "jordynAnswer": "No one can believe for us. Parents and church can teach us, but each person has to trust Jesus for themselves. John 3:16 says \"whoever believes.\"",
+     "action": "Go around the table and have each person finish the sentence \"Jesus is...\" with something true from this week.",
+     "prayer": "Jesus, you are the Messiah, the Son of the living God. Help us know you and trust you. In Jesus' name, Amen."
+    },
+    {
+     "id": "w4-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Game",
+     "focus": "Jesus showed he is God by calming the storm.",
+     "verse": "39 He got up, rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm. 40 He said to his disciples, \"Why are you so afraid? Do you still have no faith?\" 41 They were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\"",
+     "verseCite": "Mark 4:39–41, NIV",
+     "enoch": "Make storm noises (whoosh!), then say, \"Quiet! Be still!\" and everyone freezes.",
+     "elijah": "What happened when Jesus said, \"Quiet! Be still!\"?",
+     "elijahAnswer": "The wind died down and it was completely calm (Mark 4:39).",
+     "jordyn": "The disciples asked, \"Who is this? Even the wind and the waves obey him!\" How would you answer their question using what we learned this week?",
+     "jordynAnswer": "He is God the Son, the Word through whom all things were made (John 1:3). The wind and the waves obey him because he made them.",
+     "action": "Storm game: everyone makes wind and wave sounds and rocks like a boat. When the leader says, \"Quiet! Be still!\", everyone freezes. Take turns being the leader.",
+     "prayer": "Jesus, you are stronger than any storm. Help us trust you when we are afraid. In Jesus' name, Amen."
+    },
+    {
+     "id": "w4-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Passage",
+     "focus": "God gave his Son because he loves the world.",
+     "verse": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+     "verseCite": "John 3:16, NIV",
+     "enoch": "Spread your arms wide and say, \"God loves me THIS much!\"",
+     "elijah": "In John 3:16, who does God love, and what did he give?",
+     "elijahAnswer": "God loves the world, and he gave his one and only Son (John 3:16).",
+     "jordyn": "John 3:16 says \"whoever believes.\" What does that tell you about who can be saved?",
+     "jordynAnswer": "Anyone. It doesn't depend on where you come from or how good you are. Whoever believes in Jesus has eternal life.",
+     "action": "Read John 3:16 together, putting each family member's name in place of \"the world\": \"For God so loved Elijah...\"",
+     "prayer": "Father, thank you for loving the world so much that you gave your Son. In Jesus' name, Amen."
+    },
+    {
+     "id": "w4-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Challenge",
+     "focus": "Jesus is God's best gift, so we give thanks.",
+     "verse": "Thanks be to God for his indescribable gift!",
+     "verseCite": "2 Corinthians 9:15, NIV",
+     "enoch": "Say, \"Thank you, God, for Jesus!\"",
+     "elijah": "What does \"indescribable\" mean, and what is God's indescribable gift?",
+     "elijahAnswer": "It means too great for words to fully describe. God's gift is Jesus, his Son (2 Corinthians 9:15; John 3:16).",
+     "jordyn": "Why should thanking God for Jesus come first, before food, family, and other good things?",
+     "jordynAnswer": "Every good gift comes from the Father (James 1:17), but Jesus is the greatest gift, because through him we are forgiven and become God's children forever. The other gifts are good; Jesus is best.",
+     "action": "Thankful challenge: at a meal today, each person names three things they're thankful for, and the last one is always Jesus.",
+     "prayer": "Thanks be to God for his indescribable gift! Thank you for Jesus. In Jesus' name, Amen."
+    },
+    {
+     "id": "w4-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: Jesus is God the Son. He has always been God, he became a person, and he came to save us.",
+     "verse": "But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.",
+     "verseCite": "John 20:31, NIV",
+     "enoch": "Ask, \"Who is Jesus?\" (God's Son!) \"Why did he come?\" (To save me!)",
+     "elijah": "Name two things we learned about Jesus this week.",
+     "elijahAnswer": "Any two: he was there in the beginning and made all things; he became a person; Peter called him the Messiah, the Son of the living God; he calmed the storm; God gave him because he loves the world; he is God's indescribable gift.",
+     "jordyn": "John says he wrote his book \"that you may believe.\" What is one thing from this week that helps you believe Jesus is the Son of God?",
+     "jordynAnswer": "Any answer from the week: he was with God and was God from the beginning (John 1:1), the wind and waves obeyed him (Mark 4:39–41), Peter confessed him as the Son of the living God (Matthew 16:16), and God gave him out of love (John 3:16).",
+     "action": "Read John 20:31 together, then each person shares one thing they learned about Jesus this week. Next lesson: God promises a Savior.",
+     "prayer": "Jesus, we believe you are the Messiah, the Son of God. Thank you for giving us life in your name. In Jesus' name, Amen."
+    }
+   ],
+   "lessonVerses": [
+    "John 1:1–3",
+    "John 1:14",
+    "Matthew 16:15–16",
+    "John 3:16",
+    "2 Corinthians 9:15"
+   ]
+  },
+  {
+   "id": "5",
+   "week": 5,
+   "planTitle": "Advent: God promises a Savior (Isaiah 9:6)",
+   "title": "Advent: God promises a Savior (Isaiah 9:6)",
+   "selectLabel": "Week 5 · Advent: God promises a Savior (Isaiah 9:6)",
+   "ready": true,
+   "passage": "Isaiah 9:2, 6–7; Micah 5:2; Galatians 4:4–5 (NIV)",
+   "time": "About 15–20 minutes",
+   "nextUp": "Week 6 · Advent: The angel visits Mary",
+   "bigIdea": "Long before Jesus was born, God promised to send a Savior, and God always keeps his promises.",
+   "scheduleNote": "This is the Week 5 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read the four short passages out loud. Let a different person read each one."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Isaiah 9:2",
+     "text": "2 The people walking in darkness have seen a great light; on those living in the land of deep darkness a light has dawned."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Isaiah 9:6–7",
+     "text": "6 For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. 7 Of the greatness of his government and peace there will be no end. He will reign on David's throne and over his kingdom, establishing and upholding it with justice and righteousness from that time on and forever. The zeal of the LORD Almighty will accomplish this."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Micah 5:2",
+     "text": "2 \"But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Galatians 4:4–5",
+     "text": "4 But when the set time had fully come, God sent his Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive adoption to sonship."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that Jesus is God the Son, who became a person to save us. Now Advent begins. Advent means \"coming.\" It is a time to remember how God's people waited for the Savior to come, and to get our hearts ready to celebrate his birth at Christmas.",
+    "When people turned away from God, sin made the world a dark and sad place. But God did not leave his people without hope. Hundreds of years before Jesus was born, God gave promises through his prophets, messengers who spoke God's words.",
+    "The prophet Isaiah said, \"The people walking in darkness have seen a great light.\" Sin makes life dark, like a room with no lights on. God promised to send a light into the darkness.",
+    "Isaiah also said, \"For to us a child is born, to us a son is given.\" This child would have amazing names: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. He would be a King from David's family, and his kingdom would never end. Who could be born as a baby and also be called Mighty God? Only Jesus, God the Son!",
+    "Another prophet, Micah, even told where this ruler would be born: Bethlehem, a small town. God chose a little place for his great King.",
+    "God's people waited a long, long time. But God never forgets his promises. The Bible says, \"When the set time had fully come, God sent his Son.\" Right on God's schedule, Jesus was born in Bethlehem, just as God said. And he came so that we could become God's children, just like we learned in Week 3."
+   ],
+   "enochLine": "God promised a Savior, and God always keeps his promises!",
+   "enochActivities": [
+    "Activity: Light in the dark. Turn off the lights and sit together in the dark for a moment. Then turn on a flashlight and say together, \"Jesus is the light God promised!\"",
+    "Promise game: a parent makes a small promise (\"After we read, I'll give you a big hug\") and keeps it right away. Say together, \"God keeps his promises too!\" Paw Patrol touch: the pups can count on Ryder to show up, but God is even more faithful. He has never broken a single promise."
+   ],
+   "elijahQuestions": [
+    "In Isaiah 9:2, what did the people walking in darkness see?",
+    "Isaiah 9:6 gives the promised child four names. Can you name them?",
+    "According to Micah 5:2, in what town would the ruler be born?",
+    "Galatians 4:4 says God sent his Son \"when the set time had fully come.\" Did God forget his promise while people waited?"
+   ],
+   "jordynQuestions": [
+    "Isaiah says \"a child is born\" and calls him \"Mighty God.\" How does that fit with what we learned last week about Jesus?",
+    "Isaiah also calls him \"Everlasting Father,\" but Jesus is the Son, not the Father. What do you think this name tells us about the kind of King he is?",
+    "God's people waited hundreds of years for the Savior. What does that teach us about trusting God when we have to wait?"
+   ],
+   "jordynApplication": "Waiting is hard: waiting for a volleyball tournament, a test grade, Christmas, or an answer to prayer. This week, write down one thing you're waiting for and pray about it each day. When you feel impatient, remember that God's people waited a long time for the Savior, and God kept his promise right on time. Then look for one way to bring a little light to someone at school, like including someone who is left out.",
+   "elijahAnswers": [
+    "A great light (Isaiah 9:2).",
+    "Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace (Isaiah 9:6).",
+    "Bethlehem (Micah 5:2).",
+    "No. God sent Jesus right at the time he planned (Galatians 4:4). God always keeps his promises."
+   ],
+   "jordynAnswers": [
+    "A child would be born, so he would be fully human, and he would be Mighty God, so he would be fully God. That is exactly who Jesus is: God the Son, who became a person (John 1:1, 14).",
+    "It describes how this King cares for his people: forever, the way a loving father protects and provides. It does not mean the Son and the Father are the same person. The Father, the Son, and the Holy Spirit are still three persons and one God.",
+    "God's timing is perfect even when it feels slow. He was working the whole time and kept his word right on time (Galatians 4:4). We can wait with hope because God does not lie or forget his promises (Numbers 23:19)."
+   ],
+   "applicationCheck": "Ask her later in the week what she's waiting for and how she's been praying about it, and notice any kindness she shows to someone at school.",
+   "prayer": "Dear God, thank you for promising a Savior long ago and for keeping your promise by sending Jesus. Thank you that Jesus is the light in the darkness, the Mighty God, and the Prince of Peace. Help us trust you while we wait, because you always keep your promises. As we get ready for Christmas, help our hearts get ready for Jesus. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w5-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "God promised a child who would be called Mighty God and Prince of Peace.",
+     "verse": "For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+     "verseCite": "Isaiah 9:6, NIV",
+     "enoch": "Hold up four fingers and say the names with a parent: \"Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace!\"",
+     "elijah": "Which name for the promised child is your favorite, and why?",
+     "elijahAnswer": "Any of the four with a reason: Wonderful Counselor (he gives perfect wisdom), Mighty God (he is God), Everlasting Father (he cares for his people forever), Prince of Peace (he brings peace with God).",
+     "jordyn": "\"To us a son is given\" sounds like John 3:16 from last week. How are the two verses connected?",
+     "jordynAnswer": "Isaiah promised that a son would be given. John 3:16 says God gave his one and only Son. Jesus is the Son God promised and then gave.",
+     "action": "Read Isaiah 9:6 together, then each person picks one name and says what it tells us about Jesus.",
+     "prayer": "Jesus, you are Wonderful Counselor, Mighty God, Everlasting Father, and Prince of Peace. Thank you for coming. In Jesus' name, Amen."
+    },
+    {
+     "id": "w5-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "Jesus is the great light God promised for a dark world.",
+     "verse": "The people walking in darkness have seen a great light; on those living in the land of deep darkness a light has dawned.",
+     "verseCite": "Isaiah 9:2, NIV",
+     "enoch": "Turn off the light, then flip it back on and shout, \"A great light!\"",
+     "elijah": "What did the people walking in darkness see?",
+     "elijahAnswer": "A great light (Isaiah 9:2).",
+     "jordyn": "Isaiah uses darkness as a picture. What kind of darkness was he talking about, and how does Jesus bring light?",
+     "jordynAnswer": "Not just nighttime, but the darkness of sin, sadness, and being far from God. Jesus brings light by showing us what God is like, forgiving our sin, and bringing us back to God.",
+     "action": "Flashlight game: turn the lights down. One person hides a Bible in the room, and the others use a flashlight to find it. Whoever finds it reads Isaiah 9:2 out loud.",
+     "prayer": "Jesus, thank you for being the light in the darkness. Help us shine your light. In Jesus' name, Amen."
+    },
+    {
+     "id": "w5-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "God told ahead of time where the Savior would be born.",
+     "verse": "\"But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.\"",
+     "verseCite": "Micah 5:2, NIV",
+     "enoch": "Say \"Bethlehem!\" and clap once for each part: Beth-le-hem.",
+     "elijah": "What town did Micah say the ruler would come from?",
+     "elijahAnswer": "Bethlehem (Micah 5:2).",
+     "jordyn": "Micah says Bethlehem was \"small among the clans of Judah,\" and the ruler's \"origins are from of old, from ancient times.\" What do those two details tell you?",
+     "jordynAnswer": "God often uses small, overlooked places and people for his big plans. And a ruler whose origins are from ancient times points to Jesus, who was alive before he was born, because he has always been God (John 1:1).",
+     "action": "Find Bethlehem on a Bible map or an online map together, then read Micah 5:2.",
+     "prayer": "God, thank you that you plan everything and keep your word, down to the smallest town. In Jesus' name, Amen."
+    },
+    {
+     "id": "w5-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "God always keeps his promises.",
+     "verse": "God is not human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?",
+     "verseCite": "Numbers 23:19, NIV",
+     "enoch": "Ask, \"Does God keep his promises?\" (Yes!)",
+     "elijah": "According to Numbers 23:19, does God ever lie or fail to do what he promised?",
+     "elijahAnswer": "No. God is not human, that he should lie. He does what he says and keeps every promise (Numbers 23:19).",
+     "jordyn": "People sometimes break promises, even when they mean well. Why can we trust God's promises in a way we can't trust anyone else's?",
+     "jordynAnswer": "People can forget, change their minds, or be unable to do what they said. God never lies, never changes his mind, and is powerful enough to do everything he says (Numbers 23:19).",
+     "action": "Promise challenge: each person makes one small promise to someone in the family today and keeps it. At bedtime, thank God that he always keeps his promises.",
+     "prayer": "God, thank you that you never lie and always keep your promises. Help us keep ours. In Jesus' name, Amen."
+    },
+    {
+     "id": "w5-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "God is patient, and we can trust him while we wait.",
+     "verse": "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.",
+     "verseCite": "2 Peter 3:9, NIV",
+     "enoch": "Fold your hands and say, \"Thank you, God, for being patient with me.\"",
+     "elijah": "Is the Lord slow in keeping his promise?",
+     "elijahAnswer": "No. The Lord is not slow in keeping his promise; he is patient (2 Peter 3:9).",
+     "jordyn": "Peter wrote this about waiting for Jesus to come back. He says God's waiting is really patience, because he wants everyone to come to repentance. How does that change the way you see waiting?",
+     "jordynAnswer": "God's waiting isn't forgetting; it's mercy. He is giving more people time to turn to him. That makes us thankful, and eager to tell others about Jesus.",
+     "action": "Pray together for one person you know who doesn't know Jesus yet, asking God to bring them to himself.",
+     "prayer": "Lord, thank you for being patient with us. Please help our friends and family come to know Jesus. In Jesus' name, Amen."
+    },
+    {
+     "id": "w5-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God promised a Savior long ago, and he kept his promise by sending Jesus.",
+     "verse": "4 But when the set time had fully come, God sent his Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive adoption to sonship.",
+     "verseCite": "Galatians 4:4–5, NIV",
+     "enoch": "Ask, \"What did God promise?\" (A Savior!) \"Who is the Savior?\" (Jesus!)",
+     "elijah": "Name two promises about the Savior we learned this week.",
+     "elijahAnswer": "Any two: he would be a great light (Isaiah 9:2); he would be called Mighty God and Prince of Peace and reign forever (Isaiah 9:6–7); he would be born in Bethlehem (Micah 5:2); God would send him at just the right time (Galatians 4:4).",
+     "jordyn": "Galatians 4:5 says Jesus came \"that we might receive adoption to sonship.\" How does that connect to what we learned about God the Father in Week 3?",
+     "jordynAnswer": "Adoption means being brought into a family. In Week 3 we learned that everyone who receives Jesus becomes a child of God (John 1:12). Jesus came so we could belong to the Father's family.",
+     "action": "Read Galatians 4:4–5 together, then each person shares one thing they learned about God's promises this week. Next lesson: the angel visits Mary.",
+     "prayer": "God, thank you for sending your Son right on time, so we could become your children. In Jesus' name, Amen."
+    }
+   ],
+   "lessonVerses": [
+    "Isaiah 9:2",
+    "Isaiah 9:6–7",
+    "Micah 5:2",
+    "Galatians 4:4–5"
+   ]
+  },
+  {
+   "id": "6",
+   "week": 6,
+   "planTitle": "Advent: The angel visits Mary",
+   "title": "Advent: The angel visits Mary",
+   "selectLabel": "Week 6 · Advent: The angel visits Mary",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "7",
+   "week": 7,
+   "planTitle": "Advent: Immanuel, God with us (Joseph's dream)",
+   "title": "Advent: Immanuel, God with us (Joseph's dream)",
+   "selectLabel": "Week 7 · Advent: Immanuel, God with us (Joseph's dream)",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "8",
+   "week": 8,
+   "planTitle": "Christmas: Jesus is born, the shepherds",
+   "title": "Christmas: Jesus is born, the shepherds",
+   "selectLabel": "Week 8 · Christmas: Jesus is born, the shepherds",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "9",
+   "week": 9,
+   "planTitle": "The wise men worship Jesus",
+   "title": "The wise men worship Jesus",
+   "selectLabel": "Week 9 · The wise men worship Jesus",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "10",
+   "week": 10,
+   "planTitle": "The Holy Spirit, our Helper",
+   "title": "The Holy Spirit, our Helper",
+   "selectLabel": "Week 10 · The Holy Spirit, our Helper",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "11",
+   "week": 11,
+   "planTitle": "What is sin?",
+   "title": "What is sin?",
+   "selectLabel": "Week 11 · What is sin?",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "12",
+   "week": 12,
+   "planTitle": "What counts as sin? Heart, words and actions (Ten Commandments)",
+   "title": "What counts as sin? Heart, words and actions (Ten Commandments)",
+   "selectLabel": "Week 12 · What counts as sin? Heart, words and actions (Ten Commandments)",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "13",
+   "week": 13,
+   "planTitle": "Grace: Jesus paid for our sin",
+   "title": "Grace: Jesus paid for our sin",
+   "selectLabel": "Week 13 · Grace: Jesus paid for our sin",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "14",
+   "week": 14,
+   "planTitle": "Faith and repentance (the lost son)",
+   "title": "Faith and repentance (the lost son)",
+   "selectLabel": "Week 14 · Faith and repentance (the lost son)",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "15",
+   "week": 15,
+   "planTitle": "Prayer: talking with our Father",
+   "title": "Prayer: talking with our Father",
+   "selectLabel": "Week 15 · Prayer: talking with our Father",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "16",
+   "week": 16,
+   "planTitle": "The Bible is God's Word",
+   "title": "The Bible is God's Word",
+   "selectLabel": "Week 16 · The Bible is God's Word",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "17",
+   "week": 17,
+   "planTitle": "God's design for marriage and family",
+   "title": "God's design for marriage and family",
+   "selectLabel": "Week 17 · God's design for marriage and family",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "18",
+   "week": 18,
+   "planTitle": "Loving everyone made in God's image",
+   "title": "Loving everyone made in God's image",
+   "selectLabel": "Week 18 · Loving everyone made in God's image",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "19",
+   "week": 19,
+   "planTitle": "Heaven: our forever home",
+   "title": "Heaven: our forever home",
+   "selectLabel": "Week 19 · Heaven: our forever home",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "20",
+   "week": 20,
+   "planTitle": "The church: God's family",
+   "title": "The church: God's family",
+   "selectLabel": "Week 20 · The church: God's family",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "21",
+   "week": 21,
+   "planTitle": "Palm Sunday: Jesus enters Jerusalem",
+   "title": "Palm Sunday: Jesus enters Jerusalem",
+   "selectLabel": "Week 21 · Palm Sunday: Jesus enters Jerusalem",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "22",
+   "week": 22,
+   "planTitle": "Easter: Jesus is risen",
+   "title": "Easter: Jesus is risen",
+   "selectLabel": "Week 22 · Easter: Jesus is risen",
+   "ready": false,
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "23",
+   "week": 23,
+   "planTitle": "Jesus goes back to heaven",
+   "title": "Jesus goes back to heaven",
+   "selectLabel": "Week 23 · Jesus goes back to heaven",
+   "ready": false,
+   "passage": "Acts 1:6–11 (NIV)",
+   "bigIdea": "Jesus went back to heaven, and he will come again.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "24",
+   "week": 24,
+   "planTitle": "Pentecost: the Holy Spirit comes",
+   "title": "Pentecost: the Holy Spirit comes",
+   "selectLabel": "Week 24 · Pentecost: the Holy Spirit comes",
+   "ready": false,
+   "passage": "Acts 2:1–12, 36–41 (NIV)",
+   "bigIdea": "God sent the Holy Spirit, and the church began.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "25",
+   "week": 25,
+   "planTitle": "Peter and John at the temple",
+   "title": "Peter and John at the temple",
+   "selectLabel": "Week 25 · Peter and John at the temple",
+   "ready": false,
+   "passage": "Acts 3:1–10; 4:1–12 (NIV)",
+   "bigIdea": "Jesus heals and saves, and Peter and John are bold to say so.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "26",
+   "week": 26,
+   "planTitle": "The church shares what they have",
+   "title": "The church shares what they have",
+   "selectLabel": "Week 26 · The church shares what they have",
+   "ready": false,
+   "passage": "Acts 2:42–47; 4:32–35 (NIV)",
+   "bigIdea": "The first church prayed, learned, and shared so no one was in need.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "27",
+   "week": 27,
+   "planTitle": "Stephen: faithful to Jesus",
+   "title": "Stephen: faithful to Jesus",
+   "selectLabel": "Week 27 · Stephen: faithful to Jesus",
+   "ready": false,
+   "passage": "Acts 6:8–15; 7:54–60 (NIV)",
+   "bigIdea": "Stephen told the truth about Jesus, even when it cost him his life.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "28",
+   "week": 28,
+   "planTitle": "Philip and the Ethiopian",
+   "title": "Philip and the Ethiopian",
+   "selectLabel": "Week 28 · Philip and the Ethiopian",
+   "ready": false,
+   "passage": "Acts 8:26–40 (NIV)",
+   "bigIdea": "God sent Philip to help a man understand the good news about Jesus.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "29",
+   "week": 29,
+   "planTitle": "Saul meets Jesus",
+   "title": "Saul meets Jesus",
+   "selectLabel": "Week 29 · Saul meets Jesus",
+   "ready": false,
+   "passage": "Acts 9:1–19 (NIV)",
+   "bigIdea": "Jesus can change anyone, even someone who fought against him.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "30",
+   "week": 30,
+   "planTitle": "Peter and Cornelius: good news for all people",
+   "title": "Peter and Cornelius: good news for all people",
+   "selectLabel": "Week 30 · Peter and Cornelius: good news for all people",
+   "ready": false,
+   "passage": "Acts 10:1–8, 34–48 (NIV)",
+   "bigIdea": "The good news of Jesus is for every nation and people.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "31",
+   "week": 31,
+   "planTitle": "Peter is set free from prison",
+   "title": "Peter is set free from prison",
+   "selectLabel": "Week 31 · Peter is set free from prison",
+   "ready": false,
+   "passage": "Acts 12:1–17 (NIV)",
+   "bigIdea": "The church prayed, and God set Peter free.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "32",
+   "week": 32,
+   "planTitle": "The church sends Paul and Barnabas",
+   "title": "The church sends Paul and Barnabas",
+   "selectLabel": "Week 32 · The church sends Paul and Barnabas",
+   "ready": false,
+   "passage": "Acts 13:1–12; 14:8–23 (NIV)",
+   "bigIdea": "The church sent Paul and Barnabas to tell other towns about Jesus.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "33",
+   "week": 33,
+   "planTitle": "Saved by grace: the meeting in Jerusalem",
+   "title": "Saved by grace: the meeting in Jerusalem",
+   "selectLabel": "Week 33 · Saved by grace: the meeting in Jerusalem",
+   "ready": false,
+   "passage": "Acts 15:1–11 (NIV)",
+   "bigIdea": "We are saved by the grace of the Lord Jesus, not by keeping extra rules.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "34",
+   "week": 34,
+   "planTitle": "Lydia believes; Paul and Silas sing in prison",
+   "title": "Lydia believes; Paul and Silas sing in prison",
+   "selectLabel": "Week 34 · Lydia believes; Paul and Silas sing in prison",
+   "ready": false,
+   "passage": "Acts 16:11–34 (NIV)",
+   "bigIdea": "God opened Lydia's heart, and he used a midnight song to save a jailer.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "35",
+   "week": 35,
+   "planTitle": "Paul in Athens: the God who made the world",
+   "title": "Paul in Athens: the God who made the world",
+   "selectLabel": "Week 35 · Paul in Athens: the God who made the world",
+   "ready": false,
+   "passage": "Acts 17:22–31 (NIV)",
+   "bigIdea": "Paul told the people of Athens about the one God who made the world and raised Jesus.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "36",
+   "week": 36,
+   "planTitle": "Priscilla, Aquila, and the church in Corinth",
+   "title": "Priscilla, Aquila, and the church in Corinth",
+   "selectLabel": "Week 36 · Priscilla, Aquila, and the church in Corinth",
+   "ready": false,
+   "passage": "Acts 18:1–11 (NIV)",
+   "bigIdea": "Friends in Christ work and teach together so more people can hear about Jesus.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "37",
+   "week": 37,
+   "planTitle": "God keeps Paul safe in the storm",
+   "title": "God keeps Paul safe in the storm",
+   "selectLabel": "Week 37 · God keeps Paul safe in the storm",
+   "ready": false,
+   "passage": "Acts 27:13–26, 39–44 (NIV)",
+   "bigIdea": "God kept his promise and brought Paul safely through the storm.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "38",
+   "week": 38,
+   "planTitle": "Paul in Rome: the good news keeps going",
+   "title": "Paul in Rome: the good news keeps going",
+   "selectLabel": "Week 38 · Paul in Rome: the good news keeps going",
+   "ready": false,
+   "passage": "Acts 28:11–16, 30–31 (NIV)",
+   "bigIdea": "Even in Rome, Paul kept telling people about Jesus.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "39",
+   "week": 39,
+   "planTitle": "The fruit of the Spirit",
+   "title": "The fruit of the Spirit",
+   "selectLabel": "Week 39 · The fruit of the Spirit",
+   "ready": false,
+   "passage": "Galatians 5:22–23 (NIV)",
+   "bigIdea": "The Holy Spirit grows love, joy, peace, and more good fruit in us.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "40",
+   "week": 40,
+   "planTitle": "The armor of God",
+   "title": "The armor of God",
+   "selectLabel": "Week 40 · The armor of God",
+   "ready": false,
+   "passage": "Ephesians 6:10–18 (NIV)",
+   "bigIdea": "God gives us his armor so we can stand strong in him.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "41",
+   "week": 41,
+   "planTitle": "The Lord's Prayer",
+   "title": "The Lord's Prayer",
+   "selectLabel": "Week 41 · The Lord's Prayer",
+   "ready": false,
+   "passage": "Matthew 6:9–13 (NIV)",
+   "bigIdea": "Jesus teaches us how to pray to our Father in heaven.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "42",
+   "week": 42,
+   "planTitle": "One body, many parts",
+   "title": "One body, many parts",
+   "selectLabel": "Week 42 · One body, many parts",
+   "ready": false,
+   "passage": "1 Corinthians 12:12–27 (NIV)",
+   "bigIdea": "In Christ we are one body, and every person matters.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "43",
+   "week": 43,
+   "planTitle": "Abraham: God keeps his promise",
+   "title": "Abraham: God keeps his promise",
+   "selectLabel": "Week 43 · Abraham: God keeps his promise",
+   "ready": false,
+   "passage": "Genesis 12:1–9; 15:1–6; 21:1–7 (NIV)",
+   "bigIdea": "God promised Abraham a family, and God kept his word.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "44",
+   "week": 44,
+   "planTitle": "Joseph: God meant it for good",
+   "title": "Joseph: God meant it for good",
+   "selectLabel": "Week 44 · Joseph: God meant it for good",
+   "ready": false,
+   "passage": "Genesis 37:12–28; 50:15–21 (NIV)",
+   "bigIdea": "God was with Joseph, and he used even hard things for good.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "45",
+   "week": 45,
+   "planTitle": "Moses: God sets his people free",
+   "title": "Moses: God sets his people free",
+   "selectLabel": "Week 45 · Moses: God sets his people free",
+   "ready": false,
+   "passage": "Exodus 3:1–12; 12:29–42; 14:21–31 (NIV)",
+   "bigIdea": "God heard his people and set them free from Egypt.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "46",
+   "week": 46,
+   "planTitle": "Ruth: loyalty and God's kindness",
+   "title": "Ruth: loyalty and God's kindness",
+   "selectLabel": "Week 46 · Ruth: loyalty and God's kindness",
+   "ready": false,
+   "passage": "Ruth 1:16–18; 2:1–12; 4:13–17 (NIV)",
+   "bigIdea": "Ruth stayed faithful, and God kindly provided for her family.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "47",
+   "week": 47,
+   "planTitle": "David and Goliath: trust in the Lord",
+   "title": "David and Goliath: trust in the Lord",
+   "selectLabel": "Week 47 · David and Goliath: trust in the Lord",
+   "ready": false,
+   "passage": "1 Samuel 17:32–50 (NIV)",
+   "bigIdea": "David trusted the Lord, not his own size or strength.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "48",
+   "week": 48,
+   "planTitle": "Esther: courage for such a time as this",
+   "title": "Esther: courage for such a time as this",
+   "selectLabel": "Week 48 · Esther: courage for such a time as this",
+   "ready": false,
+   "passage": "Esther 4:10–16; 7:1–6 (NIV)",
+   "bigIdea": "God used Esther's courage to save her people.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "49",
+   "week": 49,
+   "planTitle": "Daniel in the lions' den",
+   "title": "Daniel in the lions' den",
+   "selectLabel": "Week 49 · Daniel in the lions' den",
+   "ready": false,
+   "passage": "Daniel 6:10–23 (NIV)",
+   "bigIdea": "Daniel kept praying to God, and God shut the lions' mouths.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "50",
+   "week": 50,
+   "planTitle": "Nehemiah: rebuilding the wall",
+   "title": "Nehemiah: rebuilding the wall",
+   "selectLabel": "Week 50 · Nehemiah: rebuilding the wall",
+   "ready": false,
+   "passage": "Nehemiah 2:11–18; 6:15–16 (NIV)",
+   "bigIdea": "Nehemiah prayed and worked, and God helped his people rebuild.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "51",
+   "week": 51,
+   "planTitle": "Jonah: God's mercy for Nineveh",
+   "title": "Jonah: God's mercy for Nineveh",
+   "selectLabel": "Week 51 · Jonah: God's mercy for Nineveh",
+   "ready": false,
+   "passage": "Jonah 1:1–17; 3:1–10; 4:1–11 (NIV)",
+   "bigIdea": "God was merciful to Nineveh, and he wants us to love people we would rather avoid.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  },
+  {
+   "id": "52",
+   "week": 52,
+   "planTitle": "Jesus makes all things new",
+   "title": "Jesus makes all things new",
+   "selectLabel": "Week 52 · Jesus makes all things new",
+   "ready": false,
+   "passage": "Revelation 21:1–7 (NIV)",
+   "bigIdea": "Jesus will make a new heaven and a new earth, and God will live with his people forever.",
+   "time": "About 15–20 minutes",
+   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+  }
+ ]
 }
