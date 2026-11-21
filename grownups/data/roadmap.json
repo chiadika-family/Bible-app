@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.4",
+  "version": "2026.11.21.8",
   "start": "2026-10-31",
   "phases": [
     {
@@ -613,55 +613,55 @@
     },
     {
       "number": 49,
-      "date": "2026-12-18",
+      "date": "2026-12-20",
       "phase": "books-of-the-bible",
       "title": "Numbers: the priestly blessing, and the cloud",
       "passages": [
         "Numbers 6:22–27",
         "Numbers 9:15–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 50,
-      "date": "2026-12-19",
+      "date": "2026-12-21",
       "phase": "books-of-the-bible",
       "title": "Numbers: spies, unbelief, and a forty-year delay",
       "passages": [
         "Numbers 13:26–14:12",
         "Numbers 14:20–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 51,
-      "date": "2026-12-20",
+      "date": "2026-12-22",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Numbers: water from the rock, and the bronze serpent",
       "passages": [
         "Numbers 20:1–13",
         "Numbers 21:4–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
       "number": 52,
-      "date": "2026-12-21",
+      "date": "2026-12-23",
       "phase": "books-of-the-bible",
       "title": "Numbers: Balaam, a talking donkey, and a coming King",
       "passages": [
         "Numbers 22:21–35",
         "Numbers 24:15–19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 53,
-      "date": "2026-12-22",
+      "date": "2026-12-24",
       "phase": "books-of-the-bible",
       "title": "Deuteronomy: hear, O Israel — remember and obey",
       "passages": [
@@ -673,7 +673,7 @@
     },
     {
       "number": 54,
-      "date": "2026-12-23",
+      "date": "2026-12-25",
       "phase": "books-of-the-bible",
       "title": "Deuteronomy: love the Lord with all your heart",
       "passages": [
@@ -684,7 +684,7 @@
     },
     {
       "number": 55,
-      "date": "2026-12-24",
+      "date": "2026-12-26",
       "phase": "books-of-the-bible",
       "title": "Deuteronomy: do not forget the Lord in the land",
       "passages": [
@@ -695,7 +695,7 @@
     },
     {
       "number": 56,
-      "date": "2026-12-25",
+      "date": "2026-12-27",
       "phase": "books-of-the-bible",
       "title": "Deuteronomy: a prophet like Moses, and choose life",
       "passages": [
@@ -707,7 +707,7 @@
     },
     {
       "number": 57,
-      "date": "2026-12-26",
+      "date": "2026-12-28",
       "phase": "books-of-the-bible",
       "title": "Deuteronomy: be strong and courageous — Moses dies, Joshua rises",
       "passages": [
@@ -719,7 +719,7 @@
     },
     {
       "number": 58,
-      "date": "2026-12-27",
+      "date": "2026-12-29",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Joshua: be strong — Rahab hides the spies",
       "passages": [
@@ -731,7 +731,7 @@
     },
     {
       "number": 59,
-      "date": "2026-12-28",
+      "date": "2026-12-30",
       "phase": "books-of-the-bible",
       "title": "Joshua: through the Jordan, and the walls of Jericho",
       "passages": [
@@ -743,7 +743,7 @@
     },
     {
       "number": 60,
-      "date": "2026-12-29",
+      "date": "2026-12-31",
       "phase": "books-of-the-bible",
       "title": "Joshua: choose this day whom you will serve",
       "passages": [
@@ -755,7 +755,7 @@
     },
     {
       "number": 61,
-      "date": "2026-12-30",
+      "date": "2027-01-01",
       "phase": "books-of-the-bible",
       "title": "Judges: a cycle of sin, slavery, and deliverance",
       "passages": [
@@ -766,7 +766,7 @@
     },
     {
       "number": 62,
-      "date": "2026-12-31",
+      "date": "2027-01-02",
       "phase": "books-of-the-bible",
       "title": "Judges: Gideon — the Lord is with the weak",
       "passages": [
@@ -779,7 +779,7 @@
     },
     {
       "number": 63,
-      "date": "2027-01-01",
+      "date": "2027-01-03",
       "phase": "books-of-the-bible",
       "title": "Judges: Samson, and everyone doing what is right in their own eyes",
       "passages": [
@@ -791,7 +791,7 @@
     },
     {
       "number": 64,
-      "date": "2027-01-02",
+      "date": "2027-01-04",
       "phase": "books-of-the-bible",
       "title": "Ruth: where you go I will go",
       "passages": [
@@ -802,7 +802,7 @@
     },
     {
       "number": 65,
-      "date": "2027-01-03",
+      "date": "2027-01-05",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Ruth: the kinsman-redeemer — from bitterness to blessing",
       "passages": [
@@ -814,7 +814,7 @@
     },
     {
       "number": 66,
-      "date": "2027-01-04",
+      "date": "2027-01-06",
       "phase": "books-of-the-bible",
       "title": "1 Samuel: Hannah's prayer, and Samuel hears the Lord",
       "passages": [
@@ -826,7 +826,7 @@
     },
     {
       "number": 67,
-      "date": "2027-01-05",
+      "date": "2027-01-07",
       "phase": "books-of-the-bible",
       "title": "1 Samuel: give us a king — Israel wants to be like the nations",
       "passages": [
@@ -837,7 +837,7 @@
     },
     {
       "number": 68,
-      "date": "2027-01-06",
+      "date": "2027-01-08",
       "phase": "books-of-the-bible",
       "title": "1 Samuel: David anointed, and Goliath falls",
       "passages": [
@@ -849,7 +849,7 @@
     },
     {
       "number": 69,
-      "date": "2027-01-07",
+      "date": "2027-01-09",
       "phase": "books-of-the-bible",
       "title": "1 Samuel: Jonathan's friendship, and David spares Saul",
       "passages": [
@@ -861,7 +861,7 @@
     },
     {
       "number": 70,
-      "date": "2027-01-08",
+      "date": "2027-01-10",
       "phase": "books-of-the-bible",
       "title": "1 Samuel: Saul's fall — seeking the Lord too late",
       "passages": [
@@ -873,7 +873,7 @@
     },
     {
       "number": 71,
-      "date": "2027-01-09",
+      "date": "2027-01-11",
       "phase": "books-of-the-bible",
       "title": "2 Samuel: David the king, and an everlasting house",
       "passages": [
@@ -885,7 +885,7 @@
     },
     {
       "number": 72,
-      "date": "2027-01-10",
+      "date": "2027-01-12",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 2 Samuel: David and Bathsheba — a king falls",
       "passages": [
@@ -897,7 +897,7 @@
     },
     {
       "number": 73,
-      "date": "2027-01-11",
+      "date": "2027-01-13",
       "phase": "books-of-the-bible",
       "title": "2 Samuel: you are the man — confession and mercy",
       "passages": [
@@ -909,7 +909,7 @@
     },
     {
       "number": 74,
-      "date": "2027-01-12",
+      "date": "2027-01-14",
       "phase": "books-of-the-bible",
       "title": "2 Samuel: David's song — the Lord is my rock",
       "passages": [
@@ -921,7 +921,7 @@
     },
     {
       "number": 75,
-      "date": "2027-01-13",
+      "date": "2027-01-15",
       "phase": "books-of-the-bible",
       "title": "1 Kings: Solomon asks for wisdom",
       "passages": [
@@ -933,7 +933,7 @@
     },
     {
       "number": 76,
-      "date": "2027-01-14",
+      "date": "2027-01-16",
       "phase": "books-of-the-bible",
       "title": "1 Kings: the temple dedicated — will God really dwell on earth?",
       "passages": [
@@ -945,7 +945,7 @@
     },
     {
       "number": 77,
-      "date": "2027-01-15",
+      "date": "2027-01-17",
       "phase": "books-of-the-bible",
       "title": "1 Kings: a divided heart, and a divided kingdom",
       "passages": [
@@ -957,7 +957,7 @@
     },
     {
       "number": 78,
-      "date": "2027-01-16",
+      "date": "2027-01-18",
       "phase": "books-of-the-bible",
       "title": "1 Kings: Elijah on Carmel — the Lord, he is God",
       "passages": [
@@ -968,7 +968,7 @@
     },
     {
       "number": 79,
-      "date": "2027-01-17",
+      "date": "2027-01-19",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 2 Kings: Elisha's mantle, and Naaman washed clean",
       "passages": [
@@ -980,7 +980,7 @@
     },
     {
       "number": 80,
-      "date": "2027-01-18",
+      "date": "2027-01-20",
       "phase": "books-of-the-bible",
       "title": "2 Kings: Israel falls — they would not listen",
       "passages": [
@@ -991,7 +991,7 @@
     },
     {
       "number": 81,
-      "date": "2027-01-19",
+      "date": "2027-01-21",
       "phase": "books-of-the-bible",
       "title": "2 Kings: Hezekiah — a king who trusted the Lord",
       "passages": [
@@ -1004,7 +1004,7 @@
     },
     {
       "number": 82,
-      "date": "2027-01-20",
+      "date": "2027-01-22",
       "phase": "books-of-the-bible",
       "title": "2 Kings: Josiah and the rediscovered Book",
       "passages": [
@@ -1017,7 +1017,7 @@
     },
     {
       "number": 83,
-      "date": "2027-01-21",
+      "date": "2027-01-23",
       "phase": "books-of-the-bible",
       "title": "1 Chronicles: give thanks — David's song of praise",
       "passages": [
@@ -1028,7 +1028,7 @@
     },
     {
       "number": 84,
-      "date": "2027-01-22",
+      "date": "2027-01-24",
       "phase": "books-of-the-bible",
       "title": "1 Chronicles: who am I, Lord, that you have brought me this far?",
       "passages": [
@@ -1039,7 +1039,7 @@
     },
     {
       "number": 85,
-      "date": "2027-01-23",
+      "date": "2027-01-25",
       "phase": "books-of-the-bible",
       "title": "1 Chronicles: everything comes from you",
       "passages": [
@@ -1050,7 +1050,7 @@
     },
     {
       "number": 86,
-      "date": "2027-01-24",
+      "date": "2027-01-26",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 2 Chronicles: if my people, who are called by my name, will humble themselves",
       "passages": [
@@ -1061,7 +1061,7 @@
     },
     {
       "number": 87,
-      "date": "2027-01-25",
+      "date": "2027-01-27",
       "phase": "books-of-the-bible",
       "title": "2 Chronicles: the battle belongs to the Lord",
       "passages": [
@@ -1072,7 +1072,7 @@
     },
     {
       "number": 88,
-      "date": "2027-01-26",
+      "date": "2027-01-28",
       "phase": "books-of-the-bible",
       "title": "2 Chronicles: exile, and a surprising decree of return",
       "passages": [
@@ -1083,7 +1083,7 @@
     },
     {
       "number": 89,
-      "date": "2027-01-27",
+      "date": "2027-01-29",
       "phase": "books-of-the-bible",
       "title": "Ezra: going home, and rebuilding the altar",
       "passages": [
@@ -1095,7 +1095,7 @@
     },
     {
       "number": 90,
-      "date": "2027-01-28",
+      "date": "2027-01-30",
       "phase": "books-of-the-bible",
       "title": "Ezra: a heart set to study, and a call to repent",
       "passages": [
@@ -1108,7 +1108,7 @@
     },
     {
       "number": 91,
-      "date": "2027-01-29",
+      "date": "2027-01-31",
       "phase": "books-of-the-bible",
       "title": "Nehemiah: a wall in ruins, and a leader who prays",
       "passages": [
@@ -1120,7 +1120,7 @@
     },
     {
       "number": 92,
-      "date": "2027-01-30",
+      "date": "2027-02-01",
       "phase": "books-of-the-bible",
       "title": "Nehemiah: build with a sword in one hand",
       "passages": [
@@ -1132,7 +1132,7 @@
     },
     {
       "number": 93,
-      "date": "2027-01-31",
+      "date": "2027-02-02",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Nehemiah: the Book is opened, and the people weep and rejoice",
       "passages": [
@@ -1144,7 +1144,7 @@
     },
     {
       "number": 94,
-      "date": "2027-02-01",
+      "date": "2027-02-03",
       "phase": "books-of-the-bible",
       "title": "Esther: for such a time as this",
       "passages": [
@@ -1157,7 +1157,7 @@
     },
     {
       "number": 95,
-      "date": "2027-02-02",
+      "date": "2027-02-04",
       "phase": "books-of-the-bible",
       "title": "Esther: reversal — the humble are lifted up",
       "passages": [
@@ -1170,7 +1170,7 @@
     },
     {
       "number": 96,
-      "date": "2027-02-03",
+      "date": "2027-02-05",
       "phase": "books-of-the-bible",
       "title": "Job: a blameless man, and a day of loss",
       "passages": [
@@ -1181,7 +1181,7 @@
     },
     {
       "number": 97,
-      "date": "2027-02-04",
+      "date": "2027-02-06",
       "phase": "books-of-the-bible",
       "title": "Job: sitting in silence, and the cry of a crushed heart",
       "passages": [
@@ -1193,7 +1193,7 @@
     },
     {
       "number": 98,
-      "date": "2027-02-05",
+      "date": "2027-02-07",
       "phase": "books-of-the-bible",
       "title": "Job: I know that my Redeemer lives",
       "passages": [
@@ -1205,7 +1205,7 @@
     },
     {
       "number": 99,
-      "date": "2027-02-06",
+      "date": "2027-02-08",
       "phase": "books-of-the-bible",
       "title": "Job: then the Lord answered Job out of the storm",
       "passages": [
@@ -1217,7 +1217,7 @@
     },
     {
       "number": 100,
-      "date": "2027-02-07",
+      "date": "2027-02-09",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Job: repentance, restoration, and praying for your friends",
       "passages": [
@@ -1228,7 +1228,7 @@
     },
     {
       "number": 101,
-      "date": "2027-02-08",
+      "date": "2027-02-10",
       "phase": "books-of-the-bible",
       "title": "Psalms: two ways, and the Lord's Anointed",
       "passages": [
@@ -1240,7 +1240,7 @@
     },
     {
       "number": 102,
-      "date": "2027-02-09",
+      "date": "2027-02-11",
       "phase": "books-of-the-bible",
       "title": "Psalms: the heavens declare, and the Lord is my shepherd",
       "passages": [
@@ -1252,7 +1252,7 @@
     },
     {
       "number": 103,
-      "date": "2027-02-10",
+      "date": "2027-02-12",
       "phase": "books-of-the-bible",
       "title": "Psalms: the Lord is my light, and the joy of forgiveness",
       "passages": [
@@ -1264,7 +1264,7 @@
     },
     {
       "number": 104,
-      "date": "2027-02-11",
+      "date": "2027-02-13",
       "phase": "books-of-the-bible",
       "title": "Psalms: God is our refuge, and my soul thirsts for you",
       "passages": [
@@ -1276,7 +1276,7 @@
     },
     {
       "number": 105,
-      "date": "2027-02-12",
+      "date": "2027-02-14",
       "phase": "books-of-the-bible",
       "title": "Psalms: when the wicked prosper, and teach us to number our days",
       "passages": [
@@ -1288,7 +1288,7 @@
     },
     {
       "number": 106,
-      "date": "2027-02-13",
+      "date": "2027-02-15",
       "phase": "books-of-the-bible",
       "title": "Psalms: bless the Lord, O my soul; my help comes from the Lord",
       "passages": [
@@ -1300,7 +1300,7 @@
     },
     {
       "number": 107,
-      "date": "2027-02-14",
+      "date": "2027-02-16",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Psalms: searched and known, and let everything that has breath praise the Lord",
       "passages": [
@@ -1312,7 +1312,7 @@
     },
     {
       "number": 108,
-      "date": "2027-02-15",
+      "date": "2027-02-17",
       "phase": "books-of-the-bible",
       "title": "Proverbs: the beginning of wisdom, and trust in the Lord",
       "passages": [
@@ -1324,7 +1324,7 @@
     },
     {
       "number": 109,
-      "date": "2027-02-16",
+      "date": "2027-02-18",
       "phase": "books-of-the-bible",
       "title": "Proverbs: guard your heart, for everything you do flows from it",
       "passages": [
@@ -1335,7 +1335,7 @@
     },
     {
       "number": 110,
-      "date": "2027-02-17",
+      "date": "2027-02-19",
       "phase": "books-of-the-bible",
       "title": "Proverbs: diligence, and the mouth of the righteous",
       "passages": [
@@ -1347,7 +1347,7 @@
     },
     {
       "number": 111,
-      "date": "2027-02-18",
+      "date": "2027-02-20",
       "phase": "books-of-the-bible",
       "title": "Proverbs: a gentle answer, and a friend who sticks closer than a brother",
       "passages": [
@@ -1359,7 +1359,7 @@
     },
     {
       "number": 112,
-      "date": "2027-02-19",
+      "date": "2027-02-21",
       "phase": "books-of-the-bible",
       "title": "Proverbs: speak up for the voiceless, and a life of faithful strength",
       "passages": [
@@ -1370,7 +1370,7 @@
     },
     {
       "number": 113,
-      "date": "2027-02-20",
+      "date": "2027-02-22",
       "phase": "books-of-the-bible",
       "title": "Ecclesiastes: meaningless under the sun?",
       "passages": [
@@ -1382,7 +1382,7 @@
     },
     {
       "number": 114,
-      "date": "2027-02-21",
+      "date": "2027-02-23",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Ecclesiastes: a time for everything, and eternity in our hearts",
       "passages": [
@@ -1393,7 +1393,7 @@
     },
     {
       "number": 115,
-      "date": "2027-02-22",
+      "date": "2027-02-24",
       "phase": "books-of-the-bible",
       "title": "Ecclesiastes: remember your Creator, and fear God",
       "passages": [
@@ -1405,7 +1405,7 @@
     },
     {
       "number": 116,
-      "date": "2027-02-23",
+      "date": "2027-02-25",
       "phase": "books-of-the-bible",
       "title": "Song of Songs: love that is strong and glad",
       "passages": [
@@ -1417,7 +1417,7 @@
     },
     {
       "number": 117,
-      "date": "2027-02-24",
+      "date": "2027-02-26",
       "phase": "books-of-the-bible",
       "title": "Song of Songs: many waters cannot quench love",
       "passages": [
@@ -1428,7 +1428,7 @@
     },
     {
       "number": 118,
-      "date": "2027-02-25",
+      "date": "2027-02-27",
       "phase": "books-of-the-bible",
       "title": "Isaiah: come now, let us settle the matter — scarlet to white",
       "passages": [
@@ -1439,7 +1439,7 @@
     },
     {
       "number": 119,
-      "date": "2027-02-26",
+      "date": "2027-02-28",
       "phase": "books-of-the-bible",
       "title": "Isaiah: holy, holy, holy — a prophet undone and sent",
       "passages": [
@@ -1450,7 +1450,7 @@
     },
     {
       "number": 120,
-      "date": "2027-02-27",
+      "date": "2027-03-01",
       "phase": "books-of-the-bible",
       "title": "Isaiah: a child is born, a shoot from Jesse",
       "passages": [
@@ -1462,7 +1462,7 @@
     },
     {
       "number": 121,
-      "date": "2027-02-28",
+      "date": "2027-03-02",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Isaiah: comfort my people — those who hope in the Lord renew their strength",
       "passages": [
@@ -1473,7 +1473,7 @@
     },
     {
       "number": 122,
-      "date": "2027-03-01",
+      "date": "2027-03-03",
       "phase": "books-of-the-bible",
       "title": "Isaiah: the Suffering Servant",
       "passages": [
@@ -1484,7 +1484,7 @@
     },
     {
       "number": 123,
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "phase": "books-of-the-bible",
       "title": "Isaiah: come, all who are thirsty",
       "passages": [
@@ -1495,7 +1495,7 @@
     },
     {
       "number": 124,
-      "date": "2027-03-03",
+      "date": "2027-03-05",
       "phase": "books-of-the-bible",
       "title": "Isaiah: good news for the poor, and a new heavens and a new earth",
       "passages": [
@@ -1507,7 +1507,7 @@
     },
     {
       "number": 125,
-      "date": "2027-03-04",
+      "date": "2027-03-06",
       "phase": "books-of-the-bible",
       "title": "Jeremiah: before I formed you, I appointed you",
       "passages": [
@@ -1518,7 +1518,7 @@
     },
     {
       "number": 126,
-      "date": "2027-03-05",
+      "date": "2027-03-07",
       "phase": "books-of-the-bible",
       "title": "Jeremiah: my people have forsaken me, the spring of living water",
       "passages": [
@@ -1529,7 +1529,7 @@
     },
     {
       "number": 127,
-      "date": "2027-03-06",
+      "date": "2027-03-08",
       "phase": "books-of-the-bible",
       "title": "Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord",
       "passages": [
@@ -1541,7 +1541,7 @@
     },
     {
       "number": 128,
-      "date": "2027-03-07",
+      "date": "2027-03-09",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Jeremiah: seek the peace of the city; I know the plans I have for you",
       "passages": [
@@ -1552,7 +1552,7 @@
     },
     {
       "number": 129,
-      "date": "2027-03-08",
+      "date": "2027-03-10",
       "phase": "books-of-the-bible",
       "title": "Jeremiah: a new covenant written on the heart",
       "passages": [
@@ -1563,7 +1563,7 @@
     },
     {
       "number": 130,
-      "date": "2027-03-09",
+      "date": "2027-03-11",
       "phase": "books-of-the-bible",
       "title": "Jeremiah: nothing is too hard for the Lord",
       "passages": [
@@ -1575,7 +1575,7 @@
     },
     {
       "number": 131,
-      "date": "2027-03-10",
+      "date": "2027-03-12",
       "phase": "books-of-the-bible",
       "title": "Lamentations: a city weeps — pouring out your heart",
       "passages": [
@@ -1587,7 +1587,7 @@
     },
     {
       "number": 132,
-      "date": "2027-03-11",
+      "date": "2027-03-13",
       "phase": "books-of-the-bible",
       "title": "Lamentations: great is your faithfulness; his mercies are new every morning",
       "passages": [
@@ -1598,7 +1598,7 @@
     },
     {
       "number": 133,
-      "date": "2027-03-12",
+      "date": "2027-03-14",
       "phase": "books-of-the-bible",
       "title": "Ezekiel: visions of the glory of the Lord",
       "passages": [
@@ -1609,7 +1609,7 @@
     },
     {
       "number": 134,
-      "date": "2027-03-13",
+      "date": "2027-03-15",
       "phase": "books-of-the-bible",
       "title": "Ezekiel: the soul who sins will die; turn and live",
       "passages": [
@@ -1620,7 +1620,7 @@
     },
     {
       "number": 135,
-      "date": "2027-03-14",
+      "date": "2027-03-16",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Ezekiel: shepherds who feed themselves, and the true Shepherd",
       "passages": [
@@ -1631,7 +1631,7 @@
     },
     {
       "number": 136,
-      "date": "2027-03-15",
+      "date": "2027-03-17",
       "phase": "books-of-the-bible",
       "title": "Ezekiel: a new heart, and dry bones live",
       "passages": [
@@ -1643,7 +1643,7 @@
     },
     {
       "number": 137,
-      "date": "2027-03-16",
+      "date": "2027-03-18",
       "phase": "books-of-the-bible",
       "title": "Ezekiel: a river from the temple — everything will live where the river flows",
       "passages": [
@@ -1654,7 +1654,7 @@
     },
     {
       "number": 138,
-      "date": "2027-03-17",
+      "date": "2027-03-19",
       "phase": "books-of-the-bible",
       "title": "Daniel: resolved not to defile himself",
       "passages": [
@@ -1665,7 +1665,7 @@
     },
     {
       "number": 139,
-      "date": "2027-03-18",
+      "date": "2027-03-20",
       "phase": "books-of-the-bible",
       "title": "Daniel: the fiery furnace — we will not serve your gods",
       "passages": [
@@ -1676,7 +1676,7 @@
     },
     {
       "number": 140,
-      "date": "2027-03-19",
+      "date": "2027-03-21",
       "phase": "books-of-the-bible",
       "title": "Daniel: the lion's den — a man who still prays",
       "passages": [
@@ -1687,7 +1687,7 @@
     },
     {
       "number": 141,
-      "date": "2027-03-20",
+      "date": "2027-03-22",
       "phase": "books-of-the-bible",
       "title": "Daniel: one like a son of man, and a prayer of confession",
       "passages": [
@@ -1699,7 +1699,7 @@
     },
     {
       "number": 142,
-      "date": "2027-03-21",
+      "date": "2027-03-23",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Hosea: a faithful God and an unfaithful people",
       "passages": [
@@ -1711,7 +1711,7 @@
     },
     {
       "number": 143,
-      "date": "2027-03-22",
+      "date": "2027-03-24",
       "phase": "books-of-the-bible",
       "title": "Hosea: come, let us return to the Lord",
       "passages": [
@@ -1724,7 +1724,7 @@
     },
     {
       "number": 144,
-      "date": "2027-03-23",
+      "date": "2027-03-25",
       "phase": "books-of-the-bible",
       "title": "Joel: return to me with all your heart; I will pour out my Spirit",
       "passages": [
@@ -1735,7 +1735,7 @@
     },
     {
       "number": 145,
-      "date": "2027-03-24",
+      "date": "2027-03-26",
       "phase": "books-of-the-bible",
       "title": "Amos: let justice roll on like a river",
       "passages": [
@@ -1746,7 +1746,7 @@
     },
     {
       "number": 146,
-      "date": "2027-03-25",
+      "date": "2027-03-27",
       "phase": "books-of-the-bible",
       "title": "Amos: the plumb line, and a promise to restore",
       "passages": [
@@ -1758,7 +1758,7 @@
     },
     {
       "number": 147,
-      "date": "2027-03-26",
+      "date": "2027-03-28",
       "phase": "books-of-the-bible",
       "title": "Obadiah: pride goes before a fall; the kingdom will be the Lord's",
       "passages": [
@@ -1769,7 +1769,7 @@
     },
     {
       "number": 148,
-      "date": "2027-03-27",
+      "date": "2027-03-29",
       "phase": "books-of-the-bible",
       "title": "Jonah: running from God, and a prayer from the deep",
       "passages": [
@@ -1781,7 +1781,7 @@
     },
     {
       "number": 149,
-      "date": "2027-03-28",
+      "date": "2027-03-30",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Jonah: a reluctant preacher, and a God who pities Nineveh",
       "passages": [
@@ -1793,7 +1793,7 @@
     },
     {
       "number": 150,
-      "date": "2027-03-29",
+      "date": "2027-03-31",
       "phase": "books-of-the-bible",
       "title": "Micah: from Bethlehem, a ruler over Israel",
       "passages": [
@@ -1805,7 +1805,7 @@
     },
     {
       "number": 151,
-      "date": "2027-03-30",
+      "date": "2027-04-01",
       "phase": "books-of-the-bible",
       "title": "Micah: act justly, love mercy, walk humbly",
       "passages": [
@@ -1817,7 +1817,7 @@
     },
     {
       "number": 152,
-      "date": "2027-03-31",
+      "date": "2027-04-02",
       "phase": "books-of-the-bible",
       "title": "Nahum: the Lord is slow to anger, but will not leave the guilty unpunished",
       "passages": [
@@ -1828,7 +1828,7 @@
     },
     {
       "number": 153,
-      "date": "2027-04-01",
+      "date": "2027-04-03",
       "phase": "books-of-the-bible",
       "title": "Habakkuk: how long, Lord? The righteous will live by faith",
       "passages": [
@@ -1840,7 +1840,7 @@
     },
     {
       "number": 154,
-      "date": "2027-04-02",
+      "date": "2027-04-04",
       "phase": "books-of-the-bible",
       "title": "Habakkuk: yet I will rejoice in the Lord",
       "passages": [
@@ -1851,7 +1851,7 @@
     },
     {
       "number": 155,
-      "date": "2027-04-03",
+      "date": "2027-04-05",
       "phase": "books-of-the-bible",
       "title": "Zephaniah: the Lord your God is with you, a mighty warrior who saves",
       "passages": [
@@ -1862,7 +1862,7 @@
     },
     {
       "number": 156,
-      "date": "2027-04-04",
+      "date": "2027-04-06",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Haggai: rebuild the house; the glory of this present house",
       "passages": [
@@ -1874,7 +1874,7 @@
     },
     {
       "number": 157,
-      "date": "2027-04-05",
+      "date": "2027-04-07",
       "phase": "books-of-the-bible",
       "title": "Zechariah: clean garments, and not by might nor by power",
       "passages": [
@@ -1886,7 +1886,7 @@
     },
     {
       "number": 158,
-      "date": "2027-04-06",
+      "date": "2027-04-08",
       "phase": "books-of-the-bible",
       "title": "Zechariah: your king comes, humble and riding on a donkey",
       "passages": [
@@ -1899,7 +1899,7 @@
     },
     {
       "number": 159,
-      "date": "2027-04-07",
+      "date": "2027-04-09",
       "phase": "books-of-the-bible",
       "title": "Malachi: where is the honor due me? Faithless hearts and covenant",
       "passages": [
@@ -1911,7 +1911,7 @@
     },
     {
       "number": 160,
-      "date": "2027-04-08",
+      "date": "2027-04-10",
       "phase": "books-of-the-bible",
       "title": "Malachi: a refiner's fire, and the coming of Elijah",
       "passages": [
@@ -1923,7 +1923,7 @@
     },
     {
       "number": 161,
-      "date": "2027-04-09",
+      "date": "2027-04-11",
       "phase": "books-of-the-bible",
       "title": "Matthew: Immanuel — God with us",
       "passages": [
@@ -1935,7 +1935,7 @@
     },
     {
       "number": 162,
-      "date": "2027-04-10",
+      "date": "2027-04-12",
       "phase": "books-of-the-bible",
       "title": "Matthew: the Beatitudes — the good life of the kingdom",
       "passages": [
@@ -1946,7 +1946,7 @@
     },
     {
       "number": 163,
-      "date": "2027-04-11",
+      "date": "2027-04-13",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Matthew: fulfilling the Law — a righteousness that goes to the heart",
       "passages": [
@@ -1957,7 +1957,7 @@
     },
     {
       "number": 164,
-      "date": "2027-04-12",
+      "date": "2027-04-14",
       "phase": "books-of-the-bible",
       "title": "Matthew: treasure in heaven, and do not worry",
       "passages": [
@@ -1968,7 +1968,7 @@
     },
     {
       "number": 165,
-      "date": "2027-04-13",
+      "date": "2027-04-15",
       "phase": "books-of-the-bible",
       "title": "Matthew: the parable of the sower",
       "passages": [
@@ -1979,7 +1979,7 @@
     },
     {
       "number": 166,
-      "date": "2027-04-14",
+      "date": "2027-04-16",
       "phase": "books-of-the-bible",
       "title": "Matthew: who do you say I am? Take up your cross",
       "passages": [
@@ -1990,7 +1990,7 @@
     },
     {
       "number": 167,
-      "date": "2027-04-15",
+      "date": "2027-04-17",
       "phase": "books-of-the-bible",
       "title": "Matthew: the cross, the empty tomb, and the Great Commission",
       "passages": [
@@ -2002,7 +2002,7 @@
     },
     {
       "number": 168,
-      "date": "2027-04-16",
+      "date": "2027-04-18",
       "phase": "books-of-the-bible",
       "title": "Mark: the beginning of the good news — follow me",
       "passages": [
@@ -2013,7 +2013,7 @@
     },
     {
       "number": 169,
-      "date": "2027-04-17",
+      "date": "2027-04-19",
       "phase": "books-of-the-bible",
       "title": "Mark: your sins are forgiven; I have come for sinners",
       "passages": [
@@ -2024,7 +2024,7 @@
     },
     {
       "number": 170,
-      "date": "2027-04-18",
+      "date": "2027-04-20",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Mark: who is this? Even the wind and the dead obey him",
       "passages": [
@@ -2036,7 +2036,7 @@
     },
     {
       "number": 171,
-      "date": "2027-04-19",
+      "date": "2027-04-21",
       "phase": "books-of-the-bible",
       "title": "Mark: the Christ, the cross, and the transfiguration",
       "passages": [
@@ -2048,7 +2048,7 @@
     },
     {
       "number": 172,
-      "date": "2027-04-20",
+      "date": "2027-04-22",
       "phase": "books-of-the-bible",
       "title": "Mark: the Son of Man came to serve, and a centurion believes",
       "passages": [
@@ -2060,7 +2060,7 @@
     },
     {
       "number": 173,
-      "date": "2027-04-21",
+      "date": "2027-04-23",
       "phase": "books-of-the-bible",
       "title": "Luke: a virgin conceives, and shepherds hear good news",
       "passages": [
@@ -2072,7 +2072,7 @@
     },
     {
       "number": 174,
-      "date": "2027-04-22",
+      "date": "2027-04-24",
       "phase": "books-of-the-bible",
       "title": "Luke: the Spirit of the Lord is on me",
       "passages": [
@@ -2083,7 +2083,7 @@
     },
     {
       "number": 175,
-      "date": "2027-04-23",
+      "date": "2027-04-25",
       "phase": "books-of-the-bible",
       "title": "Luke: the good Samaritan — who is my neighbor?",
       "passages": [
@@ -2094,7 +2094,7 @@
     },
     {
       "number": 176,
-      "date": "2027-04-24",
+      "date": "2027-04-26",
       "phase": "books-of-the-bible",
       "title": "Luke: lost sheep, lost coin, lost son",
       "passages": [
@@ -2105,7 +2105,7 @@
     },
     {
       "number": 177,
-      "date": "2027-04-25",
+      "date": "2027-04-27",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Luke: the Pharisee and the tax collector; Zacchaeus",
       "passages": [
@@ -2117,7 +2117,7 @@
     },
     {
       "number": 178,
-      "date": "2027-04-26",
+      "date": "2027-04-28",
       "phase": "books-of-the-bible",
       "title": "Luke: the last supper, and a garden of surrender",
       "passages": [
@@ -2129,7 +2129,7 @@
     },
     {
       "number": 179,
-      "date": "2027-04-27",
+      "date": "2027-04-29",
       "phase": "books-of-the-bible",
       "title": "Luke: the road to Emmaus — the risen Lord opens the Scriptures",
       "passages": [
@@ -2141,7 +2141,7 @@
     },
     {
       "number": 180,
-      "date": "2027-04-28",
+      "date": "2027-04-30",
       "phase": "books-of-the-bible",
       "title": "John: the Word became flesh",
       "passages": [
@@ -2152,7 +2152,7 @@
     },
     {
       "number": 181,
-      "date": "2027-04-29",
+      "date": "2027-05-01",
       "phase": "books-of-the-bible",
       "title": "John: you must be born again",
       "passages": [
@@ -2163,7 +2163,7 @@
     },
     {
       "number": 182,
-      "date": "2027-04-30",
+      "date": "2027-05-02",
       "phase": "books-of-the-bible",
       "title": "John: living water, and a Samaritan town believes",
       "passages": [
@@ -2175,7 +2175,7 @@
     },
     {
       "number": 183,
-      "date": "2027-05-01",
+      "date": "2027-05-03",
       "phase": "books-of-the-bible",
       "title": "John: I am the good shepherd",
       "passages": [
@@ -2186,7 +2186,7 @@
     },
     {
       "number": 184,
-      "date": "2027-05-02",
+      "date": "2027-05-04",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — John: I am the resurrection and the life",
       "passages": [
@@ -2197,7 +2197,7 @@
     },
     {
       "number": 185,
-      "date": "2027-05-03",
+      "date": "2027-05-05",
       "phase": "books-of-the-bible",
       "title": "John: a basin and a towel; abide in me",
       "passages": [
@@ -2209,7 +2209,7 @@
     },
     {
       "number": 186,
-      "date": "2027-05-04",
+      "date": "2027-05-06",
       "phase": "books-of-the-bible",
       "title": "John: it is finished; blessed are those who have not seen and yet believe",
       "passages": [
@@ -2221,7 +2221,7 @@
     },
     {
       "number": 187,
-      "date": "2027-05-05",
+      "date": "2027-05-07",
       "phase": "books-of-the-bible",
       "title": "Acts: you will be my witnesses; the Spirit comes at Pentecost",
       "passages": [
@@ -2233,7 +2233,7 @@
     },
     {
       "number": 188,
-      "date": "2027-05-06",
+      "date": "2027-05-08",
       "phase": "books-of-the-bible",
       "title": "Acts: in the name of Jesus, we cannot help speaking",
       "passages": [
@@ -2245,7 +2245,7 @@
     },
     {
       "number": 189,
-      "date": "2027-05-07",
+      "date": "2027-05-09",
       "phase": "books-of-the-bible",
       "title": "Acts: Stephen's witness, and an Ethiopian believes",
       "passages": [
@@ -2257,7 +2257,7 @@
     },
     {
       "number": 190,
-      "date": "2027-05-08",
+      "date": "2027-05-10",
       "phase": "books-of-the-bible",
       "title": "Acts: Saul meets Jesus on the road",
       "passages": [
@@ -2268,7 +2268,7 @@
     },
     {
       "number": 191,
-      "date": "2027-05-09",
+      "date": "2027-05-11",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Acts: God shows no favoritism",
       "passages": [
@@ -2280,7 +2280,7 @@
     },
     {
       "number": 192,
-      "date": "2027-05-10",
+      "date": "2027-05-12",
       "phase": "books-of-the-bible",
       "title": "Acts: the Macedonian call, and a jailer believes",
       "passages": [
@@ -2291,7 +2291,7 @@
     },
     {
       "number": 193,
-      "date": "2027-05-11",
+      "date": "2027-05-13",
       "phase": "books-of-the-bible",
       "title": "Acts: an unknown God, a tearful farewell, and the gospel unhindered",
       "passages": [
@@ -2304,7 +2304,7 @@
     },
     {
       "number": 194,
-      "date": "2027-05-12",
+      "date": "2027-05-14",
       "phase": "books-of-the-bible",
       "title": "Romans: not ashamed of the gospel",
       "passages": [
@@ -2315,7 +2315,7 @@
     },
     {
       "number": 195,
-      "date": "2027-05-13",
+      "date": "2027-05-15",
       "phase": "books-of-the-bible",
       "title": "Romans: all have sinned, and justification by grace",
       "passages": [
@@ -2326,7 +2326,7 @@
     },
     {
       "number": 196,
-      "date": "2027-05-14",
+      "date": "2027-05-16",
       "phase": "books-of-the-bible",
       "title": "Romans: peace with God, and love poured out",
       "passages": [
@@ -2337,7 +2337,7 @@
     },
     {
       "number": 197,
-      "date": "2027-05-15",
+      "date": "2027-05-17",
       "phase": "books-of-the-bible",
       "title": "Romans: no condemnation, and the Spirit of adoption",
       "passages": [
@@ -2348,7 +2348,7 @@
     },
     {
       "number": 198,
-      "date": "2027-05-16",
+      "date": "2027-05-18",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Romans: more than conquerors; nothing can separate us",
       "passages": [
@@ -2359,7 +2359,7 @@
     },
     {
       "number": 199,
-      "date": "2027-05-17",
+      "date": "2027-05-19",
       "phase": "books-of-the-bible",
       "title": "Romans: living sacrifices, and overcoming evil with good",
       "passages": [
@@ -2370,7 +2370,7 @@
     },
     {
       "number": 200,
-      "date": "2027-05-18",
+      "date": "2027-05-20",
       "phase": "books-of-the-bible",
       "title": "Romans: love fulfills the law; accept one another",
       "passages": [
@@ -2382,7 +2382,7 @@
     },
     {
       "number": 201,
-      "date": "2027-05-19",
+      "date": "2027-05-21",
       "phase": "books-of-the-bible",
       "title": "1 Corinthians: the foolishness of the cross",
       "passages": [
@@ -2394,7 +2394,7 @@
     },
     {
       "number": 202,
-      "date": "2027-05-20",
+      "date": "2027-05-22",
       "phase": "books-of-the-bible",
       "title": "1 Corinthians: your body is a temple; honor God with it",
       "passages": [
@@ -2406,7 +2406,7 @@
     },
     {
       "number": 203,
-      "date": "2027-05-21",
+      "date": "2027-05-23",
       "phase": "books-of-the-bible",
       "title": "1 Corinthians: one body, and the greatest of these is love",
       "passages": [
@@ -2418,7 +2418,7 @@
     },
     {
       "number": 204,
-      "date": "2027-05-22",
+      "date": "2027-05-24",
       "phase": "books-of-the-bible",
       "title": "1 Corinthians: the gospel of first importance, and the risen Christ",
       "passages": [
@@ -2429,7 +2429,7 @@
     },
     {
       "number": 205,
-      "date": "2027-05-23",
+      "date": "2027-05-25",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 1 Corinthians: victory over death; stand firm in the faith",
       "passages": [
@@ -2441,7 +2441,7 @@
     },
     {
       "number": 206,
-      "date": "2027-05-24",
+      "date": "2027-05-26",
       "phase": "books-of-the-bible",
       "title": "2 Corinthians: the God of all comfort",
       "passages": [
@@ -2452,7 +2452,7 @@
     },
     {
       "number": 207,
-      "date": "2027-05-25",
+      "date": "2027-05-27",
       "phase": "books-of-the-bible",
       "title": "2 Corinthians: treasure in jars of clay",
       "passages": [
@@ -2463,7 +2463,7 @@
     },
     {
       "number": 208,
-      "date": "2027-05-26",
+      "date": "2027-05-28",
       "phase": "books-of-the-bible",
       "title": "2 Corinthians: the ministry of reconciliation",
       "passages": [
@@ -2474,7 +2474,7 @@
     },
     {
       "number": 209,
-      "date": "2027-05-27",
+      "date": "2027-05-29",
       "phase": "books-of-the-bible",
       "title": "2 Corinthians: my grace is sufficient; power in weakness",
       "passages": [
@@ -2485,7 +2485,7 @@
     },
     {
       "number": 210,
-      "date": "2027-05-28",
+      "date": "2027-05-30",
       "phase": "books-of-the-bible",
       "title": "Galatians: one gospel, and crucified with Christ",
       "passages": [
@@ -2497,7 +2497,7 @@
     },
     {
       "number": 211,
-      "date": "2027-05-29",
+      "date": "2027-05-31",
       "phase": "books-of-the-bible",
       "title": "Galatians: justified by faith, and all one in Christ",
       "passages": [
@@ -2509,7 +2509,7 @@
     },
     {
       "number": 212,
-      "date": "2027-05-30",
+      "date": "2027-06-01",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Galatians: walk by the Spirit; do not grow weary",
       "passages": [
@@ -2521,7 +2521,7 @@
     },
     {
       "number": 213,
-      "date": "2027-05-31",
+      "date": "2027-06-02",
       "phase": "books-of-the-bible",
       "title": "Ephesians: every spiritual blessing in Christ",
       "passages": [
@@ -2532,7 +2532,7 @@
     },
     {
       "number": 214,
-      "date": "2027-06-01",
+      "date": "2027-06-03",
       "phase": "books-of-the-bible",
       "title": "Ephesians: from far away to one new humanity; rooted in love",
       "passages": [
@@ -2544,7 +2544,7 @@
     },
     {
       "number": 215,
-      "date": "2027-06-02",
+      "date": "2027-06-04",
       "phase": "books-of-the-bible",
       "title": "Ephesians: walk worthy — one body, a new self",
       "passages": [
@@ -2556,7 +2556,7 @@
     },
     {
       "number": 216,
-      "date": "2027-06-03",
+      "date": "2027-06-05",
       "phase": "books-of-the-bible",
       "title": "Ephesians: walk in love, and put on the full armor",
       "passages": [
@@ -2568,7 +2568,7 @@
     },
     {
       "number": 217,
-      "date": "2027-06-04",
+      "date": "2027-06-06",
       "phase": "books-of-the-bible",
       "title": "Philippians: to live is Christ",
       "passages": [
@@ -2579,7 +2579,7 @@
     },
     {
       "number": 218,
-      "date": "2027-06-05",
+      "date": "2027-06-07",
       "phase": "books-of-the-bible",
       "title": "Philippians: the mindset of Christ — humility and joy",
       "passages": [
@@ -2590,7 +2590,7 @@
     },
     {
       "number": 219,
-      "date": "2027-06-06",
+      "date": "2027-06-08",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Philippians: pressing on; rejoice, and I can do all this through him",
       "passages": [
@@ -2602,7 +2602,7 @@
     },
     {
       "number": 220,
-      "date": "2027-06-07",
+      "date": "2027-06-09",
       "phase": "books-of-the-bible",
       "title": "Colossians: Christ supreme, and fullness in him",
       "passages": [
@@ -2614,7 +2614,7 @@
     },
     {
       "number": 221,
-      "date": "2027-06-08",
+      "date": "2027-06-10",
       "phase": "books-of-the-bible",
       "title": "Colossians: set your minds on things above",
       "passages": [
@@ -2625,7 +2625,7 @@
     },
     {
       "number": 222,
-      "date": "2027-06-09",
+      "date": "2027-06-11",
       "phase": "books-of-the-bible",
       "title": "Colossians: the household of God, and wisdom toward outsiders",
       "passages": [
@@ -2636,7 +2636,7 @@
     },
     {
       "number": 223,
-      "date": "2027-06-10",
+      "date": "2027-06-12",
       "phase": "books-of-the-bible",
       "title": "1 Thessalonians: a gospel that came with power, and a life worthy of it",
       "passages": [
@@ -2648,7 +2648,7 @@
     },
     {
       "number": 224,
-      "date": "2027-06-11",
+      "date": "2027-06-13",
       "phase": "books-of-the-bible",
       "title": "1 Thessalonians: the Lord will come; be awake, and be sanctified through and through",
       "passages": [
@@ -2660,7 +2660,7 @@
     },
     {
       "number": 225,
-      "date": "2027-06-12",
+      "date": "2027-06-14",
       "phase": "books-of-the-bible",
       "title": "2 Thessalonians: endurance in affliction, and standing firm",
       "passages": [
@@ -2672,7 +2672,7 @@
     },
     {
       "number": 226,
-      "date": "2027-06-13",
+      "date": "2027-06-15",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 2 Thessalonians: do not be idle; the Lord is faithful",
       "passages": [
@@ -2683,7 +2683,7 @@
     },
     {
       "number": 227,
-      "date": "2027-06-14",
+      "date": "2027-06-16",
       "phase": "books-of-the-bible",
       "title": "1 Timothy: the worst of sinners, and prayer for all people",
       "passages": [
@@ -2695,7 +2695,7 @@
     },
     {
       "number": 228,
-      "date": "2027-06-15",
+      "date": "2027-06-17",
       "phase": "books-of-the-bible",
       "title": "1 Timothy: godly leadership, and watch your life and doctrine",
       "passages": [
@@ -2707,7 +2707,7 @@
     },
     {
       "number": 229,
-      "date": "2027-06-16",
+      "date": "2027-06-18",
       "phase": "books-of-the-bible",
       "title": "1 Timothy: godliness with contentment; fight the good fight",
       "passages": [
@@ -2718,7 +2718,7 @@
     },
     {
       "number": 230,
-      "date": "2027-06-17",
+      "date": "2027-06-19",
       "phase": "books-of-the-bible",
       "title": "2 Timothy: fan into flame the gift; endure as a good soldier",
       "passages": [
@@ -2730,7 +2730,7 @@
     },
     {
       "number": 231,
-      "date": "2027-06-18",
+      "date": "2027-06-20",
       "phase": "books-of-the-bible",
       "title": "2 Timothy: all Scripture is God-breathed; finish the race",
       "passages": [
@@ -2742,7 +2742,7 @@
     },
     {
       "number": 232,
-      "date": "2027-06-19",
+      "date": "2027-06-21",
       "phase": "books-of-the-bible",
       "title": "Titus: sound doctrine that produces sound lives",
       "passages": [
@@ -2754,7 +2754,7 @@
     },
     {
       "number": 233,
-      "date": "2027-06-20",
+      "date": "2027-06-22",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Titus: grace teaches us to say no, and yes to good works",
       "passages": [
@@ -2766,7 +2766,7 @@
     },
     {
       "number": 234,
-      "date": "2027-06-21",
+      "date": "2027-06-23",
       "phase": "books-of-the-bible",
       "title": "Philemon: a runaway, a brother, and the power of forgiveness",
       "passages": [
@@ -2777,7 +2777,7 @@
     },
     {
       "number": 235,
-      "date": "2027-06-22",
+      "date": "2027-06-24",
       "phase": "books-of-the-bible",
       "title": "Hebrews: the Son superior to angels — pay careful attention",
       "passages": [
@@ -2789,7 +2789,7 @@
     },
     {
       "number": 236,
-      "date": "2027-06-23",
+      "date": "2027-06-25",
       "phase": "books-of-the-bible",
       "title": "Hebrews: a great high priest who sympathizes",
       "passages": [
@@ -2801,7 +2801,7 @@
     },
     {
       "number": 237,
-      "date": "2027-06-24",
+      "date": "2027-06-26",
       "phase": "books-of-the-bible",
       "title": "Hebrews: a better covenant, and blood that cleanses the conscience",
       "passages": [
@@ -2813,7 +2813,7 @@
     },
     {
       "number": 238,
-      "date": "2027-06-25",
+      "date": "2027-06-27",
       "phase": "books-of-the-bible",
       "title": "Hebrews: draw near; faith is confidence in what we hope for",
       "passages": [
@@ -2825,7 +2825,7 @@
     },
     {
       "number": 239,
-      "date": "2027-06-26",
+      "date": "2027-06-28",
       "phase": "books-of-the-bible",
       "title": "Hebrews: run with perseverance; Jesus is the same yesterday, today, and forever",
       "passages": [
@@ -2837,7 +2837,7 @@
     },
     {
       "number": 240,
-      "date": "2027-06-27",
+      "date": "2027-06-29",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — James: consider it pure joy — faith, trials, and every good gift",
       "passages": [
@@ -2848,7 +2848,7 @@
     },
     {
       "number": 241,
-      "date": "2027-06-28",
+      "date": "2027-06-30",
       "phase": "books-of-the-bible",
       "title": "James: be doers of the word; faith without works is dead",
       "passages": [
@@ -2860,7 +2860,7 @@
     },
     {
       "number": 242,
-      "date": "2027-06-29",
+      "date": "2027-07-01",
       "phase": "books-of-the-bible",
       "title": "James: tame the tongue; humble yourselves; pray for one another",
       "passages": [
@@ -2873,7 +2873,7 @@
     },
     {
       "number": 243,
-      "date": "2027-06-30",
+      "date": "2027-07-02",
       "phase": "books-of-the-bible",
       "title": "1 Peter: a living hope, and be holy",
       "passages": [
@@ -2884,7 +2884,7 @@
     },
     {
       "number": 244,
-      "date": "2027-07-01",
+      "date": "2027-07-03",
       "phase": "books-of-the-bible",
       "title": "1 Peter: a chosen people, and Christ suffered for you",
       "passages": [
@@ -2895,7 +2895,7 @@
     },
     {
       "number": 245,
-      "date": "2027-07-02",
+      "date": "2027-07-04",
       "phase": "books-of-the-bible",
       "title": "1 Peter: always be prepared; suffer well; cast your anxiety on him",
       "passages": [
@@ -2908,7 +2908,7 @@
     },
     {
       "number": 246,
-      "date": "2027-07-03",
+      "date": "2027-07-05",
       "phase": "books-of-the-bible",
       "title": "2 Peter: everything we need for a godly life",
       "passages": [
@@ -2919,7 +2919,7 @@
     },
     {
       "number": 247,
-      "date": "2027-07-04",
+      "date": "2027-07-06",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — 2 Peter: the day of the Lord; grow in grace",
       "passages": [
@@ -2930,7 +2930,7 @@
     },
     {
       "number": 248,
-      "date": "2027-07-05",
+      "date": "2027-07-07",
       "phase": "books-of-the-bible",
       "title": "1 John: see what great love the Father has lavished on us",
       "passages": [
@@ -2941,7 +2941,7 @@
     },
     {
       "number": 249,
-      "date": "2027-07-06",
+      "date": "2027-07-08",
       "phase": "books-of-the-bible",
       "title": "1 John: love one another, because God is love",
       "passages": [
@@ -2953,7 +2953,7 @@
     },
     {
       "number": 250,
-      "date": "2027-07-07",
+      "date": "2027-07-09",
       "phase": "books-of-the-bible",
       "title": "1 John: this is the victory — faith, and that you may know you have eternal life",
       "passages": [
@@ -2964,7 +2964,7 @@
     },
     {
       "number": 251,
-      "date": "2027-07-08",
+      "date": "2027-07-10",
       "phase": "books-of-the-bible",
       "title": "2 John: walk in truth and love; watch out for deceivers",
       "passages": [
@@ -2975,7 +2975,7 @@
     },
     {
       "number": 252,
-      "date": "2027-07-09",
+      "date": "2027-07-11",
       "phase": "books-of-the-bible",
       "title": "3 John: faithful hospitality; do not imitate what is evil but what is good",
       "passages": [
@@ -2986,7 +2986,7 @@
     },
     {
       "number": 253,
-      "date": "2027-07-10",
+      "date": "2027-07-12",
       "phase": "books-of-the-bible",
       "title": "Jude: contend for the faith; to him who is able to keep you from stumbling",
       "passages": [
@@ -2997,7 +2997,7 @@
     },
     {
       "number": 254,
-      "date": "2027-07-11",
+      "date": "2027-07-13",
       "phase": "books-of-the-bible",
       "title": "Sunday: connect with this week's Grace Life sermon — Revelation: a vision of the risen Christ among the lampstands",
       "passages": [
@@ -3008,7 +3008,7 @@
     },
     {
       "number": 255,
-      "date": "2027-07-12",
+      "date": "2027-07-14",
       "phase": "books-of-the-bible",
       "title": "Revelation: letters to the churches — first love, and lukewarm no more",
       "passages": [
@@ -3020,7 +3020,7 @@
     },
     {
       "number": 256,
-      "date": "2027-07-13",
+      "date": "2027-07-15",
       "phase": "books-of-the-bible",
       "title": "Revelation: the Lamb who was slain is worthy",
       "passages": [
@@ -3031,7 +3031,7 @@
     },
     {
       "number": 257,
-      "date": "2027-07-14",
+      "date": "2027-07-16",
       "phase": "books-of-the-bible",
       "title": "Revelation: a multitude no one can count, and the accuser thrown down",
       "passages": [
@@ -3043,7 +3043,7 @@
     },
     {
       "number": 258,
-      "date": "2027-07-15",
+      "date": "2027-07-17",
       "phase": "books-of-the-bible",
       "title": "Revelation: the wedding of the Lamb, and the King of kings",
       "passages": [
@@ -3054,7 +3054,7 @@
     },
     {
       "number": 259,
-      "date": "2027-07-16",
+      "date": "2027-07-18",
       "phase": "books-of-the-bible",
       "title": "Revelation: the last judgment, and a new heaven and a new earth",
       "passages": [
@@ -3066,7 +3066,7 @@
     },
     {
       "number": 260,
-      "date": "2027-07-17",
+      "date": "2027-07-19",
       "phase": "books-of-the-bible",
       "title": "Revelation: the river of life; yes, I am coming soon",
       "passages": [
@@ -3078,7 +3078,7 @@
     },
     {
       "number": 261,
-      "date": "2027-07-18",
+      "date": "2027-07-20",
       "phase": "marriage",
       "title": "Sunday: connect with this week's Grace Life sermon — Marriage as covenant, not contract",
       "passages": [
@@ -3090,7 +3090,7 @@
     },
     {
       "number": 262,
-      "date": "2027-07-19",
+      "date": "2027-07-21",
       "phase": "marriage",
       "title": "The design of marriage: one flesh",
       "passages": [
@@ -3101,7 +3101,7 @@
     },
     {
       "number": 263,
-      "date": "2027-07-20",
+      "date": "2027-07-22",
       "phase": "marriage",
       "title": "Leaving and cleaving",
       "passages": [
@@ -3113,7 +3113,7 @@
     },
     {
       "number": 264,
-      "date": "2027-07-21",
+      "date": "2027-07-23",
       "phase": "marriage",
       "title": "A husband's duty: love her as Christ loved the church",
       "passages": [
@@ -3124,7 +3124,7 @@
     },
     {
       "number": 265,
-      "date": "2027-07-22",
+      "date": "2027-07-24",
       "phase": "marriage",
       "title": "A husband's duty: live with her according to knowledge",
       "passages": [
@@ -3136,7 +3136,7 @@
     },
     {
       "number": 266,
-      "date": "2027-07-23",
+      "date": "2027-07-25",
       "phase": "marriage",
       "title": "A wife's honor, help, and holy strength",
       "passages": [
@@ -3149,7 +3149,7 @@
     },
     {
       "number": 267,
-      "date": "2027-07-24",
+      "date": "2027-07-26",
       "phase": "marriage",
       "title": "Mutual honor: submit to one another out of reverence for Christ",
       "passages": [
@@ -3161,7 +3161,7 @@
     },
     {
       "number": 268,
-      "date": "2027-07-25",
+      "date": "2027-07-27",
       "phase": "marriage",
       "title": "Sunday: connect with this week's Grace Life sermon — The marriage bed: holiness and joy",
       "passages": [
@@ -3173,7 +3173,7 @@
     },
     {
       "number": 269,
-      "date": "2027-07-26",
+      "date": "2027-07-28",
       "phase": "marriage",
       "title": "Intimacy: belonging to one another",
       "passages": [
@@ -3185,7 +3185,7 @@
     },
     {
       "number": 270,
-      "date": "2027-07-27",
+      "date": "2027-07-29",
       "phase": "marriage",
       "title": "Desire, delight, and self-control",
       "passages": [
@@ -3197,7 +3197,7 @@
     },
     {
       "number": 271,
-      "date": "2027-07-28",
+      "date": "2027-07-30",
       "phase": "marriage",
       "title": "Many waters cannot quench love",
       "passages": [
@@ -3208,7 +3208,7 @@
     },
     {
       "number": 272,
-      "date": "2027-07-29",
+      "date": "2027-07-31",
       "phase": "marriage",
       "title": "Talking honestly: listen before you speak",
       "passages": [
@@ -3220,7 +3220,7 @@
     },
     {
       "number": 273,
-      "date": "2027-07-30",
+      "date": "2027-08-01",
       "phase": "marriage",
       "title": "A gentle answer and careful words at home",
       "passages": [
@@ -3232,7 +3232,7 @@
     },
     {
       "number": 274,
-      "date": "2027-07-31",
+      "date": "2027-08-02",
       "phase": "marriage",
       "title": "Conflict without tearing down",
       "passages": [
@@ -3244,7 +3244,7 @@
     },
     {
       "number": 275,
-      "date": "2027-08-01",
+      "date": "2027-08-03",
       "phase": "marriage",
       "title": "Sunday: connect with this week's Grace Life sermon — Forgiveness in the home",
       "passages": [
@@ -3256,7 +3256,7 @@
     },
     {
       "number": 276,
-      "date": "2027-08-02",
+      "date": "2027-08-04",
       "phase": "marriage",
       "title": "Praying together as husband and wife",
       "passages": [
@@ -3268,7 +3268,7 @@
     },
     {
       "number": 277,
-      "date": "2027-08-03",
+      "date": "2027-08-05",
       "phase": "marriage",
       "title": "Serving one another in ordinary days",
       "passages": [
@@ -3280,7 +3280,7 @@
     },
     {
       "number": 278,
-      "date": "2027-08-04",
+      "date": "2027-08-06",
       "phase": "marriage",
       "title": "The two shall become one",
       "passages": [
@@ -3291,7 +3291,7 @@
     },
     {
       "number": 279,
-      "date": "2027-08-05",
+      "date": "2027-08-07",
       "phase": "marriage",
       "title": "When marriage is hard: endurance and hope",
       "passages": [
@@ -3303,7 +3303,7 @@
     },
     {
       "number": 280,
-      "date": "2027-08-06",
+      "date": "2027-08-08",
       "phase": "marriage",
       "title": "Guarding the covenant: purity and a hedge",
       "passages": [
@@ -3316,7 +3316,7 @@
     },
     {
       "number": 281,
-      "date": "2027-08-07",
+      "date": "2027-08-09",
       "phase": "marriage",
       "title": "Repairing trust after hurt",
       "passages": [
@@ -3328,7 +3328,7 @@
     },
     {
       "number": 282,
-      "date": "2027-08-08",
+      "date": "2027-08-10",
       "phase": "marriage",
       "title": "Sunday: connect with this week's Grace Life sermon — Shared mission: building a house on the rock",
       "passages": [
@@ -3340,7 +3340,7 @@
     },
     {
       "number": 283,
-      "date": "2027-08-09",
+      "date": "2027-08-11",
       "phase": "marriage",
       "title": "Honoring in-laws, and leaving well",
       "passages": [
@@ -3353,7 +3353,7 @@
     },
     {
       "number": 284,
-      "date": "2027-08-10",
+      "date": "2027-08-12",
       "phase": "marriage",
       "title": "Joy, friendship, and laughing together",
       "passages": [
@@ -3366,7 +3366,7 @@
     },
     {
       "number": 285,
-      "date": "2027-08-11",
+      "date": "2027-08-13",
       "phase": "marriage",
       "title": "Love never fails",
       "passages": [
@@ -3377,7 +3377,7 @@
     },
     {
       "number": 286,
-      "date": "2027-08-12",
+      "date": "2027-08-14",
       "phase": "marriage",
       "title": "A lifetime of cherishing",
       "passages": [
@@ -3389,7 +3389,7 @@
     },
     {
       "number": 287,
-      "date": "2027-08-13",
+      "date": "2027-08-15",
       "phase": "marriage",
       "title": "When you disagree: unity without erasing each other",
       "passages": [
@@ -3401,7 +3401,7 @@
     },
     {
       "number": 288,
-      "date": "2027-08-14",
+      "date": "2027-08-16",
       "phase": "marriage",
       "title": "A charge to husbands and wives",
       "passages": [
@@ -3413,7 +3413,7 @@
     },
     {
       "number": 289,
-      "date": "2027-08-15",
+      "date": "2027-08-17",
       "phase": "parenting",
       "title": "Sunday: connect with this week's Grace Life sermon — Teach your children diligently",
       "passages": [
@@ -3424,7 +3424,7 @@
     },
     {
       "number": 290,
-      "date": "2027-08-16",
+      "date": "2027-08-18",
       "phase": "parenting",
       "title": "Fathers, do not exasperate; bring them up in the Lord",
       "passages": [
@@ -3436,7 +3436,7 @@
     },
     {
       "number": 291,
-      "date": "2027-08-17",
+      "date": "2027-08-19",
       "phase": "parenting",
       "title": "Children, honor your father and mother",
       "passages": [
@@ -3448,7 +3448,7 @@
     },
     {
       "number": 292,
-      "date": "2027-08-18",
+      "date": "2027-08-20",
       "phase": "parenting",
       "title": "Children are a heritage from the Lord",
       "passages": [
@@ -3460,7 +3460,7 @@
     },
     {
       "number": 293,
-      "date": "2027-08-19",
+      "date": "2027-08-21",
       "phase": "parenting",
       "title": "As for me and my house, we will serve the Lord",
       "passages": [
@@ -3471,7 +3471,7 @@
     },
     {
       "number": 294,
-      "date": "2027-08-20",
+      "date": "2027-08-22",
       "phase": "parenting",
       "title": "Family worship in ordinary time",
       "passages": [
@@ -3483,7 +3483,7 @@
     },
     {
       "number": 295,
-      "date": "2027-08-21",
+      "date": "2027-08-23",
       "phase": "parenting",
       "title": "Discipline that loves, not that crushes",
       "passages": [
@@ -3495,7 +3495,7 @@
     },
     {
       "number": 296,
-      "date": "2027-08-22",
+      "date": "2027-08-24",
       "phase": "parenting",
       "title": "Sunday: connect with this week's Grace Life sermon — Train a child in the way they should go",
       "passages": [
@@ -3507,7 +3507,7 @@
     },
     {
       "number": 297,
-      "date": "2027-08-23",
+      "date": "2027-08-25",
       "phase": "parenting",
       "title": "Tell the next generation the praiseworthy deeds of the Lord",
       "passages": [
@@ -3519,7 +3519,7 @@
     },
     {
       "number": 298,
-      "date": "2027-08-24",
+      "date": "2027-08-26",
       "phase": "parenting",
       "title": "Your example preaches louder than your rules",
       "passages": [
@@ -3532,7 +3532,7 @@
     },
     {
       "number": 299,
-      "date": "2027-08-25",
+      "date": "2027-08-27",
       "phase": "parenting",
       "title": "Patience with little hearts",
       "passages": [
@@ -3544,7 +3544,7 @@
     },
     {
       "number": 300,
-      "date": "2027-08-26",
+      "date": "2027-08-28",
       "phase": "parenting",
       "title": "Let the little children come to me",
       "passages": [
@@ -3555,7 +3555,7 @@
     },
     {
       "number": 301,
-      "date": "2027-08-27",
+      "date": "2027-08-29",
       "phase": "parenting",
       "title": "A parent's prayer",
       "passages": [
@@ -3567,7 +3567,7 @@
     },
     {
       "number": 302,
-      "date": "2027-08-28",
+      "date": "2027-08-30",
       "phase": "parenting",
       "title": "When a child wanders: the Father who runs",
       "passages": [
@@ -3578,7 +3578,7 @@
     },
     {
       "number": 303,
-      "date": "2027-08-29",
+      "date": "2027-08-31",
       "phase": "parenting",
       "title": "Sunday: connect with this week's Grace Life sermon — Wisdom for daughters and sons",
       "passages": [
@@ -3590,7 +3590,7 @@
     },
     {
       "number": 304,
-      "date": "2027-08-30",
+      "date": "2027-09-01",
       "phase": "parenting",
       "title": "Protecting innocence, and preparing them for the world",
       "passages": [
@@ -3603,7 +3603,7 @@
     },
     {
       "number": 305,
-      "date": "2027-08-31",
+      "date": "2027-09-02",
       "phase": "parenting",
       "title": "Justice, kindness, and humility at home",
       "passages": [
@@ -3615,7 +3615,7 @@
     },
     {
       "number": 306,
-      "date": "2027-09-01",
+      "date": "2027-09-03",
       "phase": "parenting",
       "title": "Honoring the unique child God gave you",
       "passages": [
@@ -3627,7 +3627,7 @@
     },
     {
       "number": 307,
-      "date": "2027-09-02",
+      "date": "2027-09-04",
       "phase": "parenting",
       "title": "When your children ask, tell them what the Lord has done",
       "passages": [
@@ -3638,7 +3638,7 @@
     },
     {
       "number": 308,
-      "date": "2027-09-03",
+      "date": "2027-09-05",
       "phase": "parenting",
       "title": "Shepherding a family under pressure",
       "passages": [
@@ -3650,7 +3650,7 @@
     },
     {
       "number": 309,
-      "date": "2027-09-04",
+      "date": "2027-09-06",
       "phase": "parenting",
       "title": "Blessing your children on purpose",
       "passages": [
@@ -3663,7 +3663,7 @@
     },
     {
       "number": 310,
-      "date": "2027-09-05",
+      "date": "2027-09-07",
       "phase": "money",
       "title": "Sunday: connect with this week's Grace Life sermon — The earth is the Lord's: you are a steward",
       "passages": [
@@ -3675,7 +3675,7 @@
     },
     {
       "number": 311,
-      "date": "2027-09-06",
+      "date": "2027-09-08",
       "phase": "money",
       "title": "The borrower is slave to the lender",
       "passages": [
@@ -3687,7 +3687,7 @@
     },
     {
       "number": 312,
-      "date": "2027-09-07",
+      "date": "2027-09-09",
       "phase": "money",
       "title": "Becoming free from the yoke of debt",
       "passages": [
@@ -3700,7 +3700,7 @@
     },
     {
       "number": 313,
-      "date": "2027-09-08",
+      "date": "2027-09-10",
       "phase": "money",
       "title": "Contentment: godliness with enough",
       "passages": [
@@ -3712,7 +3712,7 @@
     },
     {
       "number": 314,
-      "date": "2027-09-09",
+      "date": "2027-09-11",
       "phase": "money",
       "title": "You cannot serve both God and money",
       "passages": [
@@ -3723,7 +3723,7 @@
     },
     {
       "number": 315,
-      "date": "2027-09-10",
+      "date": "2027-09-12",
       "phase": "money",
       "title": "Seek first the kingdom, and do not worry",
       "passages": [
@@ -3734,7 +3734,7 @@
     },
     {
       "number": 316,
-      "date": "2027-09-11",
+      "date": "2027-09-13",
       "phase": "money",
       "title": "Diligence versus get-rich-quick",
       "passages": [
@@ -3747,7 +3747,7 @@
     },
     {
       "number": 317,
-      "date": "2027-09-12",
+      "date": "2027-09-14",
       "phase": "money",
       "title": "Sunday: connect with this week's Grace Life sermon — Honest scales: integrity with money",
       "passages": [
@@ -3760,7 +3760,7 @@
     },
     {
       "number": 318,
-      "date": "2027-09-13",
+      "date": "2027-09-15",
       "phase": "money",
       "title": "Greed, coveting, and the love of money",
       "passages": [
@@ -3773,7 +3773,7 @@
     },
     {
       "number": 319,
-      "date": "2027-09-14",
+      "date": "2027-09-16",
       "phase": "money",
       "title": "Treasure in heaven: a rich man and a needle",
       "passages": [
@@ -3785,7 +3785,7 @@
     },
     {
       "number": 320,
-      "date": "2027-09-15",
+      "date": "2027-09-17",
       "phase": "money",
       "title": "The tithe and firstfruits",
       "passages": [
@@ -3797,7 +3797,7 @@
     },
     {
       "number": 321,
-      "date": "2027-09-16",
+      "date": "2027-09-18",
       "phase": "money",
       "title": "Cheerful, sacrificial generosity",
       "passages": [
@@ -3809,7 +3809,7 @@
     },
     {
       "number": 322,
-      "date": "2027-09-17",
+      "date": "2027-09-19",
       "phase": "money",
       "title": "It is more blessed to give than to receive",
       "passages": [
@@ -3820,7 +3820,7 @@
     },
     {
       "number": 323,
-      "date": "2027-09-18",
+      "date": "2027-09-20",
       "phase": "money",
       "title": "Saving with wisdom, hoarding with fear",
       "passages": [
@@ -3833,7 +3833,7 @@
     },
     {
       "number": 324,
-      "date": "2027-09-19",
+      "date": "2027-09-21",
       "phase": "money",
       "title": "Sunday: connect with this week's Grace Life sermon — Providing for your household",
       "passages": [
@@ -3845,7 +3845,7 @@
     },
     {
       "number": 325,
-      "date": "2027-09-20",
+      "date": "2027-09-22",
       "phase": "money",
       "title": "The poor, the weak, and open hands",
       "passages": [
@@ -3858,7 +3858,7 @@
     },
     {
       "number": 326,
-      "date": "2027-09-21",
+      "date": "2027-09-23",
       "phase": "money",
       "title": "Taxes, Caesar, and a clean conscience",
       "passages": [
@@ -3870,7 +3870,7 @@
     },
     {
       "number": 327,
-      "date": "2027-09-22",
+      "date": "2027-09-24",
       "phase": "money",
       "title": "Wealth that rusts, and a life that lasts",
       "passages": [
@@ -3882,7 +3882,7 @@
     },
     {
       "number": 328,
-      "date": "2027-09-23",
+      "date": "2027-09-25",
       "phase": "money",
       "title": "Honor the Lord with your wealth",
       "passages": [
@@ -3894,7 +3894,7 @@
     },
     {
       "number": 329,
-      "date": "2027-09-24",
+      "date": "2027-09-26",
       "phase": "money",
       "title": "A budget of the heart: where your treasure is",
       "passages": [
@@ -3906,7 +3906,7 @@
     },
     {
       "number": 330,
-      "date": "2027-09-25",
+      "date": "2027-09-27",
       "phase": "money",
       "title": "Leaving a wise inheritance",
       "passages": [
@@ -3919,7 +3919,7 @@
     },
     {
       "number": 331,
-      "date": "2027-09-26",
+      "date": "2027-09-28",
       "phase": "work",
       "title": "Sunday: connect with this week's Grace Life sermon — Work as worship: from the beginning God worked",
       "passages": [
@@ -3931,7 +3931,7 @@
     },
     {
       "number": 332,
-      "date": "2027-09-27",
+      "date": "2027-09-29",
       "phase": "work",
       "title": "Six days you shall labor",
       "passages": [
@@ -3943,7 +3943,7 @@
     },
     {
       "number": 333,
-      "date": "2027-09-28",
+      "date": "2027-09-30",
       "phase": "work",
       "title": "Work with all your heart, as working for the Lord",
       "passages": [
@@ -3955,7 +3955,7 @@
     },
     {
       "number": 334,
-      "date": "2027-09-29",
+      "date": "2027-10-01",
       "phase": "work",
       "title": "Integrity when no one is watching",
       "passages": [
@@ -3967,7 +3967,7 @@
     },
     {
       "number": 335,
-      "date": "2027-09-30",
+      "date": "2027-10-02",
       "phase": "work",
       "title": "Skill, excellence, and a job done well",
       "passages": [
@@ -3979,7 +3979,7 @@
     },
     {
       "number": 336,
-      "date": "2027-10-01",
+      "date": "2027-10-03",
       "phase": "work",
       "title": "Whatever you do, do it all for the Lord",
       "passages": [
@@ -3991,7 +3991,7 @@
     },
     {
       "number": 337,
-      "date": "2027-10-02",
+      "date": "2027-10-04",
       "phase": "work",
       "title": "Sloth, excuses, and the sluggard",
       "passages": [
@@ -4003,7 +4003,7 @@
     },
     {
       "number": 338,
-      "date": "2027-10-03",
+      "date": "2027-10-05",
       "phase": "work",
       "title": "Sunday: connect with this week's Grace Life sermon — Fair bosses and faithful workers",
       "passages": [
@@ -4016,7 +4016,7 @@
     },
     {
       "number": 339,
-      "date": "2027-10-04",
+      "date": "2027-10-06",
       "phase": "work",
       "title": "Ambition, calling, and the gift of limits",
       "passages": [
@@ -4028,7 +4028,7 @@
     },
     {
       "number": 340,
-      "date": "2027-10-05",
+      "date": "2027-10-07",
       "phase": "work",
       "title": "Witness at work: salt and light on the job",
       "passages": [
@@ -4041,7 +4041,7 @@
     },
     {
       "number": 341,
-      "date": "2027-10-06",
+      "date": "2027-10-08",
       "phase": "work",
       "title": "Rest is obedience, not laziness",
       "passages": [
@@ -4054,7 +4054,7 @@
     },
     {
       "number": 342,
-      "date": "2027-10-07",
+      "date": "2027-10-09",
       "phase": "work",
       "title": "The Lord blesses the work of your hands",
       "passages": [
@@ -4066,7 +4066,7 @@
     },
     {
       "number": 343,
-      "date": "2027-10-08",
+      "date": "2027-10-10",
       "phase": "work",
       "title": "When work is frustrating: thorns and grace",
       "passages": [
@@ -4078,7 +4078,7 @@
     },
     {
       "number": 344,
-      "date": "2027-10-09",
+      "date": "2027-10-11",
       "phase": "work",
       "title": "Vocational faithfulness over a lifetime",
       "passages": [
@@ -4090,7 +4090,7 @@
     },
     {
       "number": 345,
-      "date": "2027-10-10",
+      "date": "2027-10-12",
       "phase": "character",
       "title": "Sunday: connect with this week's Grace Life sermon — The fruit of the Spirit",
       "passages": [
@@ -4101,7 +4101,7 @@
     },
     {
       "number": 346,
-      "date": "2027-10-11",
+      "date": "2027-10-13",
       "phase": "character",
       "title": "Love is the greatest",
       "passages": [
@@ -4112,7 +4112,7 @@
     },
     {
       "number": 347,
-      "date": "2027-10-12",
+      "date": "2027-10-14",
       "phase": "character",
       "title": "Joy that remains",
       "passages": [
@@ -4124,7 +4124,7 @@
     },
     {
       "number": 348,
-      "date": "2027-10-13",
+      "date": "2027-10-15",
       "phase": "character",
       "title": "Peace that guards your heart",
       "passages": [
@@ -4136,7 +4136,7 @@
     },
     {
       "number": 349,
-      "date": "2027-10-14",
+      "date": "2027-10-16",
       "phase": "character",
       "title": "A harvest of righteousness",
       "passages": [
@@ -4147,7 +4147,7 @@
     },
     {
       "number": 350,
-      "date": "2027-10-15",
+      "date": "2027-10-17",
       "phase": "character",
       "title": "Patience and long-suffering",
       "passages": [
@@ -4159,7 +4159,7 @@
     },
     {
       "number": 351,
-      "date": "2027-10-16",
+      "date": "2027-10-18",
       "phase": "character",
       "title": "Kindness and goodness",
       "passages": [
@@ -4171,7 +4171,7 @@
     },
     {
       "number": 352,
-      "date": "2027-10-17",
+      "date": "2027-10-19",
       "phase": "character",
       "title": "Sunday: connect with this week's Grace Life sermon — Faithfulness in little things",
       "passages": [
@@ -4183,7 +4183,7 @@
     },
     {
       "number": 353,
-      "date": "2027-10-18",
+      "date": "2027-10-20",
       "phase": "character",
       "title": "Gentleness and self-control",
       "passages": [
@@ -4195,7 +4195,7 @@
     },
     {
       "number": 354,
-      "date": "2027-10-19",
+      "date": "2027-10-21",
       "phase": "character",
       "title": "Humility: he must become greater",
       "passages": [
@@ -4207,7 +4207,7 @@
     },
     {
       "number": 355,
-      "date": "2027-10-20",
+      "date": "2027-10-22",
       "phase": "character",
       "title": "Courage: be strong and very courageous",
       "passages": [
@@ -4219,7 +4219,7 @@
     },
     {
       "number": 356,
-      "date": "2027-10-21",
+      "date": "2027-10-23",
       "phase": "character",
       "title": "The unchanging character of God",
       "passages": [
@@ -4231,7 +4231,7 @@
     },
     {
       "number": 357,
-      "date": "2027-10-22",
+      "date": "2027-10-24",
       "phase": "character",
       "title": "Integrity: a life that matches its confession",
       "passages": [
@@ -4243,7 +4243,7 @@
     },
     {
       "number": 358,
-      "date": "2027-10-23",
+      "date": "2027-10-25",
       "phase": "character",
       "title": "The tongue: life and death in the power of words",
       "passages": [
@@ -4256,7 +4256,7 @@
     },
     {
       "number": 359,
-      "date": "2027-10-24",
+      "date": "2027-10-26",
       "phase": "character",
       "title": "Sunday: connect with this week's Grace Life sermon — Anger: slow to speak, slow to become angry",
       "passages": [
@@ -4269,7 +4269,7 @@
     },
     {
       "number": 360,
-      "date": "2027-10-25",
+      "date": "2027-10-27",
       "phase": "character",
       "title": "Truth-telling and a clean conscience",
       "passages": [
@@ -4282,7 +4282,7 @@
     },
     {
       "number": 361,
-      "date": "2027-10-26",
+      "date": "2027-10-28",
       "phase": "character",
       "title": "Compassion for the hurting",
       "passages": [
@@ -4294,7 +4294,7 @@
     },
     {
       "number": 362,
-      "date": "2027-10-27",
+      "date": "2027-10-29",
       "phase": "character",
       "title": "Finish the race",
       "passages": [
@@ -4306,7 +4306,7 @@
     },
     {
       "number": 363,
-      "date": "2027-10-28",
+      "date": "2027-10-30",
       "phase": "character",
       "title": "Perseverance when you want to quit",
       "passages": [
@@ -4318,7 +4318,7 @@
     },
     {
       "number": 364,
-      "date": "2027-10-29",
+      "date": "2027-10-31",
       "phase": "character",
       "title": "Abiding in Christ: the only way to bear fruit",
       "passages": [
@@ -4329,7 +4329,7 @@
     },
     {
       "number": 365,
-      "date": "2027-10-30",
+      "date": "2027-11-01",
       "phase": "character",
       "title": "A year of grace: walk on, hold fast, hope to the end",
       "passages": [
