@@ -1,5 +1,5 @@
 {
- "contentVersion": "2026.11.20.6",
+ "contentVersion": "2026.11.21.4",
  "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
  "parents": [
   "Gregory",
@@ -31,7 +31,7 @@
  "dailyFollowUpsStart": null,
  "planEndLabel": "52 weeks",
  "dated": false,
- "schemaNote": "This curriculum is not tied to calendar dates. The plan is 52 weeks. Day 1 is the main family lesson for the week. Days 2–7 are the short daily bites. Each daily bite has id 'wN-dK' (week N, day K), a numeric day field, and label 'Day K'. Calendar fields have been removed: sundayISO, sundayLabel, and on each daily, dateISO, dateLabel, dayLabel, and shortLabel. selectLabel is 'Week N · Title'. nextUp names the next week without a date. Progress should follow the family's place in the plan (Week N, Day K), not the real-world calendar, so the family can start the plan over at any time. appFirstSunday and dailyFollowUpsStart are null because dated is false. Weeks with ready: false are title-and-passage stubs still to be written.",
+ "schemaNote": "This curriculum is not tied to calendar dates. The plan is 52 weeks. Day 1 is the main family lesson for the week. Days 2–7 are the short daily bites. Each daily bite has id 'wN-dK' (week N, day K), a numeric day field, and label 'Day K'. Calendar fields have been removed: sundayISO, sundayLabel, and on each daily, dateISO, dateLabel, dayLabel, and shortLabel. selectLabel is 'Week N · Title'. nextUp names the next week without a date. Progress should follow the family's place in the plan (Week N, Day K), not the real-world calendar, so the family can start the plan over at any time. appFirstSunday and dailyFollowUpsStart are null because dated is false. Weeks with ready: false are title-and-passage stubs still to be written. Daily bites (Days 2–7) may also include passageCite, passageText, teach, enochActivity, elijah2, elijahAnswer2, jordyn2, jordynAnswer2; render them when present.",
  "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
  "sources": [
   {
@@ -181,7 +181,15 @@
      "jordyn": "Verse 2 says the Spirit of God was hovering over the waters before anything was made. What does that show about God?",
      "jordynAnswer": "God was already there before anything existed. He was present and ready to bring order and life out of emptiness, so everything comes from him.",
      "action": "Start with a blank piece of paper. Each person adds one thing God made, and together you watch the empty page fill up.",
-     "prayer": "Dear God, you were there before anything else. Thank you for making the heavens and the earth. In Jesus' name, Amen."
+     "prayer": "Dear God, you were there before anything else, and you will always be. Thank you for making the heavens and the earth. Help us remember that everything comes from you, and help us trust you because you never change. In Jesus' name, Amen.",
+     "passageCite": "Genesis 1:1–2, NIV",
+     "teach": "The very first words of the Bible are \"In the beginning God.\" Before there were mountains, oceans, animals, or people, God was already there. He did not have a beginning; he has always been. Then God created the heavens and the earth. At first the earth was formless and empty, and it was dark, but the Spirit of God was hovering over the waters, like a bird over its nest, ready to bring life. Psalm 90:2 says, \"from everlasting to everlasting you are God.\" Everything else had a start, but God did not, and everything comes from him.",
+     "enochActivity": "Close your eyes and say, \"It's dark!\" Then open them wide and say, \"God was always there!\"",
+     "elijah2": "Find it in the passage: In verse 1, what two big things did God create?",
+     "elijahAnswer2": "God created \"the heavens and the earth\" (verse 1).",
+     "jordyn2": "Verse 1 says \"In the beginning God created.\" What is the difference between God making something and a person making something? Why does it matter that God had no beginning?",
+     "jordynAnswer2": "People make things out of stuff that already exists, but God created the heavens and the earth when there was nothing else (verse 1). Because God had no beginning, he doesn't depend on anything; everything depends on him, so he is the one we can trust most.",
+     "passageText": "1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
     },
     {
      "id": "w1-d3",
@@ -197,7 +205,15 @@
      "jordyn": "God did not need tools or materials to make the light. What does that show about his power?",
      "jordynAnswer": "God's word alone has power to create. Nothing else is that powerful.",
      "action": "Turn the lights off, then on, and say together, \"Let there be light!\"",
-     "prayer": "Dear God, thank you for speaking light into the darkness. Thank you for making day and night. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you for speaking light into the darkness. Thank you for making day and night and for being in charge of every one of them. When we feel scared in the dark, help us remember that you made the light and that you are always with us. In Jesus' name, Amen.",
+     "passageCite": "Genesis 1:3–5, NIV",
+     "teach": "The earth was dark and empty, and then God spoke. He said, \"Let there be light,\" and there was light. God didn't need a switch, a fire, or any tools; his words were enough. God looked at the light and saw that it was good. Then he separated the light from the darkness and gave them names: he called the light \"day\" and the darkness \"night.\" That was the very first day. God brings light and order where there was darkness, and he still does that in our hearts today.",
+     "enochActivity": "Turn a flashlight on and off. Each time it turns on, say, \"Let there be light!\"",
+     "elijah2": "Find it in the passage: In verse 5, what did God call the light, and what did he call the darkness?",
+     "elijahAnswer2": "He called the light \"day,\" and the darkness he called \"night\" (verse 5).",
+     "jordyn2": "In verse 4, God saw that the light was good and separated it from the darkness. Why do you think God named the day and the night? What does that show about how God runs his world?",
+     "jordynAnswer2": "Naming them shows God is in charge of them; they belong to him (verse 5). God brings order, not confusion: light and darkness each have their place. It shows he runs his world with wisdom and care, and every day and night is under his control.",
+     "passageText": "3 And God said, “Let there be light,” and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light “day,” and the darkness he called “night.” And there was evening, and there was morning—the first day."
     },
     {
      "id": "w1-d4",
@@ -213,7 +229,15 @@
      "jordyn": "God said people should \"rule over\" the animals and the earth. What kind of ruling does God want?",
      "jordynAnswer": "God's kind of ruling is serving and caring for what he made, like a good caretaker, not a bully.",
      "action": "Name one way your family can take care of something God made this week, like a pet, a plant, or the yard.",
-     "prayer": "Dear God, thank you for making people in your image. Help us take good care of your world. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you for making all the animals and for making people in your image. Thank you for trusting us with the job of caring for your world. Help us be kind to animals and take good care of everything you made. In Jesus' name, Amen.",
+     "passageCite": "Genesis 1:24–26, NIV",
+     "teach": "On the sixth day, God filled the land with living creatures: livestock like cows and sheep, creatures that move along the ground, and wild animals, each according to its kind. God saw that it was good. Then God did something different. He said, \"Let us make mankind in our image, in our likeness.\" Notice God says \"us\" and \"our,\" a hint of the Father, Son, and Holy Spirit we will learn about next week. People are the only creatures made in God's image, and God gave them a job: to rule over the fish, birds, and animals by taking good care of his world for him.",
+     "enochActivity": "Pretend to be a farmer feeding and petting the animals. Say, \"I take care of God's world!\"",
+     "elijah2": "Find it in the passage: In verse 24, name the three kinds of land creatures God made.",
+     "elijahAnswer2": "The livestock, the creatures that move along the ground, and the wild animals (verse 24).",
+     "jordyn2": "In verse 26, God says, \"Let us make mankind in our image, in our likeness.\" How is making people different from the way God made the animals in verses 24–25?",
+     "jordynAnswer2": "God made the animals according to their kinds and saw that they were good (verses 24–25), but only people were made in God's image and likeness and given the job of ruling over the creatures (verse 26). People are special to God in a way animals are not, and that gives us both worth and responsibility.",
+     "passageText": "24 And God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so. 25 God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good. 26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”"
     },
     {
      "id": "w1-d5",
@@ -229,7 +253,15 @@
      "jordyn": "Everyone you meet is made in God's image. How should that change the way you treat someone who is hard to get along with today?",
      "jordynAnswer": "We should treat them with respect and kindness, because they have God-given dignity and worth too, even when they are hard to get along with.",
      "action": "Do one kind thing on purpose tonight for someone in your family.",
-     "prayer": "Dear God, thank you for making each of us in your image. Help us treat everyone with kindness today. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you for making each of us in your image, on purpose and with a purpose. Thank you for making us male and female and for blessing us. Help us treat everyone with kindness and respect today, because every person is made by you. In Jesus' name, Amen.",
+     "passageCite": "Genesis 1:27–28, NIV",
+     "teach": "Verse 27 tells us three times that God created people in his image. He made them male and female, both equally in his image. Being made in God's image means we are like God in ways animals are not: we can know him, love, tell the truth, make things, and care for others. Then God blessed the man and woman and gave them a big job: to fill the earth and rule over every living creature, caring for it for him. Psalm 139:14 says, \"I praise you because I am fearfully and wonderfully made.\" That means you are not an accident; God made you on purpose.",
+     "enochActivity": "Look in a mirror and say, \"God made me on purpose!\" Then smile at someone in your family and say, \"God made you too!\"",
+     "elijah2": "Find it in the passage: In verse 28, what did God do for the man and woman right after he made them?",
+     "elijahAnswer2": "God blessed them and spoke to them (verse 28).",
+     "jordyn2": "Verse 27 says God made people \"male and female\" and both in his image. What does that teach us about how boys and girls, men and women, should treat one another? How could that change how you treat people at school or on your team?",
+     "jordynAnswer2": "Both are made in God's image (verse 27), so both have the same worth and deserve respect. No one is better or less than another because of being a boy or a girl. Any real example works for the second part, like including others, not mocking, and being kind to teammates.",
+     "passageText": "27 So God created mankind in his own image, in the image of God he created them; male and female he created them. 28 God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”"
     },
     {
      "id": "w1-d6",
@@ -245,7 +277,15 @@
      "jordyn": "God saw that his finished world was very good. How can you treat God's world, and the people in it, like they are very good gifts from him?",
      "jordynAnswer": "We can thank God for what he made, take care of his world, and treat people with kindness because he made them on purpose.",
      "action": "Take a quiet moment together to thank God for one thing he made that you love.",
-     "prayer": "Dear God, you saw all that you had made, and it was very good. Thank you for your good world and for making us. Help us take care of what you have made. In Jesus' name, Amen."
+     "prayer": "Dear God, you saw all that you had made, and it was very good. Thank you for giving us food, family, and everything we need, even before we ask. Help us thank you every day and take good care of what you have made. In Jesus' name, Amen.",
+     "passageCite": "Genesis 1:29–31, NIV",
+     "teach": "At the end of the sixth day, God gave people and animals food to eat: seed-bearing plants and trees with fruit for people, and green plants for the animals. God provided everything his creatures needed. Then God looked at everything he had made, the light, the sky, the land and seas, the plants, the sun, moon, and stars, the fish, birds, animals, and people, and he saw that it was very good. Every other day God said his work was good, but after making people, he said it was very good. Today we thank God in prayer for his very good world and for making us.",
+     "enochActivity": "Hold up a piece of fruit and say, \"Thank you, God, for good food!\"",
+     "elijah2": "Find it in the passage: In verse 29, what did God give people for food?",
+     "elijahAnswer2": "He gave them \"every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it\" (verse 29).",
+     "jordyn2": "God gave food to people and animals (verses 29–30) before anyone asked. What does that show about God's heart? What is something God provides for you that you could thank him for more often?",
+     "jordynAnswer2": "It shows God is generous and caring; he knows what his creatures need and gives it (verses 29–30). Any real answer works for the second part, like food, family, a home, health, friends, or the chance to play sports.",
+     "passageText": "29 Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food. 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so. 31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
     },
     {
      "id": "w1-d7",
@@ -261,7 +301,15 @@
      "jordyn": "What job did God give people when he made them?",
      "jordynAnswer": "God gave people the job to care for his world, ruling as good caretakers, not as bullies.",
      "action": "Play a quick \"God made it!\" pointing game around the room, then each person shares a favorite thing from this week.",
-     "prayer": "Dear God, thank you for making the whole world and for making us on purpose. Help us remember that you made everything. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you for making the whole world and for making us on purpose. Thank you for the gift of rest and for blessing the seventh day. Help us remember that you made everything, and help us enjoy you and care for your world every day. In Jesus' name, Amen.",
+     "passageCite": "Genesis 2:1–3, NIV",
+     "teach": "Today we look back at our creation week. In the beginning God created the heavens and the earth. He spoke light into the darkness, filled the world with plants, animals, and people, and made people in his image to care for his world. When he finished, he saw that it was very good. Then, on the seventh day, God rested from all his work. He wasn't tired; God never gets tired. He rested because his work was complete, and he blessed the seventh day and made it holy, a special day to enjoy him. Next week we will learn who this God is: one God in three persons.",
+     "enochActivity": "Lie down on the floor, stretch, and say, \"God made everything, and it was very good!\"",
+     "elijah2": "Find it in the passage: In Genesis 2:2, what did God do on the seventh day?",
+     "elijahAnswer2": "He rested: \"on the seventh day he rested from all his work\" (Genesis 2:2).",
+     "jordyn2": "Genesis 2:3 says God blessed the seventh day and made it holy. Why do you think God gave us a pattern of work and rest? How could your family use a day of rest to enjoy God?",
+     "jordynAnswer2": "God finished his work and rested, not because he was tired, but to set a good pattern and make the day special (Genesis 2:2–3). Rest reminds us that we depend on God, not on our own busy work. Any real answer works for the second part, like going to church, family time, or enjoying God's creation together.",
+     "passageText": "1 Thus the heavens and the earth were completed in all their vast array. 2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. 3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done."
     }
    ],
    "lessonVerses": [
@@ -377,7 +425,15 @@
      "jordyn": "Why does Jesus say \"the name\" of the Father and of the Son and of the Holy Spirit, not \"the names\"?",
      "jordynAnswer": "One \"name\" points to one God. The Father, the Son, and the Holy Spirit are three persons, not three gods.",
      "action": "Find Matthew 28:19 in a Bible together and point to the three persons named in one \"name.\"",
-     "prayer": "Dear God, thank you that you are one God, Father, Son, and Holy Spirit. Help us tell others about you. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you that you are one God, Father, Son, and Holy Spirit. Thank you that you make your people one family. Help us tell others about you and live together in peace as your children. In Jesus' name, Amen.",
+     "passageCite": "Ephesians 4:4–6, NIV",
+     "teach": "On Sunday we learned that there is one God who is three persons: the Father, the Son, and the Holy Spirit. Our key verse is Jesus' words in Matthew 28:19, where he tells his followers to baptize people \"in the name of the Father and of the Son and of the Holy Spirit.\" Today's reading from Ephesians shows the same truth. Paul writes about \"one Spirit\" (the Holy Spirit), \"one Lord\" (Jesus the Son), and \"one God and Father of all.\" Three persons are named, but there is still only one God. That is hard to fully understand, and that's okay; God is bigger than our minds, and we believe it because the Bible teaches it.",
+     "enochActivity": "Hold up one finger and say, \"One God!\" Then wiggle three fingers and say, \"Father, Son, Holy Spirit!\"",
+     "elijah2": "Find it in the passage: Ephesians 4:4–6 uses the word \"one\" many times. Name two \"one\" things from the list.",
+     "elijahAnswer2": "Any two: one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all (Ephesians 4:4–6).",
+     "jordyn2": "Ephesians 4:4–6 names \"one Spirit,\" \"one Lord,\" and \"one God and Father of all.\" How does that match Matthew 28:19? Why do you think Paul keeps repeating the word \"one\"?",
+     "jordynAnswer2": "Both name the Father, the Son (the Lord Jesus), and the Holy Spirit together (Matthew 28:19; Ephesians 4:4–6). Paul repeats \"one\" to show that God is one and that his people belong together as one family under one God, not divided.",
+     "passageText": "4 There is one body and one Spirit, just as you were called to one hope when you were called; 5 one Lord, one faith, one baptism; 6 one God and Father of all, who is over all and through all and in all."
     },
     {
      "id": "w2-d3",
@@ -393,7 +449,15 @@
      "jordyn": "Why does it matter that Christians worship one God, not three gods?",
      "jordynAnswer": "There is only one God. The Father, the Son, and the Holy Spirit are not three gods; they are three persons who are the one God.",
      "action": "When you hear the word \"God\" today, quietly remember: there is only one God.",
-     "prayer": "Dear God, thank you that you are the one true God. Help us love you with our whole heart. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you that you are the one true God. Help us love you with all our heart, soul, and strength. Keep your words on our hearts, and help our family talk about you at home, on the road, at bedtime, and every morning. In Jesus' name, Amen.",
+     "passageCite": "Deuteronomy 6:4–7, NIV",
+     "teach": "Long before Jesus was born, Moses spoke to God's people, Israel, as they got ready to enter the land God promised them. He told them the most important truth of all: \"Hear, O Israel: The LORD our God, the LORD is one.\" All around them, other nations worshiped many pretend gods, but there is only one true God. Then Moses told them how to respond: love the LORD your God with all your heart, soul, and strength. He also told parents to teach these words to their children at home, on the road, at bedtime, and in the morning. That is what our family is doing right now!",
+     "enochActivity": "Put your hand on your heart and say, \"I love you, God, with all my heart!\"",
+     "elijah2": "Find it in the passage: In verse 5, what three things should we love the LORD our God with?",
+     "elijahAnswer2": "Heart, soul, and strength: \"with all your heart and with all your soul and with all your strength\" (verse 5).",
+     "jordyn2": "Verse 7 tells parents to talk about God's words \"when you sit at home and when you walk along the road, when you lie down and when you get up.\" Why do you think God wants faith talked about in everyday life, not just at church? What is one ordinary moment you could think about God this week?",
+     "jordynAnswer2": "God wants faith to be part of all of life, not just one hour a week (verse 7). Talking about him at home, on the road, at bedtime, and in the morning helps his words stay on our hearts (verse 6). Any real moment works for the second part, like the car ride to school, before practice, or at bedtime.",
+     "passageText": "4 Hear, O Israel: The LORD our God, the LORD is one. 5 Love the LORD your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."
     },
     {
      "id": "w2-d4",
@@ -409,7 +473,15 @@
      "jordyn": "All three persons appear at the same time, doing different things. What does that tell us about whether they are just three names for one person?",
      "jordynAnswer": "They are distinct persons. At the same moment, the Son is baptized, the Spirit descends, and the Father speaks. That is not one person switching roles or names.",
      "action": "Act out the baptism scene in about 30 seconds: one person standing as Jesus, one showing the Spirit coming down like a dove, and one speaking the Father's words.",
-     "prayer": "Dear God, thank you that at Jesus' baptism we see you as Father, Son, and Holy Spirit. Help us trust what you have shown us. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you that at Jesus' baptism we see you as Father, Son, and Holy Spirit. Thank you, Father, for loving your Son, and thank you for loving us too. Help us trust what you have shown us in your Word. In Jesus' name, Amen.",
+     "passageCite": "Mark 1:9–11, NIV",
+     "teach": "Matthew is not the only one who tells about Jesus' baptism; Mark tells it too. Jesus came from Nazareth in Galilee, and John baptized him in the Jordan River. As Jesus was coming up out of the water, he saw heaven being torn open and the Spirit coming down on him like a dove. Then a voice came from heaven: \"You are my Son, whom I love; with you I am well pleased.\" Jesus the Son is in the water, the Holy Spirit comes down like a dove, and the Father speaks from heaven, all at the same time. It is one of the clearest pictures of one God in three persons in the whole Bible.",
+     "enochActivity": "Flap your arms like a gentle dove and fly slowly down to land on someone's shoulder. Say, \"The Holy Spirit came down like a dove!\"",
+     "elijah2": "Find it in the passage: In Mark 1:9, which river was Jesus baptized in?",
+     "elijahAnswer2": "The Jordan (Mark 1:9).",
+     "jordyn2": "In Mark 1:11 the Father says, \"You are my Son, whom I love; with you I am well pleased.\" Jesus had not preached or done miracles yet. What does that tell you about the Father's love?",
+     "jordynAnswer2": "The Father loved the Son and was pleased with him before Jesus' public work began (Mark 1:11). His love is not earned by doing big things; it comes first. Those who trust Jesus are loved by the Father too, not because of what they accomplish.",
+     "passageText": "9 At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. 10 Just as Jesus was coming up out of the water, he saw heaven being torn open and the Spirit descending on him like a dove. 11 And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”"
     },
     {
      "id": "w2-d5",
@@ -425,7 +497,15 @@
      "jordyn": "How does this one blessing show that the Father, the Son, and the Holy Spirit belong together as one God?",
      "jordynAnswer": "It is one blessing, not three separate blessings from three gods. The grace of Jesus, the love of God, and the fellowship of the Holy Spirit come together from the one God.",
      "action": "Read 2 Corinthians 13:14 out loud as a blessing over your family at dinner or bedtime.",
-     "prayer": "Dear God, thank you for the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you for the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit. Help our family encourage one another and live in peace. Thank you that you, the God of love and peace, are with us. In Jesus' name, Amen.",
+     "passageCite": "2 Corinthians 13:11–14, NIV",
+     "teach": "Paul wrote a letter to the church in the city of Corinth, and these are his last words to them. He told them to rejoice, encourage one another, be of one mind, and live in peace, and he promised that \"the God of love and peace will be with you.\" He told them to greet one another warmly, the way family does. Then he closed with a blessing that names all three persons of God: the grace of the Lord Jesus Christ, the love of God the Father, and the fellowship of the Holy Spirit. Fellowship means being close and sharing life together. Christians still use this blessing today, and our family can pray it over each other.",
+     "enochActivity": "Give each person in the family a hug and say, \"God bless you!\"",
+     "elijah2": "Find it in the passage: In verse 11, what does Paul say the God of love and peace will do?",
+     "elijahAnswer2": "He \"will be with you\" (verse 11).",
+     "jordyn2": "In verse 11, Paul tells the church to \"encourage one another, be of one mind, live in peace.\" Why do you think a blessing about the Father, Son, and Holy Spirit fits right after those instructions? Which one of those instructions is hardest for you at home or with friends?",
+     "jordynAnswer2": "The Father, Son, and Holy Spirit live in perfect love and unity, and God's grace, love, and fellowship (verse 14) give us what we need to live in peace with each other (verse 11). Any honest answer works for the second part.",
+     "passageText": "11 Finally, brothers and sisters, rejoice! Strive for full restoration, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you. 12 Greet one another with a holy kiss. 13 All God’s people here send their greetings. 14 May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all."
     },
     {
      "id": "w2-d6",
@@ -441,7 +521,15 @@
      "jordyn": "If a friend asked who Christians worship, what would you say in one sentence?",
      "jordynAnswer": "We worship one God — the Father, the Son, and the Holy Spirit.",
      "action": "Pray once today naming the Father, the Son, and the Holy Spirit, before school, practice, or bed.",
-     "prayer": "Dear Father, thank you for loving us. Dear Jesus, thank you for coming to us. Dear Holy Spirit, thank you for being with us. In Jesus' name, Amen."
+     "prayer": "Dear Father, thank you for loving us and making us your family. Dear Jesus, thank you for coming to save us and for promising to be with us always. Dear Holy Spirit, thank you for being with us and helping us obey. In Jesus' name, Amen.",
+     "passageCite": "Matthew 28:16–20, NIV",
+     "teach": "After Jesus rose from the dead, he met his disciples on a mountain in Galilee and gave them their big job before going back to heaven. He told them to go to every nation, make disciples, and baptize them in the name of the Father and of the Son and of the Holy Spirit. Notice he said \"the name,\" not \"the names\": one God, three persons. That is what we have learned all week. Jesus also promised, \"I am with you always,\" so his followers never do this job alone. Talking to God is like talking to a family member who is always home: we can pray to the Father, thank Jesus, and ask the Holy Spirit for help, because it is one God who hears us.",
+     "enochActivity": "Hold up one finger and say \"One God!\" Then hold up three fingers, one at a time: \"Father, Jesus, Holy Spirit!\" Then fold your hands and say a thank-you prayer to God.",
+     "elijah2": "Find it in the passage: In verse 20, what does Jesus promise his followers? Why do you think that promise would help them be brave?",
+     "elijahAnswer2": "Jesus promises, \"I am with you always, to the very end of the age.\" It helps them be brave because they never have to go anywhere without him.",
+     "jordyn2": "Jesus says \"in the name\" (one name), not \"in the names,\" of the Father, Son, and Holy Spirit. What does that small detail teach us? Where could you remember Jesus' promise in verse 20 this week?",
+     "jordynAnswer2": "It points to one God in three persons, sharing one name. Any real answer works for the second part, such as before a test, a big game, or a hard conversation, remembering that Jesus said, \"I am with you always.\"",
+     "passageText": "16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”"
     },
     {
      "id": "w2-d7",
@@ -457,7 +545,15 @@
      "jordyn": "Why do pictures like water, ice, and steam fall short of describing God?",
      "jordynAnswer": "Pictures like water, ice, and steam describe one thing taking different forms, often at different times. At Jesus' baptism the Father, the Son, and the Holy Spirit are all present at once, each fully God, and still one God. Every picture falls short, so we stay with what the Bible shows.",
      "action": "Play the finger-count game three times, then each person shares one thing they learned about God this week.",
-     "prayer": "Dear God, thank you that you are the one true God, Father, Son, and Holy Spirit. Help our family tell the truth about who you are. In Jesus' name, Amen."
+     "prayer": "Dear God, thank you that you are one God: Father, Son, and Holy Spirit. Thank you, Father, for loving your Son, and thank you, Jesus and Holy Spirit, for coming close to us. Help our family remember what we learned this week and tell the truth about who you are. In Jesus' name, Amen.",
+     "passageCite": "Matthew 3:13–17, NIV",
+     "teach": "Today we look back at the week. At the start, we read about Jesus being baptized in the Jordan River. Right when he came up out of the water, all three persons of God showed up at once: Jesus the Son came up out of the water, the Spirit of God came down like a dove, and the Father's voice spoke from heaven. That is why we say there is one God in three persons: the Bible shows all three together at the same moment, and it also says there is only one God. Every picture we try, like water, ice, and steam, falls short, so we hold on to what the Bible shows. Later Jesus told his followers to baptize in the one name of the Father, the Son, and the Holy Spirit (our key verse), the same three we see at his baptism.",
+     "enochActivity": "Act out Jesus' baptism: crouch down low (Jesus in the water), stand up tall (coming out of the water), flap your hands like a dove (the Holy Spirit), and cup your hands by your mouth to say, \"This is my Son, whom I love!\" (the Father's voice).",
+     "elijah2": "Find it in the passage: In verses 16 and 17, where is each person of God? Why do you think God let people see and hear all three at once?",
+     "elijahAnswer2": "Jesus the Son is coming up out of the water, the Spirit of God is coming down like a dove, and the Father is the voice from heaven. God showed all three at once so people would know who Jesus is and that the Father, Son, and Spirit are all there together.",
+     "jordyn2": "In verse 17 the Father says, \"This is my Son, whom I love.\" What does that tell you about how the Father and the Son relate? This coming week we learn about God the Father: how could knowing the Father loves the Son help you trust that he loves you?",
+     "jordynAnswer2": "The Father loves the Son and is pleased with him; the persons of God are in a real, loving relationship. Any honest answer works for the second part, such as: if the Father's love is that real and personal, I can trust him when I feel left out, stressed, or unsure.",
+     "passageText": "13 Then Jesus came from Galilee to the Jordan to be baptized by John. 14 But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?” 15 Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented. 16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”"
     }
    ],
    "lessonVerses": [
@@ -579,7 +675,15 @@
      "jordyn": "What does the word \"lavished\" tell you about how much God loves his children?",
      "jordynAnswer": "Lavished means poured out generously, far more than needed. God's love isn't stingy or barely enough; it overflows.",
      "action": "Read 1 John 3:1 together three times, getting a little louder each time.",
-     "prayer": "Father, thank you for calling us your children. In Jesus' name, Amen."
+     "prayer": "Father, thank you for lavishing your great love on us and calling us your children. Help us remember who we are when we feel left out or make mistakes. Make us more like Jesus until the day we see him. In Jesus' name, Amen.",
+     "passageCite": "1 John 3:1–3, NIV",
+     "teach": "John wrote this letter to Christians to remind them who they are. He says the Father has lavished, or poured out, great love on us, so that we are called children of God, and then he adds, \"And that is what we are!\" It is not just a nice name; it is true. On Sunday we learned that God is a perfect, loving Father, and everyone who trusts Jesus gets to be his child. Verse 2 says there is even more coming: when Jesus appears, we will be like him. A newborn baby doesn't earn the family's last name; it is given in love, and that is how the Father gives his children his name.",
+     "enochActivity": "Draw a big heart with a stick figure of Enoch inside it. Point to it and say, \"I'm God's child!\"",
+     "elijah2": "Find it in the passage: In verse 2, what will happen when Christ appears? Why is that good news?",
+     "elijahAnswer2": "We shall be like him, for we shall see him as he is (verse 2). It is good news because one day we will see Jesus face to face and be like him.",
+     "jordyn2": "Verse 1 says the world does not know us because it did not know him. Why might following Jesus sometimes make you feel different from people around you? When this week could you remind yourself that you are God's child, like when you feel left out or make a mistake?",
+     "jordynAnswer2": "The world did not know Jesus, so it will not always understand his children either (verse 1). Feeling different is normal, and our worth comes from the Father's love, not from fitting in. Any real situation works for the second part.",
+     "passageText": "1 See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him. 2 Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when Christ appears, we shall be like him, for we shall see him as he is. 3 All who have this hope in him purify themselves, just as he is pure."
     },
     {
      "id": "w3-d3",
@@ -595,7 +699,15 @@
      "jordyn": "Why might it help to remember Psalm 103:13 on a hard or sad day?",
      "jordynAnswer": "On hard days we can feel alone, but this verse says God sees us and cares deeply, like a loving father. We can bring our hurts to him.",
      "action": "Tell each other one thing that is hard right now and pray for it together.",
-     "prayer": "Father, thank you that you care when we are hurting. In Jesus' name, Amen."
+     "prayer": "Father, thank you that you are compassionate and gracious, slow to anger and abounding in love. Thank you for caring when we are hurting and for taking our sins far away. Help us bring our hurts to you instead of carrying them alone. In Jesus' name, Amen.",
+     "passageCite": "Psalm 103:8–14, NIV",
+     "teach": "King David wrote Psalm 103 as a song praising God for his kindness. In these verses he says the LORD is compassionate and gracious, slow to anger, and abounding in love. God does not treat us as our sins deserve; he removes our sins as far as the east is from the west, farther than anyone could ever travel. Then David says the LORD has compassion on us the way a father does on his children, because he remembers that we are dust: he knows we are small and weak. That is our big idea this week: God the Father is a perfect, loving Father who cares for his children. When a little one falls and scrapes a knee, a good dad doesn't yell; he scoops them up, and God's care is even better than that.",
+     "enochActivity": "Put a pretend bandage (a sticker works) on a stuffed animal and pat it gently while you say, \"God cares when I'm hurt!\"",
+     "elijah2": "Find it in the passage: In verse 12, how far does God remove our sins from us? Why do you think David chose east and west to describe it?",
+     "elijahAnswer2": "As far as the east is from the west (verse 12). East and west never meet, no matter how far you go, so it is a picture of God taking our sins completely away. Any answer like \"super, super far\" is great.",
+     "jordyn2": "Verse 14 says God \"knows how we are formed\" and \"remembers that we are dust.\" Why is it comforting that God knows our weaknesses? The next time you mess up, how could verses 10 and 12 change what you do next?",
+     "jordynAnswer2": "God is never surprised by our weakness. He knows we are frail and responds with compassion (verses 13–14). When we mess up, we don't have to hide; we can confess to him, because he does not treat us as our sins deserve (verse 10) and removes our sins far from us (verse 12).",
+     "passageText": "8 The LORD is compassionate and gracious, slow to anger, abounding in love. 9 He will not always accuse, nor will he harbor his anger forever; 10 he does not treat us as our sins deserve or repay us according to our iniquities. 11 For as high as the heavens are above the earth, so great is his love for those who fear him; 12 as far as the east is from the west, so far has he removed our transgressions from us. 13 As a father has compassion on his children, so the LORD has compassion on those who fear him; 14 for he knows how we are formed, he remembers that we are dust."
     },
     {
      "id": "w3-d4",
@@ -611,7 +723,15 @@
      "jordyn": "What's one thing you tend to worry about? What would change if you really believed your Father knows you need it?",
      "jordynAnswer": "Any honest answer. Trusting that the Father knows and cares lets us pray about it instead of carrying the worry alone.",
      "action": "At dinner, have everyone name one thing God gave them today.",
-     "prayer": "Father, thank you that you know everything we need. Help us trust you instead of worrying. In Jesus' name, Amen."
+     "prayer": "Heavenly Father, thank you for feeding the birds and dressing the flowers, and for caring for us even more. When we worry, help us remember that you know what we need. Teach us to seek you first. In Jesus' name, Amen.",
+     "passageCite": "Matthew 6:26–33, NIV",
+     "teach": "Jesus said these words in a long teaching on a mountainside, often called the Sermon on the Mount. He pointed to the birds and the flowers: birds don't plant or store food, and flowers don't sew clothes, yet God feeds and dresses them. If the Father takes care of birds and flowers, he will surely take care of his children, who are worth much more. Worrying can't add a single hour to our lives, but trusting our Father frees us to seek first his kingdom. This is the week's big idea again: our Father cares for his children and knows what we need. A player at a volleyball tournament doesn't panic about lunch when Mom already has the cooler in the car; she trusts it's handled.",
+     "enochActivity": "Go to a window or step outside and look for a bird or a plant. Point and say, \"God feeds the birds, and God takes care of me!\"",
+     "elijah2": "Find it in the passage: In verse 26, who feeds the birds? Why does Jesus say we don't need to worry?",
+     "elijahAnswer2": "Your heavenly Father feeds them (verse 26). We don't need to worry because we are much more valuable than the birds, and our Father knows what we need (verses 26 and 32).",
+     "jordyn2": "Verse 33 says to \"seek first his kingdom and his righteousness.\" What does it look like to put God first instead of worrying? What is one worry you can turn into a prayer tonight?",
+     "jordynAnswer2": "Seeking first his kingdom means making God and doing what is right our top priority and trusting him with the rest; Jesus promises that \"all these things will be given to you as well\" (verse 33). Any honest worry works for the second part; help her pray it out loud.",
+     "passageText": "26 Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? 27 Can any one of you by worrying add a single hour to your life? 28 “And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. 29 Yet I tell you that not even Solomon in all his splendor was dressed like one of these. 30 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? 31 So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ 32 For the pagans run after all these things, and your heavenly Father knows that you need them. 33 But seek first his kingdom and his righteousness, and all these things will be given to you as well."
     },
     {
      "id": "w3-d5",
@@ -627,7 +747,15 @@
      "jordyn": "James says the Father \"does not change like shifting shadows.\" Why is that comforting?",
      "jordynAnswer": "Shadows move and change all day, and people's moods change too. God's love and goodness stay the same every day, so we can always count on him.",
      "action": "Thank-you challenge: each person thanks God for five good gifts before bed.",
-     "prayer": "Father, thank you for every good gift you give us. In Jesus' name, Amen."
+     "prayer": "Father of the heavenly lights, thank you for every good and perfect gift: our family, our food, our home, and most of all new life through your word. Thank you that you never change. Help us notice your gifts and thank you for them. In Jesus' name, Amen.",
+     "passageCite": "James 1:16–18, NIV",
+     "teach": "James was a leader in the early church, and he wrote this letter to help Christians live out their faith. He warns, \"Don't be deceived\": don't believe the lie that God is holding out on you. Every good and perfect gift comes from the Father, who made the lights in the sky. The sun and moon make shadows that shift and move all day, but God does not change; his goodness is the same every day. Verse 18 says he gave us new life through the word of truth, which is the best gift of all. It's a perfect passage for giving thanks, because every good thing on our table and in our home came from our Father's hand.",
+     "enochActivity": "Go on a thank-you hunt: walk around the house and touch three good gifts, like your bed, your food, and your family. At each one, say, \"Thank you, God!\"",
+     "elijah2": "Find it in the passage: In verse 17, what does James call God? Why does God never changing make him a good Father?",
+     "elijahAnswer2": "The Father of the heavenly lights (verse 17). Because he does not change like shifting shadows, we can count on him to be good to us every single day.",
+     "jordyn2": "Verse 16 begins, \"Don't be deceived.\" What lie about God might people believe when life is hard? What is one good gift in your life you've been taking for granted?",
+     "jordynAnswer2": "People can be tricked into thinking God isn't good or is holding out on them. James gives the truth: every good and perfect gift is from the Father, and he does not change (verse 17). Any honest answer works for the second part.",
+     "passageText": "16 Don’t be deceived, my dear brothers and sisters. 17 Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows. 18 He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created."
     },
     {
      "id": "w3-d6",
@@ -643,7 +771,15 @@
      "jordyn": "\"Hallowed\" means treated as holy. Why do you think Jesus put \"Father\" and \"holy\" together right at the start?",
      "jordynAnswer": "God is close and loving like a Father, and he is also holy and great. We come to him with confidence and with respect at the same time.",
      "action": "Game: pass a ball around; whoever catches it says the next word of \"Our Father in heaven, hallowed be your name\" until you finish it. Then each person prays one sentence starting with \"Our Father.\"",
-     "prayer": "Our Father in heaven, your name is holy. Thank you that we can talk to you anytime. In Jesus' name, Amen."
+     "prayer": "Our Father in heaven, your name is holy. Thank you that we can come to you like children to a loving dad. Give us what we need today, forgive our sins, and help us forgive others. In Jesus' name, Amen.",
+     "passageCite": "Matthew 6:9–13, NIV",
+     "teach": "In the same mountainside teaching, Jesus showed his followers how to pray. He starts with \"Our Father in heaven\": we get to talk to the holy God of the universe as our Father. Then the prayer moves through what matters most: honoring God's name, asking for his kingdom and his will, asking for daily bread, asking forgiveness and forgiving others, and asking to be kept from evil. It isn't a set of words to rush through; it is a pattern for how children talk to their Father. Because God is our Father, we can come to him with anything, which is our big idea this week. Like a coach teaching the steps of a good swing, Jesus gives us the steps of a good prayer.",
+     "enochActivity": "Make a prayer hand: fold down one finger at a time while a parent says, \"Our Father... your name is holy... give us food... forgive us... keep us safe.\" Then fold your hands and say, \"Amen!\"",
+     "elijah2": "Find it in the passage: In verse 11, what does Jesus tell us to ask for? Why do you think he says \"today\" and \"daily\"?",
+     "elijahAnswer2": "\"Give us today our daily bread\" (verse 11). Asking today and every day teaches us to trust God one day at a time and to keep coming back to him.",
+     "jordyn2": "Verse 12 asks God to forgive us \"as we also have forgiven our debtors.\" Why do you think forgiving others is part of this prayer? Is there someone you need to forgive this week?",
+     "jordynAnswer2": "People God has forgiven should forgive others; holding a grudge doesn't fit with asking God for mercy (verse 12). Any honest answer for the second part; she can ask God for help to forgive.",
+     "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
     },
     {
      "id": "w3-d7",
@@ -659,7 +795,15 @@
      "jordyn": "How do we become children of God, and why can no one earn it?",
      "jordynAnswer": "By receiving Jesus and believing in his name (John 1:12). It's a gift of God's love, because none of us is good enough on our own; we all need Jesus.",
      "action": "Read 1 John 3:1 together, then each person shares one thing they learned about God the Father this week. Next lesson: Jesus the Son.",
-     "prayer": "Father, thank you for loving us and making us your children through Jesus. In Jesus' name, Amen."
+     "prayer": "Father, thank you for loving us, caring for us, giving us good gifts, and teaching us to pray. Thank you for sending Jesus so we could become your children. Help each of us receive him and live as your children. In Jesus' name, Amen.",
+     "passageCite": "John 1:10–13, NIV",
+     "teach": "Today we look back at our week on God the Father. John's Gospel tells us that Jesus came into the world he made, but many people did not receive him. Yet to all who did receive him and believed in his name, he gave the right to become children of God. Verse 13 says these children are born of God, not because of their family or anything they did. That is why our key verse says, \"See what great love the Father has lavished on us!\" This week we saw the Father feed the birds, have compassion when we hurt, give good gifts, and teach us to pray, and the best news is that anyone who trusts Jesus is welcomed into his family.",
+     "enochActivity": "Play \"Who takes care of...?\": a parent points to a bird, a flower, a toy, and then Enoch, and Enoch shouts \"God!\" each time. End with a big family hug.",
+     "elijah2": "Find it in the passage: In verse 12, what does Jesus give to everyone who receives him and believes in his name? Why is that the best gift?",
+     "elijahAnswer2": "The right to become children of God (verse 12). It's the best gift because we get to belong to God's family forever, with a Father who loves and cares for us.",
+     "jordyn2": "Verse 11 says Jesus' own people did not receive him. Why do you think some people turn away from Jesus even when he comes to them? How could you show a friend this week what it looks like to be loved by the Father?",
+     "jordynAnswer2": "Some people want to run their own lives, don't believe he is who he says, or don't see their need for him; verse 10 says the world did not recognize him. Any real idea works for the second part: kindness, honesty, staying calm when things go wrong, or inviting a friend to church.",
+     "passageText": "10 He was in the world, and though the world was made through him, the world did not recognize him. 11 He came to that which was his own, but his own did not receive him. 12 Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— 13 children born not of natural descent, nor of human decision or a husband’s will, but born of God."
     }
    ],
    "lessonVerses": [
@@ -781,7 +925,15 @@
      "jordyn": "John says the Son came \"full of grace and truth.\" Why do we need both grace and truth?",
      "jordynAnswer": "Truth tells us what is right and shows us our sin. Grace is God's kindness we don't deserve. Jesus brings both: he tells us the truth, and he forgives and helps us.",
      "action": "Read John 1:14 together, then each person names one thing Jesus did when he lived on earth, like healing people, teaching, or welcoming children.",
-     "prayer": "Jesus, thank you for coming to live among us, full of grace and truth. In Jesus' name, Amen."
+     "prayer": "Lord Jesus, thank you for becoming one of us and living among us. Thank you for showing us what the Father is like, full of grace and truth. Help us know you better and show your grace and truth to others. In your name, Amen.",
+     "passageCite": "John 1:14–18, NIV",
+     "teach": "John begins his Gospel by calling Jesus \"the Word,\" who was with God in the beginning and was God. In verse 14 something amazing happens: the Word became flesh, a real human who lived among people. John and the other disciples saw his glory, full of grace and truth. Verse 18 says no one has ever seen God, but the one and only Son, who is himself God, has made him known. That is our big idea: Jesus has always been God, and he became a person to save us and show us what God is like. If you want to know what God is like, look at Jesus.",
+     "enochActivity": "Wrap a doll or stuffed animal in a blanket like a baby and say, \"God the Son became a baby: Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 18, who has made God known to us? Why do we need someone to show us what God is like?",
+     "elijahAnswer2": "The one and only Son, who is himself God (verse 18), which means Jesus. We need him because no one has ever seen God (verse 18); Jesus shows us God's love, power, and goodness.",
+     "jordyn2": "Verse 17 says grace and truth came through Jesus Christ. Think of a story about Jesus you know: what does it show you about what God is like? How could you show both grace and truth to someone this week?",
+     "jordynAnswer2": "Any true example: welcoming children shows God loves the little and overlooked; healing shows his power and compassion; forgiving shows his grace. For the second part, anything that is honest and kind together, like telling the truth gently or forgiving a teammate.",
+     "passageText": "14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth. 15 (John testified concerning him. He cried out, saying, “This is the one I spoke about when I said, ‘He who comes after me has surpassed me because he was before me.’”) 16 Out of his fullness we have all received grace in place of grace already given. 17 For the law was given through Moses; grace and truth came through Jesus Christ. 18 No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known."
     },
     {
      "id": "w4-d3",
@@ -797,7 +949,15 @@
      "jordyn": "Jesus didn't just ask what other people thought; he asked, \"Who do you say I am?\" Why does everyone have to answer that for themselves?",
      "jordynAnswer": "No one can believe for us. Parents and church can teach us, but each person has to trust Jesus for themselves. John 3:16 says \"whoever believes.\"",
      "action": "Go around the table and have each person finish the sentence \"Jesus is...\" with something true from this week.",
-     "prayer": "Jesus, you are the Messiah, the Son of the living God. Help us know you and trust you. In Jesus' name, Amen."
+     "prayer": "Father, thank you for showing us who Jesus is. Jesus, we believe you are the Messiah, the Son of the living God. Help each of us answer your question for ourselves, and help us tell our friends who you are. In Jesus' name, Amen.",
+     "passageCite": "Matthew 16:13–17, NIV",
+     "teach": "Jesus took his disciples to a place called Caesarea Philippi, far to the north, and asked what people were saying about him. People had lots of guesses: John the Baptist, Elijah, Jeremiah, or another prophet. Then Jesus made it personal: \"But what about you? Who do you say I am?\" Peter answered, \"You are the Messiah, the Son of the living God,\" and Jesus said the Father in heaven had shown him that. Messiah means the promised King God sent to save his people, and Son of the living God means Jesus is God the Son, just like our big idea says. Lots of people today still have opinions about Jesus, but the question that matters is what you believe about him.",
+     "enochActivity": "Play a question game: a parent asks, \"Who made the stars?\" (God!) \"Who loves me?\" (Jesus!) \"Who is God's Son?\" (Jesus!) Give Enoch a high five for each answer.",
+     "elijah2": "Find it in the passage: In verse 14, what were people guessing about who Jesus was? (Listen for a name you know!) Why do you think Jesus asked the disciples for their own answer?",
+     "elijahAnswer2": "Some said John the Baptist, others said Elijah, and others Jeremiah or one of the prophets (verse 14). Jesus wanted each disciple to know and say for himself who Jesus really is (verse 15).",
+     "jordyn2": "In verse 17, Jesus says Peter didn't learn this from \"flesh and blood\"; the Father revealed it. What does that tell you about how people come to believe in Jesus? If a friend asked, \"Who is Jesus?\" what would you say?",
+     "jordynAnswer2": "Believing in Jesus is a gift God gives; the Father opens our eyes (verse 17). That's why we pray for our friends, not just argue with them. Any true answer works for the second part, such as: Jesus is the Son of God who came to save us.",
+     "passageText": "13 When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say the Son of Man is?” 14 They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.” 15 “But what about you?” he asked. “Who do you say I am?” 16 Simon Peter answered, “You are the Messiah, the Son of the living God.” 17 Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven."
     },
     {
      "id": "w4-d4",
@@ -813,7 +973,15 @@
      "jordyn": "The disciples asked, \"Who is this? Even the wind and the waves obey him!\" How would you answer their question using what we learned this week?",
      "jordynAnswer": "He is God the Son, the Word through whom all things were made (John 1:3). The wind and the waves obey him because he made them.",
      "action": "Storm game: everyone makes wind and wave sounds and rocks like a boat. When the leader says, \"Quiet! Be still!\", everyone freezes. Take turns being the leader.",
-     "prayer": "Jesus, you are stronger than any storm. Help us trust you when we are afraid. In Jesus' name, Amen."
+     "prayer": "Jesus, you are stronger than any storm, and even the wind and the waves obey you. When we feel scared, help us remember that you care. Teach us to trust you instead of being afraid. In your name, Amen.",
+     "passageCite": "Mark 4:35–41, NIV",
+     "teach": "After a long day of teaching by the lake, Jesus and his disciples got into a boat to cross over to the other side. A furious storm came up, and waves broke over the boat until it was nearly swamped, but Jesus was asleep on a cushion. The scared disciples woke him, and he simply spoke to the wind and waves, \"Quiet! Be still!\" and it was completely calm. Only the One who made the wind and the waves can command them, which is why the disciples asked, \"Who is this?\" Our big idea answers them: Jesus is God the Son. Our storms might be a scary night, a hard test, or a big worry, and Jesus is just as strong in those as he was on the lake.",
+     "enochActivity": "With a grown-up, make waves in a bowl of water or the bathtub with your hand. Then say, \"Quiet! Be still!\" and hold your hand still while the water calms down.",
+     "elijah2": "Find it in the passage: In verse 38, what was Jesus doing when the storm came? Why could Jesus sleep while everyone else was scared?",
+     "elijahAnswer2": "He was in the stern, sleeping on a cushion (verse 38). He wasn't afraid because he is God the Son; even the wind and the waves obey him (verse 41).",
+     "jordyn2": "In verse 38 the disciples asked, \"Teacher, don't you care if we drown?\" Have you ever felt like God didn't care? What does the rest of the story show about Jesus, and what is a \"storm\" in your life you can bring to him?",
+     "jordynAnswer2": "Jesus did care: he got up, calmed the storm, and then helped them grow in faith (verses 39–40). Feeling scared doesn't mean God has stopped caring. Any honest answer works for her storm; pray about it together.",
+     "passageText": "35 That day when evening came, he said to his disciples, “Let us go over to the other side.” 36 Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. 37 A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. 38 Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?” 39 He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. 40 He said to his disciples, “Why are you so afraid? Do you still have no faith?” 41 They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”"
     },
     {
      "id": "w4-d5",
@@ -829,7 +997,15 @@
      "jordyn": "John 3:16 says \"whoever believes.\" What does that tell you about who can be saved?",
      "jordynAnswer": "Anyone. It doesn't depend on where you come from or how good you are. Whoever believes in Jesus has eternal life.",
      "action": "Read John 3:16 together, putting each family member's name in place of \"the world\": \"For God so loved Elijah...\"",
-     "prayer": "Father, thank you for loving the world so much that you gave your Son. In Jesus' name, Amen."
+     "prayer": "Father, thank you for loving the world so much that you gave your one and only Son. Thank you, Jesus, for coming to save us, not to condemn us. Help us believe in you and share this good news. In Jesus' name, Amen.",
+     "passageCite": "John 3:16–18, NIV",
+     "teach": "Jesus said these words to a man named Nicodemus, a religious leader who came to talk with him at night. Jesus explained why he came: God loved the world so much that he gave his one and only Son. Verse 17 says God didn't send his Son to condemn the world, which means to declare it guilty, but to save it. Whoever believes in him is not condemned and has eternal life. This is the heart of our big idea: Jesus is God the Son, who became a person to save us because God loves us. Think of a rescue team on a mountain: they don't come to blame the hikers who are stuck; they come to carry them home.",
+     "enochActivity": "Make a gift: wrap a small toy in a napkin or paper, give it to someone, and say, \"God gave us Jesus because he loves us!\"",
+     "elijah2": "Find it in the passage: In verse 17, why did God send his Son into the world? Why is that good news for us?",
+     "elijahAnswer2": "To save the world through him, not to condemn it (verse 17). It's good news because we all do wrong, and Jesus came to rescue us.",
+     "jordyn2": "Verse 18 says whoever does not believe \"stands condemned already.\" Why does believing in Jesus make all the difference? Who is someone you could pray for this week who doesn't know Jesus yet?",
+     "jordynAnswer2": "Because of sin, everyone already stands guilty; Jesus is the rescue God gave, so whoever believes in him is not condemned (verses 16–18). Any real name works for the second part.",
+     "passageText": "16 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son."
     },
     {
      "id": "w4-d6",
@@ -845,7 +1021,15 @@
      "jordyn": "Why should thanking God for Jesus come first, before food, family, and other good things?",
      "jordynAnswer": "Every good gift comes from the Father (James 1:17), but Jesus is the greatest gift, because through him we are forgiven and become God's children forever. The other gifts are good; Jesus is best.",
      "action": "Thankful challenge: at a meal today, each person names three things they're thankful for, and the last one is always Jesus.",
-     "prayer": "Thanks be to God for his indescribable gift! Thank you for Jesus. In Jesus' name, Amen."
+     "prayer": "Thank you, God, for your indescribable gift, Jesus. Thank you for every good thing you give us. Make us generous, so that others will thank you too. In Jesus' name, Amen.",
+     "passageCite": "2 Corinthians 9:12–15, NIV",
+     "teach": "Paul wrote this letter to the church in Corinth while they were collecting a gift to help needy Christians. He says their generous giving does two things: it meets real needs, and it makes people overflow with thanks to God. Then Paul bursts out in praise: \"Thanks be to God for his indescribable gift!\" Every gift we give or receive points back to God's greatest gift, Jesus, who is too wonderful for words. That is our big idea: Jesus is God's best gift, so we give thanks for him. When you get a gift that is just right, you can't stop saying thank you, and Jesus is the gift that keeps us thankful forever.",
+     "enochActivity": "Color a gift box on paper, and with a grown-up's help draw a cross or write \"Jesus\" inside it. Show the family and say, \"Jesus is God's best gift!\"",
+     "elijah2": "Find it in the passage: In verse 12, the Corinthians' giving overflows in many expressions of what? Why does giving to others make people thankful to God?",
+     "elijahAnswer2": "Thanks to God (verse 12). When people are helped, they see God taking care of them through his people, so they praise God (verses 12–13).",
+     "jordyn2": "Paul calls Jesus an \"indescribable gift.\" Try anyway: in one sentence, why is Jesus the best gift? How could you be generous to someone this week, the way the Corinthians were?",
+     "jordynAnswer2": "Any true sentence, such as: through Jesus we are forgiven and become God's children forever (John 1:12; John 3:16). Any real idea works for the second part: sharing, helping a teammate, or giving time or a gift.",
+     "passageText": "12 This service that you perform is not only supplying the needs of the Lord’s people but is also overflowing in many expressions of thanks to God. 13 Because of the service by which you have proved yourselves, others will praise God for the obedience that accompanies your confession of the gospel of Christ, and for your generosity in sharing with them and with everyone else. 14 And in their prayers for you their hearts will go out to you, because of the surpassing grace God has given you. 15 Thanks be to God for his indescribable gift!"
     },
     {
      "id": "w4-d7",
@@ -861,7 +1045,15 @@
      "jordyn": "John says he wrote his book \"that you may believe.\" What is one thing from this week that helps you believe Jesus is the Son of God?",
      "jordynAnswer": "Any answer from the week: he was with God and was God from the beginning (John 1:1), the wind and waves obeyed him (Mark 4:39–41), Peter confessed him as the Son of the living God (Matthew 16:16), and God gave him out of love (John 3:16).",
      "action": "Read John 20:31 together, then each person shares one thing they learned about Jesus this week. Next lesson: God promises a Savior.",
-     "prayer": "Jesus, we believe you are the Messiah, the Son of God. Thank you for giving us life in your name. In Jesus' name, Amen."
+     "prayer": "Jesus, you are our Lord and our God. Thank you for rising from the dead and for the Bible that helps us believe. When we have doubts, help us trust you like Thomas did. In your name, Amen.",
+     "passageCite": "John 20:26–31, NIV",
+     "teach": "Today we look back at our week on Jesus the Son. After Jesus rose from the dead, his disciple Thomas said he would not believe unless he saw and touched Jesus' wounds. A week later Jesus came and stood among the disciples even though the doors were locked, showed Thomas his hands and side, and said, \"Stop doubting and believe.\" Thomas answered, \"My Lord and my God!\" John says he wrote his book so that we would believe Jesus is the Messiah, the Son of God, and have life in his name. This week we learned that Jesus was there in the beginning, became a person, calmed the storm, and was given because God loves the world, and Jesus says those who believe without seeing are blessed.",
+     "enochActivity": "Hold out your hands the way Jesus showed Thomas, then point up and say, \"Jesus is my Lord and my God!\"",
+     "elijah2": "Find it in the passage: In verse 28, what did Thomas call Jesus? Why is that a big deal?",
+     "elijahAnswer2": "\"My Lord and my God!\" (verse 28). It's a big deal because Thomas said out loud that Jesus is God, and Jesus did not correct him.",
+     "jordyn2": "In verse 29 Jesus says, \"blessed are those who have not seen and yet have believed.\" That includes us. Why can we believe even though we haven't seen Jesus? When is it hardest for you to trust what you can't see?",
+     "jordynAnswer2": "God gave us the eyewitness record, written \"that you may believe\" (verses 30–31). Any honest answer works for the second part.",
+     "passageText": "26 A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!” 27 Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.” 28 Thomas said to him, “My Lord and my God!” 29 Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.” 30 Jesus performed many other signs in the presence of his disciples, which are not recorded in this book. 31 But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name."
     }
    ],
    "lessonVerses": [
@@ -978,7 +1170,15 @@
      "jordyn": "\"To us a son is given\" sounds like John 3:16 from last week. How are the two verses connected?",
      "jordynAnswer": "Isaiah promised that a son would be given. John 3:16 says God gave his one and only Son. Jesus is the Son God promised and then gave.",
      "action": "Read Isaiah 9:6 together, then each person picks one name and says what it tells us about Jesus.",
-     "prayer": "Jesus, you are Wonderful Counselor, Mighty God, Everlasting Father, and Prince of Peace. Thank you for coming. In Jesus' name, Amen."
+     "prayer": "Lord Almighty, thank you for promising a child who is Wonderful Counselor, Mighty God, Everlasting Father, and Prince of Peace. Thank you for sending Jesus to keep that promise. Help us trust him as our King this Advent. In Jesus' name, Amen.",
+     "passageCite": "Isaiah 9:2–7, NIV",
+     "teach": "Isaiah was a prophet who lived about 700 years before Jesus was born, at a time when God's people were afraid of enemy armies. God gave Isaiah a promise: the darkness would end, the enemy's heavy yoke would be broken, and a child would be born, a son given, who would rule forever. His names tell us who he is: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Verse 7 says he will reign on David's throne with justice and righteousness forever, and the LORD himself will make it happen. That is our big idea: long before Jesus was born, God promised a Savior, and God always keeps his promises. Advent means \"coming,\" and it's when we remember God's people waiting for this promised child.",
+     "enochActivity": "Count four fingers for the four names. For \"Prince of Peace,\" put on a pretend crown, then sit very still and quiet for five seconds: peace!",
+     "elijah2": "Find it in the passage: In verse 7, how long will his government and peace last? Why does that matter?",
+     "elijahAnswer2": "There will be no end; he will reign from that time on and forever (verse 7). It matters because every other king grows old or loses power, but Jesus will rule forever.",
+     "jordyn2": "Verse 7 ends, \"The zeal of the LORD Almighty will accomplish this.\" Who makes the promise come true, and why is that comforting? Which of the four names do you need most this week, and why?",
+     "jordynAnswer2": "The LORD himself; his zeal, meaning his passionate commitment, guarantees it, so it doesn't depend on people (verse 7). Any of the four names with a real reason works for the second part.",
+     "passageText": "2 The people walking in darkness have seen a great light; on those living in the land of deep darkness a light has dawned. 3 You have enlarged the nation and increased their joy; they rejoice before you as people rejoice at the harvest, as warriors rejoice when dividing the plunder. 4 For as in the day of Midian’s defeat, you have shattered the yoke that burdens them, the bar across their shoulders, the rod of their oppressor. 5 Every warrior’s boot used in battle and every garment rolled in blood will be destined for burning, will be fuel for the fire. 6 For to us a child is born, to us a son is given, and the government will be on his shoulders. And he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. 7 Of the greatness of his government and peace there will be no end. He will reign on David’s throne and over his kingdom, establishing and upholding it with justice and righteousness from that time on and forever. The zeal of the LORD Almighty will accomplish this."
     },
     {
      "id": "w5-d3",
@@ -994,7 +1194,15 @@
      "jordyn": "Isaiah uses darkness as a picture. What kind of darkness was he talking about, and how does Jesus bring light?",
      "jordynAnswer": "Not just nighttime, but the darkness of sin, sadness, and being far from God. Jesus brings light by showing us what God is like, forgiving our sin, and bringing us back to God.",
      "action": "Flashlight game: turn the lights down. One person hides a Bible in the room, and the others use a flashlight to find it. Whoever finds it reads Isaiah 9:2 out loud.",
-     "prayer": "Jesus, thank you for being the light in the darkness. Help us shine your light. In Jesus' name, Amen."
+     "prayer": "Jesus, thank you for being the great light God promised. Thank you for shining into our darkness and bringing us to God. Help us shine your light at school, on our teams, and at home. In your name, Amen.",
+     "passageCite": "Matthew 4:12–16, NIV",
+     "teach": "Yesterday we read Isaiah's promise that people walking in darkness would see a great light. Hundreds of years later, Jesus grew up, began his ministry, and moved to the town of Capernaum by the lake in Galilee. Matthew says this happened to fulfill what Isaiah said: in that very region, the people living in darkness saw a great light. Jesus is that light, and God kept his promise, just as our big idea says. The darkness Isaiah meant is not only nighttime, but sin, sadness, and being far from God. A flashlight makes a dark room feel safe because you can see where you're going, and Jesus shows us the way to God.",
+     "enochActivity": "With a grown-up, shine a flashlight on each person in the family while you say, \"Jesus is the light!\"",
+     "elijah2": "Find it in the passage: In verse 13, what town did Jesus go and live in? Why does Matthew say Jesus went there?",
+     "elijahAnswer2": "Capernaum, by the lake (verse 13). Matthew says it was to fulfill what was said through the prophet Isaiah (verse 14), so the promise of a great light would come true.",
+     "jordyn2": "Isaiah made this promise hundreds of years before Jesus, and Matthew shows it came true in the same region. What does that tell you about God's Word? Where in your life (school, team, friends) is Jesus' light needed, and how could you shine it?",
+     "jordynAnswer2": "God's Word is true and reliable; what he says, he does, even centuries later (verses 14–16). Any real place and idea works for the second part.",
+     "passageText": "12 When Jesus heard that John had been put in prison, he withdrew to Galilee. 13 Leaving Nazareth, he went and lived in Capernaum, which was by the lake in the area of Zebulun and Naphtali— 14 to fulfill what was said through the prophet Isaiah: 15 “Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles— 16 the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned.”"
     },
     {
      "id": "w5-d4",
@@ -1010,7 +1218,15 @@
      "jordyn": "Micah says Bethlehem was \"small among the clans of Judah,\" and the ruler's \"origins are from of old, from ancient times.\" What do those two details tell you?",
      "jordynAnswer": "God often uses small, overlooked places and people for his big plans. And a ruler whose origins are from ancient times points to Jesus, who was alive before he was born, because he has always been God (John 1:1).",
      "action": "Find Bethlehem on a Bible map or an online map together, then read Micah 5:2.",
-     "prayer": "God, thank you that you plan everything and keep your word, down to the smallest town. In Jesus' name, Amen."
+     "prayer": "Lord, thank you for choosing little Bethlehem and for keeping your promise exactly as you said. Jesus, thank you for being our Shepherd who keeps us safe. Help us notice and care for people who feel small. In your name, Amen.",
+     "passageCite": "Micah 5:2–4, NIV",
+     "teach": "Micah was a prophet who lived around the same time as Isaiah. God told him the exact town the promised ruler would come from: Bethlehem, a small, ordinary village in Judah. This ruler's origins are \"from of old, from ancient times,\" which points to Jesus, who lived before he was born because he is God the Son. Verse 4 says he will shepherd his flock in the strength of the LORD, his people will live securely, and his greatness will reach to the ends of the earth. About 700 years later, Jesus was born in Bethlehem, just as God said. It's like a train schedule that names the exact station: God's promises arrive right where he says they will.",
+     "enochActivity": "Pretend to be a shepherd: use a wooden spoon as a staff, gather stuffed-animal \"sheep\" into a pile, and say, \"Jesus takes care of his sheep!\"",
+     "elijah2": "Find it in the passage: In verse 4, what will the ruler do for his flock? Why is a shepherd a good picture of Jesus?",
+     "elijahAnswer2": "He will stand and shepherd his flock in the strength of the LORD (verse 4). A shepherd leads, feeds, and protects his sheep, and Jesus does that for his people, so they live securely (verse 4).",
+     "jordyn2": "Verse 4 says his people \"will live securely.\" What do people usually look to for security, and how is being safe with Jesus different? How could you include someone who feels small or overlooked this week, the way God chose little Bethlehem?",
+     "jordynAnswer2": "People look for security in friends, grades, looks, or being good at a sport, but those can change. Jesus shepherds in the strength of the LORD, so his people are truly secure (verse 4). Any real idea works for the second part.",
+     "passageText": "2 “But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.” 3 Therefore Israel will be abandoned until the time when she who is in labor bears a son, and the rest of his brothers return to join the Israelites. 4 He will stand and shepherd his flock in the strength of the LORD, in the majesty of the name of the LORD his God. And they will live securely, for then his greatness will reach to the ends of the earth."
     },
     {
      "id": "w5-d5",
@@ -1026,7 +1242,15 @@
      "jordyn": "People sometimes break promises, even when they mean well. Why can we trust God's promises in a way we can't trust anyone else's?",
      "jordynAnswer": "People can forget, change their minds, or be unable to do what they said. God never lies, never changes his mind, and is powerful enough to do everything he says (Numbers 23:19).",
      "action": "Promise challenge: each person makes one small promise to someone in the family today and keeps it. At bedtime, thank God that he always keeps his promises.",
-     "prayer": "God, thank you that you never lie and always keep your promises. Help us keep ours. In Jesus' name, Amen."
+     "prayer": "God, thank you that you never lie and never change your mind. Every promise you make, you keep. Help us trust your promises and be people who keep our word too. In Jesus' name, Amen.",
+     "passageCite": "Numbers 23:18–20, NIV",
+     "teach": "Long ago, while God's people traveled through the wilderness, a king named Balak was afraid of them. He sent for a man named Balaam to curse Israel, but God would only let Balaam speak blessings. In this passage Balaam tells the king the truth: God is not like people. He doesn't lie or change his mind; when he speaks, he acts, and when he promises, he fulfills. Verse 20 says God has blessed, and no one can change it. That is why we can trust the promise of a Savior we're learning about this week: God always keeps his promises. A friend might promise to save you a seat and forget, but God never forgets a promise.",
+     "enochActivity": "Promise game: a parent makes Enoch a tiny promise, like \"I'll give you a hug in one minute,\" and keeps it. Then say together, \"God always keeps his promises!\"",
+     "elijah2": "Find it in the passage: In verse 20, what command did Balaam receive? Why couldn't Balaam change it?",
+     "elijahAnswer2": "A command to bless (verse 20). He couldn't change it because God had blessed, and no one can undo what God has decided (verse 20).",
+     "jordyn2": "Verse 19 asks, \"Does he speak and then not act? Does he promise and not fulfill?\" Name one promise from this week and show how God kept it. How can you be someone whose word can be trusted?",
+     "jordynAnswer2": "Examples: God promised a son would be given to rule forever (Isaiah 9:6) and sent Jesus; he promised a great light (Isaiah 9:2), and Jesus brought it (Matthew 4:16); he promised a ruler from Bethlehem (Micah 5:2), and Jesus was born there. For the second part: keep small promises, tell the truth, and follow through.",
+     "passageText": "18 Then he spoke his message: “Arise, Balak, and listen; hear me, son of Zippor. 19 God is not human, that he should lie, not a human being, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill? 20 I have received a command to bless; he has blessed, and I cannot change it."
     },
     {
      "id": "w5-d6",
@@ -1042,7 +1266,15 @@
      "jordyn": "Peter wrote this about waiting for Jesus to come back. He says God's waiting is really patience, because he wants everyone to come to repentance. How does that change the way you see waiting?",
      "jordynAnswer": "God's waiting isn't forgetting; it's mercy. He is giving more people time to turn to him. That makes us thankful, and eager to tell others about Jesus.",
      "action": "Pray together for one person you know who doesn't know Jesus yet, asking God to bring them to himself.",
-     "prayer": "Lord, thank you for being patient with us. Please help our friends and family come to know Jesus. In Jesus' name, Amen."
+     "prayer": "Lord, thank you for being patient with us and for keeping your promises at just the right time. Like Simeon, help us wait for you with faith and joy. Please bring the people we love to know Jesus. In his name, Amen.",
+     "passageCite": "Luke 2:25–32, NIV",
+     "teach": "Simeon was an old man in Jerusalem who loved God and was waiting for the promised Savior. The Holy Spirit had shown him that he would not die before he saw the Lord's Messiah. Simeon waited, and God kept his word: when Mary and Joseph brought baby Jesus to the temple, Simeon took him in his arms and praised God, saying, \"My eyes have seen your salvation.\" Our key verse says the Lord is not slow in keeping his promise; he is patient, because he wants everyone to come to him. God's people waited hundreds of years for Jesus to come, and now we wait for him to come back, trusting that God's timing is always right. Waiting for Christmas morning can feel slow, but it always comes, and God's promises are even more certain.",
+     "enochActivity": "Practice waiting: a parent hides a small treat in one hand, and Enoch counts slowly to ten before opening it. Then say, \"God's promises are worth waiting for!\"",
+     "elijah2": "Find it in the passage: In verse 28, what did Simeon do when he saw baby Jesus? Why was he so happy?",
+     "elijahAnswer2": "He took Jesus in his arms and praised God (verse 28). He was happy because God had kept his promise: Simeon's eyes had seen God's salvation (verses 26 and 30).",
+     "jordyn2": "Simeon waited a long time, and verse 25 says he stayed righteous and devout. What helps someone keep trusting God while they wait? What are you waiting on God for right now?",
+     "jordynAnswer2": "Holding on to God's promise and staying close to him: the Holy Spirit was on Simeon, and he went to the temple when the Spirit moved him (verses 25–27). Any honest answer works for the second part; pray about it together.",
+     "passageText": "25 Now there was a man in Jerusalem called Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was on him. 26 It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord’s Messiah. 27 Moved by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required, 28 Simeon took him in his arms and praised God, saying: 29 “Sovereign Lord, as you have promised, you may now dismiss your servant in peace. 30 For my eyes have seen your salvation, 31 which you have prepared in the sight of all nations: 32 a light for revelation to the Gentiles, and the glory of your people Israel.”"
     },
     {
      "id": "w5-d7",
@@ -1058,7 +1290,15 @@
      "jordyn": "Galatians 4:5 says Jesus came \"that we might receive adoption to sonship.\" How does that connect to what we learned about God the Father in Week 3?",
      "jordynAnswer": "Adoption means being brought into a family. In Week 3 we learned that everyone who receives Jesus becomes a child of God (John 1:12). Jesus came so we could belong to the Father's family.",
      "action": "Read Galatians 4:4–5 together, then each person shares one thing they learned about God's promises this week. Next lesson: the angel visits Mary.",
-     "prayer": "God, thank you for sending your Son right on time, so we could become your children. In Jesus' name, Amen."
+     "prayer": "Abba, Father, thank you for sending your Son right on time and for sending your Spirit into our hearts. Thank you that we are not slaves, but your children. Help us wait for Christmas with thankful hearts. In Jesus' name, Amen.",
+     "passageCite": "Galatians 4:4–7, NIV",
+     "teach": "Today we look back at our Advent week. Paul says that when the set time had fully come, God sent his Son, born of a woman: the promises from Isaiah and Micah came true right on time. Jesus came to redeem us, which means to buy us back, so we could be adopted into God's family. Then God sent the Spirit of his Son into our hearts, so we can call God \"Abba, Father,\" a close family word like \"Dad.\" This week we saw God promise a child (Isaiah 9:6), a great light (Isaiah 9:2), and a ruler from Bethlehem (Micah 5:2), and we learned that God never breaks a promise and is never late. Because of Jesus, we are not slaves but God's own children.",
+     "enochActivity": "Snuggle up with a parent and say, \"God is my Father, and I am his child!\" Then shout, \"Jesus came, just like God promised!\"",
+     "elijah2": "Find it in the passage: In verse 6, what does the Spirit call out? Why is it special that we can call God that?",
+     "elijahAnswer2": "\"Abba, Father\" (verse 6). It's special because it means we are God's own children, close to him like kids with a loving dad (verse 7).",
+     "jordyn2": "Verses 4–6 show the Father sending his Son and then sending the Spirit of his Son. How does that connect to what we learned about one God in three persons? What does it mean for you to be God's \"heir\" (verse 7)?",
+     "jordynAnswer2": "The Father sent the Son to redeem us and sent the Spirit into our hearts, so all three persons work together to save us (verses 4–6). An heir receives what belongs to the family; God's children will share in everything he has for them, forever (verse 7).",
+     "passageText": "4 But when the set time had fully come, God sent his Son, born of a woman, born under the law, 5 to redeem those under the law, that we might receive adoption to sonship. 6 Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, “Abba, Father.” 7 So you are no longer a slave, but God’s child; and since you are his child, God has made you also an heir."
     }
    ],
    "lessonVerses": [
@@ -1074,9 +1314,238 @@
    "planTitle": "Advent: The angel visits Mary",
    "title": "Advent: The angel visits Mary",
    "selectLabel": "Week 6 · Advent: The angel visits Mary",
-   "ready": false,
+   "ready": true,
+   "passage": "Luke 1:26–38; Isaiah 7:14 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 7 · Advent: Immanuel, God with us (Joseph's dream)",
+   "bigIdea": "God sent the angel Gabriel to tell Mary that she would give birth to Jesus, the Son of God, and nothing God says will ever fail.",
+   "scheduleNote": "This is the Week 6 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Luke 1:26–38 out loud in two parts, then read the short Isaiah 7:14 promise. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Luke 1:26–33",
+     "text": "26 In the sixth month of Elizabeth's pregnancy, God sent the angel Gabriel to Nazareth, a town in Galilee, 27 to a virgin pledged to be married to a man named Joseph, a descendant of David. The virgin's name was Mary. 28 The angel went to her and said, \"Greetings, you who are highly favored! The Lord is with you.\" 29 Mary was greatly troubled at his words and wondered what kind of greeting this might be. 30 But the angel said to her, \"Do not be afraid, Mary; you have found favor with God. 31 You will conceive and give birth to a son, and you are to call him Jesus. 32 He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, 33 and he will reign over Jacob's descendants forever; his kingdom will never end.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Luke 1:34–38",
+     "text": "34 \"How will this be,\" Mary asked the angel, \"since I am a virgin?\" 35 The angel answered, \"The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God. 36 Even Elizabeth your relative is going to have a child in her old age, and she who was said to be unable to conceive is in her sixth month. 37 For no word from God will ever fail.\" 38 \"I am the Lord's servant,\" Mary answered. \"May your word to me be fulfilled.\" Then the angel left her."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Isaiah 7:14",
+     "text": "14 Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that long before Jesus was born, God promised to send a Savior. This week we see God begin to keep that promise in a very special way.",
+    "In a little town called Nazareth lived a young woman named Mary. She was pledged to be married to a man named Joseph, who came from King David's family. One day God sent the angel Gabriel, a messenger from heaven, to visit her.",
+    "Gabriel said, \"Greetings, you who are highly favored! The Lord is with you.\" Mary was troubled and wondered what this greeting meant. But Gabriel said, \"Do not be afraid, Mary; you have found favor with God.\" Favor means God's kindness and blessing, a gift Mary did not earn.",
+    "Then Gabriel gave the big news: Mary would have a baby boy, and she was to name him Jesus. He would be great, he would be called the Son of the Most High, and he would sit on King David's throne. His kingdom would never end. That sounds just like the promised King from Isaiah 9 we learned about last week!",
+    "Mary asked, \"How will this be?\" She was not married yet. Gabriel explained that the Holy Spirit would come on her and the power of God would make it happen, so the holy one born would be called the Son of God. Long before, Isaiah had promised, \"The virgin will conceive and give birth to a son, and will call him Immanuel.\" Gabriel also told her that her relative Elizabeth, who was old, was going to have a baby too. Then he said, \"For no word from God will ever fail.\"",
+    "Mary answered, \"I am the Lord's servant. May your word to me be fulfilled.\" She trusted God and said yes to his plan, even though it was hard to understand. Next week we will hear what God told Joseph in a dream."
+   ],
+   "enochLine": "An angel told Mary, \"You will have a baby named Jesus!\" Nothing is too hard for God!",
+   "enochActivities": [
+    "Activity: Angel message. A parent pretends to be Gabriel and whispers, \"Do not be afraid! You will have a baby named Jesus!\" Enoch runs to tell everyone in the family, \"Jesus is coming!\"",
+    "Yes, Lord game: a parent says a simple helpful job (\"Please pick up one toy\"), and Enoch answers like Mary, \"Yes, I'll help!\" and does it. Say together, \"Mary said yes to God!\" Paw Patrol touch: when Ryder calls, the pups say, \"Ready for action!\" Mary was ready for God's plan."
+   ],
+   "elijahQuestions": [
+    "Which angel did God send to Nazareth, and who did he visit (verses 26–27)?",
+    "What did the angel tell Mary not to be (verse 30)?",
+    "What name was Mary supposed to give her baby (verse 31)?",
+    "How long would Jesus' kingdom last (verse 33)?"
+   ],
+   "jordynQuestions": [
+    "Gabriel said Jesus would be called \"the Son of the Most High\" and would get \"the throne of his father David\" (verse 32). How does that connect to the Isaiah 9:6–7 promise from last week?",
+    "Mary asked, \"How will this be?\" (verse 34). How was her question different from doubting God, and how did Gabriel answer it (verses 35–37)?",
+    "Mary said, \"I am the Lord's servant. May your word to me be fulfilled\" (verse 38). What did saying yes to God's plan probably cost her, and why do you think she said it anyway?"
+   ],
+   "jordynApplication": "God doesn't send angels to us the way he did to Mary, but he does speak to us in his Word, the Bible. This week, when you read something God asks of you, like being kind to someone who isn't kind to you, telling the truth, or obeying your parents right away, try answering like Mary: \"I am the Lord's servant.\" Pick one thing that feels hard, at school, at volleyball, or at home, and say yes to God in it this week. Remember verse 37: no word from God will ever fail.",
+   "elijahAnswers": [
+    "The angel Gabriel. He visited Mary, who was pledged to be married to Joseph (verses 26–27).",
+    "Afraid. The angel said, \"Do not be afraid, Mary; you have found favor with God\" (verse 30).",
+    "Jesus (verse 31).",
+    "Forever. \"His kingdom will never end\" (verse 33)."
+   ],
+   "jordynAnswers": [
+    "Isaiah promised a son who would reign on David's throne forever with no end to his kingdom (Isaiah 9:7). Gabriel says the same about Jesus: the throne of David and a kingdom that will never end (verses 32–33). Jesus is the promised King.",
+    "Mary believed but asked how, since she was a virgin (verse 34). Gabriel did not scold her; he explained that the Holy Spirit and the power of the Most High would do it (verse 35), pointed to Elizabeth as proof (verse 36), and said no word from God will ever fail (verse 37).",
+    "Her plans for her life and wedding would change, and people might not understand. She said yes because she trusted that God was good and that his word would come true (verses 37–38)."
+   ],
+   "applicationCheck": "Ask her later in the week what hard thing she chose to say yes to God about and how it went, and notice when she obeys or helps without being asked twice.",
+   "prayer": "Dear God, thank you for sending the angel Gabriel to tell Mary that Jesus was coming. Thank you that Jesus is the Son of God and the King whose kingdom will never end. Thank you that no word from you will ever fail. Help us trust you like Mary did and say, \"We are your servants,\" even when your plan is hard to understand. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w6-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "God sent the angel Gabriel to tell Mary she would have a son named Jesus, the King whose kingdom will never end.",
+     "verse": "You will conceive and give birth to a son, and you are to call him Jesus.",
+     "verseCite": "Luke 1:31, NIV",
+     "enoch": "Say with a parent, \"The angel said, 'Do not be afraid!' Jesus is coming!\"",
+     "elijah": "In verse 27, whose family did Joseph come from?",
+     "elijahAnswer": "David's family. Joseph was \"a descendant of David\" (verse 27).",
+     "jordyn": "Gabriel said Mary had \"found favor with God\" (verse 30). What does favor mean, and did Mary earn it?",
+     "jordynAnswer": "Favor means God's kindness and blessing. Mary did not earn it; God chose to give it, the same way God shows grace to us. That is why she could stop being afraid (verse 30).",
+     "action": "Read verses 30–33 together. Each person names one thing Gabriel said about Jesus.",
+     "prayer": "Lord God, thank you for sending Gabriel with good news to Mary. Thank you that Jesus is the Son of the Most High and the King whose kingdom will never end. When we feel afraid, help us remember that you are with us. In Jesus' name, Amen.",
+     "passageCite": "Luke 1:26–33, NIV",
+     "teach": "Nazareth was a small, ordinary town in Galilee, and Mary was a young woman pledged to be married to Joseph, a man from King David's family. God sent the angel Gabriel to her with a message. Gabriel said she was highly favored, which means God had chosen to show her his kindness, and that the Lord was with her. Mary was troubled, so Gabriel told her not to be afraid. Then he told her she would have a son and name him Jesus, who would be called the Son of the Most High and would sit on David's throne forever. This is the promise from Isaiah 9 we learned last week starting to come true: God always keeps his promises.",
+     "enochActivity": "Put on a pretend crown and march around the room. Say, \"Jesus is the King, and his kingdom will never end!\"",
+     "elijah2": "Find it in the passage: In verse 28, what did the angel say to Mary first? How did she feel (verse 29)?",
+     "elijahAnswer2": "\"Greetings, you who are highly favored! The Lord is with you\" (verse 28). Mary was greatly troubled and wondered what kind of greeting this was (verse 29).",
+     "jordyn2": "Verses 32–33 list several things about Jesus. Which ones show he is more than an ordinary king? Why would that matter to God's people who had waited so long?",
+     "jordynAnswer2": "He would be called the Son of the Most High (verse 32), and he would reign forever with a kingdom that never ends (verse 33). No ordinary king lives forever. It mattered because this was the King God had promised through the prophets, and he would never lose his throne.",
+     "passageText": "26 In the sixth month of Elizabeth’s pregnancy, God sent the angel Gabriel to Nazareth, a town in Galilee, 27 to a virgin pledged to be married to a man named Joseph, a descendant of David. The virgin’s name was Mary. 28 The angel went to her and said, “Greetings, you who are highly favored! The Lord is with you.” 29 Mary was greatly troubled at his words and wondered what kind of greeting this might be. 30 But the angel said to her, “Do not be afraid, Mary; you have found favor with God. 31 You will conceive and give birth to a son, and you are to call him Jesus. 32 He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, 33 and he will reign over Jacob’s descendants forever; his kingdom will never end.”"
+    },
+    {
+     "id": "w6-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "Nothing God says will ever fail, so Mary trusted him and said yes.",
+     "verse": "For no word from God will ever fail.",
+     "verseCite": "Luke 1:37, NIV",
+     "enoch": "Play \"Too hard for God?\" A parent asks, \"Is it too hard for God to make the stars?\" Enoch shouts, \"No! Nothing is too hard for God!\"",
+     "elijah": "Game: Too hard for God? Take turns naming something really hard (moving a mountain, making a baby for old Elizabeth, making the sun). Everyone answers, \"No word from God will ever fail!\" Then: what question did Mary ask the angel in verse 34?",
+     "elijahAnswer": "\"How will this be,\" since she was a virgin (verse 34). She wanted to know how God would do it.",
+     "jordyn": "Gabriel said, \"For no word from God will ever fail\" (verse 37). Why do you think he told Mary about Elizabeth right before saying that?",
+     "jordynAnswer": "Elizabeth's baby was proof that God can do what seems impossible (verse 36). If God could do that for Elizabeth, Mary could trust that his word to her would come true too (verse 37).",
+     "action": "Play the \"Too hard for God?\" game, then read verse 37 together and say it in your loudest voice.",
+     "prayer": "Almighty God, thank you that no word from you will ever fail. When something feels impossible, help us remember Elizabeth and Mary and trust you. Like Mary, help us say, \"We are your servants,\" and believe what you say. In Jesus' name, Amen.",
+     "passageCite": "Luke 1:34–38, NIV",
+     "teach": "After Gabriel's big news, Mary asked a real question: \"How will this be?\" She was not married yet, so she wondered how she could have a baby. Gabriel explained that the Holy Spirit would come on her and the power of the Most High would make it happen, so the holy one born to her would be called the Son of God. Then Gabriel gave Mary a sign: her old relative Elizabeth, who everyone thought could not have children, was going to have a baby too. Gabriel said, \"For no word from God will ever fail.\" Mary answered, \"I am the Lord's servant. May your word to me be fulfilled.\" It's okay to ask God questions; Mary asked and then trusted.",
+     "enochActivity": "Try to lift something too heavy, like a couch, and say, \"Too hard for me!\" Then point up and say, \"Not too hard for God!\"",
+     "elijah2": "Find it in the passage: In verse 36, who else was going to have a baby? Why was that surprising?",
+     "elijahAnswer2": "Elizabeth, Mary's relative (verse 36). It was surprising because she was old and people said she was unable to have children, but God did it.",
+     "jordyn2": "Verse 35 names the Holy Spirit, the Most High, and the Son of God in one sentence. How does that connect to what we learned about one God in three persons? Is there something in your life that feels impossible right now that you could trust God with?",
+     "jordynAnswer2": "The Holy Spirit comes on Mary, the power of the Most High (the Father) overshadows her, and the child is the Son of God (verse 35), so all three persons are at work in Jesus' coming. Any honest answer works for the second part; the point is that God's word does not fail (verse 37).",
+     "passageText": "34 “How will this be,” Mary asked the angel, “since I am a virgin?” 35 The angel answered, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God. 36 Even Elizabeth your relative is going to have a child in her old age, and she who was said to be unable to conceive is in her sixth month. 37 For no word from God will ever fail.” 38 “I am the Lord’s servant,” Mary answered. “May your word to me be fulfilled.” Then the angel left her."
+    },
+    {
+     "id": "w6-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "Hundreds of years before Mary, God promised a sign: a virgin would give birth to a son called Immanuel.",
+     "verse": "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel.",
+     "verseCite": "Isaiah 7:14, NIV",
+     "enoch": "Say with a parent, \"God promised a baby boy, and God kept his promise!\"",
+     "elijah": "In verse 11, what did the LORD tell King Ahaz to ask for?",
+     "elijahAnswer": "A sign. \"Ask the LORD your God for a sign\" (verse 11).",
+     "jordyn": "Ahaz said he would not put the LORD to the test (verse 12), but Isaiah said he was trying God's patience (verse 13). Why was refusing God's offer really a lack of trust?",
+     "jordynAnswer": "God himself invited Ahaz to ask for a sign (verse 11), so asking would have been obeying, not testing. Saying no sounded humble but was really refusing to trust God, which tried God's patience (verse 13).",
+     "action": "Read Isaiah 7:14 and Luke 1:31 back to back. Have everyone point out what matches.",
+     "prayer": "Lord, thank you for promising a sign long ago and for keeping it when Jesus came. Help us trust you instead of being afraid, like King Ahaz was. Thank you that your plans are always good and always on time. In Jesus' name, Amen.",
+     "passageCite": "Isaiah 7:10–14, NIV",
+     "teach": "About 700 years before Jesus was born, Ahaz was the king of Judah, from David's family, and he was afraid of enemy kings. God sent the prophet Isaiah to tell him to trust the LORD and even to ask for a sign. Ahaz refused, saying he would not test the LORD, but really he did not want to trust God. So Isaiah said the Lord himself would give a sign anyway: the virgin will conceive and give birth to a son, and will call him Immanuel. When Gabriel visited Mary, a virgin from David's family, God was keeping that very promise. Next week we will learn what the name Immanuel means when an angel visits Joseph.",
+     "enochActivity": "Rock a pretend baby in your arms and whisper, \"Baby Jesus, God's promise!\"",
+     "elijah2": "Find it in the passage: In verse 14, what name would the son be called? In our story about Mary, who is the son God promised?",
+     "elijahAnswer2": "Immanuel (verse 14). The promise came true with Jesus, the baby Gabriel told Mary she would have (Luke 1:31).",
+     "jordyn2": "Compare Isaiah 7:14 with what Gabriel told Mary in Luke 1:31. What matches? How does it help your faith that God planned Jesus' birth so long before it happened?",
+     "jordynAnswer2": "Both say a virgin will conceive and give birth to a son, and both include the child's name (Isaiah 7:14; Luke 1:27, 31). It shows Jesus' coming was God's plan all along, and that God keeps his word even across hundreds of years, so we can trust his promises to us.",
+     "passageText": "10 Again the LORD spoke to Ahaz, 11 “Ask the LORD your God for a sign, whether in the deepest depths or in the highest heights.” 12 But Ahaz said, “I will not ask; I will not put the LORD to the test.” 13 Then Isaiah said, “Hear now, you house of David! Is it not enough to try the patience of humans? Will you try the patience of my God also? 14 Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
+    },
+    {
+     "id": "w6-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "Mary believed God would keep his promise, and God blesses those who trust his word.",
+     "verse": "Blessed is she who has believed that the Lord would fulfill his promises to her!",
+     "verseCite": "Luke 1:45, NIV",
+     "enoch": "Jump up high like Elizabeth's baby and shout, \"Yay! Jesus is coming!\"",
+     "elijah": "In verse 39, where did Mary hurry to go?",
+     "elijahAnswer": "To a town in the hill country of Judea, to Zechariah's home, to see Elizabeth (verses 39–40).",
+     "jordyn": "Elizabeth called Mary \"the mother of my Lord\" (verse 43) before anyone told her the news. How did she know (verse 41)?",
+     "jordynAnswer": "Elizabeth was filled with the Holy Spirit (verse 41). God showed her who Mary's baby was, so she knew he was her Lord.",
+     "action": "Challenge: Like Mary hurrying to Elizabeth, each person picks one person to encourage today with a visit, call, card, or kind word, and tells them something good about Jesus.",
+     "prayer": "Lord, thank you that you always fulfill your promises. Help us believe your word even before we see it happen, like Mary did. Fill us with joy like Elizabeth's baby, and help us share good news about Jesus with someone today. In Jesus' name, Amen.",
+     "passageCite": "Luke 1:39–45, NIV",
+     "teach": "Right after Gabriel left, Mary hurried to the hill country of Judea to visit her relative Elizabeth, the one Gabriel said was going to have a baby in her old age. When Elizabeth heard Mary's greeting, the baby inside Elizabeth leaped, and Elizabeth was filled with the Holy Spirit. Nobody had told Elizabeth Mary's news, but she called Mary's baby \"my Lord\" and said the baby inside her leaped for joy. Then she said, \"Blessed is she who has believed that the Lord would fulfill his promises to her!\" Mary trusted God's word before she could see it come true, and that is what faith is. Elizabeth's baby grew up to be John the Baptist, who would one day point people to Jesus.",
+     "enochActivity": "Give someone in the family a happy hug or a high five, like Mary hurrying to see Elizabeth, and say, \"Jesus is coming!\"",
+     "elijah2": "Find it in the passage: In verse 44, what did Elizabeth's baby do when he heard Mary's greeting? Why do you think he did that?",
+     "elijahAnswer2": "He leaped for joy (verse 44). Because Mary was going to be the mother of Jesus, the Lord, and that was the happiest news ever (verse 43).",
+     "jordyn2": "Verse 45 says Mary was blessed because she believed the Lord would fulfill his promises. What is one promise of God you can choose to believe this week, even before you see how it turns out?",
+     "jordynAnswer2": "Any promise from Scripture with a real situation works, for example that God is with us (Luke 1:28) or that no word from God will ever fail (Luke 1:37). Mary believed before she saw it (verse 45), and we can too.",
+     "passageText": "39 At that time Mary got ready and hurried to a town in the hill country of Judea, 40 where she entered Zechariah’s home and greeted Elizabeth. 41 When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. 42 In a loud voice she exclaimed: “Blessed are you among women, and blessed is the child you will bear! 43 But why am I so favored, that the mother of my Lord should come to me? 44 As soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy. 45 Blessed is she who has believed that the Lord would fulfill his promises to her!”"
+    },
+    {
+     "id": "w6-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "Mary praised God with a song for his great things, his mercy, and his kept promises.",
+     "verse": "for the Mighty One has done great things for me—holy is his name.",
+     "verseCite": "Luke 1:49, NIV",
+     "enoch": "Sing a happy praise to God with a parent: \"God does great things! Holy is his name!\"",
+     "elijah": "In verse 47, what does Mary call God?",
+     "elijahAnswer": "\"God my Savior\" (verse 47).",
+     "jordyn": "Verses 51–53 describe God bringing down the proud and lifting up the humble. Why do you think Mary, a young woman from a small town, sang about that?",
+     "jordynAnswer": "God had chosen her, a humble servant (verse 48), not someone rich or powerful, to be Jesus' mother. She saw that God cares about the humble and lifts them up (verse 52), and that he isn't impressed by pride (verse 51).",
+     "action": "Prayer time: Read Mary's song together slowly. Then each person prays one sentence of praise: \"God, you are great because...\"",
+     "prayer": "Lord, our souls glorify you and our spirits rejoice in you, our Savior. You have done great things for us, and holy is your name. Thank you for your mercy that lasts from generation to generation and for keeping your promises. Make our hearts humble and thankful like Mary's. In Jesus' name, Amen.",
+     "passageCite": "Luke 1:46–55, NIV",
+     "teach": "After Elizabeth blessed her, Mary burst into a song of praise. She said her soul glorifies the Lord and her spirit rejoices in God her Savior. Mary knew she was humble and ordinary, but God noticed her and did great things for her, and she said, \"Holy is his name.\" Her song tells what God is like: his mercy lasts from generation to generation, he lifts up the humble, and he fills the hungry with good things. At the end, Mary remembers that God was keeping the promise he made to Abraham long ago. Mary even calls God \"my Savior,\" which means she needed saving too, just like us. Today we use Mary's song to help us pray and praise God.",
+     "enochActivity": "Lift your arms up high and spin slowly while saying, \"God is great! I love you, God!\"",
+     "elijah2": "Find it in the passage: In verse 49, what has the Mighty One done for Mary? Name one great thing God has done for you.",
+     "elijahAnswer2": "He has done great things for her (verse 49). Any real answer works for the second part, like giving our family, keeping us safe, or sending Jesus.",
+     "jordyn2": "Mary ends by saying God remembered to be merciful to Abraham, \"just as he promised our ancestors\" (verses 54–55). How does that tie back to last week's lesson? Which line of Mary's song would you most like to pray this week?",
+     "jordynAnswer2": "Last week we learned that God promised a Savior long ago and always keeps his promises. Mary praises God for keeping his promise to Abraham through Jesus (verse 55). Any line with a real reason works for the second part.",
+     "passageText": "46 And Mary said: “My soul glorifies the Lord 47 and my spirit rejoices in God my Savior, 48 for he has been mindful of the humble state of his servant. From now on all generations will call me blessed, 49 for the Mighty One has done great things for me—holy is his name. 50 His mercy extends to those who fear him, from generation to generation. 51 He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts. 52 He has brought down rulers from their thrones but has lifted up the humble. 53 He has filled the hungry with good things but has sent the rich away empty. 54 He has helped his servant Israel, remembering to be merciful 55 to Abraham and his descendants forever, just as he promised our ancestors.”"
+    },
+    {
+     "id": "w6-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God sent Gabriel to tell Mary that Jesus, the Son of God, was coming, and Mary trusted God's word.",
+     "verse": "\"I am the Lord's servant,\" Mary answered. \"May your word to me be fulfilled.\" Then the angel left her.",
+     "verseCite": "Luke 1:38, NIV",
+     "enoch": "Ask, \"Who visited Mary?\" (An angel!) \"What was the baby's name?\" (Jesus!)",
+     "elijah": "Name two things the angel Gabriel said about Jesus this week.",
+     "elijahAnswer": "Any two: his name would be Jesus (verse 31); he would be great and called the Son of the Most High (verse 32); he would have the throne of David (verse 32); his kingdom will never end (verse 33); he would be called the Son of God (verse 35).",
+     "jordyn": "This week we read Isaiah 7:14, Luke 1:26–38, and Mary's song. What does the whole week show about God's promises?",
+     "jordynAnswer": "God made a promise hundreds of years earlier (Isaiah 7:14), sent Gabriel to say it was happening (Luke 1:31), and Mary praised him for keeping his word to Abraham (Luke 1:55). God never forgets, and no word from God will ever fail (Luke 1:37).",
+     "action": "Read verses 37–38 together, then each person shares one thing they learned about Mary or about God this week. Next lesson: Immanuel, God with us (Joseph's dream).",
+     "prayer": "Father, thank you for sending Gabriel with the good news that Jesus was coming. Thank you that Jesus is the Son of God and that no word from you will ever fail. Help us be your servants like Mary, ready to trust and obey you. Get our hearts ready to celebrate Jesus this Christmas. In Jesus' name, Amen.",
+     "passageCite": "Luke 1:30–38, NIV",
+     "teach": "Today we look back at our week. God sent the angel Gabriel to Mary in Nazareth to tell her she would have a son named Jesus, who would be called the Son of the Most High and reign forever on David's throne. When Mary asked how, Gabriel said the Holy Spirit would make it happen, so the holy one born would be called the Son of God, and that no word from God will ever fail. This kept the promise God made through Isaiah long before: the virgin will conceive and give birth to a son. Mary answered, \"I am the Lord's servant,\" visited Elizabeth, and sang a song praising God for keeping his promises. Next week, an angel visits Joseph in a dream, and we will learn what the name Immanuel means.",
+     "enochActivity": "Act out the story: a parent is Gabriel and says, \"You will have a baby named Jesus!\" Enoch is Mary, folds his hands, and says, \"Yes, God!\"",
+     "elijah2": "Find it in the passage: In verse 38, what did Mary say back to the angel? What does that show about her?",
+     "elijahAnswer2": "\"I am the Lord's servant. May your word to me be fulfilled\" (verse 38). It shows she trusted God and was ready to obey him.",
+     "jordyn2": "Mary called herself \"the Lord's servant\" (verse 38). How did you say yes to God this week, and where is one place you still want to grow in trusting him?",
+     "jordynAnswer2": "Any honest answer works. The point is that a servant of the Lord trusts his word and obeys, even when it is hard to understand (verses 37–38).",
+     "passageText": "30 But the angel said to her, “Do not be afraid, Mary; you have found favor with God. 31 You will conceive and give birth to a son, and you are to call him Jesus. 32 He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David, 33 and he will reign over Jacob’s descendants forever; his kingdom will never end.” 34 “How will this be,” Mary asked the angel, “since I am a virgin?” 35 The angel answered, “The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God. 36 Even Elizabeth your relative is going to have a child in her old age, and she who was said to be unable to conceive is in her sixth month. 37 For no word from God will ever fail.” 38 “I am the Lord’s servant,” Mary answered. “May your word to me be fulfilled.” Then the angel left her."
+    }
+   ],
+   "lessonVerses": [
+    "Luke 1:26–33",
+    "Luke 1:34–38",
+    "Isaiah 7:14",
+    "Luke 1:46–55"
+   ]
   },
   {
    "id": "7",
@@ -1084,9 +1553,237 @@
    "planTitle": "Advent: Immanuel, God with us (Joseph's dream)",
    "title": "Advent: Immanuel, God with us (Joseph's dream)",
    "selectLabel": "Week 7 · Advent: Immanuel, God with us (Joseph's dream)",
-   "ready": false,
+   "ready": true,
+   "passage": "Matthew 1:18–25; Isaiah 7:14 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 8 · Christmas: Jesus is born, the shepherds",
+   "bigIdea": "God sent an angel to tell Joseph that Mary's baby was from the Holy Spirit and would be named Jesus, because he will save his people from their sins, and he is Immanuel, God with us.",
+   "scheduleNote": "This is the Week 7 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Matthew 1:18–25 out loud in two parts, then read the short Isaiah 7:14 promise again. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Matthew 1:18–21",
+     "text": "18 This is how the birth of Jesus the Messiah came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. 19 Because Joseph her husband was faithful to the law, and yet did not want to expose her to public disgrace, he had in mind to divorce her quietly. 20 But after he had considered this, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 1:22–25",
+     "text": "22 All this took place to fulfill what the Lord had said through the prophet: 23 \"The virgin will conceive and give birth to a son, and they will call him Immanuel\" (which means \"God with us\"). 24 When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife. 25 But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Isaiah 7:14",
+     "text": "14 Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that the angel Gabriel visited Mary and told her she would have a baby named Jesus, the Son of God. This week we hear the other half of the story: what God told Joseph.",
+    "Joseph was the man Mary was pledged to marry, and he came from King David's family. When Joseph found out Mary was going to have a baby, he knew he was not the father. He did not know yet that the baby was from the Holy Spirit. Joseph was faithful to God's law, but he was also kind, so he planned to end the engagement quietly instead of embarrassing Mary in front of everyone.",
+    "Then God stepped in. While Joseph was asleep, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.\" The angel told Joseph to name the baby Jesus, \"because he will save his people from their sins.\" The name Jesus means that the LORD saves.",
+    "Matthew tells us this happened to keep a promise God made long ago through the prophet Isaiah, the same promise we read last week: \"The virgin will conceive and give birth to a son, and they will call him Immanuel.\" Immanuel means \"God with us.\" Jesus is not just a good man sent from God; he is God himself, come to be with us.",
+    "When Joseph woke up, he did exactly what the angel of the Lord had told him. He took Mary home as his wife, and when the baby was born, Joseph gave him the name Jesus. Joseph trusted God and obeyed right away. Next week, at Christmas, we will read about the night Jesus was born and the shepherds who came to see him."
+   ],
+   "enochLine": "An angel told Joseph in a dream, \"Name the baby Jesus!\" Jesus is God with us!",
+   "enochActivities": [
+    "Activity: Dream and wake up. Enoch lies down and pretends to sleep like Joseph. A parent is the angel and whispers, \"Do not be afraid! Name the baby Jesus!\" Enoch jumps up and says, \"Okay, God! I'll obey!\"",
+    "God with us hug: a parent says, \"Who is with us at home?\" Enoch says, \"God!\" \"Who is with us in the car?\" \"God!\" \"Who is with us when we sleep?\" \"God!\" End with a big family hug and say together, \"Jesus is God with us!\" Paw Patrol touch: the pups are always ready to help, but Jesus is with us every single minute."
+   ],
+   "elijahQuestions": [
+    "Who was Mary pledged to be married to (verse 18)?",
+    "How did the angel of the Lord talk to Joseph (verse 20)?",
+    "Why was the baby supposed to be named Jesus (verse 21)?",
+    "What does the name Immanuel mean (verse 23)?"
+   ],
+   "jordynQuestions": [
+    "Joseph was \"faithful to the law, and yet did not want to expose her to public disgrace\" (verse 19). What does that show about the kind of man Joseph was, even before the angel came?",
+    "The angel said Jesus \"will save his people from their sins\" (verse 21). Why is being saved from sin a bigger rescue than being saved from enemies or hard times?",
+    "Matthew says the name Immanuel means \"God with us\" (verse 23). How is Jesus being God with us different from God just sending a message or a helper?"
+   ],
+   "jordynApplication": "Joseph did not argue or put it off. \"When Joseph woke up, he did what the angel of the Lord had commanded him\" (verse 24), even though people might talk and his plans would change. God speaks to us today through the Bible. This week, when you know what God wants, like being kind, telling the truth, or obeying your parents, try doing it right away instead of later, at school, at volleyball, or at home. And when you feel alone or nervous, remember Jesus' name, Immanuel: God is with you.",
+   "elijahAnswers": [
+    "Joseph (verse 18).",
+    "In a dream: \"an angel of the Lord appeared to him in a dream\" (verse 20).",
+    "Because \"he will save his people from their sins\" (verse 21).",
+    "\"God with us\" (verse 23)."
+   ],
+   "jordynAnswers": [
+    "He wanted to do what was right by God's law, but he was also kind and gentle. He did not want to hurt or shame Mary, so he planned to act quietly (verse 19). He loved God and cared about people.",
+    "Enemies and hard times hurt us for a while, but sin separates us from God, and we can't fix it ourselves. Jesus came to rescue us from sin itself, so we can be forgiven and belong to God forever (verse 21).",
+    "A message or helper would come from God, but Jesus is God himself who came to be with us (verse 23). God didn't stay far away; he came close, became a baby, and lived among us."
+   ],
+   "applicationCheck": "Ask her later in the week about a time she obeyed God or a parent right away, like Joseph, and how it went. Notice and thank her when she does what is asked the first time.",
+   "prayer": "Dear God, thank you for sending an angel to Joseph and for keeping your promise through Isaiah. Thank you for Jesus, who came to save us from our sins, and for being Immanuel, God with us. Help us trust you and obey right away like Joseph did. Remind us that you are always with us, at home, at school, and everywhere we go. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w7-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "God sent an angel to Joseph in a dream to tell him that Mary's baby was from the Holy Spirit and would save his people from their sins.",
+     "verse": "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.",
+     "verseCite": "Matthew 1:21, NIV",
+     "enoch": "Say with a parent, \"The angel said, 'Do not be afraid!' Jesus will save us!\"",
+     "elijah": "In verse 20, how did the angel of the Lord appear to Joseph?",
+     "elijahAnswer": "In a dream: \"an angel of the Lord appeared to him in a dream\" (verse 20).",
+     "jordyn": "Joseph planned to \"divorce her quietly\" (verse 19). Why do you think he wanted to do it quietly instead of in front of everyone?",
+     "jordynAnswer": "Joseph was faithful to the law, but he did not want to expose Mary to public disgrace (verse 19). He was kind and wanted to protect her from shame, even when he was confused and hurt.",
+     "action": "Read verses 20–21 together. Each person says one thing the angel told Joseph.",
+     "prayer": "Lord God, thank you for speaking to Joseph when he was worried and did not understand. Thank you that Jesus came to save us from our sins. When we feel worried or confused, help us listen to you and not be afraid. In Jesus' name, Amen.",
+     "passageCite": "Matthew 1:18–21, NIV",
+     "teach": "Joseph was pledged to marry Mary, and he came from King David's family. Then he found out Mary was going to have a baby, and he knew it was not his. Joseph was faithful to God's law, but he was also kind, so he planned to end the engagement quietly so Mary would not be shamed in front of everyone. Before he did, an angel of the Lord appeared to him in a dream and said, \"Joseph son of David, do not be afraid.\" The angel explained that the baby was from the Holy Spirit and told Joseph to name him Jesus, \"because he will save his people from their sins.\" Last week Mary heard the news from Gabriel; this week God made sure Joseph knew too.",
+     "enochActivity": "Lie down and pretend to sleep like Joseph. When a parent whispers, \"Do not be afraid!\", pop up and say, \"Jesus will save us!\"",
+     "elijah2": "Find it in the passage: In verse 21, what name was Joseph supposed to give the baby? Why that name?",
+     "elijahAnswer2": "Jesus, because \"he will save his people from their sins\" (verse 21).",
+     "jordyn2": "The angel called him \"Joseph son of David\" (verse 20). Why would that matter, remembering what Gabriel told Mary last week about David's throne (Luke 1:32)?",
+     "jordynAnswer2": "Gabriel said God would give Jesus \"the throne of his father David\" (Luke 1:32). Joseph was from David's family, so when he took Mary home and named Jesus, Jesus became part of David's royal family line, just as God promised.",
+     "passageText": "18 This is how the birth of Jesus the Messiah came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. 19 Because Joseph her husband was faithful to the law, and yet did not want to expose her to public disgrace, he had in mind to divorce her quietly. 20 But after he had considered this, an angel of the Lord appeared to him in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.”"
+    },
+    {
+     "id": "w7-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "Jesus is Immanuel, which means God with us, so God is with us everywhere we go.",
+     "verse": "\"The virgin will conceive and give birth to a son, and they will call him Immanuel\" (which means \"God with us\").",
+     "verseCite": "Matthew 1:23, NIV",
+     "enoch": "Play \"Is God with us?\" A parent asks, \"Is God with us at the park?\" Enoch shouts, \"Yes! Jesus is God with us!\"",
+     "elijah": "Game: Where is God? Take turns naming a place (school, the baseball field, the car, your bed at night). Everyone answers, \"God is with us there!\" Then: what does Immanuel mean in verse 23?",
+     "elijahAnswer": "\"God with us\" (verse 23).",
+     "jordyn": "Verse 22 says \"All this took place to fulfill what the Lord had said through the prophet.\" What does fulfill mean here, and which promise from last week came true?",
+     "jordynAnswer": "Fulfill means to make a promise come true. The promise from Isaiah 7:14, that the virgin would give birth to a son called Immanuel, came true when Jesus was born to Mary (verses 22–23).",
+     "action": "Play the \"Where is God?\" game, then read verse 23 together and say \"God with us!\" in your loudest voice.",
+     "prayer": "God, thank you that Jesus is Immanuel, God with us. Thank you that we are never alone, at home, at school, on the field, or in our beds at night. When we feel scared or lonely, help us remember that you are right here. In Jesus' name, Amen.",
+     "passageCite": "Matthew 1:22–23, NIV",
+     "teach": "Matthew wanted his readers to know that Jesus' birth was not a surprise to God. He wrote, \"All this took place to fulfill what the Lord had said through the prophet.\" That prophet was Isaiah, and the promise is the one we read last week: the virgin will give birth to a son, and they will call him Immanuel. Matthew tells us what Immanuel means: \"God with us.\" That is the biggest news of Christmas. God did not just send a message from far away; in Jesus, God himself came to be with his people. Because Jesus is God with us, the people who trust him are never alone.",
+     "enochActivity": "Play hide-and-seek with a parent. When you are found, shout, \"God is with me everywhere!\"",
+     "elijah2": "Find it in the passage: In verse 22, who had said this would happen long ago?",
+     "elijahAnswer2": "The Lord had said it \"through the prophet\" (verse 22). The prophet was Isaiah (Isaiah 7:14).",
+     "jordyn2": "Matthew explains that the name Immanuel means \"God with us\" (verse 23). When is a time you might need to remember that God is with you? How could that change how you act?",
+     "jordynAnswer2": "Any honest answer works, like a hard test, a big game, a new place, or feeling left out. Remembering that God is with us (verse 23) can help us be brave, calm, and kind instead of afraid.",
+     "passageText": "22 All this took place to fulfill what the Lord had said through the prophet: 23 “The virgin will conceive and give birth to a son, and they will call him Immanuel” (which means “God with us”)."
+    },
+    {
+     "id": "w7-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "Jesus came from the family of Abraham and David, just as God had planned for many generations.",
+     "verse": "This is the genealogy of Jesus the Messiah the son of David, the son of Abraham:",
+     "verseCite": "Matthew 1:1, NIV",
+     "enoch": "Say with a parent, \"Jesus is from King David's family!\"",
+     "elijah": "In verse 1, Jesus is called the son of which two people?",
+     "elijahAnswer": "He is called \"the son of David, the son of Abraham\" (verse 1).",
+     "jordyn": "Verse 17 counts fourteen generations, three times. What does that long family list show about God's plan for Jesus?",
+     "jordynAnswer": "It shows God was working through many generations, from Abraham to David to the exile to the Messiah (verse 17). Jesus' coming was planned and carried out by God over a very long time; nothing was an accident.",
+     "action": "Count to fourteen together three times, once for each part of verse 17. Then talk about one person in your own family who taught you about God.",
+     "prayer": "Lord, thank you that you planned for Jesus to come for a very long time, through Abraham and David and many families. Thank you that you keep your promises from generation to generation. Help our family love and follow you, and pass our faith on to the people after us. In Jesus' name, Amen.",
+     "passageCite": "Matthew 1:1–2, 16–17, NIV",
+     "teach": "Matthew starts his book with a long family tree, called a genealogy. It begins, \"This is the genealogy of Jesus the Messiah the son of David, the son of Abraham.\" God had promised Abraham long ago that the whole world would be blessed through his family, and he promised King David that one of his sons would rule forever. Matthew lists the generations one by one, all the way to Joseph, the husband of Mary, and Jesus, who is called the Messiah. Then he counts them: fourteen generations, three times. Messiah means the Chosen King God promised to send. Jesus' family tree shows that God kept his word, step by step, through hundreds of years.",
+     "enochActivity": "Stack fourteen blocks into a tall tower and say, \"God planned Jesus for a long, long time!\"",
+     "elijah2": "Find it in the passage: In verse 16, who was Joseph's wife, and who was her son?",
+     "elijahAnswer2": "Mary was Joseph's wife, and her son was \"Jesus who is called the Messiah\" (verse 16).",
+     "jordyn2": "Matthew calls Jesus \"the son of David, the son of Abraham\" (verse 1). Why do you think Matthew started with those two names instead of just saying Jesus was born?",
+     "jordynAnswer2": "God made big promises to Abraham and to David, and the Messiah was supposed to come from their families. Starting with them shows right away that Jesus is the promised one and that God kept those promises (verses 1, 17).",
+     "passageText": "1 This is the genealogy of Jesus the Messiah the son of David, the son of Abraham: 2 Abraham was the father of Isaac, Isaac the father of Jacob, Jacob the father of Judah and his brothers, 16 and Jacob the father of Joseph, the husband of Mary, and Mary was the mother of Jesus who is called the Messiah. 17 Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah."
+    },
+    {
+     "id": "w7-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "When Joseph woke up, he obeyed God right away, and we can obey God right away too.",
+     "verse": "When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife.",
+     "verseCite": "Matthew 1:24, NIV",
+     "enoch": "Play \"Right away!\" A parent gives a simple job, like \"Touch your nose!\" Enoch does it fast and says, \"I obey right away, like Joseph!\"",
+     "elijah": "In verse 24, what did Joseph do when he woke up?",
+     "elijahAnswer": "He did what the angel of the Lord had commanded him and took Mary home as his wife (verse 24).",
+     "jordyn": "Joseph obeyed as soon as he woke up (verse 24). What might have made it hard for him to obey, and why do you think he did it anyway?",
+     "jordynAnswer": "People might not understand, and his own plans had changed (verse 19). He obeyed because he trusted that God's message was true and that God's plan was good (verses 20–21, 24).",
+     "action": "Challenge: Today, when a parent asks you to do something, do it the first time, right away, like Joseph. At bedtime, share one time you obeyed right away.",
+     "prayer": "Lord, thank you for Joseph, who trusted you and obeyed right away. Help us hear what you say in the Bible and do it without arguing or waiting. Give us brave, willing hearts to follow you, even when it is hard. In Jesus' name, Amen.",
+     "passageCite": "Matthew 1:24–25, NIV",
+     "teach": "Joseph had a big choice to make when he woke up from his dream. He could keep his old plan, or he could trust what the angel of the Lord had told him. Matthew says, \"When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife.\" He did not argue, wait, or ask for more time. Later, when the baby was born, Joseph gave him the name Jesus, just as the angel said. The Bible praises this kind of obedience; Psalm 119:60 says, \"I will hasten and not delay to obey your commands.\" Joseph shows us that trusting God and obeying God go together.",
+     "enochActivity": "Run to a parent as fast as you can when they call your name, and say, \"I'm here! I'll obey!\"",
+     "elijah2": "Find it in the passage: In verse 25, what name did Joseph give the baby? Was that the name the angel told him?",
+     "elijahAnswer2": "Jesus (verse 25). Yes, it was the name the angel told him to give (verse 21).",
+     "jordyn2": "Psalm 119:60 says, \"I will hasten and not delay to obey your commands.\" What is one thing you know God wants you to do that you have been putting off? What would obeying right away look like this week?",
+     "jordynAnswer2": "Any honest answer works, like apologizing to someone, doing chores without being reminded, or being kind to a sibling. Joseph obeyed as soon as he woke up (verse 24), and quick obedience shows we trust God.",
+     "passageText": "24 When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife. 25 But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus."
+    },
+    {
+     "id": "w7-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "At Christmas we celebrate that Jesus, the Word, became a person and came to live with us, full of grace and truth.",
+     "verse": "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.",
+     "verseCite": "John 1:14, NIV",
+     "enoch": "Pray with a parent, \"Thank you, God, for baby Jesus! Happy birthday, Jesus!\"",
+     "elijah": "In verse 14, what did the Word become?",
+     "elijahAnswer": "Flesh, which means a real human person. \"The Word became flesh and made his dwelling among us\" (verse 14).",
+     "jordyn": "Verse 12 says those who receive Jesus and believe in his name get \"the right to become children of God.\" How does that connect to the name Immanuel?",
+     "jordynAnswer": "Immanuel means God with us (Matthew 1:23). Jesus came close to us (verse 14) so we could come close to God and become his children by believing in him (verse 12).",
+     "action": "Prayer time: Light a candle or turn on the tree lights. Read verse 14 together, then each person thanks God for one thing about Jesus coming to us.",
+     "prayer": "Father, thank you for sending Jesus, the Word, to become a person and live among us. Thank you that he is full of grace and truth and that everyone who receives him becomes your child. As we celebrate Christmas, fill our home with joy and help us welcome Jesus with our whole hearts. In Jesus' name, Amen.",
+     "passageCite": "John 1:10–14, NIV",
+     "teach": "John tells the Christmas story in a different way from Matthew and Luke. He calls Jesus \"the Word,\" the one through whom the whole world was made. Then he says something amazing: \"The Word became flesh and made his dwelling among us.\" That means God the Son became a real human baby and lived with people, just like the name Immanuel says. Sadly, many people did not recognize or receive him. But everyone who receives Jesus and believes in his name is given the right to become a child of God. That is the best gift of Christmas, and today we thank God for it in prayer.",
+     "enochActivity": "Hold a pretend present, open it slowly, and say, \"Jesus is God's best gift!\"",
+     "elijah2": "Find it in the passage: In verse 12, what did Jesus give to all who received him and believed in his name?",
+     "elijahAnswer2": "He gave them \"the right to become children of God\" (verse 12).",
+     "jordyn2": "Verses 10–11 say the world did not recognize Jesus and his own did not receive him. Why do you think people miss Jesus, even at Christmas? How can your family make room for Jesus this Christmas?",
+     "jordynAnswer2": "People can be busy, distracted, or not want to change, so they miss him (verses 10–11). Any real answer works for the second part, like reading the Christmas story together, praying before opening gifts, or serving someone in need.",
+     "passageText": "10 He was in the world, and though the world was made through him, the world did not recognize him. 11 He came to that which was his own, but his own did not receive him. 12 Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— 13 children born not of natural descent, nor of human decision or a husband’s will, but born of God. 14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."
+    },
+    {
+     "id": "w7-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God told Joseph in a dream that Mary's baby was from the Holy Spirit; Jesus saves us from our sins and is Immanuel, God with us.",
+     "verse": "\"The virgin will conceive and give birth to a son, and they will call him Immanuel\" (which means \"God with us\").",
+     "verseCite": "Matthew 1:23, NIV",
+     "enoch": "Ask, \"Who had a dream?\" (Joseph!) \"What does Immanuel mean?\" (God with us!)",
+     "elijah": "Name two things the angel told Joseph in his dream this week.",
+     "elijahAnswer": "Any two: do not be afraid to take Mary home as your wife (verse 20); the baby is from the Holy Spirit (verse 20); she will give birth to a son (verse 21); name him Jesus (verse 21); he will save his people from their sins (verse 21).",
+     "jordyn": "This week we read Matthew 1, Isaiah 7:14, and John 1. What does the whole week show about who Jesus is?",
+     "jordynAnswer": "Jesus is the son of David and son of Abraham God promised (Matthew 1:1), the Savior who saves his people from their sins (Matthew 1:21), and Immanuel, God with us (Matthew 1:23), the Word who became flesh (John 1:14). God planned it long ago and kept his word (Isaiah 7:14).",
+     "action": "Read verses 20–23 together, then each person shares one thing they learned about Joseph or about Jesus this week. Next lesson: Christmas: Jesus is born, the shepherds.",
+     "prayer": "Father, thank you for telling Joseph the good news and for keeping your promise through Isaiah. Thank you that Jesus saves us from our sins and that he is Immanuel, God with us. Help us trust you and obey right away like Joseph. Thank you that you are with us always. In Jesus' name, Amen.",
+     "passageCite": "Matthew 1:18–25, NIV",
+     "teach": "Today we look back at our week. Joseph found out Mary was going to have a baby and planned to end their engagement quietly, but an angel of the Lord appeared to him in a dream. The angel said the baby was from the Holy Spirit and that Joseph should name him Jesus, because he will save his people from their sins. Matthew shows this kept God's promise through Isaiah, that the virgin's son would be called Immanuel, which means \"God with us.\" When Joseph woke up, he obeyed right away. At the very end of Matthew's book, Jesus promises, \"And surely I am with you always, to the very end of the age.\" Next week we will read about the night Jesus was born and the shepherds who came to see him.",
+     "enochActivity": "Act out the story: a parent is the angel and whispers in Enoch's ear while he pretends to sleep, \"Name the baby Jesus!\" Enoch wakes up, rocks a pretend baby, and says, \"Jesus, God with us!\"",
+     "elijah2": "Find it in the passage: In verse 24, what did Joseph do when he woke up? What does that show about him?",
+     "elijahAnswer2": "He did what the angel of the Lord had commanded him and took Mary home as his wife (verse 24). It shows he trusted God and obeyed right away.",
+     "jordyn2": "Last week Mary said, \"I am the Lord's servant\" (Luke 1:38), and this week Joseph obeyed as soon as he woke up (verse 24). What do Mary and Joseph teach you about trusting God, and where do you want to trust him more?",
+     "jordynAnswer2": "Both believed God's message and obeyed even when it was hard and people might not understand (Luke 1:38; Matthew 1:24). Any honest answer works for the second part; God is with us as we learn to trust him (verse 23).",
+     "passageText": "18 This is how the birth of Jesus the Messiah came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. 19 Because Joseph her husband was faithful to the law, and yet did not want to expose her to public disgrace, he had in mind to divorce her quietly. 20 But after he had considered this, an angel of the Lord appeared to him in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.” 22 All this took place to fulfill what the Lord had said through the prophet: 23 “The virgin will conceive and give birth to a son, and they will call him Immanuel” (which means “God with us”). 24 When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife. 25 But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus."
+    }
+   ],
+   "lessonVerses": [
+    "Matthew 1:18–21",
+    "Matthew 1:22–25",
+    "Isaiah 7:14",
+    "John 1:14"
+   ]
   },
   {
    "id": "8",
