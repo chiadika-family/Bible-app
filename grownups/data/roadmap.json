@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.19",
+  "version": "2026.11.21.27",
   "start": "2026-10-31",
   "phases": [
     {
@@ -797,7 +797,7 @@
       "passages": [
         "Ruth 1:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -809,7 +809,7 @@
         "Ruth 2:1–12",
         "Ruth 4:13–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -821,7 +821,7 @@
         "1 Samuel 1:9–28",
         "1 Samuel 3:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -832,7 +832,7 @@
       "passages": [
         "1 Samuel 8:1–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -844,7 +844,7 @@
         "1 Samuel 16:1–13",
         "1 Samuel 17:32–50"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -856,7 +856,7 @@
         "1 Samuel 18:1–16",
         "1 Samuel 24:1–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -868,7 +868,7 @@
         "1 Samuel 28:3–20",
         "1 Samuel 31:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
