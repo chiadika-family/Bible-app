@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.15",
+  "version": "2026.11.21.19",
   "start": "2026-10-31",
   "phases": [
     {
@@ -750,7 +750,7 @@
         "Joshua 23:1–16",
         "Joshua 24:14–28"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -761,7 +761,7 @@
       "passages": [
         "Judges 2:6–19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -774,7 +774,7 @@
         "Judges 7:1–8",
         "Judges 7:19–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -786,7 +786,7 @@
         "Judges 16:4–30",
         "Judges 21:25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
