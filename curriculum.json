@@ -1,5 +1,5 @@
 {
- "contentVersion": "2026.11.21.4",
+ "contentVersion": "2026.11.21.9",
  "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
  "parents": [
   "Gregory",
@@ -1791,9 +1791,236 @@
    "planTitle": "Christmas: Jesus is born, the shepherds",
    "title": "Christmas: Jesus is born, the shepherds",
    "selectLabel": "Week 8 · Christmas: Jesus is born, the shepherds",
-   "ready": false,
+   "ready": true,
+   "passage": "Luke 2:1–20 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 9 · The wise men worship Jesus",
+   "bigIdea": "Jesus, the Savior God promised, was born in Bethlehem and laid in a manger, and the angels told the shepherds this good news of great joy for all the people, so they hurried to see him and went home praising God.",
+   "scheduleNote": "This is the Week 8 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Luke 2:1–20 out loud in three parts: the birth, the angels and the shepherds, and the shepherds' visit. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Luke 2:1–7",
+     "text": "1 In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world. 2 (This was the first census that took place while Quirinius was governor of Syria.) 3 And everyone went to their own town to register. 4 So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. 5 He went there to register with Mary, who was pledged to be married to him and was expecting a child. 6 While they were there, the time came for the baby to be born, 7 and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no guest room available for them."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Luke 2:8–14",
+     "text": "8 And there were shepherds living out in the fields nearby, keeping watch over their flocks at night. 9 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. 10 But the angel said to them, \"Do not be afraid. I bring you good news that will cause great joy for all the people. 11 Today in the town of David a Savior has been born to you; he is the Messiah, the Lord. 12 This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.\" 13 Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, 14 \"Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Luke 2:15–20",
+     "text": "15 When the angels had left them and gone into heaven, the shepherds said to one another, \"Let's go to Bethlehem and see this thing that has happened, which the Lord has told us about.\" 16 So they hurried off and found Mary and Joseph, and the baby, who was lying in the manger. 17 When they had seen him, they spread the word concerning what had been told them about this child, 18 and all who heard it were amazed at what the shepherds said to them. 19 But Mary treasured up all these things and pondered them in her heart. 20 The shepherds returned, glorifying and praising God for all the things they had heard and seen, which were just as they had been told."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week an angel told Joseph in a dream to take Mary home as his wife and to name her baby Jesus, because he will save his people from their sins. This week we read about the night Jesus was born.",
+    "The ruler of the Roman world, Caesar Augustus, ordered a census, which means everyone had to be counted. Each person went to their own town to sign up. Joseph belonged to King David's family, so he traveled with Mary from Nazareth to Bethlehem, the town of David. Mary was expecting her baby, and while they were in Bethlehem, Jesus was born. There was no guest room for them, so Mary wrapped baby Jesus in cloths and laid him in a manger, the box animals eat from.",
+    "That same night, shepherds were out in the fields keeping watch over their sheep. Suddenly an angel of the Lord appeared, and the glory of the Lord shone around them. They were terrified! But the angel said, \"Do not be afraid. I bring you good news that will cause great joy for all the people.\" The Savior had been born in the town of David. He is the Messiah, the Lord. The sign was a baby wrapped in cloths and lying in a manger.",
+    "Then a great company of angels appeared, praising God and saying, \"Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.\" The King of heaven was not born in a palace. God chose to send his Son as a tiny baby in a humble place, and he told the good news first to ordinary shepherds.",
+    "The shepherds said, \"Let's go to Bethlehem and see this thing that has happened, which the Lord has told us about.\" They hurried off and found Mary, Joseph, and the baby lying in the manger, just as the angel said. Then they told everyone what they had heard about this child, and people were amazed. Mary treasured all these things in her heart. The shepherds went back to their fields glorifying and praising God. Next week we will read about the wise men who followed a star to worship Jesus."
+   ],
+   "enochLine": "Baby Jesus was born! The angels sang, and the shepherds came to see him!",
+   "enochActivities": [
+    "Activity: Shepherds and angels. Enoch is a shepherd watching pretend sheep (stuffed animals). A parent is the angel and says, \"Do not be afraid! Jesus is born!\" Enoch hurries across the room to a blanket \"manger\" with a baby doll inside and says, \"I found baby Jesus!\"",
+    "Glory song: hold hands, raise them high, and sing or say together, \"Glory to God! Glory to God! Jesus is born!\" Then tiptoe and whisper, \"Shh, baby Jesus is sleeping in the manger.\""
+   ],
+   "elijahQuestions": [
+    "What town did Joseph and Mary go to (verse 4)?",
+    "Where did Mary lay baby Jesus, and why (verse 7)?",
+    "Who did the angel visit that night, and what were they doing (verse 8)?",
+    "What did the shepherds do after they saw Jesus (verses 17 and 20)?"
+   ],
+   "jordynQuestions": [
+    "Jesus is the King, but he was born where there was no guest room and laid in a manger (verse 7). What does that show you about the kind of King Jesus is?",
+    "The angel brought the news first to shepherds out in the fields at night (verses 8–11). Why do you think God told ordinary working people first instead of kings or important leaders?",
+    "The angel called Jesus \"a Savior,\" \"the Messiah,\" and \"the Lord\" (verse 11). What does each name tell you about who Jesus is?"
+   ],
+   "jordynApplication": "The shepherds didn't keep the good news to themselves. \"When they had seen him, they spread the word concerning what had been told them about this child\" (verse 17), and then they went back to their regular work \"glorifying and praising God\" (verse 20). This week, look for one chance to share something true about Jesus, with a friend, a teammate, or a cousin over the holidays, even something simple like why your family celebrates Christmas. And when you go back to ordinary things like chores or practice, try doing them with a thankful heart, like the shepherds.",
+   "elijahAnswers": [
+    "Bethlehem, the town of David (verse 4).",
+    "In a manger, \"because there was no guest room available for them\" (verse 7).",
+    "Shepherds. They were \"living out in the fields nearby, keeping watch over their flocks at night\" (verse 8).",
+    "They spread the word about this child (verse 17), and they went back \"glorifying and praising God\" (verse 20)."
+   ],
+   "jordynAnswers": [
+    "Jesus is a humble King. He didn't come with power and riches to be served; he came low and gentle, close to ordinary people (verse 7).",
+    "God's good news is for everyone, not just the rich or important. The angel said it was \"good news that will cause great joy for all the people\" (verse 10). Shepherds were ordinary workers, and God chose them to hear it first and tell others.",
+    "Savior means he rescues us from sin. Messiah means he is the promised King God chose. Lord means he is God and rules over everything (verse 11). Jesus is all three at once."
+   ],
+   "applicationCheck": "Ask her later in the week if she had a chance to share something about Jesus with anyone, and how it went. Thank her for any small step, even just being ready to answer.",
+   "prayer": "Dear God, thank you for sending Jesus, our Savior, to be born in Bethlehem. Thank you for the good news of great joy for all the people, including our family. Help us hurry to Jesus like the shepherds and tell others what we know about him. Fill our home with praise this Christmas season. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w8-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "God brought Joseph and Mary to Bethlehem, the town of David, and there Jesus was born and laid in a manger.",
+     "verse": "and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no guest room available for them.",
+     "verseCite": "Luke 2:7, NIV",
+     "enoch": "Say with a parent, \"Baby Jesus slept in a manger!\"",
+     "elijah": "In verse 4, what town did Joseph and Mary travel to?",
+     "elijahAnswer": "Bethlehem, \"the town of David\" (verse 4).",
+     "jordyn": "Caesar Augustus ordered the census (verse 1), but it brought Joseph and Mary to Bethlehem right when Jesus was born. What does that show you about God being in charge, even of rulers?",
+     "jordynAnswer": "A ruler gave the order, but God used it to bring Mary and Joseph to Bethlehem, the town of David, just in time (verses 1–6). God is in charge even of powerful rulers and works through everything to keep his promises.",
+     "action": "Read verses 4–7 together. Then find a small box or basket and talk about how Jesus, the King, was laid in a manger.",
+     "prayer": "Lord God, thank you that you are in charge of everything and that you brought Joseph and Mary to Bethlehem just as you planned. Thank you that Jesus came as a humble baby for us. Help us trust you when plans change and things feel hard. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:1–7, NIV",
+     "teach": "Last week Joseph obeyed God and took Mary home as his wife. Now the ruler Caesar Augustus ordered a census, so everyone had to go to their own town to be counted. Joseph belonged to the house and line of David, so he and Mary traveled from Nazareth to Bethlehem, the town of David. While they were there, it was time for the baby to be born. Mary wrapped her firstborn son in cloths and placed him in a manger, a feeding box for animals, because there was no guest room for them. The King of all creation started his life on earth in a very humble place.",
+     "enochActivity": "Wrap a baby doll or stuffed animal snugly in a small blanket and lay it in a box or basket. Say, \"Jesus is the King, and he slept in a manger!\"",
+     "elijah2": "Find it in the passage: In verse 7, why did Mary place baby Jesus in a manger?",
+     "elijahAnswer2": "\"Because there was no guest room available for them\" (verse 7).",
+     "jordyn2": "Verse 4 says Joseph \"belonged to the house and line of David.\" Why does it matter that Jesus was born in Bethlehem, the town of David?",
+     "jordynAnswer2": "Jesus was born in David's town because he is from David's family line (verse 4). Bethlehem is called \"the town of David\" twice in this chapter (verses 4 and 11), which shows Jesus is the promised King from David's family.",
+     "passageText": "1 In those days Caesar Augustus issued a decree that a census should be taken of the entire Roman world. 2 (This was the first census that took place while Quirinius was governor of Syria.) 3 And everyone went to their own town to register. 4 So Joseph also went up from the town of Nazareth in Galilee to Judea, to Bethlehem the town of David, because he belonged to the house and line of David. 5 He went there to register with Mary, who was pledged to be married to him and was expecting a child. 6 While they were there, the time came for the baby to be born, 7 and she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no guest room available for them."
+    },
+    {
+     "id": "w8-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "An angel told the shepherds not to be afraid, because he brought good news of great joy for all the people.",
+     "verse": "Do not be afraid. I bring you good news that will cause great joy for all the people.",
+     "verseCite": "Luke 2:10, NIV",
+     "enoch": "Play \"Do not be afraid!\" Enoch hides behind a pillow like a scared shepherd. A parent says, \"Do not be afraid! Good news!\" Enoch pops up and shouts, \"Jesus is born!\"",
+     "elijah": "Game: Shepherd's watch. One person is the shepherd and guards a few stuffed-animal sheep while everyone else tries to sneak up. When the shepherd says \"Angel!\", everyone freezes and the shepherd says verse 10. Then: what did the angel tell the shepherds not to be?",
+     "elijahAnswer": "Afraid: \"Do not be afraid\" (verse 10).",
+     "jordyn": "The shepherds \"were terrified\" when the glory of the Lord shone around them (verse 9). Why do you think the angel's first words were \"Do not be afraid\"?",
+     "jordynAnswer": "God's glory is so great and holy that people are afraid when they see it (verse 9). But the angel came with good news, not to harm them, so he calmed them first: \"Do not be afraid\" (verse 10). Jesus came so people could come close to God without fear.",
+     "action": "Play Shepherd's watch, then read verses 10–11 together and say \"Good news of great joy!\" together.",
+     "prayer": "God, thank you that the angel's message was good news of great joy for all the people. Thank you that because of Jesus, we don't have to be afraid of you. When we feel scared, help us remember your good news. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:8–12, NIV",
+     "teach": "On the night Jesus was born, shepherds were living out in the fields near Bethlehem, keeping watch over their sheep in the dark. Suddenly an angel of the Lord appeared, and the glory of the Lord shone around them. The shepherds were terrified! But the angel said, \"Do not be afraid.\" He brought good news that would cause great joy for all the people: a Savior had been born in the town of David, the Messiah, the Lord. Then the angel gave them a sign so they would know they had found the right baby: he would be wrapped in cloths and lying in a manger. Yesterday we read that Mary laid Jesus in a manger, and today God told the shepherds exactly where to look.",
+     "enochActivity": "Turn off the lights, then shine a flashlight on the ceiling like the glory of the Lord. Enoch says, \"Do not be afraid! Jesus is born!\"",
+     "elijah2": "Find it in the passage: In verse 12, what sign did the angel give the shepherds so they could find the baby?",
+     "elijahAnswer2": "\"You will find a baby wrapped in cloths and lying in a manger\" (verse 12).",
+     "jordyn2": "The angel said the good news was \"for all the people\" (verse 10) and that the Savior was \"born to you\" (verse 11). Why is it important that Jesus came for everyone, and also for you personally?",
+     "jordynAnswer2": "\"For all the people\" means no one is left out of God's good news (verse 10). \"Born to you\" means it is personal: Jesus came for each person who hears, including you (verse 11). He is not just the world's Savior; he can be your Savior.",
+     "passageText": "8 And there were shepherds living out in the fields nearby, keeping watch over their flocks at night. 9 An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified. 10 But the angel said to them, “Do not be afraid. I bring you good news that will cause great joy for all the people. 11 Today in the town of David a Savior has been born to you; he is the Messiah, the Lord. 12 This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.”"
+    },
+    {
+     "id": "w8-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "A great company of angels praised God for sending Jesus, giving glory to God and announcing peace to those on whom his favor rests.",
+     "verse": "\"Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.\"",
+     "verseCite": "Luke 2:14, NIV",
+     "enoch": "Raise your arms high with a parent and say, \"Glory to God!\"",
+     "elijah": "In verse 13, who suddenly appeared with the angel?",
+     "elijahAnswer": "\"A great company of the heavenly host,\" a huge crowd of angels (verse 13).",
+     "jordyn": "The angels said there would be \"peace to those on whom his favor rests\" (verse 14). What kind of peace do you think Jesus brings?",
+     "jordynAnswer": "Most of all, peace with God. Jesus came as the Savior (verse 11), so people who were far from God because of sin can be made right with him. That peace can also calm our hearts when life feels worried or messy.",
+     "action": "Read verses 13–14 together. Then everyone stands, lifts their hands, and says verse 14 together like the angels.",
+     "prayer": "God, we join the angels and say glory to you in the highest heaven! Thank you for sending Jesus to bring peace. Help our family live at peace with you and with each other this week. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:13–14, NIV",
+     "teach": "Yesterday one angel told the shepherds the good news. Then, suddenly, a great company of the heavenly host appeared, a huge crowd of angels, all praising God together. They said, \"Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.\" Glory means showing how great and wonderful God is. The angels were excited because God was keeping his promise and sending the Savior. Jesus came to bring peace between God and people, so everyone who trusts him can be at peace with God. Heaven celebrated the birth of Jesus, and we get to celebrate too.",
+     "enochActivity": "March around the room like a big crowd of angels, arms up high, singing, \"Glory to God! Jesus is born!\"",
+     "elijah2": "Find it in the passage: In verse 13, what were the angels doing?",
+     "elijahAnswer2": "They were \"praising God\" (verse 13).",
+     "jordyn2": "The angels gave \"glory to God\" first (verse 14). What does it look like to give God glory in your everyday life, at school, at volleyball, or at home?",
+     "jordynAnswer2": "Giving glory to God means showing others how great he is, like the angels did (verse 14). Any real answer works, such as thanking God when things go well, being honest, working hard without bragging, or being kind to a teammate.",
+     "passageText": "13 Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, 14 “Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.”"
+    },
+    {
+     "id": "w8-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "The shepherds hurried to find Jesus, and then they spread the word about him to everyone.",
+     "verse": "When they had seen him, they spread the word concerning what had been told them about this child, and all who heard it were amazed at what the shepherds said to them.",
+     "verseCite": "Luke 2:17–18, NIV",
+     "enoch": "Say with a parent, \"Let's go see Jesus!\" Then tell one person, \"Jesus is born!\"",
+     "elijah": "In verse 16, how did the shepherds go to Bethlehem: slowly or quickly?",
+     "elijahAnswer": "Quickly: \"they hurried off\" (verse 16).",
+     "jordyn": "The shepherds said, \"Let's go to Bethlehem and see this thing that has happened\" (verse 15). What does their quick response teach you about how to respond when God shows you something true?",
+     "jordynAnswer": "They believed the angel's message and acted on it right away instead of waiting (verses 15–16). When God shows us something true in his Word, the best response is to believe it and act on it, not put it off.",
+     "action": "Challenge: this week, each person tells one person outside the family one true thing about Jesus from the Christmas story, like \"Jesus is the Savior\" or \"The angels said it was good news for all the people.\" Share how it went at dinner.",
+     "prayer": "Lord Jesus, thank you that the shepherds hurried to find you. Give us that same excitement about you. Help each of us be brave and kind as we tell someone about you this week. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:15–18, NIV",
+     "teach": "After the angels went back into heaven, the shepherds didn't sit around wondering. They said to one another, \"Let's go to Bethlehem and see this thing that has happened, which the Lord has told us about.\" They hurried off and found Mary and Joseph, and the baby lying in the manger, exactly as the angel said. Then they couldn't keep quiet! They spread the word about what they had been told about this child, and everyone who heard it was amazed. The shepherds were ordinary workers, but God used them to share the best news ever. God can use us to tell others about Jesus too.",
+     "enochActivity": "Run from one side of the room to the other like the hurrying shepherds, find a baby doll in a blanket, then run to a parent and say, \"I found Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 18, how did people feel when they heard what the shepherds said?",
+     "elijahAnswer2": "They \"were amazed\" (verse 18).",
+     "jordyn2": "The shepherds told people about Jesus right after they met him (verse 17). Who is one person you could share the Christmas story with, and what would make it easier to do?",
+     "jordynAnswer2": "Any honest answer works, like a friend, teammate, or cousin. The shepherds simply told what they had seen and heard (verse 17); you don't need to know everything, just share what you know is true about Jesus.",
+     "passageText": "15 When the angels had left them and gone into heaven, the shepherds said to one another, “Let’s go to Bethlehem and see this thing that has happened, which the Lord has told us about.” 16 So they hurried off and found Mary and Joseph, and the baby, who was lying in the manger. 17 When they had seen him, they spread the word concerning what had been told them about this child, 18 and all who heard it were amazed at what the shepherds said to them."
+    },
+    {
+     "id": "w8-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "Mary treasured what God had done in her heart, and the shepherds went home glorifying and praising God.",
+     "verse": "The shepherds returned, glorifying and praising God for all the things they had heard and seen, which were just as they had been told.",
+     "verseCite": "Luke 2:20, NIV",
+     "enoch": "Fold your hands with a parent and say, \"Thank you, God, for baby Jesus!\"",
+     "elijah": "In verse 20, what were the shepherds doing as they went back to their fields?",
+     "elijahAnswer": "\"Glorifying and praising God\" (verse 20).",
+     "jordyn": "Verse 19 says Mary \"treasured up all these things and pondered them in her heart.\" What do you think it means to ponder something, and why would Mary do that?",
+     "jordynAnswer": "To ponder means to think about something carefully and keep coming back to it. Mary had seen angels' words come true and shepherds arrive with amazing news (verses 17–19), so she kept these things like treasure and thought about what God was doing through her son.",
+     "action": "Prayer time: each person finishes the sentence, \"God, I praise you for...\" with one thing about Jesus or about this Christmas. Then a parent closes in prayer.",
+     "prayer": "God, we praise you like the shepherds for all we have heard and seen about Jesus. Thank you that everything happened just as you said. Help us treasure your Word in our hearts like Mary and praise you in our everyday lives. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:19–20, NIV",
+     "teach": "After all the excitement, Luke shows us two ways to respond to Jesus. Mary was quiet. She \"treasured up all these things and pondered them in her heart,\" thinking carefully about everything God was doing. The shepherds were loud. They went back to their fields \"glorifying and praising God\" for everything they had heard and seen. Notice that it was all \"just as they had been told.\" God's word through the angel came true exactly. Whether we think quietly about God or praise him out loud, Jesus is worth our whole hearts, and today we tell him so in prayer.",
+     "enochActivity": "Make a \"treasure box\" with a small box. Put in a picture or a toy sheep and say, \"I keep Jesus in my heart like a treasure!\"",
+     "elijah2": "Find it in the passage: Verse 20 says the things the shepherds heard and saw were \"just as they had been told.\" Who told them?",
+     "elijahAnswer2": "The angel of the Lord told them (verses 10–12). The shepherds called it what \"the Lord has told us about\" (verse 15).",
+     "jordyn2": "The shepherds went back to ordinary work, but now they were \"glorifying and praising God\" (verse 20). How can meeting Jesus change the way you do ordinary things like homework, chores, or practice?",
+     "jordynAnswer2": "Their jobs didn't change, but their hearts did (verse 20). Any real answer works, like doing chores without complaining, thanking God during practice, or doing homework carefully as a way to honor him.",
+     "passageText": "19 But Mary treasured up all these things and pondered them in her heart. 20 The shepherds returned, glorifying and praising God for all the things they had heard and seen, which were just as they had been told."
+    },
+    {
+     "id": "w8-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: Jesus the Savior was born in Bethlehem and laid in a manger; angels told the shepherds the good news, and they hurried to see him and went home praising God.",
+     "verse": "Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.",
+     "verseCite": "Luke 2:11, NIV",
+     "enoch": "Ask, \"Where did baby Jesus sleep?\" (In a manger!) \"Who came to see him?\" (The shepherds!)",
+     "elijah": "Name two things that happened on the night Jesus was born.",
+     "elijahAnswer": "Any two: Mary wrapped Jesus in cloths and laid him in a manger (verse 7); an angel appeared to the shepherds (verse 9); the angel told them the good news (verses 10–12); a great company of angels praised God (verses 13–14); the shepherds hurried to find Jesus (verse 16); they spread the word (verse 17); they went home praising God (verse 20).",
+     "jordyn": "This week we read all of Luke 2:1–20. What does the whole week show about who Jesus is and why he came?",
+     "jordynAnswer": "Jesus is the Savior, the Messiah, and the Lord (verse 11), born in the town of David as God promised (verse 4). He came humbly, in a manger (verse 7), with good news for all the people (verse 10), to bring peace to those on whom God's favor rests (verse 14).",
+     "action": "Read verses 10–14 together, then each person shares one thing they learned about Jesus or the shepherds this week. Next lesson: The wise men worship Jesus.",
+     "prayer": "Father, thank you for sending Jesus, our Savior, the Messiah, the Lord. Thank you for the good news of great joy for all the people. Help us hurry to Jesus, tell others about him, and praise you every day like the shepherds. In Jesus' name, Amen.",
+     "passageCite": "Luke 2:10–14, NIV",
+     "teach": "Today we look back at our week. God used a ruler's census to bring Joseph and Mary to Bethlehem, the town of David, and there Jesus was born and laid in a manger. An angel appeared to shepherds in the fields and said, \"Do not be afraid,\" bringing good news of great joy for all the people: a Savior had been born, the Messiah, the Lord. Then a great company of angels praised God. The shepherds hurried to find Jesus, told everyone about him, and went home glorifying and praising God. Mary treasured all these things in her heart. Next week we will read about the wise men who followed a star to worship Jesus.",
+     "enochActivity": "Act out the story: Enoch is a shepherd with a stuffed sheep, a parent is the angel saying, \"Do not be afraid! Jesus is born!\" Enoch hurries to a baby doll in a box and says, \"Glory to God!\"",
+     "elijah2": "Find it in the passage: In verse 11, what three names did the angel use for Jesus?",
+     "elijahAnswer2": "\"A Savior,\" \"the Messiah,\" and \"the Lord\" (verse 11).",
+     "jordyn2": "Last week Joseph obeyed right away, and this week the shepherds hurried to Jesus. What do Joseph and the shepherds teach you about how to respond to God's message?",
+     "jordynAnswer2": "Both believed God's message and acted on it without delay (Matthew 1:24; Luke 2:15–16). The shepherds also told others and praised God (verses 17 and 20). Any honest answer about where you want to respond to God more quickly works.",
+     "passageText": "10 But the angel said to them, “Do not be afraid. I bring you good news that will cause great joy for all the people. 11 Today in the town of David a Savior has been born to you; he is the Messiah, the Lord. 12 This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.” 13 Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, 14 “Glory to God in the highest heaven, and on earth peace to those on whom his favor rests.”"
+    }
+   ],
+   "lessonVerses": [
+    "Luke 2:1–7",
+    "Luke 2:8–14",
+    "Luke 2:15–20"
+   ]
   },
   {
    "id": "9",
@@ -1801,9 +2028,237 @@
    "planTitle": "The wise men worship Jesus",
    "title": "The wise men worship Jesus",
    "selectLabel": "Week 9 · The wise men worship Jesus",
-   "ready": false,
+   "ready": true,
+   "passage": "Matthew 2:1–12; Micah 5:2 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 10 · The Holy Spirit, our Helper",
+   "bigIdea": "God led wise men from far away by a star to find Jesus, the King born in Bethlehem as the prophet promised, and they bowed down, worshiped him, and gave him their treasures, because Jesus is King for all nations.",
+   "scheduleNote": "This is the Week 9 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Matthew 2:1–12 out loud in two parts, then read the short Micah 5:2 promise. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Matthew 2:1–6",
+     "text": "1 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem 2 and asked, \"Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.\" 3 When King Herod heard this he was disturbed, and all Jerusalem with him. 4 When he had called together all the people's chief priests and teachers of the law, he asked them where the Messiah was to be born. 5 \"In Bethlehem in Judea,\" they replied, \"for this is what the prophet has written: 6 \"'But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.'\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 2:7–12",
+     "text": "7 Then Herod called the Magi secretly and found out from them the exact time the star had appeared. 8 He sent them to Bethlehem and said, \"Go and search carefully for the child. As soon as you find him, report to me, so that I too may go and worship him.\" 9 After they had heard the king, they went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was. 10 When they saw the star, they were overjoyed. 11 On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold, frankincense and myrrh. 12 And having been warned in a dream not to go back to Herod, they returned to their country by another route."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Micah 5:2",
+     "text": "2 \"But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times.\""
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we read about the night Jesus was born in Bethlehem and the shepherds who hurried to see him. The shepherds lived close by, but this week some visitors come from very far away.",
+    "After Jesus was born, Magi, also called wise men, came from the east to Jerusalem. They asked, \"Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.\" They had traveled a long way because God showed them a special star.",
+    "King Herod heard this and was disturbed. He did not want another king. He asked the chief priests and teachers of the law where the Messiah would be born. They knew the answer from the prophet Micah, who wrote long before that a ruler who would shepherd God's people Israel would come out of Bethlehem. God had told his people the very town where the King would be born.",
+    "Herod secretly sent the wise men to Bethlehem and told them to report back, saying he wanted to worship the child too. But he did not really mean it. The wise men left, and the star went ahead of them until it stopped over the place where the child was. When they saw the star, they were overjoyed!",
+    "They came into the house and saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and gave him gifts of gold, frankincense, and myrrh. God warned them in a dream not to go back to Herod, so they went home another way. Jesus is not just King for one nation; people from far away came to worship him. Next week we will learn about the Holy Spirit, our Helper."
+   ],
+   "enochLine": "The wise men followed a star to find Jesus! They bowed down and gave him gifts!",
+   "enochActivities": [
+    "Activity: Follow the star. A parent holds up a paper star (or a flashlight) and walks slowly around the house. Enoch follows as a wise man. When the star stops over a baby doll, Enoch bows down and says, \"Jesus is the King!\"",
+    "Gift time: give Enoch three small boxes or toys to be the gifts. He sets each one down by the baby doll and says, \"A gift for King Jesus!\" Then hug and say together, \"We worship Jesus!\""
+   ],
+   "elijahQuestions": [
+    "Where did the wise men come from (verse 1)?",
+    "What did the wise men see that made them come (verse 2)?",
+    "What did the wise men do when they saw the child with Mary (verse 11)?",
+    "What three gifts did they give Jesus (verse 11)?"
+   ],
+   "jordynQuestions": [
+    "The shepherds were from nearby, but the Magi came \"from the east,\" from another land (verse 1). What does it show that people from far away came to worship Jesus?",
+    "The chief priests knew from Scripture exactly where the Messiah would be born (verses 4–6), but the Magi are the ones who went to worship him. What is the difference between knowing about Jesus and coming to him?",
+    "Herod said, \"so that I too may go and worship him\" (verse 8), but God warned the Magi not to go back to him (verse 12). How can someone use worship words without really meaning them, and how does God see the heart?"
+   ],
+   "jordynApplication": "The Magi traveled a long way, \"bowed down and worshiped him,\" and \"opened their treasures\" for Jesus (verse 11). Worship means treating Jesus as the King he is, with our hearts and with what we have. This week, think about what you treasure, like your time, your talents in volleyball or school, or your money, and pick one way to give some of it to Jesus: time to read his Word, encouragement for a teammate, or a gift to someone in need. Do it gladly, the way the Magi were overjoyed (verse 10).",
+   "elijahAnswers": [
+    "From the east (verse 1).",
+    "His star: \"We saw his star when it rose\" (verse 2).",
+    "They \"bowed down and worshiped him\" (verse 11).",
+    "Gold, frankincense, and myrrh (verse 11)."
+   ],
+   "jordynAnswers": [
+    "Jesus is King for every nation, not just one people. Last week the angel said the good news was \"for all the people\" (Luke 2:10), and here people from a far-off land came to worship him (verses 1–2).",
+    "The priests knew the right answer from Micah (verses 5–6), but there is no sign they went to Bethlehem. The Magi traveled far to find Jesus and worship him (verses 9–11). Knowing facts about Jesus matters, but God wants us to come to him and worship him.",
+    "Herod said worship words, but he was disturbed by the news (verse 3), met the Magi secretly (verse 7), and God warned them not to return to him (verse 12). He did not truly want to worship; the next verse in Matthew shows he wanted to harm the child (Matthew 2:13). People can say the right words without meaning them, but God sees what is really in the heart."
+   ],
+   "applicationCheck": "Ask her later in the week what treasure she chose to give to Jesus, like time, encouragement, or a gift, and how it went. Notice and thank her when you see her do it.",
+   "prayer": "Dear God, thank you for leading the wise men by a star to find Jesus. Thank you that Jesus is King for all nations, including our family. Help us worship him with our whole hearts and give him our best, like the wise men did. Make us overjoyed to know him. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w9-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "God led wise men from far away to come looking for Jesus, the one born king of the Jews, so they could worship him.",
+     "verse": "Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.",
+     "verseCite": "Matthew 2:2, NIV",
+     "enoch": "Point up high with a parent and say, \"Look! A star! Let's go find King Jesus!\"",
+     "elijah": "In verse 1, what city did the Magi come to first?",
+     "elijahAnswer": "Jerusalem (verse 1).",
+     "jordyn": "The Magi said they had \"come to worship him\" (verse 2). Why is it amazing that people from another land came all that way to worship a baby?",
+     "jordynAnswer": "They traveled a long way \"from the east\" (verse 1) to worship a child they had never seen. It shows Jesus is not just a king for one nation; God was already drawing people from far away to worship him (verse 2).",
+     "action": "Read verses 1–2 together. Then go outside or look out a window tonight and find a star. Talk about how God used a star to lead the Magi to Jesus.",
+     "prayer": "God, thank you for leading the wise men from far away to find Jesus. Thank you that Jesus is King for people from every land. Help us look for Jesus and want to worship him like they did. In Jesus' name, Amen.",
+     "passageCite": "Matthew 2:1–2, NIV",
+     "teach": "Last week shepherds from nearby hurried to see baby Jesus. Now Matthew tells us about visitors from far away. After Jesus was born in Bethlehem, during the time of King Herod, Magi came from the east to Jerusalem. Magi were wise men, and they asked, \"Where is the one who has been born king of the Jews?\" They had seen his star when it rose, and they had come to worship him. God used a star to lead them toward his Son.",
+     "enochActivity": "Cut out or draw a big yellow star. Hold it high and walk around the room saying, \"Follow the star to Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 2, why did the Magi say they had come?",
+     "elijahAnswer2": "\"To worship him\" (verse 2).",
+     "jordyn2": "The Magi called Jesus \"king of the Jews\" (verse 2), but Herod was already king there (verse 1). Why might that be a problem for Herod?",
+     "jordynAnswer2": "Herod wanted to be the only king. A new king born to rule would be a threat to his power (verses 1–2). Jesus is the true King God promised, and that is good news for anyone who welcomes him.",
+     "passageText": "1 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”"
+    },
+    {
+     "id": "w9-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "Long before Jesus was born, God told his prophet the exact town where the King would be born: Bethlehem.",
+     "verse": "But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.",
+     "verseCite": "Matthew 2:6, NIV",
+     "enoch": "Play \"Where was Jesus born?\" A parent asks, and Enoch shouts, \"Bethlehem!\" Say it fast, slow, loud, and in a whisper.",
+     "elijah": "Game: Find Bethlehem. Write \"Bethlehem\" on a piece of paper and hide it somewhere in the room. Everyone hunts for it, and whoever finds it reads verse 6. Then: where did the chief priests say the Messiah would be born (verse 5)?",
+     "elijahAnswer": "\"In Bethlehem in Judea\" (verse 5).",
+     "jordyn": "Herod \"was disturbed, and all Jerusalem with him\" (verse 3) when he heard a king had been born. Why would good news about God's King upset some people?",
+     "jordynAnswer": "Herod wanted to keep his own power, and a new king felt like a threat (verse 3). Jesus is good news, but he is also the King, and people who want to be in charge of their own lives can feel bothered by that.",
+     "action": "Play Find Bethlehem, then read verses 5–6 together. Talk about how God kept his promise down to the very town.",
+     "prayer": "God, thank you that you told your people long ago where the King would be born, and you kept your word exactly. Thank you that Jesus is the ruler who shepherds his people. Help us trust every promise in your Word. In Jesus' name, Amen.",
+     "passageCite": "Matthew 2:3–6, NIV",
+     "teach": "When King Herod heard that the Magi were looking for a newborn king, he was disturbed, and all Jerusalem with him. Herod called together the chief priests and teachers of the law and asked where the Messiah was to be born. They knew right away, because a prophet had written it down long before. The answer was Bethlehem in Judea. The prophet called Bethlehem a small place, but said that out of it would come a ruler who would shepherd God's people. Last week we saw shepherds come to Jesus, and here God says Jesus himself is the ruler who will shepherd his people.",
+     "enochActivity": "Be a little shepherd: gather stuffed animals into a group and say, \"Jesus takes care of us like a shepherd!\"",
+     "elijah2": "Find it in the passage: In verse 6, what will the ruler from Bethlehem do for God's people?",
+     "elijahAnswer2": "He \"will shepherd my people Israel\" (verse 6).",
+     "jordyn2": "Compare Matthew 2:6 with Micah 5:2. Micah says Bethlehem is \"small among the clans of Judah,\" but Matthew says it is \"by no means least.\" Why would a small town become so important?",
+     "jordynAnswer2": "Bethlehem was small (Micah 5:2), but the ruler God promised would come from there (Matthew 2:6). Jesus being born there made it great. God often uses small and humble things to do his biggest work, like a baby in a manger.",
+     "passageText": "3 When King Herod heard this he was disturbed, and all Jerusalem with him. 4 When he had called together all the people’s chief priests and teachers of the law, he asked them where the Messiah was to be born. 5 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written: 6 “‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.’”"
+    },
+    {
+     "id": "w9-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "God's star went ahead of the wise men and stopped over the place where Jesus was, and they were overjoyed.",
+     "verse": "When they saw the star, they were overjoyed.",
+     "verseCite": "Matthew 2:10, NIV",
+     "enoch": "Jump up and down with a parent and say, \"The star stopped! We found Jesus! Yay!\"",
+     "elijah": "In verse 9, what did the star do?",
+     "elijahAnswer": "It \"went ahead of them until it stopped over the place where the child was\" (verse 9).",
+     "jordyn": "Herod told the Magi to \"search carefully for the child\" and report back so he could worship too (verse 8). What do you notice about how Herod met with them in verse 7?",
+     "jordynAnswer": "He \"called the Magi secretly\" (verse 7). Doing it in secret is a clue that he was hiding his real plan. He was disturbed about a new king (verse 3), so his words about worship were not honest.",
+     "action": "Read verses 9–10 together. Then a parent moves a paper star slowly across the room while everyone follows, and when it stops, everyone cheers like the overjoyed Magi.",
+     "prayer": "God, thank you for leading the wise men all the way to Jesus. Lead our family to Jesus too, every day. Fill us with joy like theirs when we think about him. In Jesus' name, Amen.",
+     "passageCite": "Matthew 2:7–10, NIV",
+     "teach": "Herod called the Magi secretly and found out exactly when the star had appeared. He sent them to Bethlehem and said, \"Go and search carefully for the child,\" and asked them to report back so he could worship him too. But Herod did not really mean it. The Magi went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was. God himself was guiding them. When they saw the star, they were overjoyed. Finding Jesus is the happiest thing that can happen to anyone.",
+     "enochActivity": "Follow the star: a parent holds a flashlight beam on the floor and moves it slowly. Enoch follows it until it stops on a baby doll, then shouts, \"Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 10, how did the Magi feel when they saw the star?",
+     "elijahAnswer2": "They \"were overjoyed\" (verse 10).",
+     "jordyn2": "The star led the Magi all the way to Jesus (verse 9). What has God used to lead you closer to Jesus, and how could you help lead someone else to him?",
+     "jordynAnswer2": "God guided the Magi step by step (verse 9). Any real answer works, like the Bible, your parents, church, or a friend's example. You can help lead others by being kind, inviting them, or sharing what you know about Jesus.",
+     "passageText": "7 Then Herod called the Magi secretly and found out from them the exact time the star had appeared. 8 He sent them to Bethlehem and said, “Go and search carefully for the child. As soon as you find him, report to me, so that I too may go and worship him.” 9 After they had heard the king, they went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was. 10 When they saw the star, they were overjoyed."
+    },
+    {
+     "id": "w9-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "The wise men bowed down, worshiped Jesus, and gave him their treasures, and God protected them on the way home.",
+     "verse": "On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold, frankincense and myrrh.",
+     "verseCite": "Matthew 2:11, NIV",
+     "enoch": "Bow down with a parent and say, \"Jesus, you are my King!\"",
+     "elijah": "In verse 11, who did the Magi see in the house?",
+     "elijahAnswer": "\"The child with his mother Mary\" (verse 11).",
+     "jordyn": "The Magi \"bowed down and worshiped him\" first, and then they gave gifts (verse 11). Why do you think worship comes before the gifts?",
+     "jordynAnswer": "Gifts mean the most when they come from a heart that already honors Jesus as King. The Magi bowed and worshiped him first (verse 11), and their gifts showed what they believed about him. God wants our hearts, not just our stuff.",
+     "action": "Challenge: this week, each person gives one \"treasure\" to Jesus. Ideas: give some of your money to church or someone in need, give time to help without being asked, or give a toy to a child who needs it. Share at dinner what you gave.",
+     "prayer": "Jesus, you are our King. We bow down and worship you. Help us give you our best, our time, our money, and our hearts, gladly like the wise men did. Thank you for protecting your people and leading them home. In Jesus' name, Amen.",
+     "passageCite": "Matthew 2:11–12, NIV",
+     "teach": "The star led the Magi to the house, and they saw the child with his mother Mary. Right away they bowed down and worshiped him. Then they opened their treasures and gave him gifts of gold, frankincense, and myrrh. These were expensive gifts, the kind you would give a king. Then God warned them in a dream not to go back to Herod, so they went home to their own country by another route. Just like God spoke to Joseph in a dream, God spoke to the Magi to keep them and Jesus safe. Today our challenge is to give Jesus a treasure of our own.",
+     "enochActivity": "Wrap a small toy in paper or a cloth. Enoch carries it to a baby doll, bows down, and says, \"A gift for King Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 12, why didn't the Magi go back to Herod?",
+     "elijahAnswer2": "They had been \"warned in a dream not to go back to Herod\" (verse 12).",
+     "jordyn2": "The Magi \"opened their treasures\" for Jesus (verse 11). What is one treasure you have, like time, a talent, or money, that you could give to Jesus this week, and how?",
+     "jordynAnswer2": "Any honest answer works, like time reading the Bible, using volleyball to encourage a teammate, or giving money to help someone. Worship with gifts starts with bowing our hearts to Jesus (verse 11).",
+     "passageText": "11 On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold, frankincense and myrrh. 12 And having been warned in a dream not to go back to Herod, they returned to their country by another route."
+    },
+    {
+     "id": "w9-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "The wise men bowed before Jesus, and one day every knee will bow and every tongue will say that Jesus Christ is Lord.",
+     "verse": "that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father.",
+     "verseCite": "Philippians 2:10–11, NIV",
+     "enoch": "Kneel down with a parent and say, \"Jesus is Lord!\"",
+     "elijah": "In verse 10, what will every knee do at the name of Jesus?",
+     "elijahAnswer": "Every knee will bow (verse 10).",
+     "jordyn": "The Magi bowed to Jesus as a child (Matthew 2:11), and Philippians says one day every knee will bow (verse 10). What is the difference between choosing to bow to Jesus now and bowing later?",
+     "jordynAnswer": "One day everyone will acknowledge that Jesus Christ is Lord (verses 10–11). The Magi chose to worship him gladly now (Matthew 2:10–11). Bowing now is joyful worship from a heart that trusts him, and it is the best way to live.",
+     "action": "Prayer time: everyone kneels or bows their head. Each person says, \"Jesus, you are Lord,\" and thanks him for one thing. Then a parent closes in prayer.",
+     "prayer": "Lord Jesus, we bow before you like the wise men did. You have the name that is above every name. We say with our mouths and believe in our hearts that you are Lord, to the glory of God the Father. Help us worship you every day. In Jesus' name, Amen.",
+     "passageCite": "Philippians 2:9–11, NIV",
+     "teach": "Yesterday the Magi bowed down and worshiped the child Jesus. Today we read what Paul wrote many years later about Jesus. God exalted Jesus to the highest place and gave him the name that is above every name. One day, at the name of Jesus, every knee will bow, in heaven and on earth and under the earth, and every tongue will say that Jesus Christ is Lord, to the glory of God the Father. The Magi were some of the very first to bow to Jesus. Today we join them by bowing in prayer and telling Jesus that he is our Lord.",
+     "enochActivity": "Practice bowing: stand up tall, then kneel down low and say, \"Jesus is King! Jesus is Lord!\" Do it three times.",
+     "elijah2": "Find it in the passage: In verse 11, what will every tongue say about Jesus?",
+     "elijahAnswer2": "\"That Jesus Christ is Lord\" (verse 11).",
+     "jordyn2": "Verse 9 says God gave Jesus \"the name that is above every name.\" What does it mean for Jesus' name to be above every other name, and how should that change the way we use his name?",
+     "jordynAnswer2": "No one is greater than Jesus; his name is above every name (verse 9), and every knee will bow to him (verse 10). So we use his name with honor, in prayer and praise, and never carelessly or as a joke.",
+     "passageText": "9 Therefore God exalted him to the highest place and gave him the name that is above every name, 10 that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, 11 and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father."
+    },
+    {
+     "id": "w9-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God led the wise men by a star to Jesus, the King born in Bethlehem as promised, and they worshiped him and gave him their treasures.",
+     "verse": "Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.",
+     "verseCite": "Matthew 2:2, NIV",
+     "enoch": "Ask, \"What did the wise men follow?\" (A star!) \"What did they do when they found Jesus?\" (They bowed down and worshiped him!)",
+     "elijah": "Name two things the wise men did in this week's story.",
+     "elijahAnswer": "Any two: came from the east to Jerusalem (verse 1); asked where the king of the Jews was (verse 2); followed the star (verse 9); were overjoyed (verse 10); bowed down and worshiped Jesus (verse 11); gave gold, frankincense, and myrrh (verse 11); went home by another route (verse 12).",
+     "jordyn": "This week we read Matthew 2, Micah 5:2, and Philippians 2. What does the whole week show about who Jesus is?",
+     "jordynAnswer": "Jesus is the King of the Jews the Magi came to worship (Matthew 2:2), the ruler from Bethlehem God promised long ago (Micah 5:2; Matthew 2:6), and the Lord whose name is above every name, before whom every knee will bow (Philippians 2:9–11). He is worthy of our worship and our treasures (Matthew 2:11).",
+     "action": "Read verses 9–11 together, then each person shares one thing they learned about the wise men or about Jesus this week. Next lesson: The Holy Spirit, our Helper.",
+     "prayer": "Father, thank you for leading the wise men to Jesus and for keeping your promise about Bethlehem. Thank you that Jesus is King for all nations and Lord over everything. Help us seek him, worship him with joy, and give him our best. In Jesus' name, Amen.",
+     "passageCite": "Matthew 2:1–12, NIV",
+     "teach": "Today we look back at our week. After Jesus was born, Magi came from the east to Jerusalem asking where the newborn king of the Jews was, because they had seen his star and came to worship him. King Herod was disturbed, and the chief priests showed from the prophet that the ruler who would shepherd God's people would come from Bethlehem. The star went ahead of the Magi and stopped over the place where the child was, and they were overjoyed. They bowed down, worshiped Jesus, and gave him gold, frankincense, and myrrh. God warned them in a dream, and they went home another way. Next week we will learn about the Holy Spirit, our Helper.",
+     "enochActivity": "Act out the story: Enoch follows a paper star around the house, finds a baby doll, bows down, sets down a pretend gift, and says, \"I worship you, King Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 11, what three gifts did the Magi give Jesus?",
+     "elijahAnswer2": "Gold, frankincense, and myrrh (verse 11).",
+     "jordyn2": "The shepherds came from nearby (Luke 2:8–16), and the Magi came from far away (Matthew 2:1). What do the two visits together teach about who can come to Jesus?",
+     "jordynAnswer2": "Ordinary shepherds from close by and wise men from a far country both came to Jesus. The good news is \"for all the people\" (Luke 2:10), whether near or far, simple or important. Anyone can come to Jesus and worship him (Matthew 2:11).",
+     "passageText": "1 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.” 3 When King Herod heard this he was disturbed, and all Jerusalem with him. 4 When he had called together all the people’s chief priests and teachers of the law, he asked them where the Messiah was to be born. 5 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written: 6 “‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for out of you will come a ruler who will shepherd my people Israel.’” 7 Then Herod called the Magi secretly and found out from them the exact time the star had appeared. 8 He sent them to Bethlehem and said, “Go and search carefully for the child. As soon as you find him, report to me, so that I too may go and worship him.” 9 After they had heard the king, they went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was. 10 When they saw the star, they were overjoyed. 11 On coming to the house, they saw the child with his mother Mary, and they bowed down and worshiped him. Then they opened their treasures and presented him with gifts of gold, frankincense and myrrh. 12 And having been warned in a dream not to go back to Herod, they returned to their country by another route."
+    }
+   ],
+   "lessonVerses": [
+    "Matthew 2:1–6",
+    "Matthew 2:7–12",
+    "Micah 5:2",
+    "Philippians 2:9–11"
+   ]
   },
   {
    "id": "10",
@@ -1811,9 +2266,237 @@
    "planTitle": "The Holy Spirit, our Helper",
    "title": "The Holy Spirit, our Helper",
    "selectLabel": "Week 10 · The Holy Spirit, our Helper",
-   "ready": false,
+   "ready": true,
+   "passage": "John 14:15–18, 25–27; John 16:13 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 11 · What is sin?",
+   "bigIdea": "Before Jesus went back to the Father, he promised to send the Holy Spirit, the Advocate, to help his followers, live in them, teach them, remind them of his words, guide them into the truth, and give them his peace, so they would never be left alone.",
+   "scheduleNote": "This is the Week 10 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read John 14:15–18 and John 14:25–27 out loud, then read the short John 16:13 promise. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "John 14:15–18",
+     "text": "15 \"If you love me, keep my commands. 16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18 I will not leave you as orphans; I will come to you."
+    },
+    {
+     "kind": "scripture",
+     "cite": "John 14:25–27",
+     "text": "25 \"All this I have spoken while still with you. 26 But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. 27 Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+    },
+    {
+     "kind": "scripture",
+     "cite": "John 16:13",
+     "text": "13 But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come."
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week the wise men followed a star to find Jesus and worship him. Jesus grew up, taught people about God, and chose twelve disciples to follow him. On the night before he died on the cross, he ate a meal with his disciples and told them he would soon go back to the Father.",
+    "The disciples were sad and worried. How could they keep going without Jesus? So Jesus made them a promise: \"I will ask the Father, and he will give you another advocate to help you and be with you forever.\" An advocate is someone who stands beside you and helps you. This Helper is the Holy Spirit, whom Jesus calls \"the Spirit of truth.\"",
+    "Jesus said the Spirit \"lives with you and will be in you.\" He said, \"I will not leave you as orphans; I will come to you.\" An orphan is a child with no parents to care for him. Jesus did not want his friends to feel alone, so God himself, the Holy Spirit, would live in everyone who trusts Jesus.",
+    "Jesus told them what the Holy Spirit would do: he \"will teach you all things and will remind you of everything I have said to you.\" Later Jesus said the Spirit \"will guide you into all the truth.\" Then Jesus gave them a gift: \"Peace I leave with you; my peace I give you.\" He said, \"Do not let your hearts be troubled and do not be afraid.\"",
+    "We learned in Week 2 that there is one God in three persons: the Father, the Son, and the Holy Spirit. The Holy Spirit is not a force or a feeling; he is God, and he helps us know Jesus, understand his Word, obey him, and pray. Next week we will learn what sin is, and why we need God's help so much."
+   ],
+   "enochLine": "Jesus sent the Holy Spirit to help me! God is always with me!",
+   "enochActivities": [
+    "Activity: Helper game. A parent calls out small jobs, like picking up a toy or bringing a shoe, and Enoch is the helper. After each one, say together, \"The Holy Spirit is our Helper!\"",
+    "Never alone: a parent hides behind a chair or door, then pops out and says, \"I'm still here!\" Then hug Enoch and say together, \"Jesus never leaves me alone!\""
+   ],
+   "elijahQuestions": [
+    "In verse 16, who did Jesus say would give the disciples another advocate to help them?",
+    "How long did Jesus say the Helper would be with them (verse 16)?",
+    "In verse 26, what is the Advocate's name?",
+    "What two things did Jesus say the Holy Spirit would do in verse 26?"
+   ],
+   "jordynQuestions": [
+    "Jesus said, \"I will not leave you as orphans\" (verse 18). Why do you think Jesus picked the word orphans, and how does the Holy Spirit answer that fear?",
+    "Jesus said the Spirit \"lives with you and will be in you\" (verse 17). What is the difference between God helping us from far away and God living in us?",
+    "Jesus said, \"I do not give to you as the world gives\" (verse 27). How is the peace Jesus gives different from the kind of peace the world offers?"
+   ],
+   "jordynApplication": "Jesus promised that the Holy Spirit \"will teach you all things and will remind you of everything I have said to you\" (verse 26), and he said, \"Do not let your hearts be troubled and do not be afraid\" (verse 27). This week, before you read your Bible, ask the Holy Spirit to help you understand it. Then, when something makes you nervous, like a big test or a volleyball game, stop and pray, \"Holy Spirit, help me remember what Jesus said and give me his peace.\"",
+   "elijahAnswers": [
+    "The Father. Jesus said, \"I will ask the Father, and he will give you another advocate\" (verse 16).",
+    "\"Forever\" (verse 16).",
+    "\"The Holy Spirit\" (verse 26).",
+    "He \"will teach you all things\" and \"will remind you of everything I have said to you\" (verse 26)."
+   ],
+   "jordynAnswers": [
+    "An orphan has no parent to care for and protect him. The disciples were afraid of being left alone when Jesus went back to the Father. Jesus promised the Spirit would be with them \"forever\" (verse 16) and said, \"I will come to you\" (verse 18), so they would never be on their own.",
+    "Helping from far away is like getting advice from someone in another city. The Holy Spirit lives in everyone who trusts Jesus (verse 17), so God is with us all the time, everywhere we go, helping us from the inside.",
+    "The world's peace depends on things going well, like winning, having stuff, or everyone liking you, and it can disappear fast. Jesus gives his own peace (verse 27), which stays even when life is hard because it comes from knowing God is with us."
+   ],
+   "applicationCheck": "Ask her later in the week whether she prayed for the Holy Spirit's help before reading her Bible or before something that made her nervous, and what happened. Share a time the Holy Spirit helped you remember God's Word.",
+   "prayer": "Dear God, thank you for sending the Holy Spirit to help us and be with us forever. Thank you that you never leave us alone. Holy Spirit, teach us, remind us of Jesus' words, guide us into the truth, and fill our hearts with Jesus' peace. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w10-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "Jesus promised that the Father would send another Helper, the Holy Spirit, to be with his followers forever.",
+     "verse": "And I will ask the Father, and he will give you another advocate to help you and be with you forever—",
+     "verseCite": "John 14:16, NIV",
+     "enoch": "Hold a parent's hand and say, \"God gives me a Helper! He is with me forever!\"",
+     "elijah": "In verse 15, what did Jesus say people who love him will do?",
+     "elijahAnswer": "\"Keep my commands\" (verse 15).",
+     "jordyn": "Jesus said he would ask the Father to give \"another advocate\" (verse 16). Jesus had been helping the disciples for years. What does the word another tell you about the Holy Spirit?",
+     "jordynAnswer": "Another means one more like Jesus. Jesus had been with them teaching and helping, and now the Holy Spirit would help them in the same way (verse 16). The Spirit is not less than Jesus; he is God, and he would be with them \"forever\" (verse 16).",
+     "action": "Read verses 15–17 together. Then each person names one way someone helped them today, and thank God that the Holy Spirit is the best Helper of all.",
+     "prayer": "Father, thank you for giving us the Holy Spirit to help us and be with us forever. Help us love Jesus by keeping his commands. Thank you that we never have to do life alone. In Jesus' name, Amen.",
+     "passageCite": "John 14:15–17, NIV",
+     "teach": "On Sunday we learned that Jesus made a promise the night before he died. He said, \"If you love me, keep my commands.\" Then he said he would ask the Father to give them \"another advocate to help you and be with you forever.\" An advocate is someone who stands beside you to help, like a friend who speaks up for you. Jesus called him \"the Spirit of truth.\" The world cannot see him, but Jesus said, \"he lives with you and will be in you.\" God does not just watch us from far away; he comes to live in everyone who trusts Jesus.",
+     "enochActivity": "Stand side by side with a parent. The parent says, \"An advocate stands beside you to help!\" Then walk across the room together holding hands.",
+     "elijah2": "Find it in the passage: In verse 17, what does Jesus call the Holy Spirit?",
+     "elijahAnswer2": "\"The Spirit of truth\" (verse 17).",
+     "jordyn2": "Verse 17 says the world \"neither sees him nor knows him,\" but Jesus' followers know him. How can we know someone we cannot see?",
+     "jordynAnswer2": "We know the Holy Spirit because he \"lives with you and will be in you\" (verse 17). We see what he does, like helping us understand God's Word, changing our hearts, and helping us love and obey Jesus, the same way we see wind move the trees even though we cannot see the wind.",
+     "passageText": "15 “If you love me, keep my commands. 16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you."
+    },
+    {
+     "id": "w10-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "The Holy Spirit teaches us and reminds us of everything Jesus said.",
+     "verse": "But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you.",
+     "verseCite": "John 14:26, NIV",
+     "enoch": "Play \"Remind me!\" A parent says, \"Jesus loves...\" and Enoch finishes, \"me!\" Then say, \"The Holy Spirit reminds me Jesus loves me!\"",
+     "elijah": "Game: Remember it. A parent reads verse 26 slowly, then reads it again but stops before some words, and Elijah fills in the missing words. Then: who did Jesus say would send the Holy Spirit (verse 26)?",
+     "elijahAnswer": "\"The Father\" will send him in Jesus' name (verse 26).",
+     "jordyn": "Jesus said the Spirit would \"remind you of everything I have said to you\" (verse 26). Why would the disciples need help remembering Jesus' words after he went back to heaven?",
+     "jordynAnswer": "Jesus had taught them for years, and they would need to remember his words to tell others and to follow him without him being there in person. The Holy Spirit would bring Jesus' words back to their minds (verse 26). He does the same for us when we need to remember what God's Word says.",
+     "action": "Play Remember it with verse 26, then each person shares one thing Jesus said that they already remember, like \"Love your neighbor\" or \"I will come to you.\"",
+     "prayer": "Holy Spirit, thank you for being our teacher. Help us understand the Bible when we read it, and remind us of Jesus' words when we need them most. In Jesus' name, Amen.",
+     "passageCite": "John 14:25–26, NIV",
+     "teach": "Jesus told his disciples, \"All this I have spoken while still with you.\" He knew he would not be with them in the same way much longer. So he told them what the Holy Spirit would do. Jesus called him \"the Advocate,\" and said the Father would send him in Jesus' name. The Holy Spirit \"will teach you all things,\" Jesus said, \"and will remind you of everything I have said to you.\" That is why we can pray before we read the Bible and ask the Holy Spirit to help us understand it.",
+     "enochActivity": "Play a quick remembering game: a parent shows Enoch three toys, hides one, and Enoch tells which one is missing. Then say, \"The Holy Spirit helps me remember Jesus!\"",
+     "elijah2": "Find it in the passage: In verse 26, how many things will the Holy Spirit teach?",
+     "elijahAnswer2": "\"All things\" (verse 26).",
+     "jordyn2": "The Holy Spirit \"will teach you all things\" (verse 26). How does that change the way you might read the Bible, especially a part that is hard to understand?",
+     "jordynAnswer2": "We do not have to figure out God's Word on our own. We can ask the Holy Spirit to teach us (verse 26), keep reading, and ask parents or church leaders for help. Hard parts are a reason to pray and keep going, not to give up.",
+     "passageText": "25 “All this I have spoken while still with you. 26 But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you."
+    },
+    {
+     "id": "w10-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "Jesus gives his followers his own peace, so our hearts do not have to be troubled or afraid.",
+     "verse": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+     "verseCite": "John 14:27, NIV",
+     "enoch": "Take a slow, deep breath with a parent and say softly, \"Jesus gives me peace. I don't have to be afraid.\"",
+     "elijah": "In verse 27, what did Jesus say he leaves with us?",
+     "elijahAnswer": "\"Peace\" (verse 27).",
+     "jordyn": "Jesus said, \"Do not let your hearts be troubled\" (verse 27). The disciples were about to face very hard days. Why could Jesus tell them not to be afraid even then?",
+     "jordynAnswer": "Jesus was not promising that nothing hard would happen. He was promising his own peace (verse 27) and the Holy Spirit, who would be with them forever (verse 16). Their peace would come from God being with them, not from easy circumstances.",
+     "action": "Read verse 27 together. Each person names one thing that sometimes makes them worried, then pray together and hand each worry to Jesus.",
+     "prayer": "Jesus, thank you for giving us your peace. When we feel troubled or afraid, help us remember that you are with us. Holy Spirit, calm our hearts and help us trust you. In Jesus' name, Amen.",
+     "passageCite": "John 14:27, NIV",
+     "teach": "The disciples were sad and worried because Jesus said he was leaving. So Jesus gave them a gift before he went. He said, \"Peace I leave with you; my peace I give you.\" This is Jesus' own peace, a calm, safe feeling that comes from knowing God is with us. Jesus said, \"I do not give to you as the world gives.\" The world's peace can disappear when things go wrong, but Jesus' peace stays. That is why he could say, \"Do not let your hearts be troubled and do not be afraid.\"",
+     "enochActivity": "Pretend to be in a boat on a stormy sea, rocking back and forth. When a parent says, \"Jesus gives peace!\" everyone stops and sits very still and calm.",
+     "elijah2": "Find it in the passage: In verse 27, what two things does Jesus tell us not to let happen?",
+     "elijahAnswer2": "\"Do not let your hearts be troubled and do not be afraid\" (verse 27).",
+     "jordyn2": "Jesus said his peace is not given \"as the world gives\" (verse 27). Think of something that makes you anxious. Where do people usually look for peace in that situation, and how is Jesus' peace better?",
+     "jordynAnswer2": "Any honest answer works. People often look for peace in being good enough, being liked, or having control. Those can be lost. Jesus' peace (verse 27) comes from him and the Holy Spirit with us forever (verse 16), so it does not depend on how the day goes.",
+     "passageText": "27 Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid."
+    },
+    {
+     "id": "w10-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "The Holy Spirit is the Spirit of truth, and he guides Jesus' followers into all the truth.",
+     "verse": "But when he, the Spirit of truth, comes, he will guide you into all the truth.",
+     "verseCite": "John 16:13, NIV",
+     "enoch": "Play \"True or not true?\" A parent says, \"God made the sun\" (True!) and \"Dogs can fly\" (Not true!). Then say, \"The Holy Spirit helps me know what's true!\"",
+     "elijah": "In John 16:13, where does the Spirit of truth guide us?",
+     "elijahAnswer": "\"Into all the truth\" (John 16:13).",
+     "jordyn": "The verse says the Spirit \"will not speak on his own; he will speak only what he hears\" (John 16:13). What does that tell you about how the Holy Spirit and Jesus' words fit together?",
+     "jordynAnswer": "The Holy Spirit never says something different from what God says. He speaks what he hears (John 16:13) and reminds us of everything Jesus said (John 14:26). So if a thought or idea goes against Jesus' words in the Bible, it is not from the Holy Spirit.",
+     "action": "Truth challenge: today, everyone tries to tell the truth all day, even when it is hard, like admitting a mistake. At dinner, share one time you chose the truth.",
+     "prayer": "Holy Spirit, you are the Spirit of truth. Guide us into all the truth and help us love what is true. Give us courage to tell the truth even when it is hard. In Jesus' name, Amen.",
+     "passageCite": "John 16:13, NIV",
+     "teach": "On the same night Jesus promised the Helper, he said more about him. Jesus said, \"But when he, the Spirit of truth, comes, he will guide you into all the truth.\" A guide leads you on the right path so you don't get lost, like the star that went ahead of the wise men. Jesus said the Spirit \"will not speak on his own; he will speak only what he hears.\" That means the Holy Spirit always agrees with the Father and the Son. He leads us to the truth about God, about Jesus, and about how to live.",
+     "enochActivity": "Follow the guide: a parent leads Enoch around the room on a winding path. Enoch follows exactly, then says, \"The Holy Spirit guides me!\"",
+     "elijah2": "Find it in the passage: In John 16:13, what will the Spirit tell us about?",
+     "elijahAnswer2": "\"What is yet to come\" (John 16:13).",
+     "jordyn2": "The Spirit guides us \"into all the truth\" (John 16:13). Where are some places you hear ideas about right and wrong, like friends, shows, or social media? How can you check what you hear?",
+     "jordynAnswer2": "Ideas come from many places. We can check them against God's Word and ask the Spirit of truth to guide us (John 16:13). If something disagrees with what Jesus said, we can know it is not true, even if lots of people believe it.",
+     "passageText": "13 But when he, the Spirit of truth, comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come."
+    },
+    {
+     "id": "w10-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "When we don't know what to pray, the Holy Spirit helps us in our weakness and prays for us.",
+     "verse": "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.",
+     "verseCite": "Romans 8:26, NIV",
+     "enoch": "Fold hands with a parent and say, \"Holy Spirit, help me pray!\" Then say one thing Enoch is thankful for.",
+     "elijah": "In Romans 8:26, who helps us in our weakness?",
+     "elijahAnswer": "\"The Spirit\" (Romans 8:26).",
+     "jordyn": "Verse 26 admits, \"We do not know what we ought to pray for.\" Why is it good news that the Spirit helps us even when our prayers are messy or we can't find the words?",
+     "jordynAnswer": "Prayer does not depend on having perfect words. When we are weak or confused, \"the Spirit himself intercedes for us\" (verse 26), and he prays \"in accordance with the will of God\" (verse 27). So we can always come to God, even with just a sigh or a few words.",
+     "action": "Prayer circle: everyone takes a turn praying one short sentence. If someone can't think of words, they can simply say, \"Holy Spirit, help me,\" and that counts.",
+     "prayer": "Holy Spirit, thank you for helping us in our weakness. When we don't know what to pray, pray for us and lead us in God's will. Thank you that we can always come to the Father. In Jesus' name, Amen.",
+     "passageCite": "Romans 8:26–27, NIV",
+     "teach": "This week we learned that the Holy Spirit is our Helper. Today we see one special way he helps: with prayer. Paul wrote, \"the Spirit helps us in our weakness. We do not know what we ought to pray for.\" Sometimes we are sad, confused, or tired, and we don't know what to say to God. But \"the Spirit himself intercedes for us,\" which means he prays to the Father for us. Verse 27 says God searches our hearts and the Spirit prays for us in a way that matches God's will. We never have to be afraid that our prayers are not good enough.",
+     "enochActivity": "Thank-you prayer: Enoch points to three things in the room, and for each one he says, \"Thank you, God, for my ___!\"",
+     "elijah2": "Find it in the passage: In verse 27, who does the Spirit pray for?",
+     "elijahAnswer2": "\"God's people\" (verse 27).",
+     "jordyn2": "Verse 27 says God \"searches our hearts.\" How does it help to know God already sees your heart when you pray?",
+     "jordynAnswer2": "We don't have to pretend or use fancy words, because God already knows what is in our hearts (verse 27). We can be honest with him about how we really feel, and the Spirit helps us pray in line with God's will (verse 27).",
+     "passageText": "26 In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. 27 And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God."
+    },
+    {
+     "id": "w10-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: Jesus sent the Holy Spirit, our Helper, to live in his followers, teach them, remind them of his words, guide them into truth, give them peace, and help them pray.",
+     "verse": "I will not leave you as orphans; I will come to you.",
+     "verseCite": "John 14:18, NIV",
+     "enoch": "Ask, \"Who did Jesus send to help us?\" (The Holy Spirit!) \"Does God ever leave us alone?\" (No! He is with us forever!)",
+     "elijah": "Name two things the Holy Spirit does that we learned about this week.",
+     "elijahAnswer": "Any two: helps us and is with us forever (John 14:16); lives with us and in us (John 14:17); teaches us all things (John 14:26); reminds us of everything Jesus said (John 14:26); guides us into all the truth (John 16:13); helps us in our weakness and prays for us (Romans 8:26).",
+     "jordyn": "This week we read John 14, John 16, and Romans 8. What does the whole week show about who the Holy Spirit is?",
+     "jordynAnswer": "The Holy Spirit is God, sent by the Father in Jesus' name (John 14:26). He is a person who helps, teaches, reminds, guides, and prays, not just a force (John 14:16–17, 26; John 16:13; Romans 8:26). He lives in everyone who trusts Jesus, so we are never left alone (John 14:18).",
+     "action": "Read verses 15–18 together, then each person shares one thing they learned about the Holy Spirit this week. Next lesson: What is sin?",
+     "prayer": "Father, thank you for sending the Holy Spirit to be our Helper. Thank you that Jesus did not leave us as orphans. Holy Spirit, teach us, guide us, give us peace, and help us pray and obey Jesus every day. In Jesus' name, Amen.",
+     "passageCite": "John 14:15–18, NIV",
+     "teach": "Today we look back at our week. The night before he died, Jesus promised that the Father would give his followers another advocate, the Holy Spirit, to help them and be with them forever. Jesus said, \"I will not leave you as orphans; I will come to you.\" The Holy Spirit lives in everyone who trusts Jesus. He teaches us, reminds us of what Jesus said, and guides us into all the truth. Jesus also gave his peace, so our hearts do not have to be troubled. And when we don't know what to pray, the Spirit helps us in our weakness. Next week we will learn what sin is.",
+     "enochActivity": "Act out the week: Enoch holds a parent's hand (the Helper with me), pretends to read a Bible (he teaches me), follows a parent's path (he guides me), and takes a deep breath (he gives me peace).",
+     "elijah2": "Find it in the passage: In verse 18, what did Jesus promise he would not do?",
+     "elijahAnswer2": "\"I will not leave you as orphans\" (verse 18).",
+     "jordyn2": "Next week we will learn about sin. Why might it matter that God gives us the Holy Spirit to help us obey, instead of leaving us to try on our own?",
+     "jordynAnswer2": "Jesus connected loving him with keeping his commands (John 14:15), and then promised a Helper (John 14:16). We cannot obey God perfectly by our own strength. The Holy Spirit lives in us to help us say no to wrong and yes to what pleases God.",
+     "passageText": "15 “If you love me, keep my commands. 16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18 I will not leave you as orphans; I will come to you."
+    }
+   ],
+   "lessonVerses": [
+    "John 14:15–18",
+    "John 14:25–27",
+    "John 16:13",
+    "Romans 8:26–27"
+   ]
   },
   {
    "id": "11",
@@ -1821,9 +2504,238 @@
    "planTitle": "What is sin?",
    "title": "What is sin?",
    "selectLabel": "Week 11 · What is sin?",
-   "ready": false,
+   "ready": true,
+   "passage": "Genesis 3:1–13; Romans 3:23 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 12 · What counts as sin? Heart, words and actions (Ten Commandments)",
+   "bigIdea": "Sin is choosing our own way instead of God's way. Adam and Eve listened to the serpent's lie instead of God's good word, and sin brought shame, hiding, and blame into the world. Everyone has sinned, but God still came looking for them, and he comes looking for us too.",
+   "scheduleNote": "This is the Week 11 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Genesis 3:1–13 out loud in two parts, then read the short Romans 3:23 verse. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Genesis 3:1–6",
+     "text": "1 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, \"Did God really say, 'You must not eat from any tree in the garden'?\" 2 The woman said to the serpent, \"We may eat fruit from the trees in the garden, 3 but God did say, 'You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.'\" 4 \"You will not certainly die,\" the serpent said to the woman. 5 \"For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.\" 6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Genesis 3:7–13",
+     "text": "7 Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves. 8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. 9 But the Lord God called to the man, \"Where are you?\" 10 He answered, \"I heard you in the garden, and I was afraid because I was naked; so I hid.\" 11 And he said, \"Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?\" 12 The man said, \"The woman you put here with me—she gave me some fruit from the tree, and I ate it.\" 13 Then the Lord God said to the woman, \"What is this you have done?\" The woman said, \"The serpent deceived me, and I ate.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Romans 3:23",
+     "text": "23 for all have sinned and fall short of the glory of God,"
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that Jesus sent the Holy Spirit to help us obey God. This week we go all the way back to the beginning to learn why we need so much help. In Week 1 we read that God made a very good world and put the first man and woman, Adam and Eve, in a beautiful garden. God gave them every good tree for food, and only one rule: do not eat from one tree in the middle of the garden.",
+    "One day a crafty serpent came to the woman and asked, \"Did God really say, 'You must not eat from any tree in the garden'?\" He twisted God's words. Then he told a lie: \"You will not certainly die.\" He said that if they ate the fruit they would be like God. He wanted them to think God was keeping something good from them.",
+    "The woman looked at the fruit. It looked good to eat, pretty to look at, and she wanted the wisdom she thought it would give. She took some and ate it, and gave some to her husband, and he ate it too. That was the first sin. Sin is choosing our own way instead of God's way, not trusting and obeying what God says.",
+    "Right away things changed. They felt ashamed and tried to cover themselves with fig leaves. When they heard God walking in the garden, they hid from him. Then, when God asked what happened, the man blamed the woman, and the woman blamed the serpent. Sin brought shame, hiding, and blaming into God's good world.",
+    "But look at what God did: he came to the garden and called, \"Where are you?\" God already knew where they were. He came looking for them because he still loved them. The Bible says, \"all have sinned and fall short of the glory of God.\" That means every one of us, kids and grown-ups. Next week we will learn what counts as sin, in our hearts, our words, and our actions."
+   ],
+   "enochLine": "Sin is not doing what God says. God still loves me and comes to find me!",
+   "enochActivities": [
+    "Activity: Hide and seek. Enoch hides, and a parent walks around calling, \"Where are you?\" When the parent finds him, give a big hug and say, \"God came looking for Adam and Eve because he loved them!\"",
+    "God's way or my way: a parent says simple choices, like \"sharing a toy\" or \"hitting my brother.\" Enoch gives a thumbs up for God's way and a thumbs down for not God's way."
+   ],
+   "elijahQuestions": [
+    "In verse 1, how does the Bible describe the serpent?",
+    "What did the serpent tell the woman in verse 4?",
+    "What did the man and his wife do when they heard God walking in the garden (verse 8)?",
+    "What question did God call out to the man in verse 9?"
+   ],
+   "jordynQuestions": [
+    "The serpent started with a question: \"Did God really say...?\" (verse 1). Why is doubting God's word the first step toward disobeying it?",
+    "In verse 6 the fruit was \"good for food,\" \"pleasing to the eye,\" and \"desirable for gaining wisdom.\" Why do wrong choices often look good at first?",
+    "In verses 12–13, the man blamed the woman, and the woman blamed the serpent. Why is it so hard to admit our own sin, and what does blaming others do to relationships?"
+   ],
+   "jordynApplication": "Adam and Eve hid from God and blamed others instead of owning what they did (verses 8–13). This week, when you mess up, at home, at school, or on the court, practice doing the opposite: don't hide it or blame someone else. Say, \"I was wrong,\" tell God, and ask forgiveness from anyone you hurt. Remember that God came looking for Adam and Eve (verse 9); he wants us to come back to him, not run away.",
+   "elijahAnswers": [
+    "\"More crafty than any of the wild animals the Lord God had made\" (verse 1).",
+    "\"You will not certainly die\" (verse 4).",
+    "\"They hid from the Lord God among the trees of the garden\" (verse 8).",
+    "\"Where are you?\" (verse 9)."
+   ],
+   "jordynAnswers": [
+    "If we start thinking God didn't really mean what he said, or that his rules aren't good, it becomes easy to ignore them. The serpent twisted God's words (verse 1), then flatly contradicted them (verse 4). Sin starts when we trust another voice more than God's.",
+    "Sin usually promises something we want, like fun, being liked, or getting ahead (verse 6). It looks good on the outside, but it hides the harm. God's commands protect us, even when the other choice looks better in the moment.",
+    "Admitting sin feels embarrassing, so we want to protect ourselves by pointing at someone else (verses 12–13). Blaming hurts people and pulls us apart. Owning our sin and confessing it is the way back to God and to each other."
+   ],
+   "applicationCheck": "Ask her later in the week about a time she owned a mistake instead of hiding it or blaming someone, and how it went. Tell her about a time you had to say \"I was wrong\" too.",
+   "prayer": "Dear God, thank you for making a good world and giving us good commands. We confess that we have all sinned and chosen our own way. Thank you that you came looking for Adam and Eve, and that you come looking for us too. Help us trust your word, own our sin, and run to you instead of hiding. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w11-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "Sin started when Adam and Eve listened to the serpent's lie instead of trusting what God said.",
+     "verse": "Now the serpent was more crafty than any of the wild animals the Lord God had made.",
+     "verseCite": "Genesis 3:1, NIV",
+     "enoch": "Say with a parent, \"God always tells the truth! I will listen to God!\"",
+     "elijah": "In verse 3, what did God say would happen if they ate from the tree in the middle of the garden?",
+     "elijahAnswer": "\"You will die\" (verse 3).",
+     "jordyn": "In verse 5 the serpent said, \"God knows that when you eat from it your eyes will be opened, and you will be like God.\" What was the serpent trying to make the woman believe about God?",
+     "jordynAnswer": "He wanted her to believe God was holding back something good and could not be trusted (verse 5). That is a lie. God had given them every other tree (verse 2), and his one rule was for their good.",
+     "action": "Read verses 1–5 together. Then play \"Truth or lie\": a parent says a few sentences about God, like \"God made the world\" or \"God doesn't care about us,\" and everyone calls out which is true.",
+     "prayer": "God, thank you that you always tell the truth and your commands are good. Help us listen to your word and not to lies. Help us trust you even when someone says your way is not best. In Jesus' name, Amen.",
+     "passageCite": "Genesis 3:1–5, NIV",
+     "teach": "God had made Adam and Eve and given them a beautiful garden full of trees to enjoy. He gave them just one rule: don't eat from the tree in the middle of the garden. Then the serpent came. It was crafty, which means sneaky and tricky. First it asked a question that twisted God's words: \"Did God really say, 'You must not eat from any tree in the garden'?\" Then it told a lie: \"You will not certainly die.\" The serpent wanted the woman to doubt that God is good. Every sin starts with not trusting what God says.",
+     "enochActivity": "Point to things in the room and say if God made them good: \"Trees? Good! Animals? Good! People? Good!\" Then say, \"God is good, and God tells the truth!\"",
+     "elijah2": "Find it in the passage: In verse 2, what did the woman say they were allowed to eat?",
+     "elijahAnswer2": "\"Fruit from the trees in the garden\" (verse 2).",
+     "jordyn2": "Compare what God allowed with what the serpent said in verse 1. How did the serpent make God's one rule sound bigger than it was?",
+     "jordynAnswer2": "The serpent asked if God said not to eat from \"any tree\" (verse 1), but God had only forbidden one tree (verse 3). He made God sound strict and stingy. When we focus on the one thing God says no to, we can forget all the good he has given us.",
+     "passageText": "1 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?” 2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’” 4 “You will not certainly die,” the serpent said to the woman. 5 “For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.”"
+    },
+    {
+     "id": "w11-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "The fruit looked good, but choosing it meant disobeying God, and sin brought shame right away.",
+     "verse": "When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it.",
+     "verseCite": "Genesis 3:6, NIV",
+     "enoch": "Play \"Stop or go?\" A parent names a choice, like \"Mom says don't touch the stove.\" Enoch holds up a hand and says, \"Stop! I'll obey!\"",
+     "elijah": "Game: Looks good, but... A parent holds up something that looks nice but is not for eating, like a toy apple or a bar of soap. Everyone says why it would be a bad choice to eat it. Then: who did the woman give some of the fruit to (verse 6)?",
+     "elijahAnswer": "\"Her husband, who was with her\" (verse 6).",
+     "jordyn": "Verse 6 says the fruit was \"desirable for gaining wisdom.\" God is the source of true wisdom. Why is trying to get wisdom by disobeying God a bad trade?",
+     "jordynAnswer": "They wanted to be wise and \"like God\" (verse 5) on their own terms instead of trusting God. But real wisdom comes from listening to God. The result was not wisdom but shame (verse 7). Disobeying never gets us what sin promises.",
+     "action": "Play Looks good, but..., then read verses 6–7 together. Talk about a time something looked fun or good but was not the right choice.",
+     "prayer": "God, sometimes wrong choices look good to us. Help us see what is really true and choose your way, even when another way looks better. Thank you that your commands are for our good. In Jesus' name, Amen.",
+     "passageCite": "Genesis 3:6–7, NIV",
+     "teach": "After listening to the serpent, the woman looked at the fruit. It seemed good for food, it was pleasing to the eye, and she thought it would make her wise. So she took some and ate it. She gave some to her husband, who was with her, and he ate it too. That was the first sin. Then their eyes were opened, but not in a good way. They felt ashamed and tried to cover themselves with fig leaves. Sin promised something good, but it brought shame instead.",
+     "enochActivity": "Make a pretend fig leaf by tracing Enoch's hand on green paper. Say, \"Adam and Eve felt bad after they disobeyed. God wants us to obey him.\"",
+     "elijah2": "Find it in the passage: In verse 7, what did they sew together to make coverings?",
+     "elijahAnswer2": "\"Fig leaves\" (verse 7).",
+     "jordyn2": "Adam was \"with her\" (verse 6) when she ate, and he ate too. What does that teach about going along with someone else's wrong choice?",
+     "jordynAnswer2": "Adam was there and could have spoken up, but he went along (verse 6). Following someone else into sin still makes it our own sin. Being a good friend sometimes means saying no and helping others choose God's way.",
+     "passageText": "6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. 7 Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves."
+    },
+    {
+     "id": "w11-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "Sin makes us want to hide from God and blame others, but God still comes looking for us.",
+     "verse": "Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden.",
+     "verseCite": "Genesis 3:8, NIV",
+     "enoch": "Play peekaboo with a parent. Then say, \"I can't hide from God, and God loves me!\"",
+     "elijah": "In verse 10, why did the man say he hid?",
+     "elijahAnswer": "\"I was afraid\" (verse 10).",
+     "jordyn": "God asked, \"Where are you?\" (verse 9) and \"Have you eaten from the tree that I commanded you not to eat from?\" (verse 11). God already knew the answers. Why do you think he asked?",
+     "jordynAnswer": "God was giving them a chance to come out, tell the truth, and own what they had done. His questions were an invitation, not because he didn't know (verses 9–11). God still asks us to come to him honestly.",
+     "action": "Read verses 8–13 together. Then talk about this: when we do something wrong, what do we want to do, hide it or tell the truth? Which way does God want?",
+     "prayer": "God, thank you that you came looking for Adam and Eve even after they sinned. When we do wrong, help us not to hide or blame others, but to come to you and tell the truth. In Jesus' name, Amen.",
+     "passageCite": "Genesis 3:8–13, NIV",
+     "teach": "After they sinned, the man and his wife heard God walking in the garden in the cool of the day. Before, they would have been happy to see him, but now they hid among the trees. God called to the man, \"Where are you?\" The man said he was afraid, so he hid. When God asked if he had eaten from the tree, the man blamed the woman, and even blamed God for putting her there. The woman blamed the serpent. Sin made them afraid, made them hide, and made them blame. But God came looking for them anyway.",
+     "enochActivity": "Hide a stuffed animal under a blanket. A parent says, \"Where are you?\" and Enoch finds it and gives it a hug, saying, \"God comes to find us!\"",
+     "elijah2": "Find it in the passage: In verse 13, who did the woman say deceived her?",
+     "elijahAnswer2": "\"The serpent\" (verse 13).",
+     "jordyn2": "The man said, \"The woman you put here with me\" (verse 12). Who was he blaming besides the woman, and what does that show about how sin twists our thinking?",
+     "jordynAnswer2": "He was blaming God too, since God had put her there (verse 12). Sin makes us look for anyone to blame except ourselves, even God. Honesty starts with admitting, \"I did it.\"",
+     "passageText": "8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. 9 But the Lord God called to the man, “Where are you?” 10 He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.” 11 And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?” 12 The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.” 13 Then the Lord God said to the woman, “What is this you have done?” The woman said, “The serpent deceived me, and I ate.”"
+    },
+    {
+     "id": "w11-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "Everyone sins, so instead of hiding it, we confess it to God, and he is faithful to forgive.",
+     "verse": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+     "verseCite": "1 John 1:9, NIV",
+     "enoch": "Practice saying, \"I'm sorry, God. Please forgive me.\" Then hug and say, \"God forgives!\"",
+     "elijah": "In verse 9, what will God do if we confess our sins?",
+     "elijahAnswer": "He \"will forgive us our sins and purify us from all unrighteousness\" (verse 9).",
+     "jordyn": "Verse 8 says, \"If we claim to be without sin, we deceive ourselves.\" How is that like Adam and Eve hiding and blaming in Genesis 3?",
+     "jordynAnswer": "Adam and Eve hid and blamed instead of admitting what they did (Genesis 3:8–13). Pretending we have no sin is a way of hiding too, and verse 8 says we fool ourselves. The way out is to confess (verse 9).",
+     "action": "Confess and forgive challenge: today, if you do something wrong, say it plainly, \"I did ___, and I'm sorry,\" to God and to the person you hurt. Parents go first and model it.",
+     "prayer": "Father, we confess that we have sinned. Thank you that you are faithful and just to forgive us when we come to you. Wash our hearts clean and help us be quick to say sorry. In Jesus' name, Amen.",
+     "passageCite": "1 John 1:8–9, NIV",
+     "teach": "On Sunday we read that \"all have sinned and fall short of the glory of God.\" That means every person, not just Adam and Eve. John wrote that if we say we have no sin, we are only fooling ourselves. But here is the good news: \"If we confess our sins, he is faithful and just and will forgive us.\" To confess means to tell God the truth about what we did, without hiding or blaming. Adam and Eve hid, but God wants us to come to him. In two weeks we will learn how Jesus made this forgiveness possible.",
+     "enochActivity": "Wash hands together with soap. While washing, say, \"When I say sorry to God, he makes my heart clean!\"",
+     "elijah2": "Find it in the passage: In verse 9, what two words describe God?",
+     "elijahAnswer2": "\"Faithful and just\" (verse 9).",
+     "jordyn2": "Confessing is hard because it feels embarrassing. What makes it easier to know that God is \"faithful\" (verse 9)?",
+     "jordynAnswer2": "Faithful means God always keeps his promise. If we confess, he will forgive (verse 9), every time. We don't have to wonder whether he will turn us away, so we can be honest with him.",
+     "passageText": "8 If we claim to be without sin, we deceive ourselves and the truth is not in us. 9 If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
+    },
+    {
+     "id": "w11-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "When we sin, we can pray like King David and ask God for mercy and a clean, new heart.",
+     "verse": "Create in me a pure heart, O God, and renew a steadfast spirit within me.",
+     "verseCite": "Psalm 51:10, NIV",
+     "enoch": "Put a hand on your heart with a parent and pray, \"God, make my heart clean!\"",
+     "elijah": "In verse 1, what does David ask God to have on him?",
+     "elijahAnswer": "\"Mercy\" (verse 1).",
+     "jordyn": "David asks God to act \"according to your unfailing love\" (verse 1), not according to how good David had been. Why is that the right way to ask God for forgiveness?",
+     "jordynAnswer": "David knew he did not deserve forgiveness. He leaned on God's \"unfailing love\" and \"great compassion\" (verse 1). We come to God the same way, trusting his love, not our own goodness.",
+     "action": "Pray Psalm 51:10 together as a family, then give each person a quiet moment to tell God anything they need to confess.",
+     "prayer": "God, have mercy on us according to your unfailing love. Wash away our sin and create in us a pure heart. Renew a steadfast spirit within us so we can follow you. In Jesus' name, Amen.",
+     "passageCite": "Psalm 51:1–2, 10, NIV",
+     "teach": "King David loved God, but one time he sinned very badly. When he realized what he had done, he did not hide like Adam and Eve. He prayed this psalm. He asked God to have mercy on him because of God's unfailing love. He asked God to wash away his sin and make him clean. Then he prayed, \"Create in me a pure heart, O God.\" David knew the problem was not just what he did, but his heart. Only God can make a heart new.",
+     "enochActivity": "Draw a heart on paper with a crayon, then a parent covers it with a clean white paper and says, \"God gives us a clean heart!\"",
+     "elijah2": "Find it in the passage: In verse 10, what kind of heart does David ask God to create in him?",
+     "elijahAnswer2": "\"A pure heart\" (verse 10).",
+     "jordyn2": "David asked God to \"create\" a pure heart (verse 10), the same word idea we saw when God created the world in Week 1. Why do we need God to create something new in us instead of just trying harder?",
+     "jordynAnswer2": "Sin is a heart problem, not just a behavior problem. Trying harder can change some actions, but only God can make a heart pure (verse 10). That is why David asks God to do it, and why we need God's help too.",
+     "passageText": "1 Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. 2 Wash away all my iniquity and cleanse me from my sin. 10 Create in me a pure heart, O God, and renew a steadfast spirit within me."
+    },
+    {
+     "id": "w11-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: Sin is choosing our own way instead of God's way. Everyone has sinned, but God comes looking for us and forgives when we confess.",
+     "verse": "for all have sinned and fall short of the glory of God,",
+     "verseCite": "Romans 3:23, NIV",
+     "enoch": "Ask, \"What is sin?\" (Not doing what God says!) \"Does God still love us?\" (Yes! He comes to find us!)",
+     "elijah": "Name two things that happened after Adam and Eve sinned.",
+     "elijahAnswer": "Any two: their eyes were opened and they made coverings of fig leaves (Genesis 3:7); they hid from God (verse 8); the man was afraid (verse 10); the man blamed the woman (verse 12); the woman blamed the serpent (verse 13).",
+     "jordyn": "This week we read Genesis 3, Romans 3:23, 1 John 1, and Psalm 51. What does the whole week show about sin and about God?",
+     "jordynAnswer": "Sin starts with doubting God's word and choosing our own way (Genesis 3:1–6). It brings shame, hiding, and blame (Genesis 3:7–13), and everyone has sinned (Romans 3:23). But God came looking for sinners (Genesis 3:9), forgives those who confess (1 John 1:9), and can create a pure heart (Psalm 51:10).",
+     "action": "Read verses 8–9 together, then each person shares one thing they learned about sin or about God's love this week. Next lesson: What counts as sin? Heart, words and actions (Ten Commandments).",
+     "prayer": "Father, we have all sinned and fallen short of your glory. Thank you that you still come looking for us and forgive us when we confess. Create in us pure hearts and help us trust and obey your good word. In Jesus' name, Amen.",
+     "passageCite": "Genesis 3:1–13, NIV",
+     "teach": "Today we look back at our week. God gave Adam and Eve a good garden and one good rule. The crafty serpent twisted God's words and lied, saying they would not die. The woman saw that the fruit looked good, ate it, and gave some to her husband, and he ate too. Right away they felt ashamed, hid from God, and blamed each other. But God came calling, \"Where are you?\" The Bible says all have sinned, but if we confess our sins, God is faithful to forgive. Next week we will learn what counts as sin in our hearts, words, and actions.",
+     "enochActivity": "Act out the story: Enoch walks in a pretend garden, hides behind a chair when a parent calls, \"Where are you?\" then comes out, says, \"I'm sorry,\" and gets a big hug.",
+     "elijah2": "Find it in the passage: In verse 9, who called to the man?",
+     "elijahAnswer2": "\"The Lord God\" (verse 9).",
+     "jordyn2": "Next week we will look at the Ten Commandments. If sin means choosing our own way instead of God's, why would God give his people clear commands?",
+     "jordynAnswer2": "God's commands show us his good way and help us see where we have gone wrong. Adam and Eve had a clear command and still doubted it (Genesis 3:1–6), so we need God's word to know the truth and his help to obey it.",
+     "passageText": "1 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?” 2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’” 4 “You will not certainly die,” the serpent said to the woman. 5 “For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.” 6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. 7 Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves. 8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. 9 But the Lord God called to the man, “Where are you?” 10 He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.” 11 And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?” 12 The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.” 13 Then the Lord God said to the woman, “What is this you have done?” The woman said, “The serpent deceived me, and I ate.”"
+    }
+   ],
+   "lessonVerses": [
+    "Genesis 3:1–6",
+    "Genesis 3:7–13",
+    "Romans 3:23",
+    "Psalm 51:1–2, 10",
+    "1 John 1:8–9"
+   ]
   },
   {
    "id": "12",
@@ -1831,9 +2743,239 @@
    "planTitle": "What counts as sin? Heart, words and actions (Ten Commandments)",
    "title": "What counts as sin? Heart, words and actions (Ten Commandments)",
    "selectLabel": "Week 12 · What counts as sin? Heart, words and actions (Ten Commandments)",
-   "ready": false,
+   "ready": true,
+   "passage": "Exodus 20:1–17; Matthew 22:36–40 (NIV)",
    "time": "About 15–20 minutes",
-   "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+   "nextUp": "Week 13 · Grace: Jesus paid for our sin",
+   "bigIdea": "God gave his people the Ten Commandments to show them how to love him and love others. Sin is not only bad actions; it can be in our hearts, like wanting what belongs to someone else, and in our words, like lying. God's law shows us that we all need his help and forgiveness.",
+   "scheduleNote": "This is the Week 12 family lesson. The short daily bites are Days 2–7.",
+   "howSteps": [
+    {
+     "title": "Read together",
+     "detail": "Open the Read tab and read Exodus 20:1–17 out loud in two parts, then read Matthew 22:36–40, where Jesus sums up the commandments. Let a different person read each part."
+    },
+    {
+     "title": "Talk it through",
+     "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+    },
+    {
+     "title": "Age parts",
+     "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+    },
+    {
+     "title": "Pray",
+     "detail": "Close with the short family prayer on the Prayer tab."
+    }
+   ],
+   "readings": [
+    {
+     "kind": "scripture",
+     "cite": "Exodus 20:1–11",
+     "text": "1 And God spoke all these words: 2 \"I am the Lord your God, who brought you out of Egypt, out of the land of slavery. 3 \"You shall have no other gods before me. 4 \"You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below. 5 You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me, 6 but showing love to a thousand generations of those who love me and keep my commandments. 7 \"You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name. 8 \"Remember the Sabbath day by keeping it holy. 9 Six days you shall labor and do all your work, 10 but the seventh day is a sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your animals, nor any foreigner residing in your towns. 11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy."
+    },
+    {
+     "kind": "scripture",
+     "cite": "Exodus 20:12–17",
+     "text": "12 \"Honor your father and your mother, so that you may live long in the land the Lord your God is giving you. 13 \"You shall not murder. 14 \"You shall not commit adultery. 15 \"You shall not steal. 16 \"You shall not give false testimony against your neighbor. 17 \"You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.\""
+    },
+    {
+     "kind": "scripture",
+     "cite": "Matthew 22:36–40",
+     "text": "36 \"Teacher, which is the greatest commandment in the Law?\" 37 Jesus replied: \"'Love the Lord your God with all your heart and with all your soul and with all your mind.' 38 This is the first and greatest commandment. 39 And the second is like it: 'Love your neighbor as yourself.' 40 All the Law and the Prophets hang on these two commandments.\""
+    }
+   ],
+   "storyTitle": "In our words",
+   "story": [
+    "Last week we learned that sin is choosing our own way instead of God's way, and that it started with Adam and Eve in the garden. This week we ask: what counts as sin? To find out, we go to a mountain called Sinai, where God spoke to his people Israel after he set them free from slavery in Egypt.",
+    "God began by reminding them who he is: \"I am the Lord your God, who brought you out of Egypt, out of the land of slavery.\" God rescued them first, then gave them his commands. He did not give the rules so they could earn his love; he gave them because he already loved them and wanted to show them how to live as his people.",
+    "The first commandments are about loving God: have no other gods before him, don't make idols to worship, don't misuse his name, and remember the Sabbath day to keep it holy. The next ones are about loving people: honor your father and mother, don't murder, keep the promise of marriage, don't steal, don't lie about others, and don't covet, which means wanting what belongs to someone else so much that you can't be happy for them.",
+    "Notice that sin is not just what we do with our hands. Lying about someone is a sin of words. Coveting happens inside, in our hearts, where no one else can see. God cares about our actions, our words, and our hearts. Later, someone asked Jesus which commandment was the greatest. He said to love the Lord your God with all your heart, soul, and mind, and to love your neighbor as yourself. All the commandments hang on those two.",
+    "When we look honestly at these commands, we see that we have all broken them, in our hearts, words, or actions. That is not meant to make us give up. God's law is like a mirror that shows us we need help. Next week we will learn the best news of all: Jesus paid for our sin."
+   ],
+   "enochLine": "God gave us good rules to love him and love others! God sees my heart!",
+   "enochActivities": [
+    "Activity: Love God, love people. Hold up two fingers. Point up and say, \"Love God!\" Then point to each family member and say, \"Love people!\" Do it a few times, faster and faster.",
+    "Ten fingers: hold up all ten fingers with Enoch and count them together. Then say, \"God gave ten good rules because he loves us!\""
+   ],
+   "elijahQuestions": [
+    "In verse 2, who did God say brought his people out of Egypt?",
+    "What does verse 12 say to do for your father and mother?",
+    "In verse 15, what does God say not to do?",
+    "In Matthew 22:39, what is the second commandment Jesus named?"
+   ],
+   "jordynQuestions": [
+    "God said, \"I am the Lord your God, who brought you out of Egypt\" (verse 2) before he gave a single command. Why does it matter that God rescued them first and gave the rules second?",
+    "The tenth commandment, \"You shall not covet\" (verse 17), is about what happens inside us. Why would God give a command that only he can see us break?",
+    "Jesus said all the Law hangs on loving God and loving your neighbor (Matthew 22:37–40). Pick two of the Ten Commandments and explain how each one is a way of loving."
+   ],
+   "jordynApplication": "God cares about our hearts, words, and actions (Exodus 20:1–17). This week, pick the area that is hardest for you. If it is words, watch how you talk about teammates or classmates when they are not around (verse 16). If it is your heart, notice when you feel jealous of someone's things, grades, or talents, and thank God for what he has given you instead (verse 17). Tell God when you fall short; he wants honesty, not hiding.",
+   "elijahAnswers": [
+    "\"The Lord your God\" (verse 2).",
+    "\"Honor\" them (verse 12).",
+    "\"You shall not steal\" (verse 15).",
+    "\"Love your neighbor as yourself\" (Matthew 22:39)."
+   ],
+   "jordynAnswers": [
+    "The commandments were not a way to earn God's love or freedom; God had already rescued them (verse 2). They were how a rescued people could live with the God who loved them. It is the same for us: we obey because God loves us, not so that he will.",
+    "God sees the heart, not just the outside. Coveting (verse 17) can lead to other sins, like stealing or lying, and it steals our joy even if no one else knows. This command shows sin is a heart problem, so we need God to change our hearts.",
+    "Any two explained well. For example, having no other gods (verse 3) loves God by keeping him first; honoring parents (verse 12) loves them by respecting and obeying them; not stealing (verse 15) loves neighbors by protecting what is theirs; not giving false testimony (verse 16) loves neighbors by telling the truth about them."
+   ],
+   "applicationCheck": "Ask her later in the week which area she chose, heart, words, or actions, and how it went. Share one area you are working on too, and pray for each other.",
+   "prayer": "Dear God, thank you for rescuing your people and giving them good commands. Thank you that your law shows us how to love you and love others. We confess that we have broken your commands in our hearts, our words, and our actions. Help us love you with all our hearts and love our neighbors as ourselves. In Jesus' name, Amen.",
+   "dailies": [
+    {
+     "id": "w12-d2",
+     "day": 2,
+     "label": "Day 2",
+     "kind": "Passage",
+     "focus": "The first commandments are about loving God: he rescued his people, and he alone gets first place in our hearts.",
+     "verse": "You shall have no other gods before me.",
+     "verseCite": "Exodus 20:3, NIV",
+     "enoch": "Hold up one finger and say with a parent, \"God is number one!\"",
+     "elijah": "In verse 1, who spoke all these words?",
+     "elijahAnswer": "\"God\" (verse 1).",
+     "jordyn": "Verse 6 says God shows \"love to a thousand generations of those who love me and keep my commandments.\" What does that tell you about God's heart behind his commands?",
+     "jordynAnswer": "God's commands come from love, and he wants to pour out his love on his people for generation after generation (verse 6). Verse 5 warns that sin brings trouble that can spread through families, but verse 6 shows God's love is far bigger and lasts far longer.",
+     "action": "Read verses 1–6 together. Then each person names one thing that can sometimes take God's place in our hearts, like games, phones, or wanting to be liked, and how to keep God first.",
+     "prayer": "Lord, you are our God, and you rescued us. Help us keep you first in our hearts above anything else. Thank you for your love that lasts for a thousand generations. In Jesus' name, Amen.",
+     "passageCite": "Exodus 20:1–6, NIV",
+     "teach": "God's people had been slaves in Egypt, and God set them free. At Mount Sinai, God spoke to them. He started with who he is: \"I am the Lord your God, who brought you out of Egypt.\" Then came the first command: \"You shall have no other gods before me.\" The second said not to make idols, statues people bow down to and worship. An idol can also be anything we love more than God. God calls himself \"a jealous God,\" which means he loves his people so much that he will not share their hearts with fake gods.",
+     "enochActivity": "Stack blocks into a tower and put a special one on top. Say, \"God goes on top! God is first!\"",
+     "elijah2": "Find it in the passage: In verse 2, what land had God brought his people out of?",
+     "elijahAnswer2": "\"Egypt,\" \"the land of slavery\" (verse 2).",
+     "jordyn2": "Most people today don't bow down to statues (verse 5). What are some modern things that can become like idols, getting more of our love and attention than God?",
+     "jordynAnswer2": "Anything good can become an idol if it takes first place: sports, grades, phones, money, popularity, even friends. The command \"You shall have no other gods before me\" (verse 3) means God gets the top spot, and everything else is enjoyed under him.",
+     "passageText": "1 And God spoke all these words: 2 “I am the Lord your God, who brought you out of Egypt, out of the land of slavery. 3 “You shall have no other gods before me. 4 “You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below. 5 You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me, 6 but showing love to a thousand generations of those who love me and keep my commandments."
+    },
+    {
+     "id": "w12-d3",
+     "day": 3,
+     "label": "Day 3",
+     "kind": "Game",
+     "focus": "Loving God means honoring his name with our words and setting apart a day to rest and worship him.",
+     "verse": "Remember the Sabbath day by keeping it holy.",
+     "verseCite": "Exodus 20:8, NIV",
+     "enoch": "Count to six while working hard (marching in place), then on seven lie down and rest. Say, \"God made a day to rest and worship him!\"",
+     "elijah": "Game: Work, work, rest. Everyone does six quick jobs, like jumping jacks, touching toes, or spinning, while counting days 1 to 6. On day 7 everyone sits down quietly. Then: in verse 11, how many days did the Lord take to make the heavens and the earth?",
+     "elijahAnswer": "\"Six days\" (verse 11).",
+     "jordyn": "Verse 7 says, \"You shall not misuse the name of the Lord your God.\" What are some ways people misuse God's name, and why does God take it so seriously?",
+     "jordynAnswer": "People misuse God's name by using it as a curse word, saying it carelessly, or making promises in his name they don't mean. God's name stands for who he is, so treating it carelessly treats him carelessly (verse 7). This is a sin of words.",
+     "action": "Play Work, work, rest, then read verses 8–11 together. Talk about how your family can use Sunday to rest and worship God together.",
+     "prayer": "Lord, your name is holy. Help us speak your name with love and respect. Thank you for giving us a day to rest and worship you. Help us remember you every week. In Jesus' name, Amen.",
+     "passageCite": "Exodus 20:7–11, NIV",
+     "teach": "Yesterday we read that God gets first place. Today we read two more commands about loving God. The third command says not to misuse God's name. God's name is holy, so we use it to pray, praise, and talk about him, never as a bad word or a joke. The fourth command says, \"Remember the Sabbath day by keeping it holy.\" God's people worked six days and rested on the seventh, because God made the world in six days and rested on the seventh. A day of rest helps us remember that God takes care of us and gives us time to worship him.",
+     "enochActivity": "Practice saying God's name kindly: whisper, \"God is good,\" sing, \"God is good,\" and shout, \"God is good!\"",
+     "elijah2": "Find it in the passage: In verse 11, what did the Lord do on the seventh day?",
+     "elijahAnswer2": "\"He rested on the seventh day\" (verse 11).",
+     "jordyn2": "Verse 10 says the Sabbath rest was for everyone, including sons, daughters, servants, foreigners, and even animals. What does that show about how God cares for people?",
+     "jordynAnswer2": "God made sure no one was left out of rest, not even servants or animals (verse 10). It shows God cares for everyone, especially those who might be worked too hard. Resting and worshiping is a gift from him, not just a rule.",
+     "passageText": "7 “You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name. 8 “Remember the Sabbath day by keeping it holy. 9 Six days you shall labor and do all your work, 10 but the seventh day is a sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your animals, nor any foreigner residing in your towns. 11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy."
+    },
+    {
+     "id": "w12-d4",
+     "day": 4,
+     "label": "Day 4",
+     "kind": "Passage",
+     "focus": "The last six commandments are about loving people: in our actions, our words, and even our hearts.",
+     "verse": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
+     "verseCite": "Exodus 20:12, NIV",
+     "enoch": "Give Mom and Dad a hug and say, \"I will listen to you and obey!\"",
+     "elijah": "In verse 16, what does God say not to give against your neighbor?",
+     "elijahAnswer": "\"False testimony\" (verse 16). That means lying about someone.",
+     "jordyn": "Verses 13–15 are about actions, verse 16 is about words, and verse 17 is about the heart. Why do you think God ended the list with a command about the heart?",
+     "jordynAnswer": "Wrong actions and words usually start in the heart. Coveting (verse 17) can lead to stealing (verse 15) or lying (verse 16). By ending with the heart, God shows he wants more than good behavior on the outside; he wants hearts that love others.",
+     "action": "Read verses 12–17 together. Then sort them: which commands are about actions, which about words, and which about the heart?",
+     "prayer": "God, help us love the people around us. Help us honor our parents, tell the truth, respect what belongs to others, and be thankful instead of jealous. Change our hearts so our words and actions show your love. In Jesus' name, Amen.",
+     "passageCite": "Exodus 20:12–17, NIV",
+     "teach": "The last six commandments are about loving other people. Honor your father and mother. Do not murder, which means don't take a life. Do not commit adultery, which means husbands and wives keep their promise to each other. Do not steal. Do not give false testimony, which means don't lie about someone. Do not covet, which means don't want what belongs to someone else so much that you can't be happy for them. Some of these are about actions, one is about words, and one is about the heart. God cares about all three.",
+     "enochActivity": "Play \"Is that kind?\" A parent names an action, like sharing a snack, grabbing a toy, or saying \"thank you.\" Enoch says, \"Kind!\" or \"Not kind!\"",
+     "elijah2": "Find it in the passage: In verse 12, what does God promise to those who honor their father and mother?",
+     "elijahAnswer2": "\"So that you may live long in the land the Lord your God is giving you\" (verse 12).",
+     "jordyn2": "Coveting (verse 17) happens inside, where no one sees. What are some things kids your age are tempted to covet, and what helps fight it?",
+     "jordynAnswer2": "Any honest answer works, like phones, clothes, talent, grades, followers, or someone's friends. Thankfulness fights coveting, remembering that every good thing we have comes from God. Being happy for others instead of jealous is a way of loving our neighbor (verse 17).",
+     "passageText": "12 “Honor your father and your mother, so that you may live long in the land the Lord your God is giving you. 13 “You shall not murder. 14 “You shall not commit adultery. 15 “You shall not steal. 16 “You shall not give false testimony against your neighbor. 17 “You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.”"
+    },
+    {
+     "id": "w12-d5",
+     "day": 5,
+     "label": "Day 5",
+     "kind": "Challenge",
+     "focus": "Our words can sin or bless. God wants our words to build others up.",
+     "verse": "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.",
+     "verseCite": "Ephesians 4:29, NIV",
+     "enoch": "Practice kind words with a parent: \"I love you!\" \"Good job!\" \"Thank you!\" Then say, \"My words can be kind!\"",
+     "elijah": "In Ephesians 4:29, what kind of talk should not come out of our mouths?",
+     "elijahAnswer": "\"Unwholesome talk\" (Ephesians 4:29).",
+     "jordyn": "The verse says our words should be \"helpful for building others up according to their needs.\" What is the difference between just not saying mean things and actually building someone up?",
+     "jordynAnswer": "Not saying mean things avoids hurting, but building up (Ephesians 4:29) goes further. It means looking for what someone needs, like encouragement, thanks, or comfort, and saying it on purpose.",
+     "action": "Build-up challenge: today, everyone gives at least three people a real, specific encouragement. At dinner, share who you encouraged and what you said.",
+     "prayer": "God, help us use our words to build others up, not tear them down. Guard our mouths from unkind, untrue, or careless words. Let our words help those who hear them. In Jesus' name, Amen.",
+     "passageCite": "Ephesians 4:29, NIV",
+     "teach": "This week we have seen that sin can be in our actions, our hearts, and our words. The ninth commandment says not to lie about others, and the third says not to misuse God's name. Paul wrote more about words: \"Do not let any unwholesome talk come out of your mouths.\" Unwholesome talk is anything rotten or hurtful, like mean jokes, bad words, gossip, or lies. Instead, our words should be \"helpful for building others up.\" Words are like building blocks: they can build someone up or knock them down.",
+     "enochActivity": "Build a block tower. Each time someone says a kind word to someone else, add a block. See how tall kind words can build!",
+     "elijah2": "Find it in the passage: In Ephesians 4:29, who should our words benefit?",
+     "elijahAnswer2": "\"Those who listen\" (Ephesians 4:29).",
+     "jordyn2": "Think about a group chat, team huddle, or lunch table. What is one way unwholesome talk shows up there, and what could you say instead?",
+     "jordynAnswer2": "Any honest answer works, like gossip about someone who is not there, joining in a joke that hurts, or complaining about a teammate. Instead, you could change the subject, stand up for the person, or point out something good about them (Ephesians 4:29).",
+     "passageText": "29 Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
+    },
+    {
+     "id": "w12-d6",
+     "day": 6,
+     "label": "Day 6",
+     "kind": "Prayer",
+     "focus": "God sees our hearts, so we can ask him to search us, show us our sin, and lead us in his way.",
+     "verse": "Search me, God, and know my heart; test me and know my anxious thoughts.",
+     "verseCite": "Psalm 139:23, NIV",
+     "enoch": "Put a hand on your heart with a parent and pray, \"God, you see my heart. Help me love you!\"",
+     "elijah": "In verse 23, what does the writer ask God to search and know?",
+     "elijahAnswer": "\"My heart\" (verse 23).",
+     "jordyn": "In verse 24 the writer asks God, \"See if there is any offensive way in me.\" Why would someone ask God to point out their sin instead of hiding it?",
+     "jordynAnswer": "He wanted to be close to God and walk in the right way more than he wanted to look good. Asking God to show us our sin (verse 24) is the opposite of Adam and Eve hiding. It is how God leads us \"in the way everlasting\" (verse 24).",
+     "action": "Pray verses 23–24 together slowly. Then give everyone a quiet minute to ask God to show them one thing in their heart, words, or actions that he wants to change.",
+     "prayer": "Search us, God, and know our hearts. Show us any wrong way in us, in our hearts, our words, or our actions. Forgive us and lead us in the way everlasting. In Jesus' name, Amen.",
+     "passageCite": "Psalm 139:23–24, NIV",
+     "teach": "This week we learned that sin is not only what we do, but also what we say and what is in our hearts. When God chose David to be king, he told Samuel, \"People look at the outward appearance, but the Lord looks at the heart.\" David wrote this prayer in Psalm 139: \"Search me, God, and know my heart.\" He asked God to look deep inside him and show him anything wrong. That is a brave prayer. Instead of hiding like Adam and Eve, David invited God to see everything and lead him in the right way.",
+     "enochActivity": "Use a flashlight to look under a blanket together. Say, \"God sees everything, even inside my heart, and he loves me!\"",
+     "elijah2": "Find it in the passage: In verse 24, where does the writer ask God to lead him?",
+     "elijahAnswer2": "\"In the way everlasting\" (verse 24).",
+     "jordyn2": "1 Samuel 16:7 says, \"the Lord looks at the heart.\" How should knowing that change the way you think about being good on the outside?",
+     "jordynAnswer2": "Looking good on the outside is not enough, because God sees what is inside (1 Samuel 16:7). That is humbling, but it is also freeing: we can be honest with him and ask him to change our hearts (Psalm 139:23–24), not just our behavior.",
+     "passageText": "23 Search me, God, and know my heart; test me and know my anxious thoughts. 24 See if there is any offensive way in me, and lead me in the way everlasting."
+    },
+    {
+     "id": "w12-d7",
+     "day": 7,
+     "label": "Day 7",
+     "kind": "Recap",
+     "focus": "Recap: God's commandments show us how to love him and love others, and they show that sin lives in our hearts, words, and actions, so we all need Jesus.",
+     "verse": "All the Law and the Prophets hang on these two commandments.",
+     "verseCite": "Matthew 22:40, NIV",
+     "enoch": "Ask, \"What are God's two big rules?\" (Love God! Love people!) \"Does God see my heart?\" (Yes!)",
+     "elijah": "In Matthew 22:37, what did Jesus say is the first and greatest commandment?",
+     "elijahAnswer": "\"Love the Lord your God with all your heart and with all your soul and with all your mind\" (verse 37).",
+     "jordyn": "This week we read Exodus 20, Ephesians 4:29, Psalm 139, and Matthew 22. What does the whole week show about what counts as sin?",
+     "jordynAnswer": "Sin is breaking God's good commands, which are all about loving God and loving others (Exodus 20:1–17; Matthew 22:37–40). It can be in our actions, like stealing (Exodus 20:15); our words, like lying or unwholesome talk (Exodus 20:16; Ephesians 4:29); and our hearts, like coveting (Exodus 20:17). God sees it all, so we ask him to search us (Psalm 139:23–24).",
+     "action": "Read Matthew 22:37–39 together, then each person shares one thing they learned about God's commandments this week. Next lesson: Grace: Jesus paid for our sin.",
+     "prayer": "Father, thank you for your good commandments that teach us to love you and love others. We admit we have not kept them perfectly in our hearts, words, or actions. Thank you that you have made a way for us to be forgiven. Help us love you with all our hearts and love our neighbors as ourselves. In Jesus' name, Amen.",
+     "passageCite": "Matthew 22:36–40, NIV",
+     "teach": "Today we look back at our week. God rescued his people from Egypt and then gave them the Ten Commandments. The first ones are about loving God: keep him first, don't worship idols, honor his name, and remember the Sabbath. The rest are about loving people: honor parents, don't murder, keep marriage promises, don't steal, don't lie, and don't covet. We learned that sin can be in our actions, our words, and our hearts. When someone asked Jesus which commandment was greatest, he said to love God with all your heart, soul, and mind, and to love your neighbor as yourself. Next week we will learn how Jesus paid for our sin.",
+     "enochActivity": "Point up and say, \"Love God!\" Then hug each family member and say, \"Love people!\" Do it all the way around the room.",
+     "elijah2": "Find it in the passage: In verse 39, how should we love our neighbor?",
+     "elijahAnswer2": "\"As yourself\" (verse 39).",
+     "jordyn2": "After a week looking at God's commands, has anyone kept them all perfectly? Why is that a reason to look forward to next week's lesson?",
+     "jordynAnswer2": "No one has kept them perfectly; we all fall short (Romans 3:23). God's law shows us we need help we can't give ourselves. That is why the good news of Jesus paying for our sin, next week's lesson, is such good news.",
+     "passageText": "36 “Teacher, which is the greatest commandment in the Law?” 37 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ 38 This is the first and greatest commandment. 39 And the second is like it: ‘Love your neighbor as yourself.’ 40 All the Law and the Prophets hang on these two commandments.”"
+    }
+   ],
+   "lessonVerses": [
+    "Exodus 20:1–11",
+    "Exodus 20:12–17",
+    "Matthew 22:36–40",
+    "Ephesians 4:29",
+    "1 Samuel 16:7",
+    "Psalm 139:23–24"
+   ]
   },
   {
    "id": "13",
