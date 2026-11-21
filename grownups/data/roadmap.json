@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.12",
+  "version": "2026.11.21.15",
   "start": "2026-10-31",
   "phases": [
     {
@@ -714,7 +714,7 @@
         "Deuteronomy 31:1–8",
         "Deuteronomy 34:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -726,7 +726,7 @@
         "Joshua 1:1–9",
         "Joshua 2:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -738,7 +738,7 @@
         "Joshua 3:14–17",
         "Joshua 6:1–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
