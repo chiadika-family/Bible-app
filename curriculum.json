@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.28",
+  "contentVersion": "2026.11.21.29",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -7512,11 +7512,238 @@
       "planTitle": "The church sends Paul and Barnabas",
       "title": "The church sends Paul and Barnabas",
       "selectLabel": "Week 32 · The church sends Paul and Barnabas",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 13:1–12; 14:8–23 (NIV)",
-      "bigIdea": "The church sent Paul and Barnabas to tell other towns about Jesus.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 33 · Saved by grace: the meeting in Jerusalem",
+      "bigIdea": "The church sent Paul and Barnabas to tell other towns about Jesus.",
+      "scheduleNote": "This is the Week 32 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 13:1–12 out loud, then Acts 14:8–18, then Acts 14:19–23."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 13:1–12",
+          "text": "1 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch) and Saul. 2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off. 4 The two of them, sent on their way by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper. 6 They traveled through the whole island until they came to Paphos. There they met a Jewish sorcerer and false prophet named Bar-Jesus, 7 who was an attendant of the proconsul, Sergius Paulus. The proconsul, an intelligent man, sent for Barnabas and Saul because he wanted to hear the word of God. 8 But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith. 9 Then Saul, who was also called Paul, filled with the Holy Spirit, looked straight at Elymas and said, 10 “You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord? 11 Now the hand of the Lord is against you. You are going to be blind for a time, not even able to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand. 12 When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord."
+        },
+        {
+          "cite": "Acts 14:8–18",
+          "text": "8 In Lystra there sat a man who was lame. He had been that way from birth and had never walked. 9 He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed 10 and called out, “Stand up on your feet!” At that, the man jumped up and began to walk. 11 When the crowd saw what Paul had done, they shouted in the Lycaonian language, “The gods have come down to us in human form!” 12 Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker. 13 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them. 14 But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting: 15 “Friends, why are you doing this? We too are only human, like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made the heavens and the earth and the sea and everything in them. 16 In the past, he let all nations go their own way. 17 Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy.” 18 Even with these words, they had difficulty keeping the crowd from sacrificing to them."
+        },
+        {
+          "cite": "Acts 14:19–23",
+          "text": "19 Then some Jews came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead. 20 But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe. 21 They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, 22 strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said. 23 Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week the church prayed, and God set Peter free. Now, in the church at Antioch, there were prophets and teachers, including Barnabas and Saul. While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” So after they had fasted and prayed, they placed their hands on them and sent them off. Sent on their way by the Holy Spirit, they went down to Seleucia, sailed to Cyprus, and proclaimed the word of God in the synagogues. John was with them as their helper.",
+        "At Paphos they met a sorcerer and false prophet named Bar-Jesus, also called Elymas, an attendant of the proconsul, Sergius Paulus. The proconsul wanted to hear the word of God, but Elymas opposed them and tried to turn him from the faith. Then Saul, who was also called Paul, filled with the Holy Spirit, told Elymas that he was an enemy of what is right and was perverting the Lord’s ways, and that he would be blind for a time. Immediately mist and darkness came over him, and he needed someone to lead him by the hand. When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord.",
+        "Paul and Barnabas went on to other towns. In Lystra there sat a man who was lame from birth and had never walked. He listened to Paul. Paul saw that he had faith to be healed and called out, “Stand up on your feet!” At that, the man jumped up and began to walk. When the crowd saw it, they shouted, “The gods have come down to us in human form!” They called Barnabas Zeus, and Paul Hermes, and the priest of Zeus brought bulls and wreaths, because he and the crowd wanted to offer sacrifices to them. But when Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd. They told them they were only human, like them, bringing good news, telling them to turn from these worthless things to the living God, who made the heavens and the earth and the sea and everything in them. Even with these words, they had difficulty keeping the crowd from sacrificing to them.",
+        "Then some came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead. But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe. They preached the gospel there and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said. Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust. The church sent Paul and Barnabas to tell other towns about Jesus.",
+        "Next week we will see a meeting in Jerusalem, and hear that we are saved by the grace of the Lord Jesus, not by keeping extra rules."
+      ],
+      "enochLine": "The church sent Paul and Barnabas to tell other towns about Jesus!",
+      "enochActivities": [
+        "Activity: Send. Wave goodbye, take a few steps, and say: Go tell about Jesus!",
+        "Activity: Tell. Cup your hands like a megaphone and say: Jesus is the living God!"
+      ],
+      "elijahQuestions": [
+        "In Acts 13:1–3, what did the Holy Spirit say, and what did the church at Antioch do?",
+        "In Acts 13:6–12, what did Elymas try to do, and what happened when the proconsul saw what the Lord had done?",
+        "In Acts 14:8–15, what did Paul call out to the lame man, and why did Barnabas and Paul rush out into the crowd?",
+        "In Acts 14:19–23, what happened to Paul, and what did he and Barnabas do when they returned to the churches?"
+      ],
+      "elijahAnswers": [
+        "The Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” After they had fasted and prayed, the church placed their hands on them and sent them off (Acts 13:2–3).",
+        "Elymas opposed them and tried to turn the proconsul from the faith. Paul, filled with the Holy Spirit, said Elymas would be blind for a time, and mist and darkness came over him. When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord (Acts 13:8–12).",
+        "Paul called out, “Stand up on your feet!” The man jumped up and began to walk. The crowd thought the gods had come down in human form and wanted to offer sacrifices, so Barnabas and Paul tore their clothes and rushed out, telling them they were only human and bringing good news about the living God (Acts 14:10–15).",
+        "People stoned Paul and dragged him outside the city, thinking he was dead, but he got up and went back into the city. They preached in Derbe, then returned, strengthening the disciples. “We must go through many hardships to enter the kingdom of God,” they said. They appointed elders and, with prayer and fasting, committed them to the Lord (Acts 14:19–23)."
+      ],
+      "jordynQuestions": [
+        "The church fasted, prayed, and sent Barnabas and Saul because the Holy Spirit set them apart (Acts 13:1–4). What does that show you about whose work this trip is, and about the church’s part in it?",
+        "In Lystra the crowd wanted to treat Paul and Barnabas like gods, and later the same kind of crowd was turned against Paul (Acts 14:11–20). What does that tell you about who should get the honor, and about remaining true to the faith when it is hard?",
+        "This week the church sent Paul and Barnabas to tell other towns about Jesus. Next week there will be a meeting in Jerusalem about how people are saved. What do both stories show you about the good news going out, and about the grace that saves?"
+      ],
+      "jordynAnswers": [
+        "The Holy Spirit called them and sent them on their way, and the church prayed, laid hands on them, and sent them off. Going to other towns is God’s work, and a praying, obedient church has a real part in sending.",
+        "The honor belongs to the living God, not to the messengers. Barnabas and Paul rushed to stop the sacrifices and pointed the crowd to the God who made all things. When people later hurt Paul badly, he got up, went back, and kept strengthening the disciples: they must go through many hardships to enter the kingdom of God. The good news is worth telling, even when it is costly.",
+        "God sends his people so that other towns can hear about Jesus, and next week we will hear that we are saved by the grace of the Lord Jesus, not by keeping extra rules. The same grace that saves is the good news they were sent to tell."
+      ],
+      "jordynApplication": "The church sent Paul and Barnabas to tell other towns about Jesus (Acts 13:1–12; 14:8–23). This week, pray for someone who tells the good news, or tell one person that Jesus is the living God. Next week we will hear that we are saved by the grace of the Lord Jesus, not by keeping extra rules.",
+      "applicationCheck": "Ask her later in the week whether she prayed for someone who tells the good news, or told someone about Jesus. If it is fitting, thank God together that the church sent Paul and Barnabas to other towns.",
+      "prayer": "Father, thank you that the Holy Spirit set apart Barnabas and Saul, and that the church prayed, laid hands on them, and sent them off. Thank you that the proconsul believed, that the lame man stood up, and that Paul and Barnabas pointed people to you, the living God, not to themselves. Teach us to remain true to the faith, even when it is hard, and to keep telling other people about Jesus. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 13:1–12",
+        "Acts 14:8–18",
+        "Acts 14:19–23",
+        "Acts 13:2",
+        "Acts 13:3",
+        "Acts 13:12",
+        "Acts 14:10",
+        "Acts 14:22–23"
+      ],
+      "dailies": [
+        {
+          "id": "w32-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The church, led by the Holy Spirit, sends Barnabas and Saul, and the proconsul believes.",
+          "verse": "Set apart for me Barnabas and Saul for the work to which I have called them.",
+          "verseCite": "Acts 13:2, NIV",
+          "enoch": "Wave goodbye and say: The church sent them to tell about Jesus!",
+          "elijah": "In Acts 13:1–4, who set Barnabas and Saul apart, and what did the church do before they left?",
+          "elijahAnswer": "The Holy Spirit said to set them apart for the work to which he had called them. After the church had fasted and prayed, they placed their hands on them and sent them off. The two were sent on their way by the Holy Spirit.",
+          "jordyn": "Elymas tried to turn the proconsul from the faith, and then he was blind for a time (Acts 13:8–11). How should we tell that part, and what is the main thing verse 12 wants us to see?",
+          "jordynAnswer": "We tell it simply, not as a show and not as a joke about being unable to see. Paul spoke, filled with the Holy Spirit. Elymas was blind for a time. The main line is that the proconsul believed, for he was amazed at the teaching about the Lord. The trip is about the word of God going out, not about harm as a game.",
+          "action": "Read Acts 13:1–12 together, then tell someone: The Holy Spirit set Barnabas and Saul apart, and the church sent them to tell the word of God.",
+          "prayer": "Father, thank you that the Holy Spirit set Barnabas and Saul apart, and that the church prayed and sent them. Thank you that the proconsul believed the teaching about the Lord. In Jesus’ name, Amen.",
+          "passageCite": "Acts 13:1–12, NIV",
+          "teach": "In Antioch, while the church was worshiping the Lord and fasting, the Holy Spirit said to set apart Barnabas and Saul. The church fasted, prayed, laid hands on them, and sent them off. They proclaimed the word of God on Cyprus. At Paphos, Elymas tried to turn the proconsul from the faith, but Saul, who was also called Paul, was filled with the Holy Spirit. Elymas was blind for a time, and the proconsul believed, amazed at the teaching about the Lord.",
+          "enochActivity": "Help a grown-up place a gentle hand on your shoulder, then take a few steps and say: Go tell about Jesus!",
+          "elijah2": "In Acts 13:9, what new name is used for Saul, and how does the text say he spoke?",
+          "elijahAnswer2": "Saul, who was also called Paul, filled with the Holy Spirit, looked straight at Elymas and spoke.",
+          "jordyn2": "Why is it important that the church both prayed and sent, and that the Holy Spirit both spoke and sent them on their way?",
+          "jordynAnswer2": "This is not a trip the church invented on its own, and it is not a trip that skipped the church. The Spirit called them, and the praying church laid hands on them and sent them off. God’s sending and the church’s sending belong together.",
+          "passageText": "1 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch) and Saul. 2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off. 4 The two of them, sent on their way by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper. 6 They traveled through the whole island until they came to Paphos. There they met a Jewish sorcerer and false prophet named Bar-Jesus, 7 who was an attendant of the proconsul, Sergius Paulus. The proconsul, an intelligent man, sent for Barnabas and Saul because he wanted to hear the word of God. 8 But Elymas the sorcerer (for that is what his name means) opposed them and tried to turn the proconsul from the faith. 9 Then Saul, who was also called Paul, filled with the Holy Spirit, looked straight at Elymas and said, 10 “You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord? 11 Now the hand of the Lord is against you. You are going to be blind for a time, not even able to see the light of the sun.” Immediately mist and darkness came over him, and he groped about, seeking someone to lead him by the hand. 12 When the proconsul saw what had happened, he believed, for he was amazed at the teaching about the Lord."
+        },
+        {
+          "id": "w32-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice a glad sending: pray, lay a gentle hand, and go tell about Jesus.",
+          "verse": "They placed their hands on them and sent them off.",
+          "verseCite": "Acts 13:3, NIV",
+          "enoch": "Wave goodbye, walk a few steps, and say: Go tell about Jesus!",
+          "elijah": "In Acts 13:2–3, what two things did the church do after the Holy Spirit spoke?",
+          "elijahAnswer": "They fasted and prayed, then placed their hands on them and sent them off.",
+          "jordyn": "How should we play a sending game so that we honor the Holy Spirit’s call, and do not turn Elymas’s blindness, or the later hurting of Paul, into a joke or a fight?",
+          "jordynAnswer": "We do not act out blindness, stones, or hitting. We practice a short prayer, a gentle hand on a shoulder, and a walk to another room to say, Jesus is the living God. The game is about being sent, not about harm.",
+          "action": "Play a send-and-tell game: one person prays a short sentence, another gently places a hand on a shoulder, and someone walks to another spot and says, Jesus is the living God. Then switch.",
+          "prayer": "Father, thank you that the church prayed and sent Barnabas and Saul. Teach us to pray for people who go, and to be glad to tell about Jesus too. In Jesus’ name, Amen.",
+          "passageCite": "Acts 13:2–4, NIV",
+          "teach": "The Holy Spirit set Barnabas and Saul apart for the work to which he had called them. The church fasted and prayed, placed their hands on them, and sent them off, and the Holy Spirit sent them on their way. Today we practice that kind of sending, and that kind of telling.",
+          "enochActivity": "Help a grown-up pray one short sentence, then let you walk a few steps and say: Jesus is the living God!",
+          "elijah2": "In Acts 13:4–5, who sent them on their way, and what did they do when they arrived at Salamis?",
+          "elijahAnswer2": "They were sent on their way by the Holy Spirit. When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper.",
+          "jordyn2": "Why is proclaiming the word of God a better center for a game than the conflict at Paphos?",
+          "jordynAnswer2": "The reason they were set apart was the work to which the Lord had called them: to tell the word of God. The conflict is part of the story, and we tell it with care. The game should practice the sending and the telling, which is the heart of this week.",
+          "passageText": "2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off. 4 The two of them, sent on their way by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper."
+        },
+        {
+          "id": "w32-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "In Lystra a lame man walks, the crowd is pointed to the living God, and the disciples are strengthened.",
+          "verse": "We must go through many hardships to enter the kingdom of God.",
+          "verseCite": "Acts 14:22, NIV",
+          "enoch": "Stand up tall and say: The living God made the world!",
+          "elijah": "In Acts 14:8–15, what happened to the man who had never walked, and what did Barnabas and Paul do when the crowd wanted to offer sacrifices?",
+          "elijahAnswer": "Paul called out, “Stand up on your feet!” and the man jumped up and began to walk. When the crowd wanted to treat them like gods, Barnabas and Paul tore their clothes, rushed out, and told them they were only human, bringing good news about the living God.",
+          "jordyn": "Paul is hurt so badly that people think he is dead, and then he gets up, goes back, and keeps strengthening the disciples (Acts 14:19–22). What does that show you about remaining true to the faith?",
+          "jordynAnswer": "The hurting is real, and we say it simply, not as a frightening show. Paul gets up and goes back to the work. He and Barnabas encourage the disciples to remain true to the faith, even through many hardships. Being sent does not mean everything will be easy. It means the good news is still worth telling.",
+          "action": "Read Acts 14:8–23 together, then tell someone: Paul and Barnabas pointed people to the living God, and they kept strengthening the disciples.",
+          "prayer": "Father, thank you that the lame man stood up, and that Paul and Barnabas would not take honor that belongs only to you. Help us remain true to the faith, even when it is hard. In Jesus’ name, Amen.",
+          "passageCite": "Acts 14:8–23, NIV",
+          "teach": "In Lystra a man lame from birth listened to Paul, and Paul called out, “Stand up on your feet!” The man walked. The crowd thought the gods had come down and wanted to offer sacrifices, but Barnabas and Paul rushed out and pointed them to the living God who made all things. Later, people hurt Paul so badly they thought he was dead, but he got up, went back into the city, and then preached in Derbe. They returned, strengthening the disciples. “We must go through many hardships to enter the kingdom of God,” they said, and they appointed elders, committing them to the Lord with prayer and fasting.",
+          "enochActivity": "Help a grown-up stand with you, then point upward and say: We tell about the living God, not about us!",
+          "elijah2": "In Acts 14:21–23, where did they go after Derbe, and what did they do in the churches?",
+          "elijahAnswer2": "They returned to Lystra, Iconium and Antioch, strengthening the disciples, encouraging them to remain true to the faith, appointing elders in each church, and, with prayer and fasting, committing them to the Lord, in whom they had put their trust.",
+          "jordyn2": "Why do Paul and Barnabas refuse the sacrifices, and then later appoint elders and commit the churches to the Lord?",
+          "jordynAnswer2": "They will not let people treat messengers like gods. The living God made the world, and the good news is about him. Then they do not leave the new disciples alone. They strengthen them, appoint elders, and commit them to the Lord with prayer and fasting, because the churches belong to him.",
+          "passageText": "8 In Lystra there sat a man who was lame. He had been that way from birth and had never walked. 9 He listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed 10 and called out, “Stand up on your feet!” At that, the man jumped up and began to walk. 11 When the crowd saw what Paul had done, they shouted in the Lycaonian language, “The gods have come down to us in human form!” 12 Barnabas they called Zeus, and Paul they called Hermes because he was the chief speaker. 13 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them. 14 But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting: 15 “Friends, why are you doing this? We too are only human, like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made the heavens and the earth and the sea and everything in them. 16 In the past, he let all nations go their own way. 17 Yet he has not left himself without testimony: He has shown kindness by giving you rain from heaven and crops in their seasons; he provides you with plenty of food and fills your hearts with joy.” 18 Even with these words, they had difficulty keeping the crowd from sacrificing to them. 19 Then some Jews came from Antioch and Iconium and won the crowd over. They stoned Paul and dragged him outside the city, thinking he was dead. 20 But after the disciples had gathered around him, he got up and went back into the city. The next day he and Barnabas left for Derbe. 21 They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, 22 strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said. 23 Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+        },
+        {
+          "id": "w32-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Pray for someone who tells the good news, or tell one person that Jesus is the living God.",
+          "verse": "They proclaimed the word of God in the Jewish synagogues.",
+          "verseCite": "Acts 13:5, NIV",
+          "enoch": "Cup your hands and say: I can tell someone about Jesus!",
+          "elijah": "In Acts 13:5 and 14:21, what were Paul and Barnabas doing in the towns they visited?",
+          "elijahAnswer": "They proclaimed the word of God, and in Derbe they preached the gospel and won a large number of disciples.",
+          "jordyn": "The church sent them, and they kept telling the good news even after a hard day in Lystra (Acts 13:3; 14:20–21). What would a right-sized challenge look like for you this week?",
+          "jordynAnswer": "Pray by name for someone who tells the good news, or tell one person, in a simple sentence, that Jesus is the living God. The challenge is not to copy every hardship in the story. It is to take a real part in the sending and the telling.",
+          "action": "Choose one: pray this week for someone who tells the good news, or tell one person that Jesus is the living God, and let a parent know which you chose.",
+          "prayer": "Father, the church sent Paul and Barnabas to tell other towns about Jesus. Give us a name to pray for, or a person to tell, and make us glad to share this good news. In Jesus’ name, Amen.",
+          "passageCite": "Acts 13:3, 5; 14:21, NIV",
+          "teach": "The church sent them off, and they proclaimed the word of God. Later, after a hard time in Lystra, they still preached the gospel in Derbe and won a large number of disciples. Sending and telling belong together, and we can take a small, real part in both.",
+          "enochActivity": "Help a grown-up name one person you can pray for, or one person you can tell about Jesus this week.",
+          "elijah2": "In Acts 14:23, how did Paul and Barnabas leave the new churches in the Lord’s care?",
+          "elijahAnswer2": "They appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust.",
+          "jordyn2": "How can prayer be part of both sending people out and caring for those who already believe?",
+          "jordynAnswer2": "The church in Antioch prayed before they sent Barnabas and Saul. Paul and Barnabas also prayed and fasted as they committed the new churches to the Lord. Prayer is how we ask God to keep the work, at both ends of the trip.",
+          "passageText": "3 So after they had fasted and prayed, they placed their hands on them and sent them off. 5 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. John was with them as their helper. 21 They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, 23 Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+        },
+        {
+          "id": "w32-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that he sent Paul and Barnabas, and ask him to keep his people true to the faith.",
+          "verse": "They committed them to the Lord, in whom they had put their trust.",
+          "verseCite": "Acts 14:23, NIV",
+          "enoch": "Fold your hands and say: Thank you, God, for sending Paul and Barnabas!",
+          "elijah": "In Acts 13:2–3 and 14:23, how does prayer show up at the beginning and at the end of this story?",
+          "elijahAnswer": "At the beginning, the church fasted and prayed, then sent Barnabas and Saul. At the end, Paul and Barnabas appointed elders and, with prayer and fasting, committed the churches to the Lord.",
+          "jordyn": "Paul and Barnabas would not take honor that belongs to the living God (Acts 14:14–15), and they committed the churches to the Lord (Acts 14:23). How can thanking God this week keep him at the center, not the messengers?",
+          "jordynAnswer": "Thank God that he set them apart, that he made the lame man walk, that the proconsul believed, and that the churches were committed to him. Then ask him to keep you true to the faith, and to keep the honor with him, the living God.",
+          "action": "Pray together: thank God that the church sent Paul and Barnabas, and ask him to help you remain true to the faith and to tell others about Jesus.",
+          "prayer": "Father, thank you that you set apart Barnabas and Saul, and that the church sent them. Thank you that you are the living God who made all things, and that new believers were committed to you. Keep us true to the faith, and keep our praise aimed at you. In Jesus’ name, Amen.",
+          "passageCite": "Acts 13:2–3; 14:23, NIV",
+          "teach": "This story begins with worship, fasting, and prayer in Antioch, and it ends with prayer and fasting as elders are appointed and churches are committed to the Lord. In the middle, the messengers refuse to be treated like gods. Prayer is a fitting way to end the week, because the work belongs to the Lord.",
+          "enochActivity": "Help a grown-up thank God out loud that he sent Paul and Barnabas to other towns.",
+          "elijah2": "In Acts 14:15, who did Barnabas and Paul say the people should turn to?",
+          "elijahAnswer2": "They were bringing good news, telling them to turn from worthless things to the living God, who made the heavens and the earth and the sea and everything in them.",
+          "jordyn2": "Why is the living God the right last word of a prayer after a week about sending?",
+          "jordynAnswer2": "The church did not send Paul and Barnabas so that people would praise the messengers. They were sent so that other towns would hear about the living God, and about Jesus. Our thanks should land in the same place.",
+          "passageText": "2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off. 15 “Friends, why are you doing this? We too are only human, like you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made the heavens and the earth and the sea and everything in them. 23 Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+        },
+        {
+          "id": "w32-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The church sent Paul and Barnabas to tell other towns about Jesus, and next we will hear about grace in Jerusalem.",
+          "verse": "The church sent Paul and Barnabas to tell other towns about Jesus.",
+          "verseCite": "Acts 13:3; 14:21, NIV",
+          "enoch": "Wave goodbye, then cup your hands, and say: The church sent them to tell about Jesus!",
+          "elijah": "In Acts 13:2–3 and 14:21–22, how did this trip begin, and what did Paul and Barnabas keep doing even after Lystra?",
+          "elijahAnswer": "It began with the Holy Spirit setting them apart, and the church praying and sending them off. After Lystra they still preached the gospel in Derbe, then returned, strengthening the disciples and encouraging them to remain true to the faith.",
+          "jordyn": "This week a sending church told other towns about Jesus. How does that get your heart ready for next week, when there will be a meeting in Jerusalem about how people are saved?",
+          "jordynAnswer": "The good news they carried is not a list of extra rules. Next week we will hear that we are saved by the grace of the Lord Jesus. The same grace is why the sending was worth the hardships.",
+          "action": "Tell someone the week’s big idea: The church sent Paul and Barnabas to tell other towns about Jesus. Then thank God, and look ahead to a meeting in Jerusalem about being saved by grace.",
+          "prayer": "Father, thank you that the church sent Paul and Barnabas to tell other towns about Jesus. Get our hearts ready to hear that we are saved by the grace of the Lord Jesus, not by keeping extra rules. In Jesus’ name, Amen.",
+          "passageCite": "Acts 13:2–3; 14:21–23, NIV",
+          "teach": "This week we learned that the church sent Paul and Barnabas to tell other towns about Jesus. The Holy Spirit set them apart, the church prayed and sent them, the proconsul believed, a lame man walked, and the messengers pointed people to the living God. They went through hardships, then strengthened the churches and committed them to the Lord. Next week we will see a meeting in Jerusalem, and hear that we are saved by the grace of the Lord Jesus, not by keeping extra rules.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week we will hear that we are saved by grace!",
+          "elijah2": "In Acts 14:22, what did they encourage the disciples to do, and what did they say about hardships?",
+          "elijahAnswer2": "They encouraged them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said.",
+          "jordyn2": "Why is the church sent Paul and Barnabas to tell other towns about Jesus a fitting last word before a week about grace?",
+          "jordynAnswer2": "They were sent with good news, not with a heavier set of rules. Next week’s meeting in Jerusalem will say plainly that we are saved by the grace of the Lord Jesus. The sending and the grace belong to the same gospel.",
+          "passageText": "2 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” 3 So after they had fasted and prayed, they placed their hands on them and sent them off. 21 They preached the gospel in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch, 22 strengthening the disciples and encouraging them to remain true to the faith. “We must go through many hardships to enter the kingdom of God,” they said. 23 Paul and Barnabas appointed elders for them in each church and, with prayer and fasting, committed them to the Lord, in whom they had put their trust."
+        }
+      ]
     },
     {
       "id": "33",

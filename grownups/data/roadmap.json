@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.175",
+  "version": "2026.11.21.182",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2585,19 +2585,19 @@
       "passages": [
         "Philippians 2:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 219,
       "date": "2027-06-08",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Philippians: pressing on; rejoice, and I can do all this through him",
+      "title": "Philippians: pressing on; rejoice, and I can do all this through him",
       "passages": [
         "Philippians 3:7–14",
         "Philippians 4:4–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2609,7 +2609,7 @@
         "Colossians 1:15–23",
         "Colossians 2:6–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2620,7 +2620,7 @@
       "passages": [
         "Colossians 3:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2631,7 +2631,7 @@
       "passages": [
         "Colossians 3:18–4:6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2643,7 +2643,7 @@
         "1 Thessalonians 1:1–10",
         "1 Thessalonians 2:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2655,7 +2655,7 @@
         "1 Thessalonians 4:13–18",
         "1 Thessalonians 5:1–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
