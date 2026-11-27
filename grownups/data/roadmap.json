@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.84",
+  "version": "2026.11.21.91",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1536,18 +1536,18 @@
         "Jeremiah 17:5–10",
         "Jeremiah 17:19–27"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 128,
       "date": "2027-03-09",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Jeremiah: seek the peace of the city; I know the plans I have for you",
+      "title": "Jeremiah: seek the peace of the city; I know the plans I have for you",
       "passages": [
         "Jeremiah 29:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1558,7 +1558,7 @@
       "passages": [
         "Jeremiah 31:31–37"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1570,7 +1570,7 @@
         "Jeremiah 32:16–27",
         "Jeremiah 38:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1582,7 +1582,7 @@
         "Lamentations 1:1–11",
         "Lamentations 2:11–19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1593,7 +1593,7 @@
       "passages": [
         "Lamentations 3:19–33"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1604,7 +1604,7 @@
       "passages": [
         "Ezekiel 1:1–28"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

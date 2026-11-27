@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.15",
+  "contentVersion": "2026.11.21.16",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -4426,9 +4426,236 @@
       "planTitle": "Heaven: our forever home",
       "title": "Heaven: our forever home",
       "selectLabel": "Week 19 · Heaven: our forever home",
-      "ready": false,
+      "ready": true,
+      "passage": "John 14:1–6; Revelation 21:1–7; Revelation 22:1–5, 20 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 20 · Palm Sunday: Jesus enters Jerusalem",
+      "bigIdea": "Heaven is our forever home: Jesus is preparing a place for us, God will dwell with his people, and he will wipe every tear. We wait for the King and say, “Come, Lord Jesus.”",
+      "scheduleNote": "This is the Week 19 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read John 14:1–6 out loud, then Revelation 21:1–7, then Revelation 22:1–5 and 22:20."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "John 14:1–6",
+          "text": "1 “Do not let your hearts be troubled. You believe in God; believe also in me. 2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. 4 You know the way to the place where I am going.” 5 Thomas said to him, “Lord, we don’t know where you are going, so how can we know the way?” 6 Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me."
+        },
+        {
+          "cite": "Revelation 21:1–7",
+          "text": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        },
+        {
+          "cite": "Revelation 22:1–5, 20",
+          "text": "1 Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb 2 down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. 3 No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. 4 They will see his face, and his name will be on their foreheads. 5 There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever. 20 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned to love everyone made in God’s image. This week we look ahead to our forever home. Heaven is not a vague wish. It is the place Jesus is preparing, where God will dwell with his people.",
+        "Jesus said to his disciples, “Do not let your hearts be troubled. You believe in God; believe also in me. My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.” Thomas did not know the way. Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.”",
+        "John was later shown a new heaven and a new earth, and the Holy City, the new Jerusalem, coming down from God, prepared as a bride. A loud voice said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God.” He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain. The one on the throne said, “I am making everything new!”",
+        "There is a river of the water of life, clear as crystal, flowing from the throne of God and of the Lamb. “They will see his face, and his name will be on their foreheads.” “There will be no more night.” And the last word we hear is a promise and a prayer: “Yes, I am coming soon.” “Amen. Come, Lord Jesus.”",
+        "So this is our hope, and it points us to next week. Palm Sunday is coming. We will watch the King enter Jerusalem — the same Jesus who is preparing a place, who is the way to the Father, and who says, “I am coming soon.” Heaven is our forever home because that King is coming."
+      ],
+      "enochLine": "Jesus is making a home for us. We will be with him forever!",
+      "enochActivities": [
+        "Activity: A place prepared. Help a grown-up set out a special chair or pillow and say, “Jesus is making a place for us!”",
+        "Activity: Come, Lord Jesus. Open your hands and say, “Come, Lord Jesus!”"
+      ],
+      "elijahQuestions": [
+        "In John 14:2, where is Jesus going, and what is he going to do there?",
+        "In John 14:6, what does Jesus say he is?",
+        "In Revelation 21:4, what will God wipe from our eyes, and what will there be no more of?",
+        "In Revelation 22:20, what does Jesus promise, and what do we say back?"
+      ],
+      "jordynQuestions": [
+        "Jesus says, “I am going there to prepare a place for you,” and also, “I will come back and take you to be with me” (John 14:2–3). What is heaven, if it is more than a pretty place we go by ourselves?",
+        "Revelation 21:3 says God’s dwelling place is now among the people. How does that help you understand why “no more death or mourning or crying or pain” is good news (Revelation 21:4)?",
+        "Next week is Palm Sunday, when the King enters Jerusalem. How do John 14:3, “I will come back,” and Revelation 22:20, “Come, Lord Jesus,” get you ready to watch him ride in?"
+      ],
+      "jordynApplication": "Heaven is our forever home because Jesus is the way, and he is preparing a place (John 14:2–6). This week, set your heart on things above (Colossians 3:1–2), and practice the prayer “Come, Lord Jesus” (Revelation 22:20) as you get ready for Palm Sunday.",
+      "elijahAnswers": [
+        "To his Father’s house, to prepare a place for us (John 14:2). “My Father’s house has many rooms,” and “I am going there to prepare a place for you.”",
+        "“I am the way and the truth and the life.” “No one comes to the Father except through me” (John 14:6).",
+        "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain (Revelation 21:4).",
+        "Jesus says, “Yes, I am coming soon.” We say, “Amen. Come, Lord Jesus” (Revelation 22:20)."
+      ],
+      "jordynAnswers": [
+        "Heaven is being with Jesus, in the Father’s house, in the place he prepares (John 14:2–3). The gift is not only rooms. It is that he comes back and takes us to be with him.",
+        "The deepest good of heaven is that God himself will be with his people (Revelation 21:3). When he dwells with them, he wipes every tear, and death, mourning, crying, and pain are gone (Revelation 21:4). The comfort is his presence, not a vague “better place.”",
+        "The King who will enter Jerusalem next week is the same Jesus who promises to come back and take us home (John 14:3). Saying “Come, Lord Jesus” (Revelation 22:20) is how we welcome that King — not only one Sunday, but until he comes."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced setting her heart on things above, and whether she prayed “Come, Lord Jesus” as Palm Sunday drew near. If it is fitting, share one way you hoped in the forever home this week too, and pray together for the week ahead.",
+      "prayer": "Father, thank you that Jesus has gone to prepare a place for us, and that he is the way to you. Thank you that you will dwell with your people, wipe every tear, and make everything new. Teach us to set our hearts on things above, and give us this prayer: Amen. Come, Lord Jesus. In his name, Amen.",
+      "dailies": [
+        {
+          "id": "w19-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus is going to prepare a place for us, and he will come back and take us to be with him.",
+          "verse": "My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?",
+          "verseCite": "John 14:2, NIV",
+          "enoch": "Help a grown-up make a little “room” with a blanket or pillow and say, “Jesus is making a place for us!”",
+          "elijah": "In John 14:1, what does Jesus tell his disciples not to let happen to their hearts?",
+          "elijahAnswer": "“Do not let your hearts be troubled. You believe in God; believe also in me.”",
+          "jordyn": "Jesus promises both to go and prepare a place, and to come back and take you to be with him (John 14:2–3). Why is “being with him” the center of the promise, not only the rooms?",
+          "jordynAnswer": "The rooms matter because they are in the Father’s house, and because Jesus takes us to be where he is (John 14:2–3). Heaven is home because we are with him.",
+          "action": "When you feel troubled today, say John 14:1 out loud: “Do not let your hearts be troubled,” and tell a grown-up what you are trusting Jesus with.",
+          "prayer": "Jesus, thank you that you are preparing a place for us, and that you will come back and take us to be with you. Help us trust you today. In your name, Amen.",
+          "passageCite": "John 14:1–6, NIV",
+          "teach": "Jesus tells his disciples not to let their hearts be troubled. His Father’s house has many rooms, and he is going to prepare a place for them. He will come back and take them to be with him. Thomas does not know the way. Jesus says, “I am the way and the truth and the life. No one comes to the Father except through me.”",
+          "enochActivity": "Point down the hallway or toward a door and say, “Jesus is the way home!”",
+          "elijah2": "In John 14:6, can anyone come to the Father except through Jesus?",
+          "elijahAnswer2": "No. “No one comes to the Father except through me.” He is the way and the truth and the life.",
+          "jordyn2": "How does “I am the way” keep heaven from becoming a place we try to reach by being good enough, or by finding our own path?",
+          "jordynAnswer2": "The way is a Person. Jesus himself is the way to the Father (John 14:6). We do not invent a road to the Father’s house. We trust the one who is going there to prepare a place, and who will come back for us.",
+          "passageText": "1 “Do not let your hearts be troubled. You believe in God; believe also in me. 2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. 4 You know the way to the place where I am going.” 5 Thomas said to him, “Lord, we don’t know where you are going, so how can we know the way?” 6 Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me."
+        },
+        {
+          "id": "w19-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Our citizenship is in heaven, and we wait for the Savior from there.",
+          "verse": "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ,",
+          "verseCite": "Philippians 3:20, NIV",
+          "enoch": "Put a hand over your heart and say, “My home is with Jesus!”",
+          "elijah": "In Philippians 3:20, where is our citizenship?",
+          "elijahAnswer": "“But our citizenship is in heaven.” We “eagerly await a Savior from there, the Lord Jesus Christ.”",
+          "jordyn": "If your citizenship is in heaven, how should that change what you are most eager for — not only what you own or win today?",
+          "jordynAnswer": "We “eagerly await a Savior from there, the Lord Jesus Christ” (Philippians 3:20). Eagerness for him is the mark of a citizen of heaven, more than eagerness for things that stay here.",
+          "action": "Play a simple “where is your city?” game: a grown-up names something (a toy, a team, a snack, Jesus), and everyone points to themselves if it is only here, or opens their hands if it belongs to our forever home.",
+          "prayer": "Lord Jesus, our citizenship is in heaven. Teach us to wait for you with eager hearts. In your name, Amen.",
+          "passageCite": "Philippians 3:20–21, NIV",
+          "teach": "Paul says our citizenship is in heaven. We eagerly await a Savior from there, the Lord Jesus Christ. He will transform our lowly bodies so that they will be like his glorious body. Our true city is not finally this one. We wait for him.",
+          "enochActivity": "March in a little “waiting line” to a chair, sit, and say, “We wait for Jesus!”",
+          "elijah2": "In Philippians 3:21, what will Jesus do to our lowly bodies?",
+          "elijahAnswer2": "He “will transform our lowly bodies so that they will be like his glorious body,” by the power that enables him to bring everything under his control.",
+          "jordyn2": "How does waiting for a Savior “from there” get your heart ready for Palm Sunday, when we watch the King enter Jerusalem?",
+          "jordynAnswer2": "The King we await is the Lord Jesus Christ (Philippians 3:20). Palm Sunday is a picture of welcoming that King. We practice now the eagerness we will bring to his coming.",
+          "passageText": "20 But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ, 21 who, by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body."
+        },
+        {
+          "id": "w19-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "God will dwell with his people. He will wipe every tear, and he is making everything new.",
+          "verse": "‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”",
+          "verseCite": "Revelation 21:4, NIV",
+          "enoch": "Gently wipe a pretend tear from a family member’s cheek and say, “God will wipe every tear.”",
+          "elijah": "In Revelation 21:3, where will God’s dwelling place be?",
+          "elijahAnswer": "“Among the people.” “he will dwell with them. They will be his people, and God himself will be with them and be their God.”",
+          "jordyn": "The loud voice does not first list streets or treasures. It says, “Look! God’s dwelling place is now among the people” (Revelation 21:3). Why is that the headline of the new heaven and new earth?",
+          "jordynAnswer": "The forever home is God with his people (Revelation 21:3). Tears, death, mourning, crying, and pain end because he is there and is making everything new (Revelation 21:4–5).",
+          "action": "Comfort someone who is sad today in a small, concrete way, and tell them God will wipe every tear.",
+          "prayer": "Father, thank you that you will dwell with your people and wipe every tear. Help us believe you are making everything new. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:1–7, NIV",
+          "teach": "John saw a new heaven and a new earth, and the Holy City coming down from God. A loud voice said that God’s dwelling place is now among the people. He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain. The one on the throne said, “I am making everything new!” These words are trustworthy and true.",
+          "enochActivity": "Draw a simple picture of a happy city and a smile, and say, “God will be with us.”",
+          "elijah2": "In Revelation 21:5, what did the one seated on the throne say, and what did he tell John to do?",
+          "elijahAnswer2": "“I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.”",
+          "jordyn2": "Why does it matter that these words are “trustworthy and true,” not only beautiful to imagine?",
+          "jordynAnswer2": "The one on the throne tells John to write them down because they can be trusted (Revelation 21:5). Our hope is not a daydream. It is the word of the God who will dwell with his people and make everything new.",
+          "passageText": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        },
+        {
+          "id": "w19-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "You have been raised with Christ. Set your heart and mind on things above, where Christ is.",
+          "verse": "Set your minds on things above, not on earthly things.",
+          "verseCite": "Colossians 3:2, NIV",
+          "enoch": "Look up, then look at a grown-up, and say, “I can think about Jesus!”",
+          "elijah": "In Colossians 3:1, where should we set our hearts, and why?",
+          "elijahAnswer": "“set your hearts on things above, where Christ is, seated at the right hand of God,” because “you have been raised with Christ.”",
+          "jordyn": "Setting your mind on things above is not pretending earth does not matter. What is the difference between hoping in heaven and ignoring the people in front of you?",
+          "jordynAnswer": "We set our minds on things above because we have been raised with Christ, who is there (Colossians 3:1–2). That hope should make us more faithful here, not less — loving people made in God’s image while we wait for our forever home.",
+          "action": "Challenge: choose one earthly thing you often cling to (a screen, a score, a snack, a worry). Put it down for a set time today, and use that time to pray, serve, or read a little of this week’s passage.",
+          "prayer": "Father, we have been raised with Christ. Help us set our hearts and minds on things above, where he is. In Jesus’ name, Amen.",
+          "passageCite": "Colossians 3:1–4, NIV",
+          "teach": "Since we have been raised with Christ, we set our hearts on things above, where Christ is, seated at the right hand of God. We set our minds on things above, not on earthly things. This is how citizens of heaven live now, while we wait for him to appear.",
+          "enochActivity": "Put one toy in a basket for a little while and say, “Jesus first!”",
+          "elijah2": "In Colossians 3:2, what should we set our minds on, and what should we not set them on?",
+          "elijahAnswer2": "“Set your minds on things above, not on earthly things.”",
+          "jordyn2": "Colossians 3:4 says that when Christ, who is your life, appears, you also will appear with him in glory. How does that make “things above” more than a hobby?",
+          "jordynAnswer2": "Christ himself is your life, and you will appear with him in glory (Colossians 3:4). Setting your mind on things above is setting your mind on him — the one who will appear, and the one we will welcome on Palm Sunday as King.",
+          "passageText": "1 Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. 2 Set your minds on things above, not on earthly things. 3 For you died, and your life is now hidden with Christ in God. 4 When Christ, who is your life, appears, then you also will appear with him in glory."
+        },
+        {
+          "id": "w19-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "They will see his face. Jesus says, “I am coming soon.” We pray, “Amen. Come, Lord Jesus.”",
+          "verse": "He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus.",
+          "verseCite": "Revelation 22:20, NIV",
+          "enoch": "Open your hands and pray, “Come, Lord Jesus.”",
+          "elijah": "In Revelation 22:4, what will they see?",
+          "elijahAnswer": "“They will see his face, and his name will be on their foreheads.”",
+          "jordyn": "The river of the water of life flows from the throne of God and of the Lamb, and “they will see his face” (Revelation 22:1, 4). How is seeing his face the heart of the forever home?",
+          "jordynAnswer": "The home is not only a beautiful city. It is God and the Lamb, and his people seeing his face (Revelation 22:1–4). The joy of heaven is nearness to him.",
+          "action": "Pray “Amen. Come, Lord Jesus” at bedtime tonight, and tell a grown-up one thing you are glad Jesus is coming to make new.",
+          "prayer": "Lord Jesus, thank you that we will see your face, and that there will be no more night. You say, “Yes, I am coming soon.” Amen. Come, Lord Jesus.",
+          "passageCite": "Revelation 22:1–5, 20, NIV",
+          "teach": "The angel showed John the river of the water of life, flowing from the throne of God and of the Lamb. They will see his face. There will be no more night, for the Lord God will give them light. And Jesus says, “Yes, I am coming soon.” The church’s prayer is, “Amen. Come, Lord Jesus.”",
+          "enochActivity": "With a grown-up, look at a light in the room, then pray, “Thank you, God, that there will be no more night.”",
+          "elijah2": "In Revelation 22:20, what does the one who testifies say, and what is the answering prayer?",
+          "elijahAnswer2": "He says, “Yes, I am coming soon.” The answering prayer is, “Amen. Come, Lord Jesus.”",
+          "jordyn2": "Tomorrow we recap this week, and Sunday is Palm Sunday. Why is “Come, Lord Jesus” the right prayer to carry from a heaven week into a week when the King enters Jerusalem?",
+          "jordynAnswer2": "The King who enters Jerusalem is the same Lord who promises, “I am coming soon” (Revelation 22:20). Palm Sunday is a welcome. This prayer is how we welcome him — then, now, and when he comes again.",
+          "passageText": "1 Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb 2 down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. 3 No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. 4 They will see his face, and his name will be on their foreheads. 5 There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever. 20 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus."
+        },
+        {
+          "id": "w19-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus is preparing a place. God will wipe every tear. We say, “Come, Lord Jesus,” and get ready to welcome the King.",
+          "verse": "He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus.",
+          "verseCite": "Revelation 22:20, NIV",
+          "enoch": "Say this week’s line out loud: “Jesus is making a home for us. We will be with him forever!”",
+          "elijah": "Can you tell, in your own words, what Jesus is doing in John 14, and what God will do in Revelation 21:4?",
+          "elijahAnswer": "Jesus is preparing a place in his Father’s house, and he will come back and take us to be with him (John 14:2–3). God will wipe every tear, and there will be no more death or mourning or crying or pain (Revelation 21:4).",
+          "jordyn": "How do John 14:3, Revelation 21:4, and Revelation 22:20 fit together as one week — and how do they lead you into Palm Sunday tomorrow?",
+          "jordynAnswer": "Jesus is preparing a place and will come back (John 14:3). God will dwell with his people and wipe every tear (Revelation 21:3–4). We answer, “Come, Lord Jesus” (Revelation 22:20). Tomorrow we watch that same King enter Jerusalem. The forever home and the welcome of the King belong together.",
+          "action": "Look back on the week: where did you set your mind on things above, and where did your heart get troubled? Tell a grown-up, and pray “Come, Lord Jesus” as you get ready for Palm Sunday.",
+          "prayer": "Father, thank you for our forever home. Jesus is the way, you will wipe every tear, and you are making everything new. As we go toward Palm Sunday, we pray: Amen. Come, Lord Jesus. In his name, Amen.",
+          "passageCite": "John 14:3; Revelation 21:4; Revelation 22:20, NIV",
+          "teach": "This week we learned that heaven is our forever home. Jesus is preparing a place, and he is the way to the Father. God will dwell with his people and wipe every tear. We wait with the prayer, “Amen. Come, Lord Jesus.” Next we watch the King enter Jerusalem — the same Jesus who is coming to take us home.",
+          "enochActivity": "Make a simple “welcome” sign with a grown-up that says, “Come, Lord Jesus,” and save it for tomorrow.",
+          "elijah2": "In John 14:3, what two things does Jesus say he will do?",
+          "elijahAnswer2": "He will go and prepare a place for us, and he will come back and take us to be with him, so that we also may be where he is.",
+          "jordyn2": "What is one concrete way you can welcome the King this Palm Sunday week — in your house, at church, or in how you wait?",
+          "jordynAnswer2": "Answers will vary: a glad welcome at church, the prayer “Come, Lord Jesus,” setting your mind on things above, or serving someone as a citizen of heaven. The welcome is not only a palm branch. It is a heart ready for the King who is the way home.",
+          "passageText": "And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 20 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus."
+        }
+      ],
+      "lessonVerses": [
+        "John 14:1–6",
+        "Revelation 21:1–7",
+        "Revelation 22:1–5",
+        "Revelation 22:20",
+        "Philippians 3:20–21",
+        "Colossians 3:1–4"
+      ]
     },
     {
       "id": "20",

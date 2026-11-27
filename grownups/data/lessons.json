@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.84",
+  "contentVersion": "2026.11.21.91",
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "tracks": [
     {
@@ -133,7 +133,14 @@
         "123",
         "124",
         "125",
-        "126"
+        "126",
+        "127",
+        "128",
+        "129",
+        "130",
+        "131",
+        "132",
+        "133"
       ]
     },
     {
@@ -267,7 +274,14 @@
         "w123",
         "w124",
         "w125",
-        "w126"
+        "w126",
+        "w127",
+        "w128",
+        "w129",
+        "w130",
+        "w131",
+        "w132",
+        "w133"
       ]
     },
     {
@@ -579,7 +593,21 @@
         "125",
         "w125",
         "126",
-        "w126"
+        "w126",
+        "127",
+        "w127",
+        "128",
+        "w128",
+        "129",
+        "w129",
+        "130",
+        "w130",
+        "131",
+        "w131",
+        "132",
+        "w132",
+        "133",
+        "w133"
       ]
     },
     {
@@ -11417,6 +11445,538 @@
         }
       ],
       "deliveredMarkdown": "**Lesson 126: Jeremiah: my people have forsaken me, the spring of living water**\n\nGood morning. Yesterday the LORD formed Jeremiah in the womb, appointed him, and told him not to be afraid. Today the charge is about a people who have left their spring. “Hear the word of the LORD, you descendants of Jacob, all you clans of Israel.” The LORD remembers a first love, then asks, “What fault did your ancestors find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.” They did not ask, “Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and ravines, a land of drought and utter darkness, a land where no one travels and no one lives?” “The priests did not ask, ‘Where is the LORD?’ Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols.” “My people have exchanged their glorious God for worthless idols.” “Be appalled at this, you heavens, and shudder with great horror,” declares the LORD. “My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.” BibleProject says, “God has not abandoned his people or his promise to provide a future king from David’s line.” The book “gives a sober evaluation of Israel’s past with a hopeful glance into their future.” This chapter is that evaluation in a picture you can hold: a spring left behind, and a cistern that leaks. As a woman, wife, and a mother, do not trade the spring of living water for a cistern you have dug yourself. Return to the LORD. He has not abandoned his people, and he has not abandoned you.\n\n**Jeremiah 2:4–13 (NIV)**\n4 Hear the word of the LORD, you descendants of Jacob, all you clans of Israel. 5 This is what the LORD says: “What fault did your ancestors find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves. 6 They did not ask, ‘Where is the LORD, who brought us up out of Egypt and led us through the barren wilderness, through a land of deserts and ravines, a land of drought and utter darkness, a land where no one travels and no one lives?’ 7 I brought you into a fertile land to eat its fruit and rich produce. But you came and defiled my land and made my inheritance detestable. 8 The priests did not ask, ‘Where is the LORD?’ Those who deal with the law did not know me; the leaders rebelled against me. The prophets prophesied by Baal, following worthless idols. 9 “Therefore I bring charges against you again,” declares the LORD. “And I will bring charges against your children’s children. 10 Cross over to the coasts of Cyprus and look, send to Kedar and observe closely; see if there has ever been anything like this: 11 Has a nation ever changed its gods? (Yet they are not gods at all.) But my people have exchanged their glorious God for worthless idols. 12 Be appalled at this, you heavens, and shudder with great horror,” declares the LORD. 13 “My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 2:13.** NIV: “They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.” LSB: “They have forsaken Me, The fountain of living waters, To hew for themselves cisterns, Broken cisterns That can hold no water.” The tragedy is not only empty religion. It is leaving the spring for a cistern that leaks.\n\n**Go deeper:** BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) says God “has not abandoned his people or his promise to provide a future king from David’s line,” even as the book gives “a sober evaluation of Israel’s past.” Jeremiah 2 names the two sins under that evaluation: they have left the spring of living water for broken cisterns.\n\n**Reflection question:** As a woman, wife, and a mother, where have you forsaken the spring of living water and dug a cistern that cannot hold water — work, image, control, a lesser love? What would it look like this week to come back to the LORD himself, the spring?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "127",
+      "number": 127,
+      "date": "2027-03-08",
+      "title": "Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord",
+      "passages": [
+        "Jeremiah 17:5–10",
+        "Jeremiah 17:19–27"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Jeremiah 17:5-10 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A5-10&version=NIV"
+        },
+        {
+          "label": "Jeremiah 17:5-10 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A5-10&version=LSB"
+        },
+        {
+          "label": "Jeremiah 17:19-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A19-27&version=NIV"
+        },
+        {
+          "label": "Jeremiah 17:19-27 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A19-27&version=LSB"
+        },
+        {
+          "label": "John Piper, Is the Christian’s Heart Deceitfully Wicked? (Desiring God)",
+          "url": "https://www.desiringgod.org/interviews/is-the-christians-heart-deceitfully-wicked"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 127: Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord**\n\nGood morning, Greg. Yesterday the people had forsaken the LORD, the spring of living water, and dug broken cisterns. Today the prophet sets two ways before us, and tells the truth about the heart. “Cursed is the one who trusts in man, who draws strength from mere flesh and whose heart turns away from the LORD.” “But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.” Then the diagnosis: “The heart is deceitful above all things and beyond cure. Who can understand it?” “I the LORD search the heart and examine the mind, to reward each person according to their conduct, according to what their deeds deserve.” The same chapter will not let trust stay only inward. The LORD sends Jeremiah to stand at the gates of Jerusalem: “Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.” “Do not bring a load out of your houses or do any work on the Sabbath, but keep the Sabbath day holy, as I commanded your ancestors.” If they will not obey, “I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.” Trust in the LORD shows up in the city’s gates, not only in a private feeling. John Piper says “the overall point of the passage seems to be that the root of sin and idolatry is a failure to trust in God rather than self. And the root of that failure is a deceitful and depraved heart.” “All human beings — no exceptions — are born with this kind of fallen, diseased, deceived, self-exalting, God-opposing heart.” His conclusion is that Jeremiah 17:9 “is true of the human heart — all of them. But where God is applying the blood-bought purchase of the new covenant, there is a new creation.” As a man, husband, and father, do not trust in mere flesh, and do not pretend your heart is a safe guide. Trust in the LORD. He searches the heart. The new covenant, coming soon in this book, is his cure.\n\n**Jeremiah 17:5–10 (NIV)**\n5 This is what the LORD says: “Cursed is the one who trusts in man, who draws strength from mere flesh and whose heart turns away from the LORD. 6 That person will be like a bush in the wastelands; they will not see prosperity when it comes. They will dwell in the parched places of the desert, in a salt land where no one lives. 7 “But blessed is the one who trusts in the LORD, whose confidence is in him. 8 They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.” 9 The heart is deceitful above all things and beyond cure. Who can understand it? 10 “I the LORD search the heart and examine the mind, to reward each person according to their conduct, according to what their deeds deserve.”\n\n**Jeremiah 17:19–27 (NIV)**\n19 This is what the LORD said to me: “Go and stand at the Gate of the People, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem. 20 Say to them, ‘Hear the word of the LORD, you kings of Judah and all people of Judah and everyone living in Jerusalem who come through these gates. 21 This is what the LORD says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem. 22 Do not bring a load out of your houses or do any work on the Sabbath, but keep the Sabbath day holy, as I commanded your ancestors. 23 Yet they did not listen or pay attention; they were stiff-necked and would not listen or respond to discipline. 24 But if you are careful to obey me, declares the LORD, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it, 25 then kings who sit on David’s throne will come through the gates of this city with their officials. They and their officials will come riding in chariots and on horses, accompanied by the men of Judah and those living in Jerusalem, and this city will be inhabited forever. 26 People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings and incense, and bringing thank offerings to the house of the LORD. 27 But if you do not obey me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.’”\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 17:9.** NIV: “The heart is deceitful above all things and beyond cure. Who can understand it?” LSB: “The heart is more deceitful than all else And is desperately sick; Who can know it?” The diagnosis is not mild. The LORD, who searches the heart, is the one who can understand it.\n\n**Go deeper:** John Piper’s Ask Pastor John [“Is the Christian’s Heart Deceitfully Wicked?”](https://www.desiringgod.org/interviews/is-the-christians-heart-deceitfully-wicked) sits with Jeremiah 17:9 and the new covenant’s new heart. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) sets the prophet’s warnings inside God’s faithfulness, which will not let sin have the last word.\n\n**Reflection question:** As a man, husband, and father, where have you been drawing strength from mere flesh, or treating your own heart as a trustworthy guide? What would it look like this week to trust in the LORD like a tree planted by the water — including in the ordinary “gates” of your house and work?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w127",
+      "number": 127,
+      "date": "2027-03-08",
+      "title": "Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord",
+      "passages": [
+        "Jeremiah 17:5–10",
+        "Jeremiah 17:19–27"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Jeremiah 17:5-10 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A5-10&version=NIV"
+        },
+        {
+          "label": "Jeremiah 17:5-10 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A5-10&version=LSB"
+        },
+        {
+          "label": "Jeremiah 17:19-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A19-27&version=NIV"
+        },
+        {
+          "label": "Jeremiah 17:19-27 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+17%3A19-27&version=LSB"
+        },
+        {
+          "label": "John Piper, Is the Christian’s Heart Deceitfully Wicked? (Desiring God)",
+          "url": "https://www.desiringgod.org/interviews/is-the-christians-heart-deceitfully-wicked"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 127: Jeremiah: the heart is deceitful; blessed is the one who trusts the Lord**\n\nGood morning. Yesterday the people had forsaken the LORD, the spring of living water, and dug broken cisterns. Today the prophet sets two ways before us, and tells the truth about the heart. “Cursed is the one who trusts in man, who draws strength from mere flesh and whose heart turns away from the LORD.” “But blessed is the one who trusts in the LORD, whose confidence is in him. They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.” Then the diagnosis: “The heart is deceitful above all things and beyond cure. Who can understand it?” “I the LORD search the heart and examine the mind, to reward each person according to their conduct, according to what their deeds deserve.” The same chapter will not let trust stay only inward. The LORD sends Jeremiah to stand at the gates of Jerusalem: “Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.” “Do not bring a load out of your houses or do any work on the Sabbath, but keep the Sabbath day holy, as I commanded your ancestors.” If they will not obey, “I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.” Trust in the LORD shows up in the city’s gates, not only in a private feeling. John Piper says “the overall point of the passage seems to be that the root of sin and idolatry is a failure to trust in God rather than self. And the root of that failure is a deceitful and depraved heart.” “All human beings — no exceptions — are born with this kind of fallen, diseased, deceived, self-exalting, God-opposing heart.” His conclusion is that Jeremiah 17:9 “is true of the human heart — all of them. But where God is applying the blood-bought purchase of the new covenant, there is a new creation.” As a woman, wife, and a mother, do not trust in mere flesh, and do not pretend your heart is a safe guide. Trust in the LORD. He searches the heart. The new covenant, coming soon in this book, is his cure.\n\n**Jeremiah 17:5–10 (NIV)**\n5 This is what the LORD says: “Cursed is the one who trusts in man, who draws strength from mere flesh and whose heart turns away from the LORD. 6 That person will be like a bush in the wastelands; they will not see prosperity when it comes. They will dwell in the parched places of the desert, in a salt land where no one lives. 7 “But blessed is the one who trusts in the LORD, whose confidence is in him. 8 They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.” 9 The heart is deceitful above all things and beyond cure. Who can understand it? 10 “I the LORD search the heart and examine the mind, to reward each person according to their conduct, according to what their deeds deserve.”\n\n**Jeremiah 17:19–27 (NIV)**\n19 This is what the LORD said to me: “Go and stand at the Gate of the People, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem. 20 Say to them, ‘Hear the word of the LORD, you kings of Judah and all people of Judah and everyone living in Jerusalem who come through these gates. 21 This is what the LORD says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem. 22 Do not bring a load out of your houses or do any work on the Sabbath, but keep the Sabbath day holy, as I commanded your ancestors. 23 Yet they did not listen or pay attention; they were stiff-necked and would not listen or respond to discipline. 24 But if you are careful to obey me, declares the LORD, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it, 25 then kings who sit on David’s throne will come through the gates of this city with their officials. They and their officials will come riding in chariots and on horses, accompanied by the men of Judah and those living in Jerusalem, and this city will be inhabited forever. 26 People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings and incense, and bringing thank offerings to the house of the LORD. 27 But if you do not obey me to keep the Sabbath day holy by not carrying any load as you come through the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in the gates of Jerusalem that will consume her fortresses.’”\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 17:9.** NIV: “The heart is deceitful above all things and beyond cure. Who can understand it?” LSB: “The heart is more deceitful than all else And is desperately sick; Who can know it?” The diagnosis is not mild. The LORD, who searches the heart, is the one who can understand it.\n\n**Go deeper:** John Piper’s Ask Pastor John [“Is the Christian’s Heart Deceitfully Wicked?”](https://www.desiringgod.org/interviews/is-the-christians-heart-deceitfully-wicked) sits with Jeremiah 17:9 and the new covenant’s new heart. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) sets the prophet’s warnings inside God’s faithfulness, which will not let sin have the last word.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been drawing strength from mere flesh, or treating your own heart as a trustworthy guide? What would it look like this week to trust in the LORD like a tree planted by the water — including in the ordinary “gates” of your house and work?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "128",
+      "number": 128,
+      "date": "2027-03-09",
+      "title": "Jeremiah: seek the peace of the city; I know the plans I have for you",
+      "passages": [
+        "Jeremiah 29:1–14"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Jeremiah 29:1-14 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+29%3A1-14&version=NIV"
+        },
+        {
+          "label": "Jeremiah 29:1-14 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+29%3A1-14&version=LSB"
+        },
+        {
+          "label": "John Piper, Seek Your City’s Good (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/seek-your-citys-good"
+        },
+        {
+          "label": "John Piper, Is Jeremiah 29:11 a Promise to Christians? (Desiring God)",
+          "url": "https://www.desiringgod.org/interviews/is-jeremiah-29-11-a-promise-to-christians"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 128: Jeremiah: seek the peace of the city; I know the plans I have for you**\n\nGood morning, Greg. Yesterday the heart was deceitful, and the blessed one was the one who trusts in the LORD. Today a letter goes to the exiles. “This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon.” The LORD Almighty says to those he carried to Babylon: “Build houses and settle down; plant gardens and eat what they produce.” “Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.” This is not a quick escape. It is a long obedience in a city that is not yet home. Then the promise, after seventy years: “When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.” “I will be found by you,” and “will bring you back from captivity.” John Piper says, “Yes, Christians can lay claim to this, and they can do it because of Christ.” “It explicitly addresses the exiles in Babylon.” “Seventy years are going to pass, but a hope and a future are coming for them.” He hears Paul: “All the promises of God find their Yes in [Christ].” “I love Jeremiah 29:11 and I lay hold of it as a Johnny-come-lately Gentile. I believe Christ has warranted that for me.” On the charge to the exiles he says, “If that was true for God’s exiles in Babylon, it would seem to be even more true for Christian exiles in this very ‘Babylon-like’ world.” “Seek the welfare of the place where God has sent you. Think of yourself as sent there by God for his glory.” (He is reading “welfare”; the NIV says “peace and prosperity.”) As a man, husband, and father, do not turn 29:11 into a thin slogan, and do not despise the city where you have been sent. Seek its peace. Pray for it. Hope in the LORD’s plans, which are Yes in Christ.\n\n**Jeremiah 29:1–14 (NIV)**\n1 This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon. 2 (This was after King Jehoiachin and the queen mother, the court officials and the leaders of Judah and Jerusalem, the skilled workers and the artisans had gone into exile from Jerusalem.) 3 He entrusted the letter to Elasah son of Shaphan and to Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It said: 4 This is what the LORD Almighty, the God of Israel, says to all those I carried into exile from Jerusalem to Babylon: 5 “Build houses and settle down; plant gardens and eat what they produce. 6 Marry and have sons and daughters; find wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Increase in number there; do not decrease. 7 Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.” 8 Yes, this is what the LORD Almighty, the God of Israel, says: “Do not let the prophets and diviners among you deceive you. Do not listen to the dreams you encourage them to have. 9 They are prophesying lies to you in my name. I have not sent them,” declares the LORD. 10 This is what the LORD says: “When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. 11 For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future. 12 Then you will call on me and come and pray to me, and I will listen to you. 13 You will seek me and find me when you seek me with all your heart. 14 I will be found by you,” declares the LORD, “and will bring you back from captivity. I will gather you from all the nations and places where I have banished you,” declares the LORD, “and will bring you back to the place from which I carried you into exile.”\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 29:7.** NIV: “seek the peace and prosperity of the city to which I have carried you into exile.” LSB: “Seek the peace of the city where I have sent you into exile… for in its peace you will have peace.” The exiles are not told to despise the city. They are told to seek its peace.\n- **Jeremiah 29:11.** NIV: “plans to prosper you and not to harm you, plans to give you hope and a future.” LSB: “plans for peace and not for calamity, to give you a future and a hope.” The promise is spoken to exiles, after seventy years. It is not a thin slogan.\n\n**Go deeper:** John Piper’s Solid Joys [“Seek Your City’s Good”](https://www.desiringgod.org/solid-joys/seek-your-citys-good) hears Jeremiah 29 as a charge to seek the welfare of the place where God has sent you. His Ask Pastor John [“Is Jeremiah 29:11 a Promise to Christians?”](https://www.desiringgod.org/interviews/is-jeremiah-29-11-a-promise-to-christians) keeps the verse in the exile, then shows how all the promises of God find their Yes in Christ. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) holds the same hope: God has not abandoned his people.\n\n**Reflection question:** As a man, husband, and father, where have you either clutched Jeremiah 29:11 as a private prosperity verse, or refused to seek the peace of the place where God has sent you? What would it look like this week to pray for your city, and to hope in the plans that are Yes in Christ?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w128",
+      "number": 128,
+      "date": "2027-03-09",
+      "title": "Jeremiah: seek the peace of the city; I know the plans I have for you",
+      "passages": [
+        "Jeremiah 29:1–14"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Jeremiah 29:1-14 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+29%3A1-14&version=NIV"
+        },
+        {
+          "label": "Jeremiah 29:1-14 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+29%3A1-14&version=LSB"
+        },
+        {
+          "label": "John Piper, Seek Your City’s Good (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/seek-your-citys-good"
+        },
+        {
+          "label": "John Piper, Is Jeremiah 29:11 a Promise to Christians? (Desiring God)",
+          "url": "https://www.desiringgod.org/interviews/is-jeremiah-29-11-a-promise-to-christians"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 128: Jeremiah: seek the peace of the city; I know the plans I have for you**\n\nGood morning. Yesterday the heart was deceitful, and the blessed one was the one who trusts in the LORD. Today a letter goes to the exiles. “This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon.” The LORD Almighty says to those he carried to Babylon: “Build houses and settle down; plant gardens and eat what they produce.” “Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.” This is not a quick escape. It is a long obedience in a city that is not yet home. Then the promise, after seventy years: “When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.” “I will be found by you,” and “will bring you back from captivity.” John Piper says, “Yes, Christians can lay claim to this, and they can do it because of Christ.” “It explicitly addresses the exiles in Babylon.” “Seventy years are going to pass, but a hope and a future are coming for them.” He hears Paul: “All the promises of God find their Yes in [Christ].” “I love Jeremiah 29:11 and I lay hold of it as a Johnny-come-lately Gentile. I believe Christ has warranted that for me.” On the charge to the exiles he says, “If that was true for God’s exiles in Babylon, it would seem to be even more true for Christian exiles in this very ‘Babylon-like’ world.” “Seek the welfare of the place where God has sent you. Think of yourself as sent there by God for his glory.” (He is reading “welfare”; the NIV says “peace and prosperity.”) As a woman, wife, and a mother, do not turn 29:11 into a thin slogan, and do not despise the city where you have been sent. Seek its peace. Pray for it. Hope in the LORD’s plans, which are Yes in Christ.\n\n**Jeremiah 29:1–14 (NIV)**\n1 This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon. 2 (This was after King Jehoiachin and the queen mother, the court officials and the leaders of Judah and Jerusalem, the skilled workers and the artisans had gone into exile from Jerusalem.) 3 He entrusted the letter to Elasah son of Shaphan and to Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It said: 4 This is what the LORD Almighty, the God of Israel, says to all those I carried into exile from Jerusalem to Babylon: 5 “Build houses and settle down; plant gardens and eat what they produce. 6 Marry and have sons and daughters; find wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Increase in number there; do not decrease. 7 Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the LORD for it, because if it prospers, you too will prosper.” 8 Yes, this is what the LORD Almighty, the God of Israel, says: “Do not let the prophets and diviners among you deceive you. Do not listen to the dreams you encourage them to have. 9 They are prophesying lies to you in my name. I have not sent them,” declares the LORD. 10 This is what the LORD says: “When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. 11 For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future. 12 Then you will call on me and come and pray to me, and I will listen to you. 13 You will seek me and find me when you seek me with all your heart. 14 I will be found by you,” declares the LORD, “and will bring you back from captivity. I will gather you from all the nations and places where I have banished you,” declares the LORD, “and will bring you back to the place from which I carried you into exile.”\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 29:7.** NIV: “seek the peace and prosperity of the city to which I have carried you into exile.” LSB: “Seek the peace of the city where I have sent you into exile… for in its peace you will have peace.” The exiles are not told to despise the city. They are told to seek its peace.\n- **Jeremiah 29:11.** NIV: “plans to prosper you and not to harm you, plans to give you hope and a future.” LSB: “plans for peace and not for calamity, to give you a future and a hope.” The promise is spoken to exiles, after seventy years. It is not a thin slogan.\n\n**Go deeper:** John Piper’s Solid Joys [“Seek Your City’s Good”](https://www.desiringgod.org/solid-joys/seek-your-citys-good) hears Jeremiah 29 as a charge to seek the welfare of the place where God has sent you. His Ask Pastor John [“Is Jeremiah 29:11 a Promise to Christians?”](https://www.desiringgod.org/interviews/is-jeremiah-29-11-a-promise-to-christians) keeps the verse in the exile, then shows how all the promises of God find their Yes in Christ. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) holds the same hope: God has not abandoned his people.\n\n**Reflection question:** As a woman, wife, and a mother, where have you either clutched Jeremiah 29:11 as a private prosperity verse, or refused to seek the peace of the place where God has sent you? What would it look like this week to pray for your city, and to hope in the plans that are Yes in Christ?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "129",
+      "number": 129,
+      "date": "2027-03-10",
+      "title": "Jeremiah: a new covenant written on the heart",
+      "passages": [
+        "Jeremiah 31:31–37"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Jeremiah 31:31-37 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-37&version=NIV"
+        },
+        {
+          "label": "Jeremiah 31:31-37 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-37&version=LSB"
+        },
+        {
+          "label": "John Piper, The Greatest Salvation Imaginable (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/the-greatest-salvation-imaginable"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 129: Jeremiah: a new covenant written on the heart**\n\nGood morning, Greg. Yesterday the exiles were told to seek the peace of the city, and the LORD promised plans for hope and a future. Today he promises a new covenant. “The days are coming,” declares the LORD, “when I will make a new covenant with the people of Israel and with the people of Judah.” It will not be like the covenant they broke, though he was a husband to them. “This is the covenant I will make with the people of Israel after that time,” declares the LORD. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.” “No longer will they teach their neighbor, or say to one another, ‘Know the LORD,’ because they will all know me, from the least of them to the greatest,” declares the LORD. “For I will forgive their wickedness and will remember their sins no more.” This covenant is as sure as the sun and the moon. If those fixed laws can vanish from his sight, then Israel would cease to be a nation before him. He who can measure the heavens can keep this people. John Piper says that God “would do something new. He would replace shadows with the Reality of the Messiah. And he would powerfully move into our lives and write his will on our hearts so that we are not constrained from outside, but are willing from inside, to love him and trust him and follow him.” “That would be the greatest salvation imaginable.” BibleProject says that “despite Israel’s apostasy, God will not let their sin get the last word. His own faithfulness will bring about the fulfillment of his promises — no matter what.” As a man, husband, and father, the deceitful heart of chapter 17 is not the end of the story. The LORD will write his law on the heart, forgive wickedness, and remember sins no more. This is the covenant Jesus calls new in his blood.\n\n**Jeremiah 31:31–37 (NIV)**\n31 “The days are coming,” declares the LORD, “when I will make a new covenant with the people of Israel and with the people of Judah. 32 It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,” declares the LORD. 33 “This is the covenant I will make with the people of Israel after that time,” declares the LORD. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people. 34 No longer will they teach their neighbor, or say to one another, ‘Know the LORD,’ because they will all know me, from the least of them to the greatest,” declares the LORD. “For I will forgive their wickedness and will remember their sins no more.” 35 This is what the LORD says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar— the LORD Almighty is his name: 36 “Only if these decrees vanish from my sight,” declares the LORD, “will Israel ever cease being a nation before me.” 37 This is what the LORD says: “Only if the heavens above can be measured and the foundations of the earth below be searched out will I reject all the descendants of Israel because of all they have done,” declares the LORD.\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 31:33.** NIV: “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.” LSB: “I will put My law within them, and on their heart I will write it; and I will be their God, and they shall be My people.” The new covenant is not a new suggestion. It is a new heart.\n\n**Go deeper:** John Piper’s Solid Joys [“The Greatest Salvation Imaginable”](https://www.desiringgod.org/solid-joys/the-greatest-salvation-imaginable) lingers over Jeremiah 31: God would write his will on our hearts so that we are willing from the inside. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) says God’s own faithfulness will bring about the fulfillment of his promises — no matter what.\n\n**Reflection question:** As a man, husband, and father, where are you still trying to keep covenant from the outside, while the heart stays untouched? What would it mean this week to ask the LORD to write his law on your heart, and to rest in the forgiveness that remembers sins no more?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w129",
+      "number": 129,
+      "date": "2027-03-10",
+      "title": "Jeremiah: a new covenant written on the heart",
+      "passages": [
+        "Jeremiah 31:31–37"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Jeremiah 31:31-37 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-37&version=NIV"
+        },
+        {
+          "label": "Jeremiah 31:31-37 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-37&version=LSB"
+        },
+        {
+          "label": "John Piper, The Greatest Salvation Imaginable (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/the-greatest-salvation-imaginable"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 129: Jeremiah: a new covenant written on the heart**\n\nGood morning. Yesterday the exiles were told to seek the peace of the city, and the LORD promised plans for hope and a future. Today he promises a new covenant. “The days are coming,” declares the LORD, “when I will make a new covenant with the people of Israel and with the people of Judah.” It will not be like the covenant they broke, though he was a husband to them. “This is the covenant I will make with the people of Israel after that time,” declares the LORD. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.” “No longer will they teach their neighbor, or say to one another, ‘Know the LORD,’ because they will all know me, from the least of them to the greatest,” declares the LORD. “For I will forgive their wickedness and will remember their sins no more.” This covenant is as sure as the sun and the moon. If those fixed laws can vanish from his sight, then Israel would cease to be a nation before him. He who can measure the heavens can keep this people. John Piper says that God “would do something new. He would replace shadows with the Reality of the Messiah. And he would powerfully move into our lives and write his will on our hearts so that we are not constrained from outside, but are willing from inside, to love him and trust him and follow him.” “That would be the greatest salvation imaginable.” BibleProject says that “despite Israel’s apostasy, God will not let their sin get the last word. His own faithfulness will bring about the fulfillment of his promises — no matter what.” As a woman, wife, and a mother, the deceitful heart of chapter 17 is not the end of the story. The LORD will write his law on the heart, forgive wickedness, and remember sins no more. This is the covenant Jesus calls new in his blood.\n\n**Jeremiah 31:31–37 (NIV)**\n31 “The days are coming,” declares the LORD, “when I will make a new covenant with the people of Israel and with the people of Judah. 32 It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,” declares the LORD. 33 “This is the covenant I will make with the people of Israel after that time,” declares the LORD. “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people. 34 No longer will they teach their neighbor, or say to one another, ‘Know the LORD,’ because they will all know me, from the least of them to the greatest,” declares the LORD. “For I will forgive their wickedness and will remember their sins no more.” 35 This is what the LORD says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar— the LORD Almighty is his name: 36 “Only if these decrees vanish from my sight,” declares the LORD, “will Israel ever cease being a nation before me.” 37 This is what the LORD says: “Only if the heavens above can be measured and the foundations of the earth below be searched out will I reject all the descendants of Israel because of all they have done,” declares the LORD.\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 31:33.** NIV: “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.” LSB: “I will put My law within them, and on their heart I will write it; and I will be their God, and they shall be My people.” The new covenant is not a new suggestion. It is a new heart.\n\n**Go deeper:** John Piper’s Solid Joys [“The Greatest Salvation Imaginable”](https://www.desiringgod.org/solid-joys/the-greatest-salvation-imaginable) lingers over Jeremiah 31: God would write his will on our hearts so that we are willing from the inside. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) says God’s own faithfulness will bring about the fulfillment of his promises — no matter what.\n\n**Reflection question:** As a woman, wife, and a mother, where are you still trying to keep covenant from the outside, while the heart stays untouched? What would it mean this week to ask the LORD to write his law on your heart, and to rest in the forgiveness that remembers sins no more?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "130",
+      "number": 130,
+      "date": "2027-03-11",
+      "title": "Jeremiah: nothing is too hard for the Lord",
+      "passages": [
+        "Jeremiah 32:16–27",
+        "Jeremiah 38:1–13"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Jeremiah 32:16-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A16-27&version=NIV"
+        },
+        {
+          "label": "Jeremiah 32:16-27 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A16-27&version=LSB"
+        },
+        {
+          "label": "Jeremiah 38:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+38%3A1-13&version=NIV"
+        },
+        {
+          "label": "Jeremiah 38:1-13 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+38%3A1-13&version=LSB"
+        },
+        {
+          "label": "John Piper, God Rejoices to Do You Good (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/god-rejoices-to-do-you-good"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 130: Jeremiah: nothing is too hard for the Lord**\n\nGood morning, Greg. Yesterday the LORD promised a new covenant written on the heart. Today Jeremiah prays, with siege ramps already against the city, and then is thrown into a cistern. After he has given the deed of purchase to Baruch, he prays: “Ah, Sovereign LORD, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you.” He confesses the LORD’s love and justice, then tells the truth about the siege: “See how the siege ramps are built up to take the city.” “And though the city will be given into the hands of the Babylonians, you, Sovereign LORD, say to me, ‘Buy the field with silver and have the transaction witnessed.’” The purchase looks impossible. The prayer is honest. The LORD answers, “I am the LORD, the God of all mankind. Is anything too hard for me?” The hardness of the moment is not only the siege. Officials hear Jeremiah say the city will fall, and they lower him with ropes into a cistern in the courtyard of the guard. “it had no water in it, only mud, and Jeremiah sank down into the mud.” Ebed-Melek the Cushite goes to the king, tells him these men have acted wickedly, and is sent with thirty men. He lowers old rags and worn-out clothes for Jeremiah to pad his armpits, then pulls him up with ropes. The prophet is not abandoned in the mud. Nothing is too hard for the LORD — not a field in a doomed city, and not a man in a cistern. As a man, husband, and father, the LORD who made heaven and earth can keep his word when the siege ramps are already up. Do not call “too hard” what he has promised. And when someone is sinking, be an Ebed-Melek: go, speak, and lift.\n\n**Jeremiah 32:16–27 (NIV)**\n16 “After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD: 17 “Ah, Sovereign LORD, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you. 18 You show love to thousands but bring the punishment for the parents’ sins into the laps of their children after them. Great and mighty God, whose name is the LORD Almighty, 19 great are your purposes and mighty are your deeds. Your eyes are open to the ways of all mankind; you reward each person according to their conduct and as their deeds deserve. 20 You performed signs and wonders in Egypt and have continued them to this day, in Israel and among all mankind, and have gained the renown that is still yours. 21 You brought your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror. 22 You gave them this land you had sworn to give their ancestors, a land flowing with milk and honey. 23 They came in and took possession of it, but they did not obey you or follow your law; they did not do what you commanded them to do. So you brought all this disaster on them. 24 “See how the siege ramps are built up to take the city. Because of the sword, famine and plague, the city will be given into the hands of the Babylonians who are attacking it. What you said has happened, as you now see. 25 And though the city will be given into the hands of the Babylonians, you, Sovereign LORD, say to me, ‘Buy the field with silver and have the transaction witnessed.’” 26 Then the word of the LORD came to Jeremiah: 27 “I am the LORD, the God of all mankind. Is anything too hard for me?\n\n**Jeremiah 38:1–13 (NIV)**\n1 Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehukal son of Shelemiah, and Pashhur son of Malkijah heard what Jeremiah was telling all the people when he said, 2 “This is what the LORD says: ‘Whoever stays in this city will die by the sword, famine or plague, but whoever goes over to the Babylonians will live. They will escape with their lives; they will live.’ 3 And this is what the LORD says: ‘This city will certainly be given into the hands of the army of the king of Babylon, who will capture it.’” 4 Then the officials said to the king, “This man should be put to death. He is discouraging the soldiers who are left in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.” 5 “He is in your hands,” King Zedekiah answered. “The king can do nothing to oppose you.” 6 So they took Jeremiah and put him into the cistern of Malkijah, the king’s son, which was in the courtyard of the guard. They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud. 7 But Ebed-Melek, a Cushite, an official in the royal palace, heard that they had put Jeremiah into the cistern. While the king was sitting in the Benjamin Gate, 8 Ebed-Melek went out of the palace and said to him, 9 “My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will starve to death when there is no longer any bread in the city.” 10 Then the king commanded Ebed-Melek the Cushite, “Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.” 11 So Ebed-Melek took the men with him and went to a room under the treasury in the palace. He took some old rags and worn-out clothes from there and let them down with ropes to Jeremiah in the cistern. 12 Ebed-Melek the Cushite said to Jeremiah, “Put these old rags and worn-out clothes under your arms to pad the ropes.” Jeremiah did so, 13 and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 32:17.** NIV: “Nothing is too hard for you.” LSB: “Nothing is too difficult for You.”\n- **Jeremiah 32:27.** NIV: “I am the LORD, the God of all mankind. Is anything too hard for me?” LSB: “I am Yahweh, the God of all flesh; is anything too difficult for Me?” The question answers the prayer.\n\n**Go deeper:** The prayer of Jeremiah 32:16–27 is answered, later in the same chapter, with a promise Piper loves to return to. His Solid Joys [“God Rejoices to Do You Good”](https://www.desiringgod.org/solid-joys/god-rejoices-to-do-you-good) sits with Jeremiah 32:40–41: the LORD does not only do his people good; he rejoices to do them good. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) reminds us that God has not abandoned his people or the promise of a future king.\n\n**Reflection question:** As a man, husband, and father, where have you decided that a promise of God is too hard, because the siege ramps are already visible? And who around you is sinking in the mud, whom you could lift this week?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w130",
+      "number": 130,
+      "date": "2027-03-11",
+      "title": "Jeremiah: nothing is too hard for the Lord",
+      "passages": [
+        "Jeremiah 32:16–27",
+        "Jeremiah 38:1–13"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Jeremiah 32:16-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A16-27&version=NIV"
+        },
+        {
+          "label": "Jeremiah 32:16-27 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A16-27&version=LSB"
+        },
+        {
+          "label": "Jeremiah 38:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+38%3A1-13&version=NIV"
+        },
+        {
+          "label": "Jeremiah 38:1-13 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Jeremiah+38%3A1-13&version=LSB"
+        },
+        {
+          "label": "John Piper, God Rejoices to Do You Good (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/god-rejoices-to-do-you-good"
+        },
+        {
+          "label": "BibleProject, Book of Jeremiah guide",
+          "url": "https://bibleproject.com/guides/book-of-jeremiah/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 130: Jeremiah: nothing is too hard for the Lord**\n\nGood morning. Yesterday the LORD promised a new covenant written on the heart. Today Jeremiah prays, with siege ramps already against the city, and then is thrown into a cistern. After he has given the deed of purchase to Baruch, he prays: “Ah, Sovereign LORD, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you.” He confesses the LORD’s love and justice, then tells the truth about the siege: “See how the siege ramps are built up to take the city.” “And though the city will be given into the hands of the Babylonians, you, Sovereign LORD, say to me, ‘Buy the field with silver and have the transaction witnessed.’” The purchase looks impossible. The prayer is honest. The LORD answers, “I am the LORD, the God of all mankind. Is anything too hard for me?” The hardness of the moment is not only the siege. Officials hear Jeremiah say the city will fall, and they lower him with ropes into a cistern in the courtyard of the guard. “it had no water in it, only mud, and Jeremiah sank down into the mud.” Ebed-Melek the Cushite goes to the king, tells him these men have acted wickedly, and is sent with thirty men. He lowers old rags and worn-out clothes for Jeremiah to pad his armpits, then pulls him up with ropes. The prophet is not abandoned in the mud. Nothing is too hard for the LORD — not a field in a doomed city, and not a man in a cistern. As a woman, wife, and a mother, the LORD who made heaven and earth can keep his word when the siege ramps are already up. Do not call “too hard” what he has promised. And when someone is sinking, be an Ebed-Melek: go, speak, and lift.\n\n**Jeremiah 32:16–27 (NIV)**\n16 “After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD: 17 “Ah, Sovereign LORD, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you. 18 You show love to thousands but bring the punishment for the parents’ sins into the laps of their children after them. Great and mighty God, whose name is the LORD Almighty, 19 great are your purposes and mighty are your deeds. Your eyes are open to the ways of all mankind; you reward each person according to their conduct and as their deeds deserve. 20 You performed signs and wonders in Egypt and have continued them to this day, in Israel and among all mankind, and have gained the renown that is still yours. 21 You brought your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror. 22 You gave them this land you had sworn to give their ancestors, a land flowing with milk and honey. 23 They came in and took possession of it, but they did not obey you or follow your law; they did not do what you commanded them to do. So you brought all this disaster on them. 24 “See how the siege ramps are built up to take the city. Because of the sword, famine and plague, the city will be given into the hands of the Babylonians who are attacking it. What you said has happened, as you now see. 25 And though the city will be given into the hands of the Babylonians, you, Sovereign LORD, say to me, ‘Buy the field with silver and have the transaction witnessed.’” 26 Then the word of the LORD came to Jeremiah: 27 “I am the LORD, the God of all mankind. Is anything too hard for me?\n\n**Jeremiah 38:1–13 (NIV)**\n1 Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehukal son of Shelemiah, and Pashhur son of Malkijah heard what Jeremiah was telling all the people when he said, 2 “This is what the LORD says: ‘Whoever stays in this city will die by the sword, famine or plague, but whoever goes over to the Babylonians will live. They will escape with their lives; they will live.’ 3 And this is what the LORD says: ‘This city will certainly be given into the hands of the army of the king of Babylon, who will capture it.’” 4 Then the officials said to the king, “This man should be put to death. He is discouraging the soldiers who are left in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.” 5 “He is in your hands,” King Zedekiah answered. “The king can do nothing to oppose you.” 6 So they took Jeremiah and put him into the cistern of Malkijah, the king’s son, which was in the courtyard of the guard. They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud. 7 But Ebed-Melek, a Cushite, an official in the royal palace, heard that they had put Jeremiah into the cistern. While the king was sitting in the Benjamin Gate, 8 Ebed-Melek went out of the palace and said to him, 9 “My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will starve to death when there is no longer any bread in the city.” 10 Then the king commanded Ebed-Melek the Cushite, “Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.” 11 So Ebed-Melek took the men with him and went to a room under the treasury in the palace. He took some old rags and worn-out clothes from there and let them down with ropes to Jeremiah in the cistern. 12 Ebed-Melek the Cushite said to Jeremiah, “Put these old rags and worn-out clothes under your arms to pad the ropes.” Jeremiah did so, 13 and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.\n\n**Translation note (NIV vs. LSB)**\n- **Jeremiah 32:17.** NIV: “Nothing is too hard for you.” LSB: “Nothing is too difficult for You.”\n- **Jeremiah 32:27.** NIV: “I am the LORD, the God of all mankind. Is anything too hard for me?” LSB: “I am Yahweh, the God of all flesh; is anything too difficult for Me?” The question answers the prayer.\n\n**Go deeper:** The prayer of Jeremiah 32:16–27 is answered, later in the same chapter, with a promise Piper loves to return to. His Solid Joys [“God Rejoices to Do You Good”](https://www.desiringgod.org/solid-joys/god-rejoices-to-do-you-good) sits with Jeremiah 32:40–41: the LORD does not only do his people good; he rejoices to do them good. BibleProject’s [Book of Jeremiah guide](https://bibleproject.com/guides/book-of-jeremiah/) reminds us that God has not abandoned his people or the promise of a future king.\n\n**Reflection question:** As a woman, wife, and a mother, where have you decided that a promise of God is too hard, because the siege ramps are already visible? And who around you is sinking in the mud, whom you could lift this week?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "131",
+      "number": 131,
+      "date": "2027-03-12",
+      "title": "Lamentations: a city weeps — pouring out your heart",
+      "passages": [
+        "Lamentations 1:1–11",
+        "Lamentations 2:11–19"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Lamentations 1:1-11 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+1%3A1-11&version=NIV"
+        },
+        {
+          "label": "Lamentations 1:1-11 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+1%3A1-11&version=LSB"
+        },
+        {
+          "label": "Lamentations 2:11-19 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+2%3A11-19&version=NIV"
+        },
+        {
+          "label": "Lamentations 2:11-19 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+2%3A11-19&version=LSB"
+        },
+        {
+          "label": "BibleProject, Book of Lamentations guide",
+          "url": "https://bibleproject.com/guides/book-of-lamentations/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 131: Lamentations: a city weeps — pouring out your heart**\n\nGood morning, Greg. Yesterday nothing was too hard for the LORD, even a field under siege and a prophet in a cistern. Today the city has fallen, and the book weeps. “How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave.” She weeps at night; there is no one to comfort her. Judah has gone into exile. The roads to Zion mourn. Her gates are desolate. “The enemy laid hands on all her treasures; she saw pagan nations enter her sanctuary— those you had forbidden to enter your assembly.” “Look, LORD, and consider, for I am despised.” The poet does not hide the worst: “My eyes fail from weeping, I am in torment within; my heart is poured out on the ground because my people are destroyed, because children and infants faint in the streets of the city.” What can he say for Daughter Jerusalem? Then the charge, which is also a mercy: “Arise, cry out in the night, as the watches of the night begin; pour out your heart like water in the presence of the Lord. Lift up your hands to him for the lives of your children, who faint from hunger at every street corner.” BibleProject says Lamentations is “a memorial to the Israelites’ pain and confusion following the destruction of Jerusalem,” and “shows how prayerful lament is a crucial part of our journey of faith in a broken world.” These poems “are a form of protest.” They are “a way of processing emotion.” They “give a voice to our confusion.” And “these poems give a sacred dignity to human suffering, as these human words of grief addressed to God have become part of God’s word to his people.” “It’s like Israel’s suffering is explored A to Z.” As a man, husband, and father, do not rush past a ruined city with thin cheer. Pour out your heart like water in the presence of the Lord. Lament is not a lack of faith. It is grief brought to him.\n\n**Lamentations 1:1–11 (NIV)**\n1 How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave. 2 Bitterly she weeps at night, tears are on her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies. 3 After affliction and harsh labor, Judah has gone into exile. She dwells among the nations; she finds no resting place. All who pursue her have overtaken her in the midst of her distress. 4 The roads to Zion mourn, for no one comes to her appointed festivals. All her gateways are desolate, her priests groan, her young women grieve, and she is in bitter anguish. 5 Her foes have become her masters; her enemies are at ease. The LORD has brought her grief because of her many sins. Her children have gone into exile, captive before the foe. 6 All the splendor has departed from Daughter Zion. Her princes are like deer that find no pasture; in weakness they have fled before the pursuer. 7 In the days of her affliction and wandering Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands, there was no one to help her. Her enemies looked at her and laughed at her destruction. 8 Jerusalem has sinned greatly and so has become unclean. All who honored her despise her, for they have all seen her naked; she herself groans and turns away. 9 Her filthiness clung to her skirts; she did not consider her future. Her fall was astounding; there was none to comfort her. “Look, LORD, on my affliction, for the enemy has triumphed.” 10 The enemy laid hands on all her treasures; she saw pagan nations enter her sanctuary— those you had forbidden to enter your assembly. 11 All her people groan as they search for bread; they barter their treasures for food to keep themselves alive. “Look, LORD, and consider, for I am despised.”\n\n**Lamentations 2:11–19 (NIV)**\n11 My eyes fail from weeping, I am in torment within; my heart is poured out on the ground because my people are destroyed, because children and infants faint in the streets of the city. 12 They say to their mothers, “Where is bread and wine?” as they faint like the wounded in the streets of the city, as their lives ebb away in their mothers’ arms. 13 What can I say for you? With what can I compare you, Daughter Jerusalem? To what can I liken you, that I may comfort you, Virgin Daughter Zion? Your wound is as deep as the sea. Who can heal you? 14 The visions of your prophets were false and worthless; they did not expose your sin to ward off your captivity. The prophecies they gave you were false and misleading. 15 All who pass your way clap their hands at you; they scoff and shake their heads at Daughter Jerusalem: “Is this the city that was called the perfection of beauty, the joy of the whole earth?” 16 All your enemies open their mouths wide against you; they scoff and gnash their teeth and say, “We have swallowed her up. This is the day we have waited for; we have lived to see it.” 17 The LORD has done what he planned; he has fulfilled his word, which he decreed long ago. He has overthrown you without pity, he has let the enemy gloat over you, he has exalted the horn of your foes. 18 The hearts of the people cry out to the Lord. You walls of Daughter Zion, let your tears flow like a river day and night; give yourself no relief, your eyes no rest. 19 Arise, cry out in the night, as the watches of the night begin; pour out your heart like water in the presence of the Lord. Lift up your hands to him for the lives of your children, who faint from hunger at every street corner.\n\n**Translation note (NIV vs. LSB)**\n- **Lamentations 2:19.** NIV: “pour out your heart like water in the presence of the Lord.” LSB: “Pour out your heart like water Before the presence of the Lord.” Lament is not unbelief. It is grief brought into his presence.\n\n**Go deeper:** BibleProject’s [Book of Lamentations guide](https://bibleproject.com/guides/book-of-lamentations/) calls the book “a memorial to the Israelites’ pain and confusion following the destruction of Jerusalem,” and shows “how prayerful lament is a crucial part of our journey of faith in a broken world.” These poems “give a sacred dignity to human suffering.”\n\n**Reflection question:** As a man, husband, and father, where have you been unwilling to pour out your heart like water in the presence of the Lord — for your people, your house, or the world’s ruins? What would an honest lament look like this week, in his presence, not away from him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w131",
+      "number": 131,
+      "date": "2027-03-12",
+      "title": "Lamentations: a city weeps — pouring out your heart",
+      "passages": [
+        "Lamentations 1:1–11",
+        "Lamentations 2:11–19"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Lamentations 1:1-11 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+1%3A1-11&version=NIV"
+        },
+        {
+          "label": "Lamentations 1:1-11 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+1%3A1-11&version=LSB"
+        },
+        {
+          "label": "Lamentations 2:11-19 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+2%3A11-19&version=NIV"
+        },
+        {
+          "label": "Lamentations 2:11-19 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+2%3A11-19&version=LSB"
+        },
+        {
+          "label": "BibleProject, Book of Lamentations guide",
+          "url": "https://bibleproject.com/guides/book-of-lamentations/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 131: Lamentations: a city weeps — pouring out your heart**\n\nGood morning. Yesterday nothing was too hard for the LORD, even a field under siege and a prophet in a cistern. Today the city has fallen, and the book weeps. “How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave.” She weeps at night; there is no one to comfort her. Judah has gone into exile. The roads to Zion mourn. Her gates are desolate. “The enemy laid hands on all her treasures; she saw pagan nations enter her sanctuary— those you had forbidden to enter your assembly.” “Look, LORD, and consider, for I am despised.” The poet does not hide the worst: “My eyes fail from weeping, I am in torment within; my heart is poured out on the ground because my people are destroyed, because children and infants faint in the streets of the city.” What can he say for Daughter Jerusalem? Then the charge, which is also a mercy: “Arise, cry out in the night, as the watches of the night begin; pour out your heart like water in the presence of the Lord. Lift up your hands to him for the lives of your children, who faint from hunger at every street corner.” BibleProject says Lamentations is “a memorial to the Israelites’ pain and confusion following the destruction of Jerusalem,” and “shows how prayerful lament is a crucial part of our journey of faith in a broken world.” These poems “are a form of protest.” They are “a way of processing emotion.” They “give a voice to our confusion.” And “these poems give a sacred dignity to human suffering, as these human words of grief addressed to God have become part of God’s word to his people.” “It’s like Israel’s suffering is explored A to Z.” As a woman, wife, and a mother, do not rush past a ruined city with thin cheer. Pour out your heart like water in the presence of the Lord. Lament is not a lack of faith. It is grief brought to him.\n\n**Lamentations 1:1–11 (NIV)**\n1 How deserted lies the city, once so full of people! How like a widow is she, who once was great among the nations! She who was queen among the provinces has now become a slave. 2 Bitterly she weeps at night, tears are on her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies. 3 After affliction and harsh labor, Judah has gone into exile. She dwells among the nations; she finds no resting place. All who pursue her have overtaken her in the midst of her distress. 4 The roads to Zion mourn, for no one comes to her appointed festivals. All her gateways are desolate, her priests groan, her young women grieve, and she is in bitter anguish. 5 Her foes have become her masters; her enemies are at ease. The LORD has brought her grief because of her many sins. Her children have gone into exile, captive before the foe. 6 All the splendor has departed from Daughter Zion. Her princes are like deer that find no pasture; in weakness they have fled before the pursuer. 7 In the days of her affliction and wandering Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands, there was no one to help her. Her enemies looked at her and laughed at her destruction. 8 Jerusalem has sinned greatly and so has become unclean. All who honored her despise her, for they have all seen her naked; she herself groans and turns away. 9 Her filthiness clung to her skirts; she did not consider her future. Her fall was astounding; there was none to comfort her. “Look, LORD, on my affliction, for the enemy has triumphed.” 10 The enemy laid hands on all her treasures; she saw pagan nations enter her sanctuary— those you had forbidden to enter your assembly. 11 All her people groan as they search for bread; they barter their treasures for food to keep themselves alive. “Look, LORD, and consider, for I am despised.”\n\n**Lamentations 2:11–19 (NIV)**\n11 My eyes fail from weeping, I am in torment within; my heart is poured out on the ground because my people are destroyed, because children and infants faint in the streets of the city. 12 They say to their mothers, “Where is bread and wine?” as they faint like the wounded in the streets of the city, as their lives ebb away in their mothers’ arms. 13 What can I say for you? With what can I compare you, Daughter Jerusalem? To what can I liken you, that I may comfort you, Virgin Daughter Zion? Your wound is as deep as the sea. Who can heal you? 14 The visions of your prophets were false and worthless; they did not expose your sin to ward off your captivity. The prophecies they gave you were false and misleading. 15 All who pass your way clap their hands at you; they scoff and shake their heads at Daughter Jerusalem: “Is this the city that was called the perfection of beauty, the joy of the whole earth?” 16 All your enemies open their mouths wide against you; they scoff and gnash their teeth and say, “We have swallowed her up. This is the day we have waited for; we have lived to see it.” 17 The LORD has done what he planned; he has fulfilled his word, which he decreed long ago. He has overthrown you without pity, he has let the enemy gloat over you, he has exalted the horn of your foes. 18 The hearts of the people cry out to the Lord. You walls of Daughter Zion, let your tears flow like a river day and night; give yourself no relief, your eyes no rest. 19 Arise, cry out in the night, as the watches of the night begin; pour out your heart like water in the presence of the Lord. Lift up your hands to him for the lives of your children, who faint from hunger at every street corner.\n\n**Translation note (NIV vs. LSB)**\n- **Lamentations 2:19.** NIV: “pour out your heart like water in the presence of the Lord.” LSB: “Pour out your heart like water Before the presence of the Lord.” Lament is not unbelief. It is grief brought into his presence.\n\n**Go deeper:** BibleProject’s [Book of Lamentations guide](https://bibleproject.com/guides/book-of-lamentations/) calls the book “a memorial to the Israelites’ pain and confusion following the destruction of Jerusalem,” and shows “how prayerful lament is a crucial part of our journey of faith in a broken world.” These poems “give a sacred dignity to human suffering.”\n\n**Reflection question:** As a woman, wife, and a mother, where have you been unwilling to pour out your heart like water in the presence of the Lord — for your people, your house, or the world’s ruins? What would an honest lament look like this week, in his presence, not away from him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "132",
+      "number": 132,
+      "date": "2027-03-13",
+      "title": "Lamentations: great is your faithfulness; his mercies are new every morning",
+      "passages": [
+        "Lamentations 3:19–33"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Lamentations 3:19-33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+3%3A19-33&version=NIV"
+        },
+        {
+          "label": "Lamentations 3:19-33 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+3%3A19-33&version=LSB"
+        },
+        {
+          "label": "John Piper, Today’s Mercies for Today’s Troubles (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/todays-mercies-for-todays-troubles"
+        },
+        {
+          "label": "John Piper, Mercy for Today (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/mercy-for-today"
+        },
+        {
+          "label": "John Piper, The Battle to Remind (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/the-battle-to-remind"
+        },
+        {
+          "label": "BibleProject, Book of Lamentations guide",
+          "url": "https://bibleproject.com/guides/book-of-lamentations/"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth, Great Is Thy Faithfulness (Revive Our Hearts)",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/great-thy-faithfulness/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 132: Lamentations: great is your faithfulness; his mercies are new every morning**\n\nGood morning, Greg. Yesterday the city wept, and we were told to pour out our heart like water in the presence of the Lord. Today, in the middle of the lament, hope is called to mind. “I remember my affliction and my wandering, the bitterness and the gall. I well remember them, and my soul is downcast within me. Yet this I call to mind and therefore I have hope: Because of the LORD’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.” “The LORD is my portion; therefore I will wait for him.” “The LORD is good to those whose hope is in him, to the one who seeks him; it is good to wait quietly for the salvation of the LORD.” “For no one is cast off by the Lord forever. Though he brings grief, he will show compassion, so great is his unfailing love. For he does not willingly bring affliction or grief to anyone.” John Piper says, “God’s mercies are new every morning because each day only has enough mercy in it for that day.” “Today’s mercies are for today’s troubles. Tomorrow’s mercies are for tomorrow’s troubles.” “One of the great enemies of hope is forgetting God’s promises.” “The mind can ‘call to mind.’” BibleProject has already told us that prayerful lament is a crucial part of faith in a broken world. Here the lament itself learns to remember. As a man, husband, and father, your soul may be downcast. Call this to mind: his compassions never fail, and they are new this morning. Great is his faithfulness. Wait for him.\n\n**Lamentations 3:19–33 (NIV)**\n19 I remember my affliction and my wandering, the bitterness and the gall. 20 I well remember them, and my soul is downcast within me. 21 Yet this I call to mind and therefore I have hope: 22 Because of the LORD’s great love we are not consumed, for his compassions never fail. 23 They are new every morning; great is your faithfulness. 24 I say to myself, “The LORD is my portion; therefore I will wait for him.” 25 The LORD is good to those whose hope is in him, to the one who seeks him; 26 it is good to wait quietly for the salvation of the LORD. 27 It is good for a man to bear the yoke while he is young. 28 Let him sit alone in silence, for the LORD has laid it on him. 29 Let him bury his face in the dust— there may yet be hope. 30 Let him offer his cheek to one who would strike him, and let him be filled with disgrace. 31 For no one is cast off by the Lord forever. 32 Though he brings grief, he will show compassion, so great is his unfailing love. 33 For he does not willingly bring affliction or grief to anyone.\n\n**Translation note (NIV vs. LSB)**\n- **Lamentations 3:22.** NIV: “Because of the LORD’s great love we are not consumed, for his compassions never fail.” LSB: “The lovingkindnesses of Yahweh indeed never cease, For His compassions never fail.” The mercies are his, and they do not run out.\n- **Lamentations 3:31.** NIV: “For no one is cast off by the Lord forever.” LSB: “For the Lord will not reject forever.” Grief is real. It is not the last word.\n\n**Go deeper:** Nancy DeMoss Wolgemuth’s [“Great Is Thy Faithfulness”](https://www.reviveourhearts.com/podcast/revive-our-hearts/great-thy-faithfulness/) finds, in a book of lament, “that pearl”: mercies new every morning, and great faithfulness. John Piper’s [“Today’s Mercies for Today’s Troubles”](https://www.desiringgod.org/messages/todays-mercies-for-todays-troubles) and Solid Joys [“Mercy for Today”](https://www.desiringgod.org/solid-joys/mercy-for-today) and [“The Battle to Remind”](https://www.desiringgod.org/solid-joys/the-battle-to-remind) teach us to call this to mind. BibleProject’s [Book of Lamentations guide](https://bibleproject.com/guides/book-of-lamentations/) shows lament as a crucial part of faith in a broken world.\n\n**Reflection question:** As a man, husband, and father, what affliction have you been trying to carry on yesterday’s mercies? What would it look like this morning to call the LORD’s great love to mind, and to wait for him with today’s mercies only?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w132",
+      "number": 132,
+      "date": "2027-03-13",
+      "title": "Lamentations: great is your faithfulness; his mercies are new every morning",
+      "passages": [
+        "Lamentations 3:19–33"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Lamentations 3:19-33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+3%3A19-33&version=NIV"
+        },
+        {
+          "label": "Lamentations 3:19-33 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Lamentations+3%3A19-33&version=LSB"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth, Great Is Thy Faithfulness (Revive Our Hearts)",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/great-thy-faithfulness/"
+        },
+        {
+          "label": "John Piper, Today’s Mercies for Today’s Troubles (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/todays-mercies-for-todays-troubles"
+        },
+        {
+          "label": "John Piper, Mercy for Today (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/mercy-for-today"
+        },
+        {
+          "label": "John Piper, The Battle to Remind (Desiring God, Solid Joys)",
+          "url": "https://www.desiringgod.org/solid-joys/the-battle-to-remind"
+        },
+        {
+          "label": "BibleProject, Book of Lamentations guide",
+          "url": "https://bibleproject.com/guides/book-of-lamentations/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 132: Lamentations: great is your faithfulness; his mercies are new every morning**\n\nGood morning. Yesterday the city wept, and we were told to pour out our heart like water in the presence of the Lord. Today, in the middle of the lament, hope is called to mind. “I remember my affliction and my wandering, the bitterness and the gall. I well remember them, and my soul is downcast within me. Yet this I call to mind and therefore I have hope: Because of the LORD’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.” “The LORD is my portion; therefore I will wait for him.” “The LORD is good to those whose hope is in him, to the one who seeks him; it is good to wait quietly for the salvation of the LORD.” “For no one is cast off by the Lord forever. Though he brings grief, he will show compassion, so great is his unfailing love. For he does not willingly bring affliction or grief to anyone.” Nancy DeMoss Wolgemuth asks, “How do you get these beautiful verses about the steadfast love of the Lord, and His mercies never come to an end, and they’re new every morning, and great is Your faithfulness. How do you find those verses, that pearl, in a book called Lamentations?” She presses the question home: “Is God going to stop being faithful to me now? Am I going to be the first person in all the history of the world who found God to be unfaithful? I don’t think so!” John Piper says, “God’s mercies are new every morning because each day only has enough mercy in it for that day.” “Today’s mercies are for today’s troubles. Tomorrow’s mercies are for tomorrow’s troubles.” “One of the great enemies of hope is forgetting God’s promises.” “The mind can ‘call to mind.’” BibleProject has already told us that prayerful lament is a crucial part of faith in a broken world. Here the lament itself learns to remember. As a woman, wife, and a mother, your soul may be downcast. Call this to mind: his compassions never fail, and they are new this morning. Great is his faithfulness. Wait for him.\n\n**Lamentations 3:19–33 (NIV)**\n19 I remember my affliction and my wandering, the bitterness and the gall. 20 I well remember them, and my soul is downcast within me. 21 Yet this I call to mind and therefore I have hope: 22 Because of the LORD’s great love we are not consumed, for his compassions never fail. 23 They are new every morning; great is your faithfulness. 24 I say to myself, “The LORD is my portion; therefore I will wait for him.” 25 The LORD is good to those whose hope is in him, to the one who seeks him; 26 it is good to wait quietly for the salvation of the LORD. 27 It is good for a man to bear the yoke while he is young. 28 Let him sit alone in silence, for the LORD has laid it on him. 29 Let him bury his face in the dust— there may yet be hope. 30 Let him offer his cheek to one who would strike him, and let him be filled with disgrace. 31 For no one is cast off by the Lord forever. 32 Though he brings grief, he will show compassion, so great is his unfailing love. 33 For he does not willingly bring affliction or grief to anyone.\n\n**Translation note (NIV vs. LSB)**\n- **Lamentations 3:22.** NIV: “Because of the LORD’s great love we are not consumed, for his compassions never fail.” LSB: “The lovingkindnesses of Yahweh indeed never cease, For His compassions never fail.” The mercies are his, and they do not run out.\n- **Lamentations 3:31.** NIV: “For no one is cast off by the Lord forever.” LSB: “For the Lord will not reject forever.” Grief is real. It is not the last word.\n\n**Go deeper:** Nancy DeMoss Wolgemuth’s [“Great Is Thy Faithfulness”](https://www.reviveourhearts.com/podcast/revive-our-hearts/great-thy-faithfulness/) finds, in a book of lament, “that pearl”: mercies new every morning, and great faithfulness. John Piper’s [“Today’s Mercies for Today’s Troubles”](https://www.desiringgod.org/messages/todays-mercies-for-todays-troubles) and Solid Joys [“Mercy for Today”](https://www.desiringgod.org/solid-joys/mercy-for-today) and [“The Battle to Remind”](https://www.desiringgod.org/solid-joys/the-battle-to-remind) teach us to call this to mind. BibleProject’s [Book of Lamentations guide](https://bibleproject.com/guides/book-of-lamentations/) shows lament as a crucial part of faith in a broken world.\n\n**Reflection question:** As a woman, wife, and a mother, what affliction have you been trying to carry on yesterday’s mercies? What would it look like this morning to call the LORD’s great love to mind, and to wait for him with today’s mercies only?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "133",
+      "number": 133,
+      "date": "2027-03-14",
+      "title": "Ezekiel: visions of the glory of the Lord",
+      "passages": [
+        "Ezekiel 1:1–28"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Ezekiel 1:1-28 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ezekiel+1%3A1-28&version=NIV"
+        },
+        {
+          "label": "Ezekiel 1:1-28 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Ezekiel+1%3A1-28&version=LSB"
+        },
+        {
+          "label": "BibleProject, Book of Ezekiel guide",
+          "url": "https://bibleproject.com/guides/book-of-ezekiel/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 133: Ezekiel: visions of the glory of the Lord**\n\nGood morning, Greg. Yesterday, in the middle of the lament, mercies were new every morning, and great was his faithfulness. Today the heavens open over the exiles, and a priest sees the glory of the LORD. “In my thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.” The word of the LORD came to Ezekiel the priest. He saw a windstorm from the north, an immense cloud, flashing lightning, and in the fire what looked like four living creatures — four faces, four wings, and wheels beside them, rims full of eyes, moving wherever the spirit would go. Above their heads, something like a vault, sparkling like crystal. Above the vault, what looked like a throne, and on the throne a figure like that of a man, radiant as fire, and around him the radiance of a rainbow. “This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.” BibleProject says Ezekiel “realizes what he’s seeing and describes it as the ‘appearance of the likeness of the glory of the Lord’ riding on his royal throne chariot.” “The Hebrew word for ‘glory’ is kavod, and it means ‘heavy’ or ‘significant.’” “The biblical authors use this word to describe the physical manifestations of God’s importance when he personally appears.” The images recall Sinai, and the ark. “And that’s actually the most shocking thing about Ezekiel’s vision. God’s glorious presence is supposed to be dwelling in the Jerusalem temple. What is God’s glory doing in Babylon?” As a man, husband, and father, the glory of the LORD is not trapped in a fallen city, and it is not too holy to meet an exile. When the likeness of that glory appears, the right place is on your face, listening for the voice.\n\n**Ezekiel 1:1–28 (NIV)**\n1 In my thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God. 2 On the fifth of the month—it was the fifth year of the exile of King Jehoiachin— 3 the word of the LORD came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the LORD was on him. 4 I looked, and I saw a windstorm coming out of the north—an immense cloud with flashing lightning and surrounded by brilliant light. The center of the fire looked like glowing metal, 5 and in the fire was what looked like four living creatures. In appearance their form was human, 6 but each of them had four faces and four wings. 7 Their legs were straight; their feet were like those of a calf and gleamed like burnished bronze. 8 Under their wings on their four sides they had human hands. All four of them had faces and wings, 9 and the wings of one touched the wings of another. Each one went straight ahead; they did not turn as they moved. 10 Their faces looked like this: Each of the four had the face of a human being, and on the right side each had the face of a lion, and on the left the face of an ox; each also had the face of an eagle. 11 Such were their faces. They each had two wings spreading out upward, each wing touching that of the creature on either side; and each had two other wings covering its body. 12 Each one went straight ahead. Wherever the spirit would go, they would go, without turning as they went. 13 The appearance of the living creatures was like burning coals of fire or like torches. Fire moved back and forth among the creatures; it was bright, and lightning flashed out of it. 14 The creatures sped back and forth like flashes of lightning. 15 As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces. 16 This was the appearance and structure of the wheels: They sparkled like topaz, and all four looked alike. Each appeared to be made like a wheel intersecting a wheel. 17 As they moved, they would go in any one of the four directions the creatures faced; the wheels did not change direction as the creatures went. 18 Their rims were high and awesome, and all four rims were full of eyes all around. 19 When the living creatures moved, the wheels beside them moved; and when the living creatures rose from the ground, the wheels also rose. 20 Wherever the spirit would go, they would go, and the wheels would rise along with them, because the spirit of the living creatures was in the wheels. 21 When the creatures moved, they also moved; when the creatures stood still, they also stood still; and when the creatures rose from the ground, the wheels rose along with them, because the spirit of the living creatures was in the wheels. 22 Spread out above the heads of the living creatures was what looked something like a vault, sparkling like crystal, and awesome. 23 Under the vault their wings were stretched out one toward the other, and each had two wings covering its body. 24 When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings. 25 Then there came a voice from above the vault over their heads as they stood with lowered wings. 26 Above the vault over their heads was what looked like a throne of lapis lazuli, and high above on the throne was a figure like that of a man. 27 I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and that from there down he looked like fire; and brilliant light surrounded him. 28 Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.\n\n**Translation note (NIV vs. LSB)**\n- **Ezekiel 1:28.** NIV: “This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown.” LSB: “Such was the appearance of the likeness of the glory of Yahweh. And I saw this, and I fell on my face.” The prophet does not swagger before the glory. He falls.\n\n**Go deeper:** BibleProject’s [Book of Ezekiel guide](https://bibleproject.com/guides/book-of-ezekiel/) walks the opening vision: living creatures, wheels, a throne, and “the appearance of the likeness of the glory of the Lord” on his royal throne chariot. The shock of the chapter is the question, “What is God’s glory doing in Babylon?”\n\n**Reflection question:** As a man, husband, and father, have you assumed the glory of the LORD stays in the old familiar holy place, or that it cannot meet you in an “exile” of your own? What would it mean this week to fall facedown before his glory, and to listen for the voice?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w133",
+      "number": 133,
+      "date": "2027-03-14",
+      "title": "Ezekiel: visions of the glory of the Lord",
+      "passages": [
+        "Ezekiel 1:1–28"
+      ],
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Ezekiel 1:1-28 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ezekiel+1%3A1-28&version=NIV"
+        },
+        {
+          "label": "Ezekiel 1:1-28 (LSB)",
+          "url": "https://www.biblegateway.com/passage/?search=Ezekiel+1%3A1-28&version=LSB"
+        },
+        {
+          "label": "BibleProject, Book of Ezekiel guide",
+          "url": "https://bibleproject.com/guides/book-of-ezekiel/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 133: Ezekiel: visions of the glory of the Lord**\n\nGood morning. Yesterday, in the middle of the lament, mercies were new every morning, and great was his faithfulness. Today the heavens open over the exiles, and a priest sees the glory of the LORD. “In my thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.” The word of the LORD came to Ezekiel the priest. He saw a windstorm from the north, an immense cloud, flashing lightning, and in the fire what looked like four living creatures — four faces, four wings, and wheels beside them, rims full of eyes, moving wherever the spirit would go. Above their heads, something like a vault, sparkling like crystal. Above the vault, what looked like a throne, and on the throne a figure like that of a man, radiant as fire, and around him the radiance of a rainbow. “This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.” BibleProject says Ezekiel “realizes what he’s seeing and describes it as the ‘appearance of the likeness of the glory of the Lord’ riding on his royal throne chariot.” “The Hebrew word for ‘glory’ is kavod, and it means ‘heavy’ or ‘significant.’” “The biblical authors use this word to describe the physical manifestations of God’s importance when he personally appears.” The images recall Sinai, and the ark. “And that’s actually the most shocking thing about Ezekiel’s vision. God’s glorious presence is supposed to be dwelling in the Jerusalem temple. What is God’s glory doing in Babylon?” As a woman, wife, and a mother, the glory of the LORD is not trapped in a fallen city, and it is not too holy to meet an exile. When the likeness of that glory appears, the right place is on your face, listening for the voice.\n\n**Ezekiel 1:1–28 (NIV)**\n1 In my thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God. 2 On the fifth of the month—it was the fifth year of the exile of King Jehoiachin— 3 the word of the LORD came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the LORD was on him. 4 I looked, and I saw a windstorm coming out of the north—an immense cloud with flashing lightning and surrounded by brilliant light. The center of the fire looked like glowing metal, 5 and in the fire was what looked like four living creatures. In appearance their form was human, 6 but each of them had four faces and four wings. 7 Their legs were straight; their feet were like those of a calf and gleamed like burnished bronze. 8 Under their wings on their four sides they had human hands. All four of them had faces and wings, 9 and the wings of one touched the wings of another. Each one went straight ahead; they did not turn as they moved. 10 Their faces looked like this: Each of the four had the face of a human being, and on the right side each had the face of a lion, and on the left the face of an ox; each also had the face of an eagle. 11 Such were their faces. They each had two wings spreading out upward, each wing touching that of the creature on either side; and each had two other wings covering its body. 12 Each one went straight ahead. Wherever the spirit would go, they would go, without turning as they went. 13 The appearance of the living creatures was like burning coals of fire or like torches. Fire moved back and forth among the creatures; it was bright, and lightning flashed out of it. 14 The creatures sped back and forth like flashes of lightning. 15 As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces. 16 This was the appearance and structure of the wheels: They sparkled like topaz, and all four looked alike. Each appeared to be made like a wheel intersecting a wheel. 17 As they moved, they would go in any one of the four directions the creatures faced; the wheels did not change direction as the creatures went. 18 Their rims were high and awesome, and all four rims were full of eyes all around. 19 When the living creatures moved, the wheels beside them moved; and when the living creatures rose from the ground, the wheels also rose. 20 Wherever the spirit would go, they would go, and the wheels would rise along with them, because the spirit of the living creatures was in the wheels. 21 When the creatures moved, they also moved; when the creatures stood still, they also stood still; and when the creatures rose from the ground, the wheels rose along with them, because the spirit of the living creatures was in the wheels. 22 Spread out above the heads of the living creatures was what looked something like a vault, sparkling like crystal, and awesome. 23 Under the vault their wings were stretched out one toward the other, and each had two wings covering its body. 24 When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty, like the tumult of an army. When they stood still, they lowered their wings. 25 Then there came a voice from above the vault over their heads as they stood with lowered wings. 26 Above the vault over their heads was what looked like a throne of lapis lazuli, and high above on the throne was a figure like that of a man. 27 I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and that from there down he looked like fire; and brilliant light surrounded him. 28 Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown, and I heard the voice of one speaking.\n\n**Translation note (NIV vs. LSB)**\n- **Ezekiel 1:28.** NIV: “This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown.” LSB: “Such was the appearance of the likeness of the glory of Yahweh. And I saw this, and I fell on my face.” The prophet does not swagger before the glory. He falls.\n\n**Go deeper:** BibleProject’s [Book of Ezekiel guide](https://bibleproject.com/guides/book-of-ezekiel/) walks the opening vision: living creatures, wheels, a throne, and “the appearance of the likeness of the glory of the Lord” on his royal throne chariot. The shock of the chapter is the question, “What is God’s glory doing in Babylon?”\n\n**Reflection question:** As a woman, wife, and a mother, have you assumed the glory of the LORD stays in the old familiar holy place, or that it cannot meet you in an “exile” of your own? What would it mean this week to fall facedown before his glory, and to listen for the voice?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
     }
   ]
 }
