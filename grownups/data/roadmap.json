@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.91",
+  "version": "2026.11.21.98",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1615,18 +1615,18 @@
       "passages": [
         "Ezekiel 18:1–32"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 135,
       "date": "2027-03-16",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Ezekiel: shepherds who feed themselves, and the true Shepherd",
+      "title": "Ezekiel: shepherds who feed themselves, and the true Shepherd",
       "passages": [
         "Ezekiel 34:1–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1638,7 +1638,7 @@
         "Ezekiel 36:22–32",
         "Ezekiel 37:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1649,7 +1649,7 @@
       "passages": [
         "Ezekiel 47:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1660,7 +1660,7 @@
       "passages": [
         "Daniel 1:1–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1671,7 +1671,7 @@
       "passages": [
         "Daniel 3:13–30"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1682,7 +1682,7 @@
       "passages": [
         "Daniel 6:1–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.16",
+  "contentVersion": "2026.11.21.17",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -4663,9 +4663,236 @@
       "planTitle": "Palm Sunday: Jesus enters Jerusalem",
       "title": "Palm Sunday: Jesus enters Jerusalem",
       "selectLabel": "Week 20 · Palm Sunday: Jesus enters Jerusalem",
-      "ready": false,
+      "ready": true,
+      "passage": "Zechariah 9:9; Matthew 21:1–11; John 12:12–19; Luke 19:28–40 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 21 · Easter: Jesus is risen",
+      "bigIdea": "Jesus is the promised King. He enters Jerusalem gentle and riding on a donkey, and the crowds shout, “Hosanna!” — “LORD, save us!” We welcome him, and next week we see how he saves: he is risen.",
+      "scheduleNote": "This is the Week 20 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Zechariah 9:9 out loud, then Matthew 21:1–11, then John 12:12–19."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Zechariah 9:9",
+          "text": "9 Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey."
+        },
+        {
+          "cite": "Matthew 21:1–11",
+          "text": "1 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, 2 saying to them, “Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. 3 If anyone says anything to you, say that the Lord needs them, and he will send them right away.” 4 This took place to fulfill what was spoken through the prophet: 5 “Say to Daughter Zion, ‘See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.’” 6 The disciples went and did as Jesus had instructed them. 7 They brought the donkey and the colt and placed their cloaks on them for Jesus to sit on. 8 A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road. 9 The crowds that went ahead of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” 10 When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?” 11 The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.”"
+        },
+        {
+          "cite": "John 12:12–19",
+          "text": "12 The next day the great crowd that had come for the festival heard that Jesus was on his way to Jerusalem. 13 They took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!” 14 Jesus found a young donkey and sat on it, as it is written: 15 “Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkey’s colt.” 16 At first his disciples did not understand all this. Only after Jesus was glorified did they realize that these things had been written about him and that these things had been done to him. 17 Now the crowd that was with him when he called Lazarus from the tomb and raised him from the dead continued to spread the word. 18 Many people, because they had heard that he had performed this sign, went out to meet him. 19 So the Pharisees said to one another, “See, this is getting us nowhere. Look how the whole world has gone after him!”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we looked ahead to our forever home, and we prayed, “Come, Lord Jesus.” This week the King comes into Jerusalem. Long before, the Lord had promised, “Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey.”",
+        "As Jesus came near the city, he sent two disciples to find a donkey and a colt. This happened to fulfill what was spoken through the prophet: “Say to Daughter Zion, ‘See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.’” The disciples brought the donkey, laid their cloaks on it, and Jesus sat on them. A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road.",
+        "The crowds that went ahead of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?” The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.”",
+        "John tells us they took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!” This is what “Hosanna” means: “LORD, save us!” The King they welcome is coming to save.",
+        "So we wave and we shout with them. And we look toward next week. This King does not turn aside. He enters Jerusalem to save his people. Next Sunday we will see how he saves: Jesus is risen."
+      ],
+      "enochLine": "Jesus is the King! We shout, Hosanna!",
+      "enochActivities": [
+        "Activity: A road for the King. Help a grown-up lay a coat or towel on the floor and say, “Hosanna! Jesus is the King!”",
+        "Activity: Palm branches. Wave a green leaf, a paper branch, or your hands and shout, “Hosanna!”"
+      ],
+      "elijahQuestions": [
+        "In Zechariah 9:9, how does the promised king come to Daughter Zion?",
+        "In Matthew 21:9, what did the crowds shout as Jesus rode into Jerusalem?",
+        "In John 12:13, what did the people take in their hands as they went out to meet Jesus?",
+        "What does “Hosanna” mean, from Psalm 118:25?"
+      ],
+      "jordynQuestions": [
+        "Zechariah 9:9 and Matthew 21:5 both show a king on a donkey, not a war horse. What kind of King is Jesus, if he comes “lowly” and “gentle”?",
+        "The crowds shout, “Hosanna!” which means, “LORD, save us!” (Psalm 118:25). How does that cry get you ready for Easter next week?",
+        "In Luke 19:40 Jesus says, “if they keep quiet, the stones will cry out.” What does it mean to welcome this King with more than a shout one Sunday?"
+      ],
+      "jordynApplication": "Jesus is the promised King who enters Jerusalem to save (Zechariah 9:9; Matthew 21:5, 9). This week, practice the shout “Hosanna” — “LORD, save us!” — and get ready for Easter, when we see that this King is risen.",
+      "elijahAnswers": [
+        "“lowly and riding on a donkey, on a colt, the foal of a donkey” (Zechariah 9:9).",
+        "“Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” (Matthew 21:9).",
+        "Palm branches (John 12:13).",
+        "“LORD, save us!” (Psalm 118:25)."
+      ],
+      "jordynAnswers": [
+        "He is righteous and victorious, yet he comes lowly and gentle, riding on a donkey (Zechariah 9:9; Matthew 21:5). He is a saving King, not a king who comes to crush his people.",
+        "“Hosanna” is a prayer for the King to save (Psalm 118:25). Next week we see how he saves: Jesus is risen. The welcome of Palm Sunday and the joy of Easter belong together.",
+        "The stones would cry out if the people were silent (Luke 19:40). Welcoming the King means we keep praising him, and we follow him into the week when he saves — toward the empty tomb next Sunday."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced the prayer “Hosanna” — “LORD, save us!” — and whether she is looking toward Easter. If it is fitting, share one way you welcomed the King this week too, and pray together for the week ahead.",
+      "prayer": "Father, thank you that Jesus is the promised King, who comes gentle and riding on a donkey. We shout with the crowds, “Hosanna!” — “LORD, save us!” Teach us to welcome him this week, and get our hearts ready for Easter, when we see that he is risen. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w20-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus enters Jerusalem as the promised King, and the crowds shout, “Hosanna to the Son of David!”",
+          "verse": "“Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!”",
+          "verseCite": "Matthew 21:9, NIV",
+          "enoch": "Lay a coat or towel on the floor like a road and say, “Hosanna! Jesus is the King!”",
+          "elijah": "In Matthew 21:5, how does the king come to Daughter Zion?",
+          "elijahAnswer": "“See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.”",
+          "jordyn": "The whole city was stirred and asked, “Who is this?” (Matthew 21:10). How would you answer, using what the crowds shouted in Matthew 21:9?",
+          "jordynAnswer": "This is Jesus, the Son of David, the King who comes in the name of the Lord (Matthew 21:9–11). “Hosanna” is how we welcome him.",
+          "action": "Tell someone today that Jesus is the King, and say “Hosanna” as a real prayer: “LORD, save us.”",
+          "prayer": "Jesus, you are the King who comes gentle and riding on a donkey. We welcome you with the crowds: “Hosanna to the Son of David!” In your name, Amen.",
+          "passageCite": "Matthew 21:1–11, NIV",
+          "teach": "As Jesus came near Jerusalem, he sent two disciples for a donkey and a colt, to fulfill the prophet’s word: the king comes gentle and riding on a donkey. The crowd spread cloaks and branches on the road. They shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” The whole city was stirred and asked, “Who is this?”",
+          "enochActivity": "Wave your hands or a green leaf and shout, “Hosanna!”",
+          "elijah2": "In Matthew 21:9, what three shouts did the crowds cry?",
+          "elijahAnswer2": "“Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!”",
+          "jordyn2": "Why does it matter that Jesus comes “gentle and riding on a donkey,” not on a war horse?",
+          "jordynAnswer2": "This is the King God promised (Matthew 21:4–5). He is victorious, but he comes gently, to save. Palm Sunday shows us what kind of King he is before we watch, next week, how he saves.",
+          "passageText": "1 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, 2 saying to them, “Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. 3 If anyone says anything to you, say that the Lord needs them, and he will send them right away.” 4 This took place to fulfill what was spoken through the prophet: 5 “Say to Daughter Zion, ‘See, your king comes to you, gentle and riding on a donkey, and on a colt, the foal of a donkey.’” 6 The disciples went and did as Jesus had instructed them. 7 They brought the donkey and the colt and placed their cloaks on them for Jesus to sit on. 8 A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road. 9 The crowds that went ahead of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” 10 When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?” 11 The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.”"
+        },
+        {
+          "id": "w20-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "The prophet promised a king who comes lowly, riding on a donkey. Jesus is that King.",
+          "verse": "Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey.",
+          "verseCite": "Zechariah 9:9, NIV",
+          "enoch": "Trot like a donkey (gently!) and then sit down and say, “The King comes on a donkey!”",
+          "elijah": "In Zechariah 9:9, what is Daughter Zion told to do, and how does her king come?",
+          "elijahAnswer": "“Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem!” The king comes “righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey.”",
+          "jordyn": "Zechariah 9:9 calls the king both “victorious” and “lowly.” How can both be true in Jesus as he rides into Jerusalem?",
+          "jordynAnswer": "He is the true King, righteous and victorious, yet he comes lowly, on a donkey, just as God promised (Zechariah 9:9). His victory will look like saving his people, which we will see at Easter.",
+          "action": "Play a “which King?” game: one person pretends to be a proud king, another comes lowly on a “donkey.” Talk about which picture matches Zechariah 9:9.",
+          "prayer": "Lord, thank you that you promised a king who comes lowly, riding on a donkey. Thank you that Jesus is that King. Help us rejoice and shout. In his name, Amen.",
+          "passageCite": "Zechariah 9:9, NIV",
+          "teach": "Long before Palm Sunday, the Lord told Daughter Zion to rejoice and shout. Her king would come righteous and victorious, yet lowly, riding on a donkey, on a colt, the foal of a donkey. When Jesus sent for the donkey and rode into Jerusalem, he was keeping that promise.",
+          "enochActivity": "Shout, “Rejoice! The King is coming!” and give a big smile.",
+          "elijah2": "In Zechariah 9:9, what animal does the king ride?",
+          "elijahAnswer2": "A donkey — “on a colt, the foal of a donkey.”",
+          "jordyn2": "Why is it good news that this King is “lowly,” not only “victorious”?",
+          "jordynAnswer2": "A lowly King can be approached. He comes to save, not to trample his people (Zechariah 9:9). That is why we can shout “Hosanna” and mean it.",
+          "passageText": "9 Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey."
+        },
+        {
+          "id": "w20-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The people take palm branches and go out to meet Jesus, shouting, “Hosanna!” “Blessed is the king of Israel!”",
+          "verse": "They took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!”",
+          "verseCite": "John 12:13, NIV",
+          "enoch": "Wave a green leaf or a paper palm and say, “Blessed is the king!”",
+          "elijah": "In John 12:13, what three shouts did the people cry as they met Jesus with palm branches?",
+          "elijahAnswer": "“Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!”",
+          "jordyn": "John 12:15 says, “Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkey’s colt.” How does “Do not be afraid” belong with welcoming the King?",
+          "jordynAnswer": "The King who comes is for his people, not against them (John 12:15). We do not have to be afraid to welcome him. He comes to save.",
+          "action": "Make or color a simple palm branch, and write “Hosanna” on it. Put it where you will see it this week.",
+          "prayer": "Jesus, we take up the shout of the crowd: “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!” In your name, Amen.",
+          "passageCite": "John 12:12–19, NIV",
+          "teach": "The great crowd that had come for the festival heard that Jesus was on his way to Jerusalem. They took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!” This was to fulfill the word, “Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkey’s colt.”",
+          "enochActivity": "Hold your “palm” high and say, “Do not be afraid! The King is coming!”",
+          "elijah2": "In John 12:15, what is Daughter Zion told not to do, and what should she see?",
+          "elijahAnswer2": "“Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkey’s colt.”",
+          "jordyn2": "The Pharisees said, “Look how the whole world has gone after him!” (John 12:19). What do their words, even if meant as a complaint, tell you about this King?",
+          "jordynAnswer2": "The welcome of Jesus cannot be kept small (John 12:19). He is the King of Israel, and the world is being drawn to him. We join that welcome.",
+          "passageText": "12 The next day the great crowd that had come for the festival heard that Jesus was on his way to Jerusalem. 13 They took palm branches and went out to meet him, shouting, “Hosanna!” “Blessed is he who comes in the name of the Lord!” “Blessed is the king of Israel!” 14 Jesus found a young donkey and sat on it, as it is written: 15 “Do not be afraid, Daughter Zion; see, your king is coming, seated on a donkey’s colt.” 16 At first his disciples did not understand all this. Only after Jesus was glorified did they realize that these things had been written about him and that these things had been done to him. 17 Now the crowd that was with him when he called Lazarus from the tomb and raised him from the dead continued to spread the word. 18 Many people, because they had heard that he had performed this sign, went out to meet him. 19 So the Pharisees said to one another, “See, this is getting us nowhere. Look how the whole world has gone after him!”"
+        },
+        {
+          "id": "w20-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "“Hosanna” means “LORD, save us!” Even children praise the King.",
+          "verse": "LORD, save us! LORD, grant us success! Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.",
+          "verseCite": "Psalm 118:25–26, NIV",
+          "enoch": "Say slowly, “LORD, save us!” Then shout, “Hosanna!”",
+          "elijah": "In Psalm 118:25–26, what does the first shout ask the LORD to do, and who is blessed?",
+          "elijahAnswer": "“LORD, save us! LORD, grant us success!” “Blessed is he who comes in the name of the LORD.”",
+          "jordyn": "The children in the temple shouted, “Hosanna to the Son of David” (Matthew 21:15). Why is it fitting that children praise this King, and how does Psalm 118 help you understand their shout?",
+          "jordynAnswer": "“Hosanna” is Psalm 118:25: “LORD, save us!” The children are not only being noisy. They are praying the Bible’s welcome of the King. Jesus is pleased with their praise (Matthew 21:16).",
+          "action": "Teach someone younger (or practice yourself) that “Hosanna” means “LORD, save us!” Say it as a prayer, not only as a cheer.",
+          "prayer": "LORD, save us! Blessed is he who comes in the name of the LORD. We welcome Jesus as King, and we ask you to save. In his name, Amen.",
+          "passageCite": "Psalm 118:25–26, NIV",
+          "teach": "The shout “Hosanna” comes from Psalm 118: “LORD, save us! LORD, grant us success! Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.” When the crowds and the children cried “Hosanna,” they were asking the King to save. In the temple, children shouted, “Hosanna to the Son of David,” and Jesus welcomed their praise.",
+          "enochActivity": "Clap and say, “Blessed is he who comes in the name of the LORD!”",
+          "elijah2": "In Matthew 21:15, what did the children shout in the temple?",
+          "elijahAnswer2": "“Hosanna to the Son of David.”",
+          "jordyn2": "How can “Hosanna” be both a cheer and a prayer this week, as we walk toward Easter?",
+          "jordynAnswer2": "We gladly welcome the King, and we ask him to save (Psalm 118:25–26). Easter is the answer to that prayer: the King who entered the city has died and is risen.",
+          "passageText": "25 LORD, save us! LORD, grant us success! 26 Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you."
+        },
+        {
+          "id": "w20-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "If the people keep quiet, the stones will cry out. We will not keep quiet. We welcome the King.",
+          "verse": "“I tell you,” he replied, “if they keep quiet, the stones will cry out.”",
+          "verseCite": "Luke 19:40, NIV",
+          "enoch": "Pick up a small stone, hold it, and say, “We will praise Jesus!” Then set it down.",
+          "elijah": "In Luke 19:38, what did the crowd of disciples shout as Jesus came down the Mount of Olives?",
+          "elijahAnswer": "“Blessed is the king who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”",
+          "jordyn": "Some of the Pharisees wanted Jesus to rebuke his disciples (Luke 19:39). Why does Jesus answer, “if they keep quiet, the stones will cry out”?",
+          "jordynAnswer": "This King must be praised (Luke 19:40). If people will not welcome him, creation itself would cry out. We do not need to be silent. We get to praise him.",
+          "action": "Pray Luke 19:38 out loud as a family: “Blessed is the king who comes in the name of the Lord!”",
+          "prayer": "Jesus, we will not keep quiet. Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest! In your name, Amen.",
+          "passageCite": "Luke 19:28–40, NIV",
+          "teach": "Jesus went on ahead, going up to Jerusalem. As he came down the Mount of Olives, the whole crowd of disciples began to praise God with loud voices for all the miracles they had seen. They shouted, “Blessed is the king who comes in the name of the Lord!” “Peace in heaven and glory in the highest!” Some Pharisees told Jesus to rebuke his disciples. He replied, “if they keep quiet, the stones will cry out.”",
+          "enochActivity": "Thank you, God, that Jesus is the King. We will not keep quiet!",
+          "elijah2": "In Luke 19:40, what did Jesus say would happen if the people kept quiet?",
+          "elijahAnswer2": "“if they keep quiet, the stones will cry out.”",
+          "jordyn2": "What is one way you can refuse to “keep quiet” about this King this week, without being showy — a word, a song, a kindness done in his name?",
+          "jordynAnswer2": "Answers will vary: saying “Hosanna” as a prayer, telling someone Jesus is the King, singing, or serving someone in his name. The point is a real welcome, not a silent heart (Luke 19:40).",
+          "passageText": "28 After Jesus had said this, he went on ahead, going up to Jerusalem. 29 As he approached Bethphage and Bethany at the hill called the Mount of Olives, he sent two of his disciples, saying to them, 30 “Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here. 31 If anyone asks you, ‘Why are you untying it?’ say, ‘The Lord needs it.’” 32 Those who were sent ahead went and found it just as he had told them. 33 As they were untying the colt, its owners asked them, “Why are you untying the colt?” 34 They replied, “The Lord needs it.” 35 They brought it to Jesus, threw their cloaks on the colt and put Jesus on it. 36 As he went along, people spread their cloaks on the road. 37 When he came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began joyfully to praise God in loud voices for all the miracles they had seen: 38 “Blessed is the king who comes in the name of the Lord!” “Peace in heaven and glory in the highest!” 39 Some of the Pharisees in the crowd said to Jesus, “Teacher, rebuke your disciples!” 40 “I tell you,” he replied, “if they keep quiet, the stones will cry out.”"
+        },
+        {
+          "id": "w20-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The promised King has come. We shout, “Hosanna!” — “LORD, save us!” — and get ready for Easter.",
+          "verse": "“Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!”",
+          "verseCite": "Matthew 21:9, NIV",
+          "enoch": "Wave and shout one more time: “Hosanna! Jesus is the King!” Then say, “Next we celebrate: Jesus is risen!”",
+          "elijah": "Can you tell, in your own words, how Jesus entered Jerusalem, and what the people shouted?",
+          "elijahAnswer": "He came riding on a donkey, just as God promised (Zechariah 9:9; Matthew 21:5). The people spread cloaks and branches, even palm branches, and shouted, “Hosanna!” “Blessed is he who comes in the name of the Lord!”",
+          "jordyn": "How do Zechariah 9:9, “Hosanna” in Matthew 21:9, and Easter next Sunday fit together as one story?",
+          "jordynAnswer": "God promised a lowly, victorious King (Zechariah 9:9). The crowds welcome him with “Hosanna” — “LORD, save us!” (Matthew 21:9; Psalm 118:25). Next Sunday we see how he saves: Jesus is risen. The welcome and the rescue belong together.",
+          "action": "Before bed, thank Jesus that he is the King who came to save, and ask him to get your heart ready for Easter tomorrow.",
+          "prayer": "Father, thank you that Jesus is the promised King. We have shouted, “Hosanna!” — “LORD, save us!” As we go toward Easter, we praise you that this King saves, and that he is risen. In Jesus’ name, Amen.",
+          "passageCite": "Zechariah 9:9; Matthew 21:9; Psalm 118:25, NIV",
+          "teach": "This week we learned that Jesus is the promised King. He entered Jerusalem gentle and lowly, riding on a donkey. The people took palm branches and shouted, “Hosanna!” — “LORD, save us!” If they had kept quiet, the stones would have cried out. Next we watch how this King saves: Easter is coming, and Jesus is risen.",
+          "enochActivity": "Give a grown-up a hug and say, “Jesus is the King, and he saves!”",
+          "elijah2": "What does “Hosanna” mean, and why does that matter as we get ready for Easter?",
+          "elijahAnswer2": "It means “LORD, save us!” (Psalm 118:25). Easter is when we see that the King who entered the city has saved — he is risen.",
+          "jordyn2": "What is one way you will welcome the King tomorrow, on Easter, that grows out of this week’s “Hosanna”?",
+          "jordynAnswer2": "Answers will vary: a glad welcome at church, the prayer “LORD, save us,” telling someone Jesus is risen, or praising him instead of keeping quiet. Palm Sunday’s shout and Easter’s joy are one welcome of the same King.",
+          "passageText": "Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey. The crowds that went ahead of him and those that followed shouted, “Hosanna to the Son of David!” “Blessed is he who comes in the name of the Lord!” “Hosanna in the highest heaven!” LORD, save us! LORD, grant us success!"
+        }
+      ],
+      "lessonVerses": [
+        "Zechariah 9:9",
+        "Matthew 21:1–11",
+        "Matthew 21:14–16",
+        "John 12:12–19",
+        "Luke 19:28–40",
+        "Psalm 118:25–26"
+      ]
     },
     {
       "id": "21",
