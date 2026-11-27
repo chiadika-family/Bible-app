@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.168",
+  "version": "2026.11.21.175",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2504,19 +2504,19 @@
         "Galatians 3:1–14",
         "Galatians 3:26–29"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 212,
       "date": "2027-06-01",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Galatians: walk by the Spirit; do not grow weary",
+      "title": "Galatians: walk by the Spirit; do not grow weary",
       "passages": [
         "Galatians 5:13–26",
         "Galatians 6:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2527,7 +2527,7 @@
       "passages": [
         "Ephesians 1:3–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2539,7 +2539,7 @@
         "Ephesians 2:11–22",
         "Ephesians 3:14–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2551,7 +2551,7 @@
         "Ephesians 4:1–16",
         "Ephesians 4:22–32"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2563,7 +2563,7 @@
         "Ephesians 5:1–21",
         "Ephesians 6:10–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2574,7 +2574,7 @@
       "passages": [
         "Philippians 1:3–26"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

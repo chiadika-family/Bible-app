@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.27",
+  "contentVersion": "2026.11.21.28",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -7273,11 +7273,238 @@
       "planTitle": "Peter is set free from prison",
       "title": "Peter is set free from prison",
       "selectLabel": "Week 31 · Peter is set free from prison",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 12:1–17 (NIV)",
-      "bigIdea": "The church prayed, and God set Peter free.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 32 · The church sends Paul and Barnabas",
+      "bigIdea": "The church prayed, and God set Peter free.",
+      "scheduleNote": "This is the Week 31 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 12:1–5 out loud, then Acts 12:6–11, then Acts 12:12–17."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 12:1–5",
+          "text": "1 It was about this time that King Herod arrested some who belonged to the church, intending to persecute them. 2 He had James, the brother of John, put to death with the sword. 3 When he saw that this met with approval among the Jews, he proceeded to seize Peter also. This happened during the Festival of Unleavened Bread. 4 After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover. 5 So Peter was kept in prison, but the church was earnestly praying to God for him."
+        },
+        {
+          "cite": "Acts 12:6–11",
+          "text": "6 The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance. 7 Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. “Quick, get up!” he said, and the chains fell off Peter’s wrists. 8 Then the angel said to him, “Put on your clothes and sandals.” And Peter did so. “Wrap your cloak around you and follow me,” the angel told him. 9 Peter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision. 10 They passed the first and second guards and came to the iron gate leading to the city. It opened for them by itself, and they went through it. When they had walked the length of one street, suddenly the angel left him. 11 Then Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.”"
+        },
+        {
+          "cite": "Acts 12:12–17",
+          "text": "12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 13 Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door. 14 When she recognized Peter’s voice, she was so overjoyed she ran back without opening it and exclaimed, “Peter is at the door!” 15 “You’re out of your mind,” they told her. When she kept insisting that it was so, they said, “It must be his angel.” 16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished. 17 Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week the good news of Jesus went to every nation and people, and Peter stayed with Cornelius’s household. Then a hard time came. King Herod arrested some who belonged to the church. He had James, the brother of John, put to death. When he saw that this met with approval, he seized Peter also, during the Festival of Unleavened Bread, and put him in prison, guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover. So Peter was kept in prison, but the church was earnestly praying to God for him.",
+        "The night before the trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance. Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. “Quick, get up!” he said, and the chains fell off Peter’s wrists. Then the angel said to him, “Put on your clothes and sandals.” And Peter did so. “Wrap your cloak around you and follow me,” the angel told him. Peter followed him out, but he thought he was seeing a vision. They passed the guards, the iron gate opened by itself, and they walked the length of one street. Then the angel left him.",
+        "Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.” He went to the house of Mary, the mother of John, also called Mark, where many people had gathered and were praying. Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door. When she recognized Peter’s voice, she was so overjoyed she ran back without opening it and exclaimed, “Peter is at the door!” “You’re out of your mind,” they told her. When she kept insisting that it was so, they said, “It must be his angel.” But Peter kept on knocking, and when they opened the door and saw him, they were astonished.",
+        "Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place. The James he wants them to tell is a leader in the church, not James the brother of John, who had already been put to death. The church prayed, and God set Peter free.",
+        "Next week we will see the church sending Paul and Barnabas to tell other towns about Jesus."
+      ],
+      "enochLine": "The church prayed, and God set Peter free!",
+      "enochActivities": [
+        "Activity: Pray. Fold your hands and say: The church prayed for Peter!",
+        "Activity: Knock. Gently knock, then open your hands, and say: God set Peter free!"
+      ],
+      "elijahQuestions": [
+        "In Acts 12:1–5, what did King Herod do, and what was the church doing while Peter was in prison?",
+        "In Acts 12:6–11, how did the Lord set Peter free, and what did Peter say when he came to himself?",
+        "In Acts 12:13–16, what did Rhoda do when she recognized Peter’s voice, and what did the people inside say?",
+        "In Acts 12:16–17, what happened when they finally opened the door, and what did Peter tell them to do?"
+      ],
+      "elijahAnswers": [
+        "Herod arrested some who belonged to the church, had James the brother of John put to death, and then seized Peter and put him in prison. The church was earnestly praying to God for him (Acts 12:1–5).",
+        "An angel of the Lord appeared, the chains fell off, and Peter followed the angel out past the guards. The iron gate opened by itself. Peter said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.” (Acts 12:7–11).",
+        "She was so overjoyed she ran back without opening the door and said, “Peter is at the door!” They told her, “You’re out of your mind,” and then, “It must be his angel.” (Acts 12:14–15).",
+        "They were astonished. Peter described how the Lord had brought him out of prison, and said, “Tell James and the other brothers and sisters about this,” then he left for another place (Acts 12:16–17)."
+      ],
+      "jordynQuestions": [
+        "The church was already earnestly praying (Acts 12:5, 12), and still they could not believe Rhoda (Acts 12:15). What does that tell you about praying, and about being ready for God to answer?",
+        "Peter is set free the night before the trial, while he is sleeping in chains (Acts 12:6–11). What does that show you about whose work this rescue is?",
+        "This week the church prayed, and God set Peter free. Next week the church will send Paul and Barnabas to other towns. What do both stories show you about how God keeps using his people?"
+      ],
+      "jordynAnswers": [
+        "Earnest prayer is real, and even praying people can be slow to believe an answer when it comes. Rhoda recognized Peter’s voice and kept insisting. The church was astonished when they opened the door. We can pray earnestly, and we can also be ready to rejoice when God answers.",
+        "Peter is not staging an escape. He is asleep, bound, and guarded. The angel comes, the chains fall, the gate opens, and only afterward does Peter know without a doubt that the Lord has rescued him. The church prayed, and God did the work they could not do.",
+        "God hears a praying church, and he also sends a going church. This week he sets Peter free. Next week we will see the church send Paul and Barnabas to tell other towns about Jesus. Prayer and sending both belong to his work."
+      ],
+      "jordynApplication": "The church prayed, and God set Peter free (Acts 12:1–17). This week, pray earnestly for someone who is in a hard place, and be ready to rejoice if God answers in a way you did not expect. Next week we will see the church sending Paul and Barnabas to other towns.",
+      "applicationCheck": "Ask her later in the week whether she prayed earnestly for someone, and whether she was ready to notice an answer. If it is fitting, thank God together that the church prayed, and that God set Peter free.",
+      "prayer": "Father, thank you that the church was earnestly praying to you for Peter, and that you sent your angel and set him free. Thank you that Rhoda recognized his voice, and that you answered even when the praying church was slow to believe it. Teach us to pray earnestly, and to rejoice when you answer. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 12:1–5",
+        "Acts 12:6–11",
+        "Acts 12:12–17",
+        "Acts 12:5",
+        "Acts 12:7",
+        "Acts 12:11",
+        "Acts 12:14",
+        "Acts 12:16–17"
+      ],
+      "dailies": [
+        {
+          "id": "w31-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Peter is in prison, and the church is earnestly praying to God for him.",
+          "verse": "The church was earnestly praying to God for him.",
+          "verseCite": "Acts 12:5, NIV",
+          "enoch": "Fold your hands and say: The church prayed for Peter!",
+          "elijah": "In Acts 12:1–5, why was Peter in prison, and what was the church doing?",
+          "elijahAnswer": "King Herod had arrested some who belonged to the church, and after James the brother of John was put to death, he seized Peter and put him in prison. The church was earnestly praying to God for him.",
+          "jordyn": "The church cannot open the prison, and still they pray earnestly (Acts 12:5). What does that tell you about what prayer is for, when a situation looks locked?",
+          "jordynAnswer": "Prayer is not a last small try after every other plan. It is the church bringing Peter to God, when they cannot reach him themselves. God can do what they cannot do.",
+          "action": "Read Acts 12:1–5 together, then tell someone: Peter was in prison, but the church was earnestly praying to God for him.",
+          "prayer": "Father, thank you that the church prayed earnestly for Peter when he was in prison. Teach us to pray that way for people in hard places. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:1–5, NIV",
+          "teach": "King Herod arrested some who belonged to the church. James, the brother of John, was put to death, and then Peter was seized and put in prison, guarded by many soldiers. Herod planned a public trial after the Passover. So Peter was kept in prison, but the church was earnestly praying to God for him.",
+          "enochActivity": "Help a grown-up fold hands with you, and say: We can pray for people too!",
+          "elijah2": "In Acts 12:4–5, how carefully was Peter guarded, and what contrast does verse 5 name?",
+          "elijahAnswer2": "He was handed over to four squads of four soldiers each. Peter was kept in prison, but the church was earnestly praying to God for him.",
+          "jordyn2": "Why is it important to tell this first part with care, including James, without turning it into a scary show?",
+          "jordynAnswer2": "The harm is real, and the Bible names it simply. James was put to death, and Peter was next. We tell the truth with dignity, and then we stay with the main line of this week: the church prayed, and God set Peter free.",
+          "passageText": "1 It was about this time that King Herod arrested some who belonged to the church, intending to persecute them. 2 He had James, the brother of John, put to death with the sword. 3 When he saw that this met with approval among the Jews, he proceeded to seize Peter also. This happened during the Festival of Unleavened Bread. 4 After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover. 5 So Peter was kept in prison, but the church was earnestly praying to God for him."
+        },
+        {
+          "id": "w31-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice earnest prayer, and a glad knock-and-open welcome, like the church and Rhoda.",
+          "verse": "Peter is at the door!",
+          "verseCite": "Acts 12:14, NIV",
+          "enoch": "Gently knock, then fold your hands, and say: God can answer prayer!",
+          "elijah": "In Acts 12:5 and 12:12, where were the believers, and what were they doing?",
+          "elijahAnswer": "They were earnestly praying to God for Peter, and many had gathered at the house of Mary, the mother of John, also called Mark, and were praying.",
+          "jordyn": "How should we play a pray-and-knock game so that we honor Rhoda, and do not make the prison, the soldiers, or James’s death into a joke or a fight?",
+          "jordynAnswer": "We do not act out swords, chains, or guards. We practice folding our hands to pray, then a gentle knock, and the glad words Peter is at the door. We honor Rhoda’s joy, and we honor the God who answers.",
+          "action": "Play a pray-and-knock game: one person prays a short sentence for someone, another knocks, and someone opens and says, God can answer prayer. Then switch.",
+          "prayer": "Father, thank you that the church gathered to pray, and that Rhoda recognized Peter’s voice with joy. Teach us to pray earnestly, and to welcome your answers with gladness. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:5, 12–14, NIV",
+          "teach": "The church was earnestly praying for Peter. Many had gathered at Mary’s house and were still praying when Peter knocked. Rhoda recognized his voice and was so overjoyed she ran to tell them, “Peter is at the door!” Today we practice that kind of prayer, and that kind of glad welcome.",
+          "enochActivity": "Help a grown-up pray one short sentence, then let you knock gently and say: Peter is at the door!",
+          "elijah2": "In Acts 12:14, why did Rhoda run back without opening the door?",
+          "elijahAnswer2": "When she recognized Peter’s voice, she was so overjoyed she ran back without opening it.",
+          "jordyn2": "Why is Rhoda a better person to imitate in a game than Herod or the soldiers?",
+          "jordynAnswer2": "She hears, she recognizes, and she runs with joy to tell the praying church. The rescue belongs to the Lord. Our part, like the church and like Rhoda, is to pray and to welcome the answer.",
+          "passageText": "5 So Peter was kept in prison, but the church was earnestly praying to God for him. 12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 13 Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door. 14 When she recognized Peter’s voice, she was so overjoyed she ran back without opening it and exclaimed, “Peter is at the door!”"
+        },
+        {
+          "id": "w31-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The Lord sends his angel, Peter is set free, and the praying church is astonished.",
+          "verse": "Now I know without a doubt that the Lord has sent his angel and rescued me.",
+          "verseCite": "Acts 12:11, NIV",
+          "enoch": "Open your hands as if chains have fallen, and say: God set Peter free!",
+          "elijah": "In Acts 12:7–11, what did the angel tell Peter to do, and what did Peter know when he came to himself?",
+          "elijahAnswer": "The angel said, “Quick, get up!” then, “Put on your clothes and sandals.” And, “Wrap your cloak around you and follow me,” When Peter came to himself, he knew without a doubt that the Lord had sent his angel and rescued him.",
+          "jordyn": "Peter is asleep, in chains, and guarded, and then the Lord sets him free (Acts 12:6–11). The church is praying, and still they are astonished at the door (Acts 12:12–16). How do those two pictures fit together?",
+          "jordynAnswer": "God does the rescue they could not do, and he also surprises the people who were asking him to do it. Prayer does not mean they already had the whole answer pictured. They prayed, God acted, and then they had to open the door and see.",
+          "action": "Read Acts 12:6–17 together, then tell someone: The Lord sent his angel and set Peter free, and the church was astonished.",
+          "prayer": "Father, thank you that you sent your angel and rescued Peter, and that the praying church saw him at the door. Make us people who pray, and who are ready to be astonished by your answers. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:6–17, NIV",
+          "teach": "The night before the trial, Peter was sleeping in chains between soldiers. An angel appeared, a light shone, and the chains fell off. “Quick, get up!” the angel said. Peter followed him out, the gate opened by itself, and then Peter knew the Lord had rescued him. He knocked at Mary’s house. Rhoda recognized his voice and said, “Peter is at the door!” They did not believe her at first, but Peter kept knocking. They opened, were astonished, and he told them how the Lord had brought him out.",
+          "enochActivity": "Help a grown-up pretend to put on a cloak, then take a few steps and say: The Lord set Peter free!",
+          "elijah2": "In Acts 12:16–17, what did the people do when they saw Peter, and what did he tell them?",
+          "elijahAnswer2": "They were astonished. Peter motioned for them to be quiet, described how the Lord had brought him out of prison, and said, “Tell James and the other brothers and sisters about this,” then he left for another place.",
+          "jordyn2": "Peter tells them to tell James, after James the brother of John has already been put to death (Acts 12:2, 17). Why is it important not to mix up those two men?",
+          "jordynAnswer2": "The James who was killed was James the brother of John. The James Peter wants them to tell is a leader still in the church. God has set Peter free, and the news is to go to the family of believers who are still serving.",
+          "passageText": "6 The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, and sentries stood guard at the entrance. 7 Suddenly an angel of the Lord appeared and a light shone in the cell. He struck Peter on the side and woke him up. “Quick, get up!” he said, and the chains fell off Peter’s wrists. 8 Then the angel said to him, “Put on your clothes and sandals.” And Peter did so. “Wrap your cloak around you and follow me,” the angel told him. 9 Peter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision. 10 They passed the first and second guards and came to the iron gate leading to the city. It opened for them by itself, and they went through it. When they had walked the length of one street, suddenly the angel left him. 11 Then Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.” 12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 13 Peter knocked at the outer entrance, and a servant named Rhoda came to answer the door. 14 When she recognized Peter’s voice, she was so overjoyed she ran back without opening it and exclaimed, “Peter is at the door!” 15 “You’re out of your mind,” they told her. When she kept insisting that it was so, they said, “It must be his angel.” 16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished. 17 Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place."
+        },
+        {
+          "id": "w31-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Pray earnestly this week for someone in a hard place, and be ready to notice God’s answer.",
+          "verse": "The church was earnestly praying to God for him.",
+          "verseCite": "Acts 12:5, NIV",
+          "enoch": "Fold your hands and say: I can pray for someone today!",
+          "elijah": "In Acts 12:5 and 12:12, how was the church praying, and where had they gathered?",
+          "elijahAnswer": "They were earnestly praying to God for Peter, and many had gathered at the house of Mary, the mother of John, also called Mark, and were praying.",
+          "jordyn": "The church prayed earnestly, and God set Peter free in a way they were slow to believe (Acts 12:5, 15–16). What would a right-sized challenge look like for you this week?",
+          "jordynAnswer": "Choose one person in a hard place and pray for them by name, more than once, not only in a rush. Then watch for an answer with a ready, glad heart, like Rhoda at the door. The challenge is not to force a miracle. It is to pray earnestly, and to be ready to rejoice.",
+          "action": "Choose one person this week who is in a hard place. Pray for them earnestly by name, more than once, and tell a parent you are praying.",
+          "prayer": "Father, the church prayed earnestly for Peter, and you set him free. Give us names to carry to you this week, and give us ready hearts if you answer. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:5, 12, 16, NIV",
+          "teach": "Peter was in prison, but the church was earnestly praying to God for him. Many were still praying at Mary’s house when he knocked. They were astonished when they opened the door and saw him. Earnest prayer, and a ready welcome, belong together.",
+          "enochActivity": "Help a grown-up name one person you can pray for this week, and say their name in a short prayer.",
+          "elijah2": "In Acts 12:16, what did Peter do when they did not open the door at first?",
+          "elijahAnswer2": "Peter kept on knocking, and when they opened the door and saw him, they were astonished.",
+          "jordyn2": "Why is keeping on a fitting picture, both for Peter at the door and for a church at prayer?",
+          "jordynAnswer2": "Peter does not walk away after one knock. The church had already been praying earnestly. God answers, and sometimes the people who asked still need time, and more knocking, before they open the door and see what he has done.",
+          "passageText": "5 So Peter was kept in prison, but the church was earnestly praying to God for him. 12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished."
+        },
+        {
+          "id": "w31-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that he heard the church and set Peter free, and ask for earnest, believing prayer.",
+          "verse": "Now I know without a doubt that the Lord has sent his angel and rescued me.",
+          "verseCite": "Acts 12:11, NIV",
+          "enoch": "Fold your hands, then open them, and say: Thank you, God, for answering prayer!",
+          "elijah": "In Acts 12:11 and 12:17, what did Peter know, and what did he want the church to tell?",
+          "elijahAnswer": "He knew without a doubt that the Lord had sent his angel and rescued him. He told them to tell James and the other brothers and sisters about this.",
+          "jordyn": "Peter wants the news told (Acts 12:17). How can thanking God this week include both the rescue and the people who had been praying?",
+          "jordynAnswer": "Thank God that he sent his angel and set Peter free, and thank him that the church was already praying. Then ask him to make you a person who prays earnestly, and who tells others when he answers, so the family of believers can rejoice too.",
+          "action": "Pray together: thank God that the church prayed and he set Peter free, and ask him to teach you to pray earnestly and to rejoice at his answers.",
+          "prayer": "Father, thank you that the church was earnestly praying, and that you sent your angel and rescued Peter. Thank you that Rhoda recognized his voice, and that the astonished church saw him at the door. Teach us to pray, and to give you thanks. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:11–12, 16–17, NIV",
+          "teach": "Peter knew the Lord had sent his angel and rescued him. He went to a house where people were praying, kept knocking, and then told them how the Lord had brought him out of prison. This is a story for thanking God, and for asking him to make us a praying church.",
+          "enochActivity": "Help a grown-up thank God out loud that he set Peter free.",
+          "elijah2": "In Acts 12:12, whose house did Peter go to, and what was happening there?",
+          "elijahAnswer2": "He went to the house of Mary, the mother of John, also called Mark, where many people had gathered and were praying.",
+          "jordyn2": "Why is a praying house a fitting last picture before we thank God at the end of this week?",
+          "jordynAnswer2": "The rescue did not end in the street. Peter went to the people who had been asking God for him. Prayer began the story, and prayer was still happening when the answer arrived at the door.",
+          "passageText": "11 Then Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.” 12 When this had dawned on him, he went to the house of Mary the mother of John, also called Mark, where many people had gathered and were praying. 16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished. 17 Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place."
+        },
+        {
+          "id": "w31-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The church prayed, and God set Peter free, and next the church will send Paul and Barnabas.",
+          "verse": "The church was earnestly praying to God for him.",
+          "verseCite": "Acts 12:5, NIV",
+          "enoch": "Fold your hands, then knock gently, and say: The church prayed, and God set Peter free!",
+          "elijah": "In Acts 12:5 and 12:11, what was the church doing, and what did Peter know after he was free?",
+          "elijahAnswer": "The church was earnestly praying to God for him. Peter knew without a doubt that the Lord had sent his angel and rescued him.",
+          "jordyn": "This week a praying church saw God set Peter free. How does that get your heart ready for next week, when the church will send Paul and Barnabas to other towns?",
+          "jordynAnswer": "The same God who hears prayer also sends people. This week he sets Peter free. Next week we will see the church send Paul and Barnabas to tell other towns about Jesus.",
+          "action": "Tell someone the week’s big idea: The church prayed, and God set Peter free. Then thank God, and look ahead to the church sending Paul and Barnabas.",
+          "prayer": "Father, thank you that the church prayed, and you set Peter free. Get our hearts ready to see you send Paul and Barnabas to tell other towns about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 12:5, 11, 16–17, NIV",
+          "teach": "This week we learned that the church prayed, and God set Peter free. Herod put Peter in prison, and the church prayed earnestly. An angel woke Peter, the chains fell off, and the Lord rescued him. Rhoda heard him at the door, the church was astonished, and Peter told them to share the news. Next week we will see the church sending Paul and Barnabas to tell other towns about Jesus.",
+          "enochActivity": "Help a grown-up look down a hall as if toward another town, and say: Next week the church will send Paul and Barnabas!",
+          "elijah2": "In Acts 12:17, what did Peter do after he told them what the Lord had done?",
+          "elijahAnswer2": "He left for another place.",
+          "jordyn2": "Why is the church prayed, and God set Peter free a fitting last word before a week about sending?",
+          "jordynAnswer2": "God kept Peter for his work, and he keeps using a praying, obedient church. The next chapter of the story is not only safety. It is a church that will send people to other towns with the good news.",
+          "passageText": "5 So Peter was kept in prison, but the church was earnestly praying to God for him. 11 Then Peter came to himself and said, “Now I know without a doubt that the Lord has sent his angel and rescued me from Herod’s clutches and from everything the Jewish people were hoping would happen.” 16 But Peter kept on knocking, and when they opened the door and saw him, they were astonished. 17 Peter motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. “Tell James and the other brothers and sisters about this,” he said, and then he left for another place."
+        }
+      ]
     },
     {
       "id": "32",
