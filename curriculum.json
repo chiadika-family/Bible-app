@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.36",
+  "contentVersion": "2026.11.21.37",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -9413,11 +9413,236 @@
       "planTitle": "The armor of God",
       "title": "The armor of God",
       "selectLabel": "Week 40 · The armor of God",
-      "ready": false,
+      "ready": true,
       "passage": "Ephesians 6:10–18 (NIV)",
-      "bigIdea": "God gives us his armor so we can stand strong in him.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 41 · The Lord's Prayer",
+      "bigIdea": "God gives us his armor so we can stand strong in him.",
+      "scheduleNote": "This is the Week 40 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Ephesians 6:10–13 out loud, then Ephesians 6:14–17, then Ephesians 6:18."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Ephesians 6:10–13",
+          "text": "10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take your stand against the devil’s schemes. 12 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. 13 Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand."
+        },
+        {
+          "cite": "Ephesians 6:14–17",
+          "text": "14 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, 15 and with your feet fitted with the readiness that comes from the gospel of peace. 16 In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. 17 Take the helmet of salvation and the sword of the Spirit, which is the word of God."
+        },
+        {
+          "cite": "Ephesians 6:18",
+          "text": "18 And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that the Holy Spirit grows love, joy, peace, and more good fruit in us. Today Paul tells the church to be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes. We say this simply, with care. We do not act out a fight, and we do not make a scary game of the devil. God gives us his armor so we can stand strong in him.",
+        "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. We tell that simply. This is not a fight against people. Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.",
+        "Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. We say the arrows simply. We do not act out fire or shooting. Take the helmet of salvation and the sword of the Spirit, which is the word of God. The sword is God’s word, not a toy for hitting people. And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people.",
+        "Next week we will hear that Jesus teaches us how to pray to our Father in heaven."
+      ],
+      "enochLine": "God gives us his armor so we can stand strong in him!",
+      "enochActivities": [
+        "Activity: Stand strong. Plant your feet and say: God gives me his armor so I can stand!",
+        "Activity: Belt of truth. Pretend to buckle a belt and say: Truth! God helps me stand!"
+      ],
+      "elijahQuestions": [
+        "In Ephesians 6:10–11, where does Paul say we should be strong, and why should we put on the full armor of God?",
+        "In Ephesians 6:12–13, is our struggle against flesh and blood, and what does the armor help us do?",
+        "In Ephesians 6:14–17, can you name the pieces of God’s armor, and what is the sword of the Spirit?",
+        "In Ephesians 6:18, what does Paul tell us to do, and for whom should we keep on praying?"
+      ],
+      "elijahAnswers": [
+        "Be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes (Ephesians 6:10–11).",
+        "No. Our struggle is not against flesh and blood, but against the powers of this dark world and the spiritual forces of evil in the heavenly realms. We say that simply. The armor helps us stand our ground, and after we have done everything, to stand (Ephesians 6:12–13).",
+        "The belt of truth, the breastplate of righteousness, feet fitted with the readiness that comes from the gospel of peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God (Ephesians 6:14–17).",
+        "Pray in the Spirit on all occasions with all kinds of prayers and requests. Be alert and always keep on praying for all the Lord’s people (Ephesians 6:18)."
+      ],
+      "jordynQuestions": [
+        "Paul says, Be strong in the Lord and in his mighty power, and then, Put on the full armor of God (Ephesians 6:10–11). What is the difference between trying to be strong on your own and standing in armor God gives?",
+        "Our struggle is not against flesh and blood (Ephesians 6:12). How should that change the way you treat people when a day feels hard?",
+        "The armor ends with the word of God and with prayer (Ephesians 6:17–18). Next week Jesus will teach us how to pray to our Father in heaven. How do God’s armor and prayer belong together?"
+      ],
+      "jordynAnswers": [
+        "The strength is the Lord’s, and the armor is his gift. We do not invent a tough face and call it faith. We put on what God gives—truth, righteousness, peace, faith, salvation, and his word—so we can stand in him.",
+        "People are not the enemy. We do not use hard words or pretend fights against flesh and blood. We stand in God’s armor, and we treat people as people, even when the day is dark.",
+        "The sword of the Spirit is the word of God, and then Paul says to pray in the Spirit on all occasions. Armor is not only something we put on and forget. We stand, and we keep praying. Next week Jesus will teach us the words to pray to our Father."
+      ],
+      "jordynApplication": "God gives us his armor so we can stand strong in him (Ephesians 6:10–18). This week, choose one piece of the armor—truth, righteousness, the gospel of peace, faith, salvation, or the word of God—and practice it in a real moment at home. Then pray for someone in the Lord’s people. Next week we will hear that Jesus teaches us how to pray to our Father in heaven.",
+      "applicationCheck": "Ask her later in the week which piece of God’s armor she practiced, or whether she prayed for someone. If it is fitting, thank God together that he gives us his armor so we can stand, and that we can pray for all the Lord’s people.",
+      "prayer": "Father, thank you that we can be strong in the Lord and in his mighty power. Thank you for the full armor of God: truth, righteousness, the gospel of peace, faith, salvation, and the word of God. Help us stand firm in you, and teach us to pray in the Spirit on all occasions for all the Lord’s people. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Ephesians 6:10–13",
+        "Ephesians 6:14–17",
+        "Ephesians 6:18",
+        "Ephesians 6:10–11",
+        "Ephesians 6:13",
+        "Ephesians 6:16",
+        "Ephesians 6:17"
+      ],
+      "dailies": [
+        {
+          "id": "w40-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Be strong in the Lord, and put on the full armor of God so you can stand.",
+          "verse": "Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes.",
+          "verseCite": "Ephesians 6:10–11, NIV",
+          "enoch": "Plant your feet and say: Be strong in the Lord! God gives me his armor!",
+          "elijah": "In Ephesians 6:10–11, where should we be strong, and what should we put on?",
+          "elijahAnswer": "Be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes.",
+          "jordyn": "In Ephesians 6:12–13, why is it important that our struggle is not against flesh and blood, and what does the armor help us do when the day of evil comes?",
+          "jordynAnswer": "This is not a fight against people. We say the hard words about dark powers simply, and we do not make a scary game of them. The armor helps us stand our ground, and after we have done everything, to stand.",
+          "action": "Read Ephesians 6:10–13 out loud. Then thank God that we can be strong in the Lord, and that he gives us his armor so we can stand.",
+          "prayer": "Father, thank you that we can be strong in the Lord and in his mighty power. Thank you for the full armor of God, so we can stand. Help us remember this is not a fight against people. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:10–13, NIV",
+          "teach": "Paul says, Finally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes. Our struggle is not against flesh and blood. Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. We tell this simply. We do not act out a fight, and we do not make a scary game of the devil.",
+          "enochActivity": "Plant your feet, stand tall, and say: I can stand, because God is strong!",
+          "elijah2": "In Ephesians 6:13, what two times does Paul use the word stand?",
+          "elijahAnswer2": "Stand your ground, and after you have done everything, to stand.",
+          "jordyn2": "Why does Paul keep saying stand, instead of telling us to go start a fight (Ephesians 6:11–13)?",
+          "jordynAnswer2": "The armor is given so we can take our stand and hold our ground in the Lord. The strength is his. We are not told to attack people.",
+          "passageText": "10 Finally, be strong in the Lord and in his mighty power. 11 Put on the full armor of God, so that you can take your stand against the devil’s schemes. 12 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. 13 Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand."
+        },
+        {
+          "id": "w40-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "We name the pieces of God’s armor, because he gives them so we can stand.",
+          "verse": "Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place,",
+          "verseCite": "Ephesians 6:14, NIV",
+          "enoch": "Pretend to buckle a belt and say: Belt of truth!",
+          "elijah": "In Ephesians 6:14–15, which three pieces does Paul name first?",
+          "elijahAnswer": "The belt of truth, the breastplate of righteousness, and feet fitted with the readiness that comes from the gospel of peace.",
+          "jordyn": "Truth, righteousness, and the gospel of peace are not toys (Ephesians 6:14–15). What might it look like to stand in these at home, without acting out a battle?",
+          "jordynAnswer": "Tell the truth. Do what is right. Be ready to live the good news of peace with the people in your house. The armor is for standing in the Lord, not for pretending to hit someone.",
+          "action": "Play Put on the armor. Take turns naming a piece and making a simple, calm gesture: buckle truth, place a hand on your chest for righteousness, take a ready step for the gospel of peace. Do not swing, shout, or act out a fight.",
+          "prayer": "Father, thank you for the belt of truth, the breastplate of righteousness, and feet fitted with the readiness that comes from the gospel of peace. Help us stand in these gifts at home. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:14–15, NIV",
+          "teach": "Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. Today we name these gifts and remember they come from God. We do not turn them into a fight game.",
+          "enochActivity": "Take one ready step and say: Gospel of peace! God helps me stand!",
+          "elijah2": "In Ephesians 6:15, what are our feet fitted with?",
+          "elijahAnswer2": "The readiness that comes from the gospel of peace.",
+          "jordyn2": "Why might peace belong in a picture of armor (Ephesians 6:15)?",
+          "jordynAnswer2": "God’s armor is not for starting fights with people. The good news of peace makes us ready to stand, and to walk in peace.",
+          "passageText": "14 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, 15 and with your feet fitted with the readiness that comes from the gospel of peace."
+        },
+        {
+          "id": "w40-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Take up the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God.",
+          "verse": "Take the helmet of salvation and the sword of the Spirit, which is the word of God.",
+          "verseCite": "Ephesians 6:17, NIV",
+          "enoch": "Place a hand on your head and say: Helmet of salvation! Then hold your hands like an open Bible and say: The word of God!",
+          "elijah": "In Ephesians 6:16–17, what three gifts does Paul name, and what is the sword of the Spirit?",
+          "elijahAnswer": "The shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God.",
+          "jordyn": "The shield of faith can extinguish all the flaming arrows of the evil one (Ephesians 6:16). How should we talk about that line with care, and what does faith do?",
+          "jordynAnswer": "We say the arrows simply. We do not act out fire or shooting. Faith is a gift from God that helps us stand when a hard thought or a hard day comes. We trust the Lord, and we are not left uncovered.",
+          "action": "Read Ephesians 6:14–17 out loud. Then thank God for faith, salvation, and his word, and remember the sword is the word of God, not a toy for hitting.",
+          "prayer": "Father, thank you for the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God. Help us stand in these gifts, and love your word. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:16–17, NIV",
+          "teach": "In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. We say that simply, and we do not act it out. Take the helmet of salvation and the sword of the Spirit, which is the word of God. The sword is Scripture, not a stick for pretend fighting.",
+          "enochActivity": "Hold your hands like an open book and say: The sword of the Spirit is the word of God!",
+          "elijah2": "In Ephesians 6:16, what does the shield of faith do?",
+          "elijahAnswer2": "With it you can extinguish all the flaming arrows of the evil one.",
+          "jordyn2": "Why is it good that the sword of the Spirit is named as the word of God (Ephesians 6:17)?",
+          "jordynAnswer2": "God does not send us out to invent our own weapon. He gives us his word. We stand by what he has said.",
+          "passageText": "16 In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. 17 Take the helmet of salvation and the sword of the Spirit, which is the word of God."
+        },
+        {
+          "id": "w40-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Stand firm in the armor God gives, and remember this is not a fight against people.",
+          "verse": "Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.",
+          "verseCite": "Ephesians 6:13, NIV",
+          "enoch": "Plant your feet and say: After I have done everything, I can stand—in the Lord!",
+          "elijah": "In Ephesians 6:13–14, what does Paul tell us to do, and what is the first piece he names when we stand firm?",
+          "elijahAnswer": "Put on the full armor of God so you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist.",
+          "jordyn": "A challenge to stand can feel like a dare to be tough (Ephesians 6:13). How is this challenge different?",
+          "jordynAnswer": "The armor is God’s, and the strength is the Lord’s. The challenge is to put on what he gives and to stand, not to pick a fight or pretend we are strong alone.",
+          "action": "Today’s challenge: Stand firm in one real way—tell the truth, or take a peaceful step toward someone at home. Then thank God that he gives the armor. Do not act out a battle.",
+          "prayer": "Father, thank you that when we put on the full armor of God, we can stand our ground, and after we have done everything, stand. Help us stand in truth and peace today. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:13–14, NIV",
+          "teach": "Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist. Today’s challenge is to stand in a real, quiet way at home, not to play at fighting.",
+          "enochActivity": "Buckle an imaginary belt and plant your feet: Truth! I can stand in the Lord!",
+          "elijah2": "In Ephesians 6:14, what is buckled around your waist when you stand firm?",
+          "elijahAnswer2": "The belt of truth.",
+          "jordyn2": "What would it look like to stand your ground in truth without tearing another person down (Ephesians 6:12–14)?",
+          "jordynAnswer2": "Our struggle is not against flesh and blood. Standing in truth means telling the truth and staying with the Lord, not using words as weapons against people.",
+          "passageText": "13 Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. 14 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place,"
+        },
+        {
+          "id": "w40-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Pray in the Spirit on all occasions, and keep on praying for all the Lord’s people.",
+          "verse": "And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people.",
+          "verseCite": "Ephesians 6:18, NIV",
+          "enoch": "Fold your hands and say: I can pray for the Lord’s people!",
+          "elijah": "In Ephesians 6:18, when should we pray, and for whom should we keep on praying?",
+          "elijahAnswer": "Pray in the Spirit on all occasions with all kinds of prayers and requests. Always keep on praying for all the Lord’s people.",
+          "jordyn": "The armor comes first, and then prayer (Ephesians 6:17–18). Why might Paul want us to pray after we have just heard about standing in God’s armor?",
+          "jordynAnswer": "Armor is not a costume we put on and then forget God. We stand in him, and we keep talking to him. Prayer is part of how we stay alert, and how we care for all the Lord’s people.",
+          "action": "Pray today’s prayer out loud as a family. Then each person can pray a short request for someone who belongs to the Lord.",
+          "prayer": "Father, thank you that we can pray in the Spirit on all occasions with all kinds of prayers and requests. Make us alert, and help us keep on praying for all the Lord’s people. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:18, NIV",
+          "teach": "And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people. After the armor, Paul turns us to prayer. Today we pray, and we remember the Lord’s people.",
+          "enochActivity": "Fold your hands, then open them like a thank-you, and say: Thank you, God! I can pray to you!",
+          "elijah2": "In Ephesians 6:18, what two words describe how we should keep praying?",
+          "elijahAnswer2": "Always, and for all the Lord’s people. Paul says, always keep on praying for all the Lord’s people.",
+          "jordyn2": "How can all kinds of prayers and requests keep prayer from feeling like only one stiff sentence (Ephesians 6:18)?",
+          "jordynAnswer2": "We can thank, ask, and pray for others, on many kinds of days. Prayer belongs in ordinary life, not only in one special moment.",
+          "passageText": "18 And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people."
+        },
+        {
+          "id": "w40-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God gives us his armor so we can stand strong in him, and next Jesus will teach us how to pray.",
+          "verse": "Finally, be strong in the Lord and in his mighty power.",
+          "verseCite": "Ephesians 6:10, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week Jesus teaches us how to pray!",
+          "elijah": "What is this week’s big idea, and can you name the pieces of God’s armor?",
+          "elijahAnswer": "God gives us his armor so we can stand strong in him. The pieces are the belt of truth, the breastplate of righteousness, feet fitted with the gospel of peace, the shield of faith, the helmet of salvation, and the sword of the Spirit, which is the word of God. And we pray in the Spirit for all the Lord’s people.",
+          "jordyn": "This week ends with prayer in the Spirit, and next week Jesus teaches us how to pray to our Father in heaven (Ephesians 6:18). What stays the same in both weeks?",
+          "jordynAnswer": "God does not leave us to stand alone, and he does not leave us to invent prayer alone. He gives armor, and Jesus will teach us the words to pray to our Father. We stay with him.",
+          "action": "Tell someone the week’s big idea: God gives us his armor so we can stand strong in him. Then thank God, and look ahead to the Lord’s Prayer.",
+          "prayer": "Father, thank you that we can be strong in the Lord, and that you give us your full armor so we can stand. Thank you that we can pray in the Spirit for all the Lord’s people. Get our hearts ready to hear how Jesus teaches us to pray to our Father in heaven. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:10, 14–18, NIV",
+          "teach": "This week we learned that God gives us his armor so we can stand strong in him. Be strong in the Lord and in his mighty power. Put on the full armor of God: truth, righteousness, the gospel of peace, faith, salvation, and the word of God. And pray in the Spirit on all occasions for all the Lord’s people. Next week Jesus will teach us how to pray to our Father in heaven.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week, the Lord’s Prayer!",
+          "elijah2": "In Ephesians 6:17–18, what two gifts come at the end of the armor list?",
+          "elijahAnswer2": "The sword of the Spirit, which is the word of God, and prayer in the Spirit on all occasions.",
+          "jordyn2": "What stays the same when the story moves from God’s armor this week to the Lord’s Prayer next week?",
+          "jordynAnswer2": "The Lord who gives us armor so we can stand is the same Lord who teaches us to pray. We are not left to be strong, or to pray, on our own.",
+          "passageText": "10 Finally, be strong in the Lord and in his mighty power. 14 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, 15 and with your feet fitted with the readiness that comes from the gospel of peace. 16 In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. 17 Take the helmet of salvation and the sword of the Spirit, which is the word of God. 18 And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people."
+        }
+      ]
     },
     {
       "id": "41",

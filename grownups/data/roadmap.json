@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.231",
+  "version": "2026.11.21.238",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3239,19 +3239,19 @@
         "Matthew 5:23–26",
         "Ephesians 4:26–27"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 275,
       "date": "2027-08-03",
       "phase": "marriage",
-      "title": "Sunday: connect with this week's Grace Life sermon — Forgiveness in the home",
+      "title": "Forgiveness in the home",
       "passages": [
         "Colossians 3:12–15",
         "Matthew 6:14–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3263,7 +3263,7 @@
         "Matthew 18:19–20",
         "1 Peter 3:7"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3275,7 +3275,7 @@
         "Galatians 5:13",
         "John 13:12–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3286,7 +3286,7 @@
       "passages": [
         "Mark 10:6–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3298,7 +3298,7 @@
         "1 Corinthians 13:4–7",
         "Romans 12:9–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3311,7 +3311,7 @@
         "Matthew 5:27–30",
         "Proverbs 6:20–35"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
