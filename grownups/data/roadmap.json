@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.63",
+  "version": "2026.11.21.70",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1295,19 +1295,19 @@
         "Psalm 103:1–22",
         "Psalm 121:1–8"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 107,
       "date": "2027-02-16",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Psalms: searched and known, and let everything that has breath praise the Lord",
+      "title": "Psalms: searched and known, and let everything that has breath praise the Lord",
       "passages": [
         "Psalm 139:1–24",
         "Psalm 150:1–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1319,7 +1319,7 @@
         "Proverbs 1:1–19",
         "Proverbs 3:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1330,7 +1330,7 @@
       "passages": [
         "Proverbs 4:1–27"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1342,7 +1342,7 @@
         "Proverbs 6:6–11",
         "Proverbs 10:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1354,7 +1354,7 @@
         "Proverbs 15:1–9",
         "Proverbs 18:10–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1365,7 +1365,7 @@
       "passages": [
         "Proverbs 31:8–31"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

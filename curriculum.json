@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.12",
+  "contentVersion": "2026.11.21.13",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -3699,14 +3699,248 @@
       ]
     },
     {
-      "id": "16",
+      "id": 16,
       "week": 16,
       "planTitle": "The Bible is God's Word",
       "title": "The Bible is God's Word",
       "selectLabel": "Week 16 · The Bible is God's Word",
-      "ready": false,
+      "ready": true,
+      "passage": "2 Timothy 3:14–17; Psalm 119:97–105; Matthew 4:1–4 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 17 · God's design for marriage and family",
+      "bigIdea": "The Bible is God’s Word. All Scripture is God-breathed, able to make us wise for salvation through faith in Christ Jesus. God’s Word is a lamp for our feet, and we live on every word that comes from the mouth of God.",
+      "scheduleNote": "This is the Week 16 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read 2 Timothy 3:14–17 out loud, then Psalm 119:97–105, then Matthew 4:1–4, where Jesus answers the tempter with God’s Word."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "kind": "scripture",
+          "cite": "2 Timothy 3:14–17",
+          "text": "14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, 15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work."
+        },
+        {
+          "kind": "scripture",
+          "cite": "Psalm 119:97–105",
+          "text": "97 Oh, how I love your law! I meditate on it all day long. 98 Your commands are always with me and make me wiser than my enemies. 99 I have more insight than all my teachers, for I meditate on your statutes. 100 I have more understanding than the elders, for I obey your precepts. 101 I have kept my feet from every evil path so that I might obey your word. 102 I have not departed from your laws, for you yourself have taught me. 103 How sweet are your words to my taste, sweeter than honey to my mouth! 104 I gain understanding from your precepts; therefore I hate every wrong path. נ Nun 105 Your word is a lamp for my feet, a light on my path."
+        },
+        {
+          "kind": "scripture",
+          "cite": "Matthew 4:1–4",
+          "text": "1 Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. 2 After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.” 4 Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned how to talk with our Father in prayer. This week we learn how our Father talks with us. He has given us the Bible, and the Bible is God’s Word.",
+        "Paul told Timothy to continue in what he had learned from the Holy Scriptures, “which are able to make you wise for salvation through faith in Christ Jesus.” Then he said, “All Scripture is God-breathed.” That means the words of the Bible come from God. They are useful for teaching us, correcting us, and training us, so that we can be ready for every good work.",
+        "The psalm writer loved God’s law and thought about it all day long. He said, “Your word is a lamp for my feet, a light on my path.” In the dark, a lamp shows you where to step next. God does not leave us to guess our way through life. He lights the path with his Word.",
+        "When Jesus was hungry in the wilderness, the devil told him to turn stones into bread. Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’” Jesus himself lived on God’s Word. He used what was written to stand against temptation.",
+        "So this is what we believe, and what we want to practice in our house. The Bible is God’s Word — God-breathed, a lamp for our feet, and the food we live on. We hide it in our hearts, we ask God to open our eyes, and we talk about it when we sit at home and when we walk along the road. The word of the Lord endures forever."
+      ],
+      "enochLine": "The Bible is God’s Word. He talks to us here!",
+      "enochActivities": [
+        "Activity: God’s book. Open a Bible, let Enoch touch the page, and say together, “This is God’s Word. He talks to us here!”",
+        "Activity: The lamp. Shine a flashlight at Enoch’s feet, take a few steps, and say, “Your Word is a lamp for my feet!”"
+      ],
+      "elijahQuestions": [
+        "In 2 Timothy 3:16, what does it say all Scripture is?",
+        "In Psalm 119:105, what is God’s word compared to?",
+        "In Matthew 4:4, what did Jesus say we must live on, not bread alone?",
+        "In 2 Timothy 3:15, what are the Holy Scriptures able to make you wise for?"
+      ],
+      "jordynQuestions": [
+        "Paul says all Scripture is “God-breathed” and also “useful” (2 Timothy 3:16–17). What is the Bible for, if it is more than a book of extra facts?",
+        "The psalm says, “Oh, how I love your law! I meditate on it all day long” (Psalm 119:97), and then, “Your word is a lamp for my feet” (verse 105). How do those two things go together?",
+        "Jesus was hungry, and the tempter told him to turn stones into bread (Matthew 4:2–4). Why does it matter that Jesus answered, “It is written”?"
+      ],
+      "jordynApplication": "The Bible is God’s Word: God-breathed, a lamp, and the food we live on (2 Timothy 3:16; Psalm 119:105; Matthew 4:4). This week, hide one verse in your heart, and use “It is written” when you are tempted. Talk about God’s Word at home, not only on Sunday (Deuteronomy 6:6–7).",
+      "elijahAnswers": [
+        "“God-breathed” (2 Timothy 3:16). It is also useful for teaching, rebuking, correcting, and training in righteousness.",
+        "“A lamp for my feet, a light on my path” (Psalm 119:105).",
+        "“Every word that comes from the mouth of God” (Matthew 4:4).",
+        "“Salvation through faith in Christ Jesus” (2 Timothy 3:15)."
+      ],
+      "jordynAnswers": [
+        "God gave the Scriptures to make us wise for salvation through faith in Christ, and to thoroughly equip us for every good work (2 Timothy 3:15–17). The Bible comes from God, leads us to Jesus, and trains us to live.",
+        "A lamp helps when you keep it with you and look at where it shines. Loving and meditating on God’s law all day is how the Word stays close enough to light the next step (Psalm 119:97, 105).",
+        "Jesus trusted his Father and used Scripture as his food and his answer. Real life comes from every word that comes from the mouth of God, not from grabbing bread in a way that doubts the Father (Matthew 4:1–4)."
+      ],
+      "applicationCheck": "Ask her later in the week whether she hid a verse in her heart, or used God’s Word when she was tempted. If it is fitting, share one way you lived on God’s Word too, and pray together that God would open your eyes.",
+      "prayer": "Father, thank you that all Scripture is God-breathed, and that it can make us wise for salvation through faith in Christ Jesus. Your word is a lamp for our feet. Teach us not to live on bread alone, but on every word that comes from your mouth. Open our eyes, and help us hide your Word in our hearts. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w16-d2",
+          "day": 2,
+          "label": "Day 2",
+          "kind": "Passage",
+          "focus": "The Bible is God’s Word. All Scripture is God-breathed, and it can make us wise for salvation through faith in Christ Jesus.",
+          "verse": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,",
+          "verseCite": "2 Timothy 3:16, NIV",
+          "enoch": "Hold a Bible close and say, “This is God’s Word. He talks to us here!”",
+          "elijah": "In 2 Timothy 3:16, what does it say all Scripture is?",
+          "elijahAnswer": "“God-breathed” (verse 16). It is also useful for teaching, rebuking, correcting, and training in righteousness.",
+          "jordyn": "Verse 15 says the Holy Scriptures “are able to make you wise for salvation through faith in Christ Jesus.” What is the Bible for, if it is more than a book of extra facts?",
+          "jordynAnswer": "God gave the Scriptures to make us wise for salvation through faith in Christ, and to thoroughly equip us for every good work (verses 15–17). The Bible is God’s Word that leads us to Jesus and trains us to live.",
+          "action": "Read 2 Timothy 3:14–17 together. Then each person thanks God for one person who has taught them the Scriptures, like Timothy had from infancy.",
+          "prayer": "Father, thank you that all Scripture is God-breathed. Thank you that it can make us wise for salvation through faith in Christ Jesus, and that it can equip us for every good work. Help us continue in what we have learned. In Jesus’ name, Amen.",
+          "passageCite": "2 Timothy 3:14–17, NIV",
+          "teach": "On Sunday we heard that the Bible is God’s Word. Paul told Timothy to continue in what he had learned, “because you know those from whom you learned it, and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.” Then he said, “All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.” God-breathed means these words come from God. The Bible is not just a wise book people wrote on their own. It is God talking to us, to bring us to Jesus and to train us to live.",
+          "enochActivity": "Open a Bible together. Let Enoch touch the page and say, “God-breathed. This is God’s Word!” Then a hug, because God talks to our family here.",
+          "elijah2": "Find it in the passage: In verse 17, what is the servant of God thoroughly equipped for?",
+          "elijahAnswer2": "“Every good work” (verse 17).",
+          "jordyn2": "Paul tells Timothy to “continue in what you have learned and have become convinced of” (verse 14). Why does “continue” matter, if Timothy has already known the Scriptures from infancy?",
+          "jordynAnswer2": "Knowing the Bible as a child is a gift, but we still need to keep going in it (verses 14–15). The Scriptures keep making us wise for salvation and keep equipping us. We do not graduate from God’s Word.",
+          "passageText": "14 But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, 15 and how from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. 16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work."
+        },
+        {
+          "id": "w16-d3",
+          "day": 3,
+          "label": "Day 3",
+          "kind": "Game",
+          "focus": "We hide God’s Word in our hearts. A young person stays on the path of purity by living according to God’s Word.",
+          "verse": "I have hidden your word in my heart that I might not sin against you.",
+          "verseCite": "Psalm 119:11, NIV",
+          "enoch": "Pretend to tuck a small “word” card into your heart and say, “I hide your Word in my heart!”",
+          "elijah": "In Psalm 119:11, where has the writer hidden God’s word, and why?",
+          "elijahAnswer": "“In my heart,” “that I might not sin against you” (verse 11).",
+          "jordyn": "Verse 9 asks, “How can a young person stay on the path of purity?” What answer does the psalm give, and how does hiding the Word in the heart (verse 11) belong with that?",
+          "jordynAnswer": "A young person stays on the path of purity “by living according to your word” (verse 9). Hiding the Word in the heart is how that Word is kept close, so we can live it and not sin against God (verses 9–11).",
+          "action": "Play the hide-the-word game once, then read Psalm 119:9–11. Each person says one verse from this week they want to hide in their heart.",
+          "prayer": "LORD, teach us your decrees. We want to hide your word in our hearts that we might not sin against you. Help us live according to your word. In Jesus’ name, Amen.",
+          "passageCite": "Psalm 119:9–16, NIV",
+          "teach": "The Bible is not only a book we hear on Sunday. The psalm asks, “How can a young person stay on the path of purity? By living according to your word.” Then it says, “I have hidden your word in my heart that I might not sin against you.” Hiding God’s Word does not mean we bury it and forget it. It means we keep it inside us, the way you keep a treasure in a safe place, so it can help us when we are tempted. The same psalm says, “I rejoice in following your statutes as one rejoices in great riches,” and “I will not neglect your word.” God’s Word is a treasure worth hiding, and a path worth walking.",
+          "enochActivity": "Game: Hide the Word. Hide a small card with Psalm 119:11 in a room. When Enoch finds it, hold it to his chest and say together, “I have hidden your word in my heart!”",
+          "elijah2": "In verse 16, what does the writer say he will not do?",
+          "elijahAnswer2": "“I will not neglect your word” (verse 16).",
+          "jordyn2": "The psalm says, “I rejoice in following your statutes as one rejoices in great riches” (verse 14). How is that different from treating the Bible as a rule book you only pick up when you are in trouble?",
+          "jordynAnswer2": "The writer delights in God’s Word and hides it in the heart before the moment of temptation (verses 11, 14–16). Living according to the Word is a joy and a treasure, not only an emergency tool.",
+          "passageText": "9 How can a young person stay on the path of purity? By living according to your word. 10 I seek you with all my heart; do not let me stray from your commands. 11 I have hidden your word in my heart that I might not sin against you. 12 Praise be to you, LORD; teach me your decrees. 13 With my lips I recount all the laws that come from your mouth. 14 I rejoice in following your statutes as one rejoices in great riches. 15 I meditate on your precepts and consider your ways. 16 I delight in your decrees; I will not neglect your word."
+        },
+        {
+          "id": "w16-d4",
+          "day": 4,
+          "label": "Day 4",
+          "kind": "Passage",
+          "focus": "God’s Word is a lamp for our feet and a light on our path. We love his law and meditate on it, because it shows us where to walk.",
+          "verse": "Your word is a lamp for my feet, a light on my path.",
+          "verseCite": "Psalm 119:105, NIV",
+          "enoch": "Shine a flashlight on the floor and take a few steps. Say, “Your Word is a lamp for my feet!”",
+          "elijah": "In Psalm 119:105, what is God’s word compared to?",
+          "elijahAnswer": "“A lamp for my feet, a light on my path” (verse 105).",
+          "jordyn": "The psalm says, “Oh, how I love your law! I meditate on it all day long” (verse 97). How does loving and meditating on God’s Word go with the lamp in verse 105?",
+          "jordynAnswer": "A lamp only helps if you keep it with you and look at where it shines. Loving and meditating on God’s law all day long is how the Word stays close enough to light the next step (verses 97, 105).",
+          "action": "Read Psalm 119:97 and 119:105 together. Then walk a short path in the house with a flashlight, and thank God that his Word shows us where to go.",
+          "prayer": "Father, we love your law. Your word is a lamp for our feet and a light on our path. Help us meditate on it and walk in it today. In Jesus’ name, Amen.",
+          "passageCite": "Psalm 119:97–105, NIV",
+          "teach": "On Sunday we heard, “Your word is a lamp for my feet, a light on my path.” A lamp in the dark does not always show the whole road at once. It shows the next steps, so you do not stumble. That is one reason the writer says, “Oh, how I love your law! I meditate on it all day long.” God’s Word stays with him: “Your commands are always with me.” He has more understanding because he obeys, and he does not turn aside from God’s laws. We do not guess our way through life in the dark. God has given us his Word to light the path.",
+          "enochActivity": "Lamp walk: turn down the lights, shine a flashlight at Enoch’s feet, and take slow steps together. At the end say, “Your Word is a lamp for my feet, a light on my path!”",
+          "elijah2": "In verse 97, what does the writer say he does with God’s law all day long?",
+          "elijahAnswer2": "He meditates on it all day long (verse 97). He also says, “Oh, how I love your law!”",
+          "jordyn2": "Verse 101 says, “I have kept my feet from every evil path so that I might obey your word.” How does that fit with the Bible being a lamp, not only a book we admire?",
+          "jordynAnswer2": "The light is for walking. The writer keeps his feet from evil paths so he can obey (verses 101, 105). God’s Word is meant to be lived, not only liked.",
+          "passageText": "97 Oh, how I love your law! I meditate on it all day long. 98 Your commands are always with me and make me wiser than my enemies. 99 I have more insight than all my teachers, for I meditate on your statutes. 100 I have more understanding than the elders, for I obey your precepts. 101 I have kept my feet from every evil path so that I might obey your word. 102 I have not departed from your laws, for you yourself have taught me. 103 How sweet are your words to my taste, sweeter than honey to my mouth! 104 I gain understanding from your precepts; therefore I hate every wrong path. נ Nun 105 Your word is a lamp for my feet, a light on my path."
+        },
+        {
+          "id": "w16-d5",
+          "day": 5,
+          "label": "Day 5",
+          "kind": "Challenge",
+          "focus": "Jesus was hungry, and he still answered the devil with God’s Word: we do not live on bread alone, but on every word that comes from the mouth of God.",
+          "verse": "Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+          "verseCite": "Matthew 4:4, NIV",
+          "enoch": "Hold a piece of bread (or pretend), then hold a Bible, and say, “I need God’s Word more than bread!”",
+          "elijah": "In Matthew 4:4, what did Jesus say we must live on, not bread alone?",
+          "elijahAnswer": "“Every word that comes from the mouth of God” (verse 4).",
+          "jordyn": "Jesus was hungry after forty days and nights (verse 2). Why does it matter that he answered the tempter with “It is written,” instead of turning stones into bread?",
+          "jordynAnswer": "Jesus trusted his Father and used Scripture as his food and his answer (verses 1–4). He would not take a shortcut the devil offered, because real life comes from God’s Word, not from grabbing bread in a way that doubts the Father.",
+          "action": "Read Matthew 4:1–4 twice. Then each person names one “bread” they are tempted to put first, and one word from God they will live on today.",
+          "prayer": "Father, Jesus said we shall not live on bread alone, but on every word that comes from your mouth. When we are hungry or tempted, help us answer with what is written, and trust you. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 4:1–4, NIV",
+          "teach": "Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, he was hungry. The tempter said, “If you are the Son of God, tell these stones to become bread.” Jesus did not argue from his hunger. He answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’” Today’s challenge is to treat God’s Word as food, not as an extra snack. We need bread, but we need the words that come from God’s mouth even more. When you are tempted this week, answer the way Jesus did: “It is written.”",
+          "enochActivity": "Bread-and-Bible challenge: set a piece of bread beside an open Bible. Point to the bread, then to the Bible, and say Matthew 4:4 together: “Man shall not live on bread alone.”",
+          "elijah2": "In verse 3, what did the tempter tell Jesus to turn the stones into?",
+          "elijahAnswer2": "Bread (verse 3).",
+          "jordyn2": "How does “every word that comes from the mouth of God” (verse 4) fit with what we heard in 2 Timothy 3:16, that all Scripture is God-breathed?",
+          "jordynAnswer2": "Both teach that the words of Scripture come from God himself. That is why they can feed us and make us wise for salvation. Jesus lived by those words, and so do we (Matthew 4:4; 2 Timothy 3:16).",
+          "passageText": "1 Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. 2 After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.” 4 Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”"
+        },
+        {
+          "id": "w16-d6",
+          "day": 6,
+          "label": "Day 6",
+          "kind": "Prayer",
+          "focus": "We ask God to open our eyes in his Word, and we keep his commandments close — at home, on the road, when we lie down, and when we get up.",
+          "verse": "Open my eyes that I may see wonderful things in your law.",
+          "verseCite": "Psalm 119:18, NIV",
+          "enoch": "Cover your eyes, then open them, and pray, “Open my eyes, God. Help me see wonderful things in your Word.”",
+          "elijah": "In Psalm 119:18, what does the writer ask God to open, and why?",
+          "elijahAnswer": "“Open my eyes that I may see wonderful things in your law” (Psalm 119:18).",
+          "jordyn": "Deuteronomy 6:7 says to impress God’s commandments on your children, and to talk about them at home, on the road, at bedtime, and in the morning. Why is that more than a one-time Sunday reading?",
+          "jordynAnswer": "God’s words are to be on our hearts all day, in ordinary moments, not only in a formal lesson (Deuteronomy 6:6–9). We need God to open our eyes (Psalm 119:18), and we also need a home that keeps talking about his Word.",
+          "action": "Read Psalm 119:18 and Deuteronomy 6:6–7 together. Then pray, “Open my eyes,” and pick one ordinary time today (a meal, a walk, bedtime) to talk about a verse from this week.",
+          "prayer": "Father, open our eyes that we may see wonderful things in your law. Put your commandments on our hearts. Help us talk about them when we sit at home and when we walk along the road, when we lie down and when we get up. In Jesus’ name, Amen.",
+          "passageCite": "Psalm 119:18; Deuteronomy 6:6–9, NIV",
+          "teach": "Because the Bible is God’s Word, we do not come to it as if we can see everything on our own. The psalm prays, “Open my eyes that I may see wonderful things in your law.” That is a good prayer for every time we open the Bible. And Moses told God’s people not to leave those words in a book on a shelf: “These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.” God’s Word belongs in the ordinary hours of a family.",
+          "enochActivity": "Eyes-open prayer: cover eyes, then open them, and pray Psalm 119:18 one short phrase at a time. Then tape a verse card near a door and say, “We talk about God’s Word at home!”",
+          "elijah2": "In Deuteronomy 6:7, when are we told to talk about God’s commandments?",
+          "elijahAnswer2": "“When you sit at home and when you walk along the road, when you lie down and when you get up” (Deuteronomy 6:7).",
+          "jordyn2": "Hebrews 4:12 says the word of God is “alive and active,” and that it “judges the thoughts and attitudes of the heart.” How does that fit with asking God to open our eyes in his law?",
+          "jordynAnswer2": "We need God to open our eyes because his Word is living; it does not only give information, it searches us (Psalm 119:18; Hebrews 4:12). We come to be taught, and also to be seen and changed.",
+          "passageText": "18 Open my eyes that I may see wonderful things in your law. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates."
+        },
+        {
+          "id": "w16-d7",
+          "day": 7,
+          "label": "Day 7",
+          "kind": "Recap",
+          "focus": "Recap: The Bible is God’s Word — God-breathed, a lamp for our feet, and the food we live on. The word of our God endures forever.",
+          "verse": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,",
+          "verseCite": "2 Timothy 3:16, NIV",
+          "enoch": "Ask, “Whose Word is the Bible?” (God’s!) “What is God’s Word like?” (A lamp! Food! Forever!)",
+          "elijah": "In 2 Timothy 3:16, what is all Scripture?",
+          "elijahAnswer": "“God-breathed” (2 Timothy 3:16).",
+          "jordyn": "This week we also heard that God’s Word is a lamp, and that Jesus lived on every word from God’s mouth. Why does a recap of “the Bible is God’s Word” need both the lamp and the food, not only “God-breathed”?",
+          "jordynAnswer": "“God-breathed” tells us where the Bible comes from (2 Timothy 3:16). The lamp tells us it guides our steps (Psalm 119:105), and Jesus shows us we live by it (Matthew 4:4). We receive it as God’s Word, and we walk and eat by it.",
+          "action": "Read 2 Timothy 3:16 and Psalm 119:105 together. Then each person shares one thing they learned this week and one way they want to keep God’s Word close.",
+          "prayer": "Father, thank you that all Scripture is God-breathed, that your word is a lamp for our feet, and that we do not live on bread alone. The word of the Lord endures forever. Open our eyes, and help our family hide your Word in our hearts. In Jesus’ name, Amen.",
+          "passageCite": "2 Timothy 3:16–17; Psalm 119:105; 1 Peter 1:24–25, NIV",
+          "teach": "Today we look back at our week. All Scripture is God-breathed, able to make us wise for salvation through faith in Christ Jesus, and able to equip us for every good work. We hide God’s Word in our hearts. It is a lamp for our feet and a light on our path. Jesus would not live on bread alone, but on every word that comes from the mouth of God. We ask God to open our eyes, and we talk about his commandments in the ordinary hours of the day. People are like grass, and flowers fall, “but the word of the Lord endures forever.” That is the Word that has been preached to us. We can trust it, love it, and live by it.",
+          "enochActivity": "Recap motions: hold a Bible (“God-breathed”), shine a light at your feet (“a lamp”), and take a bite of air like food (“every word”). Then say, “The Bible is God’s Word!”",
+          "elijah2": "In Psalm 119:105, what is God’s word for our feet and our path?",
+          "elijahAnswer2": "“A lamp for my feet, a light on my path” (Psalm 119:105).",
+          "jordyn2": "1 Peter 1:24–25 says people are like grass, but “the word of the Lord endures forever.” How does that change the way a family treats the Bible compared with other words that come and go?",
+          "jordynAnswer2": "Other words fade, like flowers. God’s Word remains, and it is the word that was preached to us (1 Peter 1:23–25). So we keep returning to it, not treating it as one more passing voice.",
+          "passageText": "16 All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, 17 so that the servant of God may be thoroughly equipped for every good work. Your word is a lamp for my feet, a light on my path. For, “All people are like grass, and all their glory is like the flowers of the field; the grass withers and the flowers fall, but the word of the Lord endures forever.” And this is the word that was preached to you."
+        }
+      ],
+      "lessonVerses": [
+        "2 Timothy 3:14–17",
+        "2 Timothy 3:16–17",
+        "Psalm 119:9–16",
+        "Psalm 119:97–105",
+        "Psalm 119:105",
+        "Psalm 119:18",
+        "Matthew 4:1–4",
+        "Deuteronomy 6:6–9",
+        "Hebrews 4:12",
+        "1 Peter 1:23–25"
+      ]
     },
     {
       "id": "17",
