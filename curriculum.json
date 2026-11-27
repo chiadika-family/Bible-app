@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.31",
+  "contentVersion": "2026.11.21.32",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -8227,11 +8227,236 @@
       "planTitle": "Paul in Athens: the God who made the world",
       "title": "Paul in Athens: the God who made the world",
       "selectLabel": "Week 35 · Paul in Athens: the God who made the world",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 17:22–31 (NIV)",
-      "bigIdea": "Paul told the people of Athens about the one God who made the world and raised Jesus.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 36 · Priscilla, Aquila, and the church in Corinth",
+      "bigIdea": "Paul told the people of Athens about the one God who made the world and raised Jesus.",
+      "scheduleNote": "This is the Week 35 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 17:22–25 out loud, then Acts 17:26–28, then Acts 17:29–31."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 17:22–25",
+          "text": "22 Paul then stood up in the meeting of the Areopagus and said: “People of Athens! I see that in every way you are very religious. 23 For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: to an unknown god. So you are ignorant of the very thing you worship—and this is what I am going to proclaim to you. 24 “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. 25 And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else."
+        },
+        {
+          "cite": "Acts 17:26–28",
+          "text": "26 From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. 27 God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. 28 ‘For in him we live and move and have our being.’ As some of your own poets have said, ‘We are his offspring.’"
+        },
+        {
+          "cite": "Acts 17:29–31",
+          "text": "29 “Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. 30 In the past God overlooked such ignorance, but now he commands all people everywhere to repent. 31 For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week God opened Lydia’s heart, and he used a midnight song to save a jailer. Then Paul came to Athens, a city full of objects of worship. He stood up in the meeting of the Areopagus and said that in every way the people of Athens were very religious. As he walked around and looked carefully at their objects of worship, he even found an altar with this inscription: to an unknown god. So they were ignorant of the very thing they worshiped, and this was what he was going to proclaim to them. We say that simply. We do not make fun of the altar, and we do not act out the crowd.",
+        "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else. From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. ‘For in him we live and move and have our being.’ As some of their own poets have said, ‘We are his offspring.’",
+        "Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. In the past God overlooked such ignorance, but now he commands all people everywhere to repent. For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead. We tell the judgment day with care, not to frighten little ones. The proof Paul names is this: God raised Jesus.",
+        "Paul told the people of Athens about the one God who made the world and raised Jesus. Next week we will meet Priscilla, Aquila, and the church in Corinth."
+      ],
+      "enochLine": "God made the world, and Jesus was raised!",
+      "enochActivities": [
+        "Activity: Made the world. Point around the room, or to the sky, and say: God made the world!",
+        "Activity: Life and breath. Place a hand on your chest, take a quiet breath, and say: God gives us life and breath!"
+      ],
+      "elijahQuestions": [
+        "In Acts 17:22–23, where did Paul stand up to speak, and what altar had he found?",
+        "In Acts 17:24–25, who is the God Paul proclaimed, and what does that God give?",
+        "In Acts 17:26–28, why did God make the nations, and what did Paul say about how close God is?",
+        "In Acts 17:29–31, what does God now command, and what proof has he given?"
+      ],
+      "elijahAnswers": [
+        "Paul stood up in the meeting of the Areopagus. He said that in every way the people of Athens were very religious, and he had found an altar with this inscription: to an unknown god. That was what he was going to proclaim to them (Acts 17:22–23).",
+        "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. He is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else (Acts 17:24–25).",
+        "From one man he made all the nations, and he marked out their appointed times and the boundaries of their lands, so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. ‘For in him we live and move and have our being.’ As some of their own poets have said, ‘We are his offspring.’ (Acts 17:26–28).",
+        "We should not think that the divine being is like gold or silver or stone. In the past God overlooked such ignorance, but now he commands all people everywhere to repent. He has set a day when he will judge the world with justice by the man he has appointed, and he has given proof of this to everyone by raising him from the dead (Acts 17:29–31)."
+      ],
+      "jordynQuestions": [
+        "Paul finds an altar with this inscription: to an unknown god, and then he proclaims the God who made the world and everything in it (Acts 17:23–24). What does that show you about the difference between an unknown god and the Lord of heaven and earth?",
+        "God made all the nations from one man, and he did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us (Acts 17:26–27). What does that tell you about God’s heart for people, and about how we look for him?",
+        "God now commands all people everywhere to repent, and he has given proof by raising the man he has appointed from the dead (Acts 17:30–31). Next week we will meet Priscilla, Aquila, and the church in Corinth. What do both weeks show you about the same good news traveling to new places?"
+      ],
+      "jordynAnswers": [
+        "An unknown god is a blank the people of Athens could not fill. Paul does not leave them with a guess. He names the God who made the world and everything in it, the Lord of heaven and earth, who does not live in temples built by human hands. The true God is not a local image. He is the Maker, and he can be proclaimed.",
+        "The nations are not an accident, and their times and lands are marked out so that people would seek God. He is not far. We do not have to invent a way to climb up to him. We reach out for the God who already gives life and breath, and who wants to be found.",
+        "The same God who made the world now commands repentance, and he has given proof by raising Jesus. That message is not only for Athens. Next week it will be spoken in Corinth, among friends who work and teach together. The good news keeps traveling, and the proof stays the same: Jesus was raised from the dead."
+      ],
+      "jordynApplication": "Paul told the people of Athens about the one God who made the world and raised Jesus (Acts 17:22–31). This week, thank God that he is not far, and tell one person that the God who made the world has given proof by raising Jesus. Next week we will meet Priscilla, Aquila, and the church in Corinth.",
+      "applicationCheck": "Ask her later in the week whether she thanked God that he is not far, or told someone that God made the world and raised Jesus. If it is fitting, thank God together that he gives life and breath, and that he has given proof by raising Jesus from the dead.",
+      "prayer": "Father, thank you that you are the God who made the world and everything in it, the Lord of heaven and earth. Thank you that you give everyone life and breath, and that you are not far from any one of us. ‘For in him we live and move and have our being.’ Thank you that you have given proof by raising Jesus from the dead. Help us seek you, reach out for you, and tell others about the one God who made the world and raised Jesus. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 17:22–25",
+        "Acts 17:26–28",
+        "Acts 17:29–31",
+        "Acts 17:23",
+        "Acts 17:24–25",
+        "Acts 17:27–28",
+        "Acts 17:30–31"
+      ],
+      "dailies": [
+        {
+          "id": "w35-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Paul stands in the Areopagus and begins to proclaim the God the people of Athens do not know.",
+          "verse": "I even found an altar with this inscription: to an unknown god.",
+          "verseCite": "Acts 17:23, NIV",
+          "enoch": "Help a grown-up say: Paul told Athens about the one true God!",
+          "elijah": "In Acts 17:22–23, what did Paul say about the people of Athens, and what altar had he found?",
+          "elijahAnswer": "He stood up in the meeting of the Areopagus and said that in every way they were very religious. He had found an altar with this inscription: to an unknown god, and that was what he was going to proclaim to them.",
+          "jordyn": "Paul looks carefully at their objects of worship and then proclaims the God they have not known (Acts 17:23). What is wise about starting there, without making fun of the altar?",
+          "jordynAnswer": "He tells the truth about what he has seen, and he does not sneer. Then he uses even an unknown god as a door to name the real God. We can be careful and clear at the same time: we honor people, and we still tell them who God is.",
+          "action": "Read Acts 17:22–23 out loud. Then thank God that he can be known, and that he is not an unknown god.",
+          "prayer": "Father, thank you that Paul stood up in Athens and began to proclaim you. Thank you that you are not unknown. Help us listen, and help us speak of you with care. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:22–23, NIV",
+          "teach": "Paul stood up in the meeting of the Areopagus and said that in every way the people of Athens were very religious. As he walked around, he even found an altar with this inscription: to an unknown god. He would proclaim to them the very thing they worshiped without knowing. We tell this simply. We do not make fun of the altar.",
+          "enochActivity": "Point toward a doorway and say: Paul stood up to tell them about God!",
+          "elijah2": "In Acts 17:22, where did Paul stand up and speak?",
+          "elijahAnswer2": "He stood up in the meeting of the Areopagus.",
+          "jordyn2": "Why does Paul say he is going to proclaim to them the very thing they worship in ignorance (Acts 17:23)?",
+          "jordynAnswer2": "They have an altar to an unknown god, but God is not meant to stay unknown. Paul will name him and tell them who he is.",
+          "passageText": "22 Paul then stood up in the meeting of the Areopagus and said: “People of Athens! I see that in every way you are very religious. 23 For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: to an unknown god. So you are ignorant of the very thing you worship—and this is what I am going to proclaim to you."
+        },
+        {
+          "id": "w35-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "The God who made the world is Lord of heaven and earth, and he himself gives life and breath.",
+          "verse": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands.",
+          "verseCite": "Acts 17:24, NIV",
+          "enoch": "Point around the room, or to the sky, and say: God made the world!",
+          "elijah": "In Acts 17:24–25, where does the God who made the world not live, and what does he give?",
+          "elijahAnswer": "He does not live in temples built by human hands. He is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else.",
+          "jordyn": "The Maker is not served by human hands, as if he needed anything (Acts 17:25). How does that change the way you think about worship, and about who is giving and who is receiving?",
+          "jordynAnswer": "God does not need our help to be God. We need him. Worship is not filling up an empty god with gifts. It is receiving life and breath from the Lord of heaven and earth, and then honoring him because he is the Maker.",
+          "action": "Play God made it. Look around a room or out a window, name two things God made, and say: The God who made the world is Lord of heaven and earth! Do not pretend to smash an image or make fun of a temple.",
+          "prayer": "Father, thank you that you made the world and everything in it, and that you give everyone life and breath. You do not live in temples built by human hands, and you do not need us as if you were empty. Teach us to honor you as the Giver. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:24–25, NIV",
+          "teach": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. He is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else. This is the God Paul is proclaiming: the Maker, not a local image in a temple.",
+          "enochActivity": "Place a hand on your chest, take a quiet breath, and say: God gives us life and breath!",
+          "elijah2": "In Acts 17:25, what does God himself give everyone?",
+          "elijahAnswer2": "Life and breath and everything else.",
+          "jordyn2": "Why is it good news that God is not served by human hands, as if he needed anything (Acts 17:25)?",
+          "jordynAnswer2": "It means God is not a needy statue we have to keep going. He is already the Giver. We come to him empty, and he gives life and breath.",
+          "passageText": "24 “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. 25 And he is not served by human hands, as if he needed anything. Rather, he himself gives everyone life and breath and everything else."
+        },
+        {
+          "id": "w35-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "God made all nations so that people would seek him, and he is not far from any one of us.",
+          "verse": "God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us.",
+          "verseCite": "Acts 17:27, NIV",
+          "enoch": "Stretch out your hands and say: God is not far!",
+          "elijah": "In Acts 17:26–28, from whom did God make the nations, and what did some of their poets say?",
+          "elijahAnswer": "From one man he made all the nations, that they should inhabit the whole earth, and he marked out their appointed times and the boundaries of their lands. ‘For in him we live and move and have our being.’ As some of their own poets have said, ‘We are his offspring.’",
+          "jordyn": "God marked out times and lands so that people would seek him and perhaps reach out for him and find him (Acts 17:27). What does it mean that he is not far from any one of us?",
+          "jordynAnswer": "We are not left to hunt for a distant god who will not be found. The Maker stays near. We live and move in him. So seeking him is not climbing a far mountain so much as reaching out for the God who already holds our life.",
+          "action": "Read Acts 17:26–28 out loud. Then thank God that he is not far, and that in him we live and move and have our being.",
+          "prayer": "Father, thank you that from one man you made all the nations, and that you are not far from any one of us. ‘For in him we live and move and have our being.’ Help us seek you and reach out for you today. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:26–28, NIV",
+          "teach": "From one man God made all the nations, and he marked out their appointed times and the boundaries of their lands. He did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. ‘For in him we live and move and have our being.’ As some of their own poets have said, ‘We are his offspring.’",
+          "enochActivity": "Take two small steps as if you were reaching out, and say: God wants us to seek him!",
+          "elijah2": "In Acts 17:27, how near is God?",
+          "elijahAnswer2": "He is not far from any one of us.",
+          "jordyn2": "Why does Paul quote, ‘We are his offspring.’ after saying that in God we live and move and have our being (Acts 17:28)?",
+          "jordynAnswer2": "If we live in God and are his offspring, then God is not a distant statue. He is the living Maker who holds our life, and we should seek him as his children, not as people trying to keep an image alive.",
+          "passageText": "26 From one man he made all the nations, that they should inhabit the whole earth; and he marked out their appointed times in history and the boundaries of their lands. 27 God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. 28 ‘For in him we live and move and have our being.’ As some of your own poets have said, ‘We are his offspring.’"
+        },
+        {
+          "id": "w35-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "God’s offspring should not think he is like gold or silver or stone, and now he commands all people everywhere to repent.",
+          "verse": "In the past God overlooked such ignorance, but now he commands all people everywhere to repent.",
+          "verseCite": "Acts 17:30, NIV",
+          "enoch": "Hold up one finger and say: There is one God, and we should turn to him!",
+          "elijah": "In Acts 17:29–30, why should we not think the divine being is like gold or silver or stone, and what does God now command?",
+          "elijahAnswer": "Since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. In the past God overlooked such ignorance, but now he commands all people everywhere to repent.",
+          "jordyn": "Paul has just said, ‘We are his offspring.’ Then he says we should not think the divine being is like gold or silver or stone (Acts 17:28–29). How does being God’s offspring change what we think God is like?",
+          "jordynAnswer": "Offspring belong to a living Father, not to a metal image. If we live and move in God, he cannot be a statue we designed and made. Repentance means turning from that wrong picture, and from the life that fits it, to the living God.",
+          "action": "Tell one person, with respect and without a joke about anyone’s shrine, that God is not like gold or silver or stone, and that he now commands people to repent, to turn to him.",
+          "prayer": "Father, thank you that we are your offspring, and that you are not an image made by human design and skill. You now command all people everywhere to repent. Turn our hearts to you, and help us speak this with respect. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:29–30, NIV",
+          "teach": "Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. In the past God overlooked such ignorance, but now he commands all people everywhere to repent. We say this with dignity. We do not mock an image, and we do not treat repentance as a game.",
+          "enochActivity": "Shake your head gently and then nod, and say: God is not a statue. We turn to him!",
+          "elijah2": "In Acts 17:30, what does God now command all people everywhere to do?",
+          "elijahAnswer2": "To repent.",
+          "jordyn2": "What does repent mean here, after Paul has talked about gold, silver, and stone (Acts 17:29–30)?",
+          "jordynAnswer2": "It means turning from a false picture of God, and from the life that goes with it, to the living God who made the world. God is not overlooking that ignorance now. He calls everyone to turn.",
+          "passageText": "29 “Therefore since we are God’s offspring, we should not think that the divine being is like gold or silver or stone—an image made by human design and skill. 30 In the past God overlooked such ignorance, but now he commands all people everywhere to repent."
+        },
+        {
+          "id": "w35-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "God has set a day of just judgment, and he has given proof by raising the man he has appointed.",
+          "verse": "He has given proof of this to everyone by raising him from the dead.",
+          "verseCite": "Acts 17:31, NIV",
+          "enoch": "Open your hands and say: God raised Jesus!",
+          "elijah": "In Acts 17:31, what day has God set, and what proof has he given?",
+          "elijahAnswer": "He has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.",
+          "jordyn": "God will judge the world with justice by the man he has appointed, and the proof is that he raised him from the dead (Acts 17:31). Why is the resurrection the right proof for a coming just day?",
+          "jordynAnswer": "A just day needs a living appointed man, not only a teaching. God has already raised Jesus, so the world has been given public proof. Judgment is real, and it is just, and it is not a rumor. The same raised Jesus is the proof and the appointed man.",
+          "action": "Pray together, with a calm voice, thanking God that the day he has set is just, and that he has given proof by raising Jesus. Do not turn the judgment day into a scare or a skit.",
+          "prayer": "Father, thank you that you will judge the world with justice by the man you have appointed, and that you have given proof of this to everyone by raising him from the dead. Make us ready, and help us trust Jesus, the one you raised. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:31, NIV",
+          "teach": "God has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead. We tell this with care, especially with little children. The point is not to frighten them. The point is that God is just, and that Jesus was raised.",
+          "enochActivity": "Hold both hands open like a gift and say: God has given proof. Jesus was raised!",
+          "elijah2": "In Acts 17:31, by whom will God judge the world, and how has he given proof?",
+          "elijahAnswer2": "By the man he has appointed. He has given proof of this to everyone by raising him from the dead.",
+          "jordyn2": "How should a family speak about this set day with younger children (Acts 17:31)?",
+          "jordynAnswer2": "With calm honesty, not with scare tactics. God is just, and the proof he gives is good news: Jesus was raised from the dead. That is the man he has appointed, and that is why we can trust him.",
+          "passageText": "31 For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”"
+        },
+        {
+          "id": "w35-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Paul told the people of Athens about the one God who made the world and raised Jesus, and next the message will be at work in Corinth.",
+          "verse": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands.",
+          "verseCite": "Acts 17:24, NIV",
+          "enoch": "Tell a grown-up the big idea: God made the world, and Jesus was raised!",
+          "elijah": "From Acts 17:22–31, what did Paul tell the people of Athens about God, and what proof did he name at the end?",
+          "elijahAnswer": "He told them about the God who made the world and everything in it, the Lord of heaven and earth, who gives life and breath and is not far from any one of us. Now God commands all people everywhere to repent, and he has given proof by raising the man he has appointed from the dead.",
+          "jordyn": "Why is Paul told the people of Athens about the one God who made the world and raised Jesus a fitting last word before a week with Priscilla, Aquila, and the church in Corinth?",
+          "jordynAnswer": "The message in Athens is already meant to travel. The one God who made the world and raised Jesus will be named in a new city, among friends who work and teach together. The Maker and the raised Jesus do not change from Athens to Corinth.",
+          "action": "Tell someone the week’s big idea: Paul told the people of Athens about the one God who made the world and raised Jesus. Then thank God, and look ahead to Priscilla, Aquila, and the church in Corinth.",
+          "prayer": "Father, thank you that Paul told the people of Athens about the one God who made the world and raised Jesus. Get our hearts ready to meet Priscilla, Aquila, and the church in Corinth. In Jesus’ name, Amen.",
+          "passageCite": "Acts 17:24, 27, 31, NIV",
+          "teach": "This week we learned that Paul told the people of Athens about the one God who made the world and raised Jesus. He stood in the Areopagus and began from an altar to an unknown god. He proclaimed the Maker, who gives life and breath and is not far. He called people to repent, and he named the proof: God has raised the man he appointed. Next week we will meet Priscilla, Aquila, and the church in Corinth.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week we will meet friends in Corinth!",
+          "elijah2": "In Acts 17:31, what exact proof has God given to everyone?",
+          "elijahAnswer2": "He has given proof of this to everyone by raising him from the dead.",
+          "jordyn2": "What stays the same when the story moves from Athens to Corinth next week?",
+          "jordynAnswer2": "The one God who made the world and raised Jesus. New friends and a new city will hear the same Maker, and the same proof, the resurrection of Jesus.",
+          "passageText": "24 “The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by human hands. 27 God did this so that they would seek him and perhaps reach out for him and find him, though he is not far from any one of us. 31 For he has set a day when he will judge the world with justice by the man he has appointed. He has given proof of this to everyone by raising him from the dead.”"
+        }
+      ]
     },
     {
       "id": "36",
