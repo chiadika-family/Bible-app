@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.25",
+  "contentVersion": "2026.11.21.26",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -6797,11 +6797,237 @@
       "planTitle": "Saul meets Jesus",
       "title": "Saul meets Jesus",
       "selectLabel": "Week 29 · Saul meets Jesus",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 9:1–19 (NIV)",
-      "bigIdea": "Jesus can change anyone, even someone who fought against him.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 30 · Peter and Cornelius: good news for all people",
+      "bigIdea": "Jesus can change anyone, even someone who fought against him.",
+      "scheduleNote": "This is the Week 29 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 9:1–9 out loud, then Acts 9:10–16, then Acts 9:17–19."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 9:1–9",
+          "text": "1 Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest 2 and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem. 3 As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” 5 “Who are you, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” he replied. 6 “Now get up and go into the city, and you will be told what you must do.” 7 The men traveling with Saul stood there speechless; they heard the sound but did not see anyone. 8 Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus. 9 For three days he was blind, and did not eat or drink anything."
+        },
+        {
+          "cite": "Acts 9:10–16",
+          "text": "10 In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!” “Yes, Lord,” he answered. 11 The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. 12 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.” 13 “Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. 14 And he has come here with authority from the chief priests to arrest all who call on your name.” 15 But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. 16 I will show him how much he must suffer for my name.”"
+        },
+        {
+          "cite": "Acts 9:17–19",
+          "text": "17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” 18 Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, 19 and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week God sent Philip down a desert road to help a man understand the good news about Jesus. Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest and asked for letters to the synagogues in Damascus, so that if he found any who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem.",
+        "As he neared Damascus, a light from heaven flashed around him. He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” “Who are you, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” he replied. “Now get up and go into the city, and you will be told what you must do.” The men traveling with Saul stood there speechless. They heard the sound but did not see anyone. Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus. For three days he was blind, and did not eat or drink anything.",
+        "In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!” “Yes, Lord,” he answered. The Lord told him to go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying, and in a vision has seen a man named Ananias come and place his hands on him to restore his sight. Ananias answered that he had heard many reports about this man and all the harm he had done to the Lord’s people, and that Saul had come to take prisoners. But the Lord said, “Go!” This man is his chosen instrument to proclaim his name to the Gentiles and their kings and to the people of Israel. The Lord would also show Saul how much he must suffer for the name.",
+        "Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus.",
+        "Jesus can change anyone, even someone who fought against him. Next week we will see that the good news of Jesus is for every nation and people. We will meet Peter, and a man named Cornelius."
+      ],
+      "enochLine": "Jesus can change anyone, even someone who fought against him!",
+      "enochActivities": [
+        "Activity: Bright light. Open your hands like a flash of light, then listen, and say: Jesus can change anyone!",
+        "Activity: Brother. Hold out a hand as if to welcome, and say: Ananias called him Brother Saul!"
+      ],
+      "elijahQuestions": [
+        "In Acts 9:1–2, what was Saul doing as he went to Damascus?",
+        "In Acts 9:3–5, what happened as Saul neared Damascus, and what did the voice say?",
+        "In Acts 9:10–15, why was Ananias afraid, and what did the Lord tell him about Saul?",
+        "In Acts 9:17–19, what did Ananias call Saul, and what happened after he placed his hands on him?"
+      ],
+      "elijahAnswers": [
+        "Saul was still breathing out murderous threats against the Lord’s disciples, and he asked for letters so that if he found any who belonged to the Way, he might take them as prisoners to Jerusalem (Acts 9:1–2).",
+        "A light from heaven flashed around him. He fell to the ground and heard a voice say, “Saul, Saul, why do you persecute me?” Saul asked, “Who are you, Lord?” and the voice said, “I am Jesus, whom you are persecuting,” he replied (Acts 9:3–5).",
+        "Ananias had heard many reports about the harm Saul had done, and that he had come to take prisoners. The Lord said, “Go!” This man is his chosen instrument to proclaim his name (Acts 9:13–15).",
+        "Ananias said, “Brother Saul,” and told him that the Lord Jesus had sent him so that Saul might see again and be filled with the Holy Spirit. Something like scales fell from Saul’s eyes, he could see, he was baptized, he ate, and he regained his strength (Acts 9:17–19)."
+      ],
+      "jordynQuestions": [
+        "Jesus does not only ask why Saul is hurting people. He says, “Saul, Saul, why do you persecute me?” (Acts 9:4–5). What does that tell you about how Jesus sees his people?",
+        "Ananias was honestly afraid, and still he went and said, “Brother Saul” (Acts 9:13–17). What does that teach you about obeying Jesus when someone has a hard past?",
+        "This week Jesus stops a man who fought against him. Next week we will see that the good news is for every nation and people. What do both stories show you about how wide Jesus’ work is?"
+      ],
+      "jordynAnswers": [
+        "To fight the Lord’s disciples is to fight Jesus himself. Saul thought he was only going after people in Damascus. Jesus says, you are persecuting me. He is that close to his people.",
+        "Fear can be real, and Jesus still sends us. Ananias does not pretend Saul’s harm never happened, and he still goes, and he calls him brother. Jesus can change a person so deeply that the church can welcome him.",
+        "Jesus can change anyone, even someone who fought against him, and his good news is not for one kind of people only. He stops Saul on the road, and next week we will see him send the good news still farther, to every nation."
+      ],
+      "jordynApplication": "Jesus can change anyone, even someone who fought against him (Acts 9:1–19). This week, pray for someone who seems far from Jesus, or take one brave step to welcome a person the way Ananias finally went to Saul. Next week we will see that the good news of Jesus is for every nation and people.",
+      "applicationCheck": "Ask her later in the week whether she prayed for someone who seems far from Jesus, or whether she had a chance to welcome someone with care. If it is fitting, thank God together that Jesus can change anyone, and that Ananias was willing to go.",
+      "prayer": "Father, thank you that Jesus met Saul on the road, and that he can change anyone, even someone who fought against him. Thank you that Ananias went and called him brother. Make us ready to obey when you send us, and teach us to hope for people who seem far away. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 9:1–9",
+        "Acts 9:10–16",
+        "Acts 9:17–19",
+        "Acts 9:4–5",
+        "Acts 9:15",
+        "Acts 9:17",
+        "Acts 9:18–19"
+      ],
+      "dailies": [
+        {
+          "id": "w29-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus meets Saul on the road, and names himself as the one Saul has been fighting.",
+          "verse": "I am Jesus, whom you are persecuting.",
+          "verseCite": "Acts 9:5, NIV",
+          "enoch": "Open your hands like a flash of light, then listen, and say: Jesus can change anyone!",
+          "elijah": "In Acts 9:3–6, what did Saul see and hear on the road, and what was he told to do?",
+          "elijahAnswer": "A light from heaven flashed around him. He fell and heard, “Saul, Saul, why do you persecute me?” Then, “I am Jesus, whom you are persecuting,” He was told, “Now get up and go into the city, and you will be told what you must do.”",
+          "jordyn": "Saul thought he was only going after disciples (Acts 9:1–2). Why does it matter that Jesus says, “why do you persecute me?”",
+          "jordynAnswer": "Jesus stands with his people so closely that to hurt them is to hurt him. Saul meets the Lord himself, not only a new idea about religion.",
+          "action": "Read Acts 9:1–9 together, then tell someone: On the road, Jesus told Saul, I am Jesus, whom you are persecuting.",
+          "prayer": "Father, thank you that Jesus met Saul on the road and told him the truth. Meet us too, and change hearts that have been fighting you. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:1–9, NIV",
+          "teach": "Saul was on his way to Damascus to take followers of Jesus as prisoners. A light from heaven flashed around him. He fell to the ground and heard a voice: “Saul, Saul, why do you persecute me?” “Who are you, Lord?” “I am Jesus, whom you are persecuting,” he replied. Saul was led into the city, blind, and for three days he did not eat or drink.",
+          "enochActivity": "Help a grown-up listen quietly for a moment, then say: Jesus called Saul by name!",
+          "elijah2": "In Acts 9:8–9, what happened to Saul after he got up from the ground?",
+          "elijahAnswer2": "When he opened his eyes he could see nothing. The men with him led him by the hand into Damascus, and for three days he was blind and did not eat or drink anything.",
+          "jordyn2": "For three days Saul is blind, and he does not eat or drink (Acts 9:9). What might those days be teaching him, before Ananias even arrives?",
+          "jordynAnswer2": "The man who had been so sure is stopped and has to wait. Jesus has already spoken, and Saul cannot hurry on in his old way. Waiting can be part of being changed.",
+          "passageText": "1 Meanwhile, Saul was still breathing out murderous threats against the Lord’s disciples. He went to the high priest 2 and asked him for letters to the synagogues in Damascus, so that if he found any there who belonged to the Way, whether men or women, he might take them as prisoners to Jerusalem. 3 As he neared Damascus on his journey, suddenly a light from heaven flashed around him. 4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” 5 “Who are you, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” he replied. 6 “Now get up and go into the city, and you will be told what you must do.” 7 The men traveling with Saul stood there speechless; they heard the sound but did not see anyone. 8 Saul got up from the ground, but when he opened his eyes he could see nothing. So they led him by the hand into Damascus. 9 For three days he was blind, and did not eat or drink anything."
+        },
+        {
+          "id": "w29-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice a willing yes, and a kind welcome, like Ananias going to Saul.",
+          "verse": "Yes, Lord.",
+          "verseCite": "Acts 9:10, NIV",
+          "enoch": "Hold out a hand and say: Yes, Lord. I can go and welcome!",
+          "elijah": "In Acts 9:10, what did Ananias say when the Lord called his name?",
+          "elijahAnswer": "He answered, “Yes, Lord,”",
+          "jordyn": "How should we play a yes-and-welcome game so that we honor this story, and do not make Saul’s blindness or his threats into a joke?",
+          "jordynAnswer": "We do not pretend to be blind, and we do not act out harm. We practice Ananias’s yes, and the kind words Brother Saul, because Jesus can change a person and then send us to welcome him.",
+          "action": "Play a yes-and-welcome game: one person says a simple send, like, Please go to your brother, and the other answers, Yes, Lord, walks over, and says, Brother, Jesus can change anyone. Then switch.",
+          "prayer": "Father, thank you that Ananias said, “Yes, Lord,” and then called Saul brother. Give us a willing yes, and a kind welcome for people you are changing. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:10, 17, NIV",
+          "teach": "The Lord called Ananias in a vision, and Ananias answered, “Yes, Lord,” Later he went into the house, placed his hands on Saul, and said, “Brother Saul,” Today we practice those two words: a willing yes, and a kind welcome, because Jesus can change anyone.",
+          "enochActivity": "Help a grown-up call your name softly. Answer, Yes, Lord, then hold out a welcome hand.",
+          "elijah2": "In Acts 9:17, what name did Ananias use for the man who had come to arrest believers?",
+          "elijahAnswer2": "He said, “Brother Saul,”",
+          "jordyn2": "Why is Brother Saul a better line to practice than trying to act out the light or the blindness?",
+          "jordynAnswer2": "The miracle belongs to Jesus. Our part, like Ananias, is to go when we are sent and to welcome the person Jesus is changing. The welcome is the part we can practice with honor.",
+          "passageText": "10 In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!” “Yes, Lord,” he answered. 17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.”"
+        },
+        {
+          "id": "w29-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Ananias goes, calls Saul brother, and Saul can see again.",
+          "verse": "Brother Saul, the Lord—Jesus… has sent me so that you may see again and be filled with the Holy Spirit.",
+          "verseCite": "Acts 9:17, NIV",
+          "enoch": "Hold out a welcome hand and say: Brother Saul! Jesus can change anyone!",
+          "elijah": "In Acts 9:13–17, what was Ananias afraid of, and what did he do anyway?",
+          "elijahAnswer": "He had heard about the harm Saul had done, and that Saul had come to take prisoners. The Lord said, “Go!” and Ananias went, placed his hands on Saul, and called him “Brother Saul,”",
+          "jordyn": "The Lord does not deny Saul’s harm, and still he sends Ananias and calls Saul his chosen instrument (Acts 9:13–15). How does that hold truth and mercy together?",
+          "jordynAnswer": "The past is not pretended away. Jesus still chooses Saul and sends him. Mercy does not mean the harm never happened. It means Jesus is strong enough to change a person and then use him.",
+          "action": "Read Acts 9:10–19 together, then tell someone: Ananias went and said, Brother Saul.",
+          "prayer": "Father, thank you that you sent Ananias, and that Saul could see again and was baptized. Give us courage to go to people you are changing. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:10–19, NIV",
+          "teach": "The Lord sent Ananias to Saul, even though Ananias was afraid. “Go!” the Lord said. This man is his chosen instrument to proclaim his name. Ananias went, placed his hands on him, and said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” Something like scales fell from Saul’s eyes. He could see, he was baptized, he ate, and he regained his strength.",
+          "enochActivity": "Help a grown-up place a gentle hand on your shoulder, like a kind welcome, and say: Jesus can help us see!",
+          "elijah2": "In Acts 9:18–19, what happened after Ananias placed his hands on Saul?",
+          "elijahAnswer2": "Something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, and after taking some food, he regained his strength.",
+          "jordyn2": "Saul spends several days with the disciples in Damascus (Acts 9:19). Why is that a fitting end to this week’s official passage?",
+          "jordynAnswer2": "The man who came to arrest them now stays with them. Jesus does not only stop Saul on the road. He brings him into the family, starting with Ananias’s words, “Brother Saul,”",
+          "passageText": "10 In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!” “Yes, Lord,” he answered. 11 The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. 12 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.” 13 “Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. 14 And he has come here with authority from the chief priests to arrest all who call on your name.” 15 But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. 16 I will show him how much he must suffer for my name.” 17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” 18 Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, 19 and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus."
+        },
+        {
+          "id": "w29-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Pray for someone who seems far from Jesus, or take one brave welcome step this week.",
+          "verse": "Go! This man is my chosen instrument to proclaim my name.",
+          "verseCite": "Acts 9:15, NIV",
+          "enoch": "Hold out both hands and say: Jesus, please change people who still fight you!",
+          "elijah": "In Acts 9:15, what did the Lord say Saul was chosen to do?",
+          "elijahAnswer": "He is the Lord’s chosen instrument to proclaim his name to the Gentiles and their kings and to the people of Israel.",
+          "jordyn": "Ananias had to go to someone he was afraid of (Acts 9:13–17). What would a right-sized challenge look like for you this week?",
+          "jordynAnswer": "You might pray by name for someone who seems far from Jesus, or take one kind step toward a person who is hard to like. The challenge is not to fix anyone. It is to believe that Jesus can change anyone, and to be willing, like Ananias, to go.",
+          "action": "Choose one person this week who seems far from Jesus, or hard to welcome. Pray for them by name, and if you can, take one kind step toward them.",
+          "prayer": "Father, you sent Ananias to a man he feared, because Jesus can change anyone. Give us names to pray, and give us courage to go. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:13–17, NIV",
+          "teach": "Ananias told the Lord what he had heard about Saul’s harm. The Lord still said, “Go!” Saul was his chosen instrument. Ananias went and called him “Brother Saul,” Jesus can change anyone, and he often sends someone willing to walk toward that person.",
+          "enochActivity": "Help a grown-up name one person you can pray for this week, and say their name in a short prayer.",
+          "elijah2": "In Acts 9:17, who sent Ananias to Saul?",
+          "elijahAnswer2": "The Lord Jesus, who appeared to Saul on the road, sent him so that Saul might see again and be filled with the Holy Spirit.",
+          "jordyn2": "Why is prayer a fitting first step, even if you cannot go to someone the way Ananias did?",
+          "jordynAnswer2": "Ananias started with the Lord, too, in a vision and a conversation. We can bring a name to Jesus first. He is the one who changes people, and he can also show us if there is a next step to take.",
+          "passageText": "13 “Lord,” Ananias answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. 14 And he has come here with authority from the chief priests to arrest all who call on your name.” 15 But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. 16 I will show him how much he must suffer for my name.” 17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.”"
+        },
+        {
+          "id": "w29-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that Jesus can change anyone, and ask for Ananias’s willing heart.",
+          "verse": "Immediately, something like scales fell from Saul’s eyes, and he could see again.",
+          "verseCite": "Acts 9:18, NIV",
+          "enoch": "Open your eyes wide and say: Thank you, Jesus, for changing Saul!",
+          "elijah": "In Acts 9:18–19, what did Saul do after he could see again?",
+          "elijahAnswer": "He got up and was baptized, and after taking some food, he regained his strength. He spent several days with the disciples in Damascus.",
+          "jordyn": "Saul is baptized and then stays with the disciples (Acts 9:18–19). What does that tell you to thank God for, besides the flash of light on the road?",
+          "jordynAnswer": "Thank God that change leads into a new family, not only a moment on the road. Saul can see, he is baptized, he is fed, and he is with the disciples. Jesus gives a whole new life, not just a stopped plan.",
+          "action": "Pray together: thank God that Jesus changed Saul, and ask him to give you a willing heart like Ananias, and hope for people who still seem far away.",
+          "prayer": "Father, thank you that Jesus can change anyone, even someone who fought against him. Thank you for scales falling, for baptism, and for a place with the disciples. Give us Ananias’s yes, and fill us with hope. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:17–19, NIV",
+          "teach": "Ananias called him “Brother Saul,” and the Lord Jesus filled him with the Holy Spirit. Something like scales fell from Saul’s eyes. He could see, he was baptized, he ate, and he stayed with the disciples. This is a story for thanking God, and for asking him to keep changing people.",
+          "enochActivity": "Help a grown-up thank God out loud that Jesus can change anyone.",
+          "elijah2": "In Acts 9:19, who did Saul spend several days with?",
+          "elijahAnswer2": "He spent several days with the disciples in Damascus.",
+          "jordyn2": "How does praying this story keep both the miracle and the welcome in view?",
+          "jordynAnswer2": "We thank God for the light, the voice, and the scales. We also thank him that a frightened disciple said, “Brother Saul,” and that Saul was then at the table with the very people he had come to harm. Both parts are gifts.",
+          "passageText": "17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” 18 Immediately, something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized, 19 and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus."
+        },
+        {
+          "id": "w29-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus can change anyone, even someone who fought against him, and next we will see good news for every nation.",
+          "verse": "I am Jesus, whom you are persecuting.",
+          "verseCite": "Acts 9:5, NIV",
+          "enoch": "Open your hands like a light, then hold out a welcome hand, and say: Jesus can change anyone!",
+          "elijah": "In Acts 9:5 and 9:17, what did Jesus say on the road, and what did Ananias say in the house?",
+          "elijahAnswer": "Jesus said, “I am Jesus, whom you are persecuting,” Ananias said, “Brother Saul,” and told him that the Lord Jesus had sent him so that Saul might see again and be filled with the Holy Spirit.",
+          "jordyn": "This week Jesus stopped a man who fought against him and made him a brother. How does that get your heart ready for next week, when we will see that the good news is for every nation and people?",
+          "jordynAnswer": "If Jesus can change Saul, he can also send the good news farther than we expected. Next week we will meet Peter and a man named Cornelius, and we will learn that the good news of Jesus is for every nation and people.",
+          "action": "Tell someone the week’s big idea: Jesus can change anyone, even someone who fought against him. Then thank God, and look ahead to Peter and Cornelius.",
+          "prayer": "Father, thank you that Jesus met Saul on the road and can change anyone, even someone who fought against him. Get our hearts ready to see that your good news is for every nation and people. In Jesus’ name, Amen.",
+          "passageCite": "Acts 9:4–5, 17, 19, NIV",
+          "teach": "This week we learned that Jesus can change anyone, even someone who fought against him. Saul was on his way to take followers of Jesus as prisoners. A light flashed, and Jesus said, “I am Jesus, whom you are persecuting,” Ananias was afraid, and still he went and said, “Brother Saul,” Scales fell, Saul could see, he was baptized, and he stayed with the disciples. Next week we will see that the good news of Jesus is for every nation and people, when we meet Peter and Cornelius.",
+          "enochActivity": "Help a grown-up look down a hall as if it were a road, and say: Next week the good news is for every nation!",
+          "elijah2": "In Acts 9:19, what did Saul do after he regained his strength?",
+          "elijahAnswer2": "Saul spent several days with the disciples in Damascus.",
+          "jordyn2": "Why is Jesus can change anyone a fitting last word before a week about every nation?",
+          "jordynAnswer2": "This week we saw Jesus stop an enemy and make him a brother. Next week we will see that the same good news is not only for one group of people. The Lord who changes Saul also sends the good news to every nation.",
+          "passageText": "4 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute me?” 5 “Who are you, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” he replied. 17 Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.” 19 and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus."
+        }
+      ]
     },
     {
       "id": "30",

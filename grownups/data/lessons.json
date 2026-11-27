@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.154",
+  "contentVersion": "2026.11.21.161",
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "tracks": [
     {
@@ -203,7 +203,14 @@
         "193",
         "194",
         "195",
-        "196"
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202",
+        "203"
       ]
     },
     {
@@ -407,7 +414,14 @@
         "w193",
         "w194",
         "w195",
-        "w196"
+        "w196",
+        "w197",
+        "w198",
+        "w199",
+        "w200",
+        "w201",
+        "w202",
+        "w203"
       ]
     },
     {
@@ -859,7 +873,21 @@
         "195",
         "w195",
         "196",
-        "w196"
+        "w196",
+        "197",
+        "w197",
+        "198",
+        "w198",
+        "199",
+        "w199",
+        "200",
+        "w200",
+        "201",
+        "w201",
+        "202",
+        "w202",
+        "203",
+        "w203"
       ]
     },
     {
@@ -16897,6 +16925,512 @@
         }
       ],
       "deliveredMarkdown": "**Lesson 196: Romans: peace with God, and love poured out**\n\nGood morning. Yesterday we heard that all have sinned, and that all who believe are justified freely by his grace. Today Paul tells us what that gift gives us. “Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,” Through him we have gained access by faith into this grace in which we now stand, and we boast in the hope of the glory of God. We even glory in our sufferings, because suffering produces perseverance, perseverance character, and character hope. “And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.” This love has a time and a cost. At just the right time, when we were still powerless, Christ died for the ungodly. Very rarely will anyone die for a righteous person, though for a good person someone might possibly dare to die. “But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.” Since we have now been justified by his blood, how much more shall we be saved from God’s wrath through him. For if, while we were God’s enemies, we were reconciled to him through the death of his Son, how much more, having been reconciled, shall we be saved through his life. We also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation. Peace with God is not a mood. It is a reconciliation, made at the cross, poured into our hearts by the Spirit. John Piper, in “Let Us Exult in the Hope of the Glory of God!,” says his aim is that you will exult in that hope, because “it is the will of God for you in Christ Jesus.” In “The Depth of Christ’s Love: Its Undeserving Objects,” he asks how you measure the depth of a love. “If someone performs an act of love toward you, there are four ways that you can see the depth of that love.” One is cost: “If it cost his life, it is another degree of love.” And this love was for the undeserving: while we were still sinners, Christ died for us. In “The Love of God Has Been Poured Out Within Our Hearts,” he lingers over the Spirit’s gift, so that hope does not put us to shame. BibleProject’s Romans guide hears this chapter as the fruit of justification: peace, hope, and a love already poured out. The Legacy Standard Bible has, “having been justified by faith, we have peace with God through our Lord Jesus Christ,” and, “while we were yet sinners, Christ died for us.” The NIV’s “justified through faith” and “while we were still sinners” are that same peace and that same love. You have peace with God, and his love has been poured out in your heart. As a woman, wife, and a mother, stand in this grace. Do not live like an enemy when you have been reconciled, and do not treat this love as thin. While we were still sinners, Christ died for us.\n\n**Romans 5:1–11 (NIV)**\n1 Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, 2 through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. 3 Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; 4 perseverance, character; and character, hope. 5 And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us. 6 You see, at just the right time, when we were still powerless, Christ died for the ungodly. 7 Very rarely will anyone die for a righteous person, though for a good person someone might possibly dare to die. 8 But God demonstrates his own love for us in this: While we were still sinners, Christ died for us. 9 Since we have now been justified by his blood, how much more shall we be saved from God’s wrath through him! 10 For if, while we were God’s enemies, we were reconciled to him through the death of his Son, how much more, having been reconciled, shall we be saved through his life! 11 Not only is this so, but we also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been living as if you were still at war with God, or as if his love had not yet been poured out? What would it look like today to stand in this peace, and to boast in God through the Lord Jesus Christ?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "197",
+      "number": 197,
+      "date": "2027-05-17",
+      "title": "Romans: no condemnation, and the Spirit of adoption",
+      "passages": "Romans 8:1–17",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Romans 8:1-17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+8%3A1-17&version=NIV"
+        },
+        {
+          "label": "John Piper, No Condemnation in Christ Jesus (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/no-condemnation-in-christ-jesus"
+        },
+        {
+          "label": "John Piper, The Spirit-Led Are the Sons of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-spirit-led-are-the-sons-of-god"
+        },
+        {
+          "label": "John Piper, Children, Heirs, and Fellow Sufferers (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/children-heirs-and-fellow-sufferers"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 197: Romans: no condemnation, and the Spirit of adoption**\n\nGood morning, Greg. Yesterday we heard that we have peace with God, and that his love has been poured out in our hearts. Today Paul takes us into the freedom that follows. “Therefore, there is now no condemnation for those who are in Christ Jesus,” because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death. What the law was powerless to do, God did by sending his own Son. Those who are in Christ are not in the realm of the flesh, but in the realm of the Spirit, if the Spirit of God lives in them. Then the theme turns, and it is precious. “For those who are led by the Spirit of God are the children of God.” The Spirit you received does not make you slaves, so that you live in fear again. Rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.” The Spirit himself testifies with our spirit that we are God’s children. And if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory. No condemnation, and a Spirit who makes you a child, not a slave. John Piper, in “No Condemnation in Christ Jesus,” says the essence of Christianity is that we are guilty of sin and under God’s wrath, “and he alone can rescue us from his own condemnation, which he has done through the death and resurrection of his Son, Jesus Christ, for everyone who is in Christ.” In “The Spirit-Led Are the Sons of God,” he hears a new theme become dominant, “one of the most precious themes in the Bible.” “The theme is our sonship – that Christians are children of God.” In “Children, Heirs, and Fellow Sufferers,” he calls verse 17 both spectacular and scary: spectacular because the children of God are his heirs, “and there is no greater inheritance in the universe.” and scary because we share in Christ’s sufferings in order to share in his glory. BibleProject’s Romans guide hears the same movement: the Spirit sets you free, and then teaches you to cry, Abba. The Legacy Standard Bible has the Spirit of adoption as sons, by whom we cry out, “Abba! Father!” The NIV’s “adoption to sonship” and “Abba, Father” is that same cry. The Spirit does not lead you back into fear. He teaches you to say Father. There is now no condemnation for those who are in Christ Jesus, and the Spirit of adoption is already in you. As a man, husband, and father, stop living as if you were still under the sentence, and stop living as a slave to fear. Cry Abba, and walk as a child who will also share the sufferings, and the glory, of Christ.\n\n**Romans 8:1–17 (NIV)**\n1 Therefore, there is now no condemnation for those who are in Christ Jesus, 2 because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death. 3 For what the law was powerless to do because it was weakened by the flesh, God did by sending his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh, 4 in order that the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit. 5 Those who live according to the flesh have their minds set on what the flesh desires; but those who live in accordance with the Spirit have their minds set on what the Spirit desires. 6 The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace. 7 The mind governed by the flesh is hostile to God; it does not submit to God’s law, nor can it do so. 8 Those who are in the realm of the flesh cannot please God. 9 You, however, are not in the realm of the flesh but are in the realm of the Spirit, if indeed the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, they do not belong to Christ. 10 But if Christ is in you, then even though your body is subject to death because of sin, the Spirit gives life because of righteousness. 11 And if the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will also give life to your mortal bodies because of his Spirit who lives in you. 12 Therefore, brothers and sisters, we have an obligation—but it is not to the flesh, to live according to it. 13 For if you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live. 14 For those who are led by the Spirit of God are the children of God. 15 The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.” 16 The Spirit himself testifies with our spirit that we are God’s children. 17 Now if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.\n\n**Reflection question:** As a man, husband, and father, where have you been living under a condemnation Jesus has already taken, or shrinking back into fear instead of crying Abba? What would it look like today to receive this adoption, and to walk as a child of God?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w197",
+      "number": 197,
+      "date": "2027-05-17",
+      "title": "Romans: no condemnation, and the Spirit of adoption",
+      "passages": "Romans 8:1–17",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Romans 8:1-17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+8%3A1-17&version=NIV"
+        },
+        {
+          "label": "John Piper, No Condemnation in Christ Jesus (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/no-condemnation-in-christ-jesus"
+        },
+        {
+          "label": "John Piper, The Spirit-Led Are the Sons of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-spirit-led-are-the-sons-of-god"
+        },
+        {
+          "label": "John Piper, Children, Heirs, and Fellow Sufferers (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/children-heirs-and-fellow-sufferers"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 197: Romans: no condemnation, and the Spirit of adoption**\n\nGood morning. Yesterday we heard that we have peace with God, and that his love has been poured out in our hearts. Today Paul takes us into the freedom that follows. “Therefore, there is now no condemnation for those who are in Christ Jesus,” because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death. What the law was powerless to do, God did by sending his own Son. Those who are in Christ are not in the realm of the flesh, but in the realm of the Spirit, if the Spirit of God lives in them. Then the theme turns, and it is precious. “For those who are led by the Spirit of God are the children of God.” The Spirit you received does not make you slaves, so that you live in fear again. Rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.” The Spirit himself testifies with our spirit that we are God’s children. And if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory. No condemnation, and a Spirit who makes you a child, not a slave. John Piper, in “No Condemnation in Christ Jesus,” says the essence of Christianity is that we are guilty of sin and under God’s wrath, “and he alone can rescue us from his own condemnation, which he has done through the death and resurrection of his Son, Jesus Christ, for everyone who is in Christ.” In “The Spirit-Led Are the Sons of God,” he hears a new theme become dominant, “one of the most precious themes in the Bible.” “The theme is our sonship – that Christians are children of God.” In “Children, Heirs, and Fellow Sufferers,” he calls verse 17 both spectacular and scary: spectacular because the children of God are his heirs, “and there is no greater inheritance in the universe.” and scary because we share in Christ’s sufferings in order to share in his glory. BibleProject’s Romans guide hears the same movement: the Spirit sets you free, and then teaches you to cry, Abba. The Legacy Standard Bible has the Spirit of adoption as sons, by whom we cry out, “Abba! Father!” The NIV’s “adoption to sonship” and “Abba, Father” is that same cry. The Spirit does not lead you back into fear. He teaches you to say Father. There is now no condemnation for those who are in Christ Jesus, and the Spirit of adoption is already in you. As a woman, wife, and a mother, stop living as if you were still under the sentence, and stop living as a slave to fear. Cry Abba, and walk as a child who will also share the sufferings, and the glory, of Christ.\n\n**Romans 8:1–17 (NIV)**\n1 Therefore, there is now no condemnation for those who are in Christ Jesus, 2 because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death. 3 For what the law was powerless to do because it was weakened by the flesh, God did by sending his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh, 4 in order that the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit. 5 Those who live according to the flesh have their minds set on what the flesh desires; but those who live in accordance with the Spirit have their minds set on what the Spirit desires. 6 The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace. 7 The mind governed by the flesh is hostile to God; it does not submit to God’s law, nor can it do so. 8 Those who are in the realm of the flesh cannot please God. 9 You, however, are not in the realm of the flesh but are in the realm of the Spirit, if indeed the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, they do not belong to Christ. 10 But if Christ is in you, then even though your body is subject to death because of sin, the Spirit gives life because of righteousness. 11 And if the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will also give life to your mortal bodies because of his Spirit who lives in you. 12 Therefore, brothers and sisters, we have an obligation—but it is not to the flesh, to live according to it. 13 For if you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live. 14 For those who are led by the Spirit of God are the children of God. 15 The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.” 16 The Spirit himself testifies with our spirit that we are God’s children. 17 Now if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been living under a condemnation Jesus has already taken, or shrinking back into fear instead of crying Abba? What would it look like today to receive this adoption, and to walk as a child of God?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "198",
+      "number": 198,
+      "date": "2027-05-18",
+      "title": "Romans: more than conquerors; nothing can separate us",
+      "passages": "Romans 8:18–39",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Romans 8:18-39 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+8%3A18-39&version=NIV"
+        },
+        {
+          "label": "John Piper, Who Shall Separate Us from the Love of Christ? (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/who-shall-separate-us-from-the-love-of-christ"
+        },
+        {
+          "label": "John Piper, Nothing Can Separate Us from the Love of Christ (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/nothing-can-separate-us-from-the-love-of-christ"
+        },
+        {
+          "label": "John Piper, The All-Conquering Love of Christ (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-all-conquering-love-of-christ"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 198: Romans: more than conquerors; nothing can separate us**\n\nGood morning, Greg. Yesterday there was no condemnation for those in Christ, and the Spirit of adoption taught us to cry Abba. Today Paul will not let suffering talk us out of that hope. “I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.” The Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. “And we know that in all things God works for the good of those who love him, who have been called according to his purpose.” If God is for us, who can be against us? He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? “Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?” No, in all these things we are more than conquerors through him who loved us. Paul is convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord. John Piper, in “Who Shall Separate Us from the Love of Christ?,” says the answer is, “No one and nothing.” “Not only can we not be separated from the love that Christ has for us, but that love is so powerfully for us, at all times, that it turns every circumstance into a triumph.” In “Nothing Can Separate Us from the Love of Christ,” he walks the questions of Romans 8:31–35 and lets the answers stand: no one can be successfully against us, no one can condemn us, and no one and nothing can separate us from Christ’s love. In “The All-Conquering Love of Christ,” he lingers over the same love that makes us more than conquerors through him who loved us. BibleProject’s Romans guide hears this as the chapter’s summit: present sufferings are real, and they cannot unmake the love of God in Christ. The Legacy Standard Bible has, “for those who love God all things work together for good, for those who are called according to His purpose.” and, “in all these things we overwhelmingly conquer through Him who loved us.” The NIV’s “God works for the good” and “more than conquerors” keep the same promise. Nothing created can separate you from that love. You are more than a conqueror through him who loved you, and nothing can separate you from the love of God that is in Christ Jesus our Lord. As a man, husband, and father, do not let present sufferings tell a larger story than this love. The Spirit is already interceding, and God is already at work for your good.\n\n**Romans 8:18–39 (NIV)**\n18 I consider that our present sufferings are not worth comparing with the glory that will be revealed in us. 19 For the creation waits in eager expectation for the children of God to be revealed. 20 For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope 21 that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God. 22 We know that the whole creation has been groaning as in the pains of childbirth right up to the present time. 23 Not only so, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption to sonship, the redemption of our bodies. 24 For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have? 25 But if we hope for what we do not yet have, we wait for it patiently. 26 In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. 27 And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God. 28 And we know that in all things God works for the good of those who love him, who have been called according to his purpose. 29 For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters. 30 And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified. 31 What, then, shall we say in response to these things? If God is for us, who can be against us? 32 He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? 33 Who will bring any charge against those whom God has chosen? It is God who justifies. 34 Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us. 35 Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword? 36 As it is written: “For your sake we face death all day long; we are considered as sheep to be slaughtered.” 37 No, in all these things we are more than conquerors through him who loved us. 38 For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, 39 neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.\n\n**Reflection question:** As a man, husband, and father, what suffering, fear, or accusation has been trying to tell you that you could be separated from Christ’s love? What would it look like today to stand in this promise, and to live as more than a conqueror through him who loved you?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w198",
+      "number": 198,
+      "date": "2027-05-18",
+      "title": "Romans: more than conquerors; nothing can separate us",
+      "passages": "Romans 8:18–39",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Romans 8:18-39 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+8%3A18-39&version=NIV"
+        },
+        {
+          "label": "John Piper, Who Shall Separate Us from the Love of Christ? (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/who-shall-separate-us-from-the-love-of-christ"
+        },
+        {
+          "label": "John Piper, Nothing Can Separate Us from the Love of Christ (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/nothing-can-separate-us-from-the-love-of-christ"
+        },
+        {
+          "label": "John Piper, The All-Conquering Love of Christ (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-all-conquering-love-of-christ"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 198: Romans: more than conquerors; nothing can separate us**\n\nGood morning. Yesterday there was no condemnation for those in Christ, and the Spirit of adoption taught us to cry Abba. Today Paul will not let suffering talk us out of that hope. “I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.” The Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. “And we know that in all things God works for the good of those who love him, who have been called according to his purpose.” If God is for us, who can be against us? He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? “Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?” No, in all these things we are more than conquerors through him who loved us. Paul is convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord. John Piper, in “Who Shall Separate Us from the Love of Christ?,” says the answer is, “No one and nothing.” “Not only can we not be separated from the love that Christ has for us, but that love is so powerfully for us, at all times, that it turns every circumstance into a triumph.” In “Nothing Can Separate Us from the Love of Christ,” he walks the questions of Romans 8:31–35 and lets the answers stand: no one can be successfully against us, no one can condemn us, and no one and nothing can separate us from Christ’s love. In “The All-Conquering Love of Christ,” he lingers over the same love that makes us more than conquerors through him who loved us. BibleProject’s Romans guide hears this as the chapter’s summit: present sufferings are real, and they cannot unmake the love of God in Christ. The Legacy Standard Bible has, “for those who love God all things work together for good, for those who are called according to His purpose.” and, “in all these things we overwhelmingly conquer through Him who loved us.” The NIV’s “God works for the good” and “more than conquerors” keep the same promise. Nothing created can separate you from that love. You are more than a conqueror through him who loved you, and nothing can separate you from the love of God that is in Christ Jesus our Lord. As a woman, wife, and a mother, do not let present sufferings tell a larger story than this love. The Spirit is already interceding, and God is already at work for your good.\n\n**Romans 8:18–39 (NIV)**\n18 I consider that our present sufferings are not worth comparing with the glory that will be revealed in us. 19 For the creation waits in eager expectation for the children of God to be revealed. 20 For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope 21 that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God. 22 We know that the whole creation has been groaning as in the pains of childbirth right up to the present time. 23 Not only so, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption to sonship, the redemption of our bodies. 24 For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have? 25 But if we hope for what we do not yet have, we wait for it patiently. 26 In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. 27 And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God. 28 And we know that in all things God works for the good of those who love him, who have been called according to his purpose. 29 For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters. 30 And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified. 31 What, then, shall we say in response to these things? If God is for us, who can be against us? 32 He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? 33 Who will bring any charge against those whom God has chosen? It is God who justifies. 34 Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us. 35 Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword? 36 As it is written: “For your sake we face death all day long; we are considered as sheep to be slaughtered.” 37 No, in all these things we are more than conquerors through him who loved us. 38 For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, 39 neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.\n\n**Reflection question:** As a woman, wife, and a mother, what suffering, fear, or accusation has been trying to tell you that you could be separated from Christ’s love? What would it look like today to stand in this promise, and to live as more than a conqueror through him who loved you?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "199",
+      "number": 199,
+      "date": "2027-05-19",
+      "title": "Romans: living sacrifices, and overcoming evil with good",
+      "passages": "Romans 12:1–21",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Romans 12:1-21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A1-21&version=NIV"
+        },
+        {
+          "label": "John Piper, Present Your Bodies As a Living Sacrifice to God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/present-your-bodies-as-a-living-sacrifice-to-god"
+        },
+        {
+          "label": "John Piper, Let Love Be Genuine (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-love-be-genuine"
+        },
+        {
+          "label": "John Piper, Christ Overcame Evil with Good—Do the Same (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/christ-overcame-evil-with-good-do-the-same"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 199: Romans: living sacrifices, and overcoming evil with good**\n\nGood morning, Greg. Yesterday nothing could separate us from the love of God in Christ. Today that mercy asks for your life. “Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.” Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. The living sacrifice takes a shape in the church and in the street. Love must be sincere. Hate what is evil; cling to what is good. Be devoted to one another in love. Honor one another above yourselves. Bless those who persecute you; bless and do not curse. Rejoice with those who rejoice; mourn with those who mourn. If it is possible, as far as it depends on you, live at peace with everyone. Do not take revenge. “Do not be overcome by evil, but overcome evil with good.” This is not a new way to earn mercy. It is mercy going to work in a body. John Piper, in “Present Your Bodies As a Living Sacrifice to God,” hears the therefore: Paul appeals “on the basis of what has gone before in the first eleven chapters of this letter.” “This new Christian life is built on chapters one through eleven.” In “Let Love Be Genuine,” he says the first exhortation of verse 9 is, literally, “Let love be without hypocrisy.” In “Christ Overcame Evil with Good—Do the Same,” he will not let verse 21 float free of Holy Week. Christ overcame evil with good. Now, in view of that mercy, do the same. BibleProject’s Romans guide hears chapter 12 as the life that answers the gospel: a living sacrifice, and a love that does not repay evil with evil. The Legacy Standard Bible has, “present your bodies as a sacrifice—living, holy, and pleasing to God, which is your spiritual service of worship.” The NIV’s “living sacrifice” and “true and proper worship” is that same offering. The body is not left out of worship, and evil is not overcome with more evil. In view of God’s mercy, offer your body, renew your mind, and overcome evil with good. As a man, husband, and father, this is worship. Do not be conformed to the pattern of this world, and do not let evil set the terms of your response.\n\n**Romans 12:1–21 (NIV)**\n1 Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship. 2 Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. 3 For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you. 4 For just as each of us has one body with many members, and these members do not all have the same function, 5 so in Christ we, though many, form one body, and each member belongs to all the others. 6 We have different gifts, according to the grace given to each of us. If your gift is prophesying, then prophesy in accordance with your faith; 7 if it is serving, then serve; if it is teaching, then teach; 8 if it is to encourage, then give encouragement; if it is giving, then give generously; if it is to lead, do it diligently; if it is to show mercy, do it cheerfully. 9 Love must be sincere. Hate what is evil; cling to what is good. 10 Be devoted to one another in love. Honor one another above yourselves. 11 Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. 12 Be joyful in hope, patient in affliction, faithful in prayer. 13 Share with the Lord’s people who are in need. Practice hospitality. 14 Bless those who persecute you; bless and do not curse. 15 Rejoice with those who rejoice; mourn with those who mourn. 16 Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited. 17 Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. 18 If it is possible, as far as it depends on you, live at peace with everyone. 19 Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,” says the Lord. 20 On the contrary: “If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.” 21 Do not be overcome by evil, but overcome evil with good.\n\n**Reflection question:** As a man, husband, and father, where have you been conforming to the world, or answering evil with evil? What would it look like today, in view of God’s mercy, to offer your body as a living sacrifice, and to overcome one real evil with good?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w199",
+      "number": 199,
+      "date": "2027-05-19",
+      "title": "Romans: living sacrifices, and overcoming evil with good",
+      "passages": "Romans 12:1–21",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Romans 12:1-21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+12%3A1-21&version=NIV"
+        },
+        {
+          "label": "John Piper, Present Your Bodies As a Living Sacrifice to God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/present-your-bodies-as-a-living-sacrifice-to-god"
+        },
+        {
+          "label": "John Piper, Let Love Be Genuine (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-love-be-genuine"
+        },
+        {
+          "label": "John Piper, Christ Overcame Evil with Good—Do the Same (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/christ-overcame-evil-with-good-do-the-same"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 199: Romans: living sacrifices, and overcoming evil with good**\n\nGood morning. Yesterday nothing could separate us from the love of God in Christ. Today that mercy asks for your life. “Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.” Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. The living sacrifice takes a shape in the church and in the street. Love must be sincere. Hate what is evil; cling to what is good. Be devoted to one another in love. Honor one another above yourselves. Bless those who persecute you; bless and do not curse. Rejoice with those who rejoice; mourn with those who mourn. If it is possible, as far as it depends on you, live at peace with everyone. Do not take revenge. “Do not be overcome by evil, but overcome evil with good.” This is not a new way to earn mercy. It is mercy going to work in a body. John Piper, in “Present Your Bodies As a Living Sacrifice to God,” hears the therefore: Paul appeals “on the basis of what has gone before in the first eleven chapters of this letter.” “This new Christian life is built on chapters one through eleven.” In “Let Love Be Genuine,” he says the first exhortation of verse 9 is, literally, “Let love be without hypocrisy.” In “Christ Overcame Evil with Good—Do the Same,” he will not let verse 21 float free of Holy Week. Christ overcame evil with good. Now, in view of that mercy, do the same. BibleProject’s Romans guide hears chapter 12 as the life that answers the gospel: a living sacrifice, and a love that does not repay evil with evil. The Legacy Standard Bible has, “present your bodies as a sacrifice—living, holy, and pleasing to God, which is your spiritual service of worship.” The NIV’s “living sacrifice” and “true and proper worship” is that same offering. The body is not left out of worship, and evil is not overcome with more evil. In view of God’s mercy, offer your body, renew your mind, and overcome evil with good. As a woman, wife, and a mother, this is worship. Do not be conformed to the pattern of this world, and do not let evil set the terms of your response.\n\n**Romans 12:1–21 (NIV)**\n1 Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship. 2 Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. 3 For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you. 4 For just as each of us has one body with many members, and these members do not all have the same function, 5 so in Christ we, though many, form one body, and each member belongs to all the others. 6 We have different gifts, according to the grace given to each of us. If your gift is prophesying, then prophesy in accordance with your faith; 7 if it is serving, then serve; if it is teaching, then teach; 8 if it is to encourage, then give encouragement; if it is giving, then give generously; if it is to lead, do it diligently; if it is to show mercy, do it cheerfully. 9 Love must be sincere. Hate what is evil; cling to what is good. 10 Be devoted to one another in love. Honor one another above yourselves. 11 Never be lacking in zeal, but keep your spiritual fervor, serving the Lord. 12 Be joyful in hope, patient in affliction, faithful in prayer. 13 Share with the Lord’s people who are in need. Practice hospitality. 14 Bless those who persecute you; bless and do not curse. 15 Rejoice with those who rejoice; mourn with those who mourn. 16 Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be conceited. 17 Do not repay anyone evil for evil. Be careful to do what is right in the eyes of everyone. 18 If it is possible, as far as it depends on you, live at peace with everyone. 19 Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “It is mine to avenge; I will repay,” says the Lord. 20 On the contrary: “If your enemy is hungry, feed him; if he is thirsty, give him something to drink. In doing this, you will heap burning coals on his head.” 21 Do not be overcome by evil, but overcome evil with good.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been conforming to the world, or answering evil with evil? What would it look like today, in view of God’s mercy, to offer your body as a living sacrifice, and to overcome one real evil with good?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "200",
+      "number": 200,
+      "date": "2027-05-20",
+      "title": "Romans: love fulfills the law; accept one another",
+      "passages": "Romans 13:8–14; 15:1–13",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Romans 13:8-14 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+13%3A8-14&version=NIV"
+        },
+        {
+          "label": "Romans 15:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+15%3A1-13&version=NIV"
+        },
+        {
+          "label": "John Piper, Love Is a Fulfilling of the Law, Part 2 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/love-is-a-fulfilling-of-the-law-part-2"
+        },
+        {
+          "label": "John Piper, Welcome One Another to the Glory of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/welcome-one-another-to-the-glory-of-god"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 200: Romans: love fulfills the law; accept one another**\n\nGood morning, Greg. Yesterday we were urged, in view of God’s mercy, to become living sacrifices and to overcome evil with good. Today Paul names the debt that never gets paid off, and the welcome that reveals Christ. “Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.” The commandments are summed up in this one command: “Love your neighbor as yourself.” Love does no harm to a neighbor. Therefore love is the fulfillment of the law. The hour has already come to wake up from slumber. Clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh. Then the strong are told how to love. “We who are strong ought to bear with the failings of the weak and not to please ourselves.” Each of us should please our neighbors for their good, to build them up. “Accept one another, then, just as Christ accepted you, in order to bring praise to God.” Christ became a servant so that Jews and Gentiles together might glorify God. And Paul leaves you with a blessing: “May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.” Love fulfills the law, and acceptance, the kind Christ showed you, brings praise to God. John Piper, in “Love Is a Fulfilling of the Law, Part 2,” stays with Romans 13:8–10 until love and law are no longer rivals. The one who loves the neighbor has fulfilled the law, because love does no harm, and the commandments are summed up in that one word. In “Welcome One Another to the Glory of God,” he hears Paul say twice that this welcome is going toward God’s glory: “Therefore welcome one another as Christ has welcomed you, for the glory of God.” BibleProject’s Romans guide hears the same two movements in the letter’s later chapters: love as the fulfillment of the law, and a church that accepts one another because Christ has already accepted them. The Legacy Standard Bible has, “Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled the law,” and, “accept one another, just as Christ also accepted us to the glory of God.” The NIV’s “continuing debt to love one another” and “Accept one another, then, just as Christ accepted you, in order to bring praise to God” keep that same debt and that same welcome. Love fulfills the law, and Christ has already accepted you. As a man, husband, and father, pay the debt of love today, and accept someone you have been quietly keeping at the edge, just as Christ accepted you, in order to bring praise to God.\n\n**Romans 13:8–14 (NIV)**\n8 Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law. 9 The commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other command there may be, are summed up in this one command: “Love your neighbor as yourself.” 10 Love does no harm to a neighbor. Therefore love is the fulfillment of the law. 11 And do this, understanding the present time: The hour has already come for you to wake up from your slumber, because our salvation is nearer now than when we first believed. 12 The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light. 13 Let us behave decently, as in the daytime, not in carousing and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy. 14 Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh.\n\n**Romans 15:1–13 (NIV)**\n1 We who are strong ought to bear with the failings of the weak and not to please ourselves. 2 Each of us should please our neighbors for their good, to build them up. 3 For even Christ did not please himself but, as it is written: “The insults of those who insult you have fallen on me.” 4 For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope. 5 May the God who gives endurance and encouragement give you the same attitude of mind toward each other that Christ Jesus had, 6 so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ. 7 Accept one another, then, just as Christ accepted you, in order to bring praise to God. 8 For I tell you that Christ has become a servant of the Jews on behalf of God’s truth, so that the promises made to the patriarchs might be confirmed 9 and, moreover, that the Gentiles might glorify God for his mercy. As it is written: “Therefore I will praise you among the Gentiles; I will sing the praises of your name.” 10 Again, it says, “Rejoice, you Gentiles, with his people.” 11 And again, “Praise the Lord, all you Gentiles; let all the peoples extol him.” 12 And again, Isaiah says, “The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope.” 13 May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\n\n**Reflection question:** As a man, husband, and father, whom have you been failing to love, or refusing to accept, while still claiming to keep the rest of the law? What would it look like today to clothe yourself with the Lord Jesus, and to welcome someone as Christ has welcomed you?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w200",
+      "number": 200,
+      "date": "2027-05-20",
+      "title": "Romans: love fulfills the law; accept one another",
+      "passages": "Romans 13:8–14; 15:1–13",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Romans 13:8-14 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+13%3A8-14&version=NIV"
+        },
+        {
+          "label": "Romans 15:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Romans+15%3A1-13&version=NIV"
+        },
+        {
+          "label": "John Piper, Love Is a Fulfilling of the Law, Part 2 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/love-is-a-fulfilling-of-the-law-part-2"
+        },
+        {
+          "label": "John Piper, Welcome One Another to the Glory of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/welcome-one-another-to-the-glory-of-god"
+        },
+        {
+          "label": "BibleProject, Book of Romans guide",
+          "url": "https://bibleproject.com/guides/book-of-romans/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 200: Romans: love fulfills the law; accept one another**\n\nGood morning. Yesterday we were urged, in view of God’s mercy, to become living sacrifices and to overcome evil with good. Today Paul names the debt that never gets paid off, and the welcome that reveals Christ. “Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.” The commandments are summed up in this one command: “Love your neighbor as yourself.” Love does no harm to a neighbor. Therefore love is the fulfillment of the law. The hour has already come to wake up from slumber. Clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh. Then the strong are told how to love. “We who are strong ought to bear with the failings of the weak and not to please ourselves.” Each of us should please our neighbors for their good, to build them up. “Accept one another, then, just as Christ accepted you, in order to bring praise to God.” Christ became a servant so that Jews and Gentiles together might glorify God. And Paul leaves you with a blessing: “May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.” Love fulfills the law, and acceptance, the kind Christ showed you, brings praise to God. John Piper, in “Love Is a Fulfilling of the Law, Part 2,” stays with Romans 13:8–10 until love and law are no longer rivals. The one who loves the neighbor has fulfilled the law, because love does no harm, and the commandments are summed up in that one word. In “Welcome One Another to the Glory of God,” he hears Paul say twice that this welcome is going toward God’s glory: “Therefore welcome one another as Christ has welcomed you, for the glory of God.” BibleProject’s Romans guide hears the same two movements in the letter’s later chapters: love as the fulfillment of the law, and a church that accepts one another because Christ has already accepted them. The Legacy Standard Bible has, “Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled the law,” and, “accept one another, just as Christ also accepted us to the glory of God.” The NIV’s “continuing debt to love one another” and “Accept one another, then, just as Christ accepted you, in order to bring praise to God” keep that same debt and that same welcome. Love fulfills the law, and Christ has already accepted you. As a woman, wife, and a mother, pay the debt of love today, and accept someone you have been quietly keeping at the edge, just as Christ accepted you, in order to bring praise to God.\n\n**Romans 13:8–14 (NIV)**\n8 Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law. 9 The commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other command there may be, are summed up in this one command: “Love your neighbor as yourself.” 10 Love does no harm to a neighbor. Therefore love is the fulfillment of the law. 11 And do this, understanding the present time: The hour has already come for you to wake up from your slumber, because our salvation is nearer now than when we first believed. 12 The night is nearly over; the day is almost here. So let us put aside the deeds of darkness and put on the armor of light. 13 Let us behave decently, as in the daytime, not in carousing and drunkenness, not in sexual immorality and debauchery, not in dissension and jealousy. 14 Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the flesh.\n\n**Romans 15:1–13 (NIV)**\n1 We who are strong ought to bear with the failings of the weak and not to please ourselves. 2 Each of us should please our neighbors for their good, to build them up. 3 For even Christ did not please himself but, as it is written: “The insults of those who insult you have fallen on me.” 4 For everything that was written in the past was written to teach us, so that through the endurance taught in the Scriptures and the encouragement they provide we might have hope. 5 May the God who gives endurance and encouragement give you the same attitude of mind toward each other that Christ Jesus had, 6 so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ. 7 Accept one another, then, just as Christ accepted you, in order to bring praise to God. 8 For I tell you that Christ has become a servant of the Jews on behalf of God’s truth, so that the promises made to the patriarchs might be confirmed 9 and, moreover, that the Gentiles might glorify God for his mercy. As it is written: “Therefore I will praise you among the Gentiles; I will sing the praises of your name.” 10 Again, it says, “Rejoice, you Gentiles, with his people.” 11 And again, “Praise the Lord, all you Gentiles; let all the peoples extol him.” 12 And again, Isaiah says, “The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope.” 13 May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.\n\n**Reflection question:** As a woman, wife, and a mother, whom have you been failing to love, or refusing to accept, while still claiming to keep the rest of the law? What would it look like today to clothe yourself with the Lord Jesus, and to welcome someone as Christ has welcomed you?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "201",
+      "number": 201,
+      "date": "2027-05-21",
+      "title": "1 Corinthians: the foolishness of the cross",
+      "passages": "1 Corinthians 1:18–31; 2:1–5",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "1 Corinthians 1:18-31 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A18-31&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 2:1-5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+2%3A1-5&version=NIV"
+        },
+        {
+          "label": "John Piper, Let the One Who Boasts Boast in the Lord (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-the-one-who-boasts-boast-in-the-lord"
+        },
+        {
+          "label": "John Piper, The Present Power of Christ Crucified (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-present-power-of-christ-crucified"
+        },
+        {
+          "label": "John Piper, The Wisdom of Men and the Power of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-wisdom-of-men-and-the-power-of-god"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 201: 1 Corinthians: the foolishness of the cross**\n\nGood morning, Greg. Yesterday love fulfilled the law, and we were told to accept one another as Christ accepted us. Today Paul takes us to Corinth, where the church is tempted to look wise, and he will not let the cross be dressed up. “For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.” God was pleased through the foolishness of what was preached to save those who believe. We preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God. For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. Look at the church itself. Not many were wise by human standards, not many were influential, not many were of noble birth. But God chose the foolish things of the world to shame the wise, the weak to shame the strong, the lowly and the despised, so that no one may boast before him. It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and redemption. Therefore, as it is written: “Let the one who boasts boast in the Lord.” And Paul came to them that way. He did not come with eloquence or human wisdom. “For I resolved to know nothing while I was with you except Jesus Christ and him crucified.” His message was not with wise and persuasive words, but with a demonstration of the Spirit’s power, so that their faith might not rest on human wisdom, but on God’s power. John Piper, in “Let the One Who Boasts Boast in the Lord,” walks 1 Corinthians 1 so that the boast stays in the Lord, not in a preacher, a party, or a résumé. In “The Present Power of Christ Crucified,” he hears Paul’s reason for coming as he did: “I decided to know nothing among you except Jesus Christ and him crucified.” In “The Wisdom of Men and the Power of God,” he says Paul writes “to warn the believers against basing their faith on the wisdom of men instead of God’s power.” BibleProject’s 1 Corinthians guide hears the same scandal: the cross looks like foolishness, and it is the power of God for those who are being saved. The Legacy Standard Bible has, “the word of the cross is foolishness to those who are perishing, but to us who are being saved, it is the power of God,” and, “Let him who boasts, boast in the LORD.” The NIV’s “message of the cross” and “boast in the Lord” keep that same power and that same boast. The cross is the power of God, and Christ crucified is all the wisdom you need. As a man, husband, and father, do not polish the message until it looks impressive. Boast in the Lord, and let your faith rest on God’s power, not on human wisdom.\n\n**1 Corinthians 1:18–31 (NIV)**\n18 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. 19 For it is written: “I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate.” 20 Where is the wise person? Where is the teacher of the law? Where is the philosopher of this age? Has not God made foolish the wisdom of the world? 21 For since in the wisdom of God the world through its wisdom did not know him, God was pleased through the foolishness of what was preached to save those who believe. 22 Jews demand signs and Greeks look for wisdom, 23 but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, 24 but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God. 25 For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. 26 Brothers and sisters, think of what you were when you were called. Not many of you were wise by human standards; not many were influential; not many were of noble birth. 27 But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong. 28 God chose the lowly things of this world and the despised things—and the things that are not—to nullify the things that are, 29 so that no one may boast before him. 30 It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and redemption. 31 Therefore, as it is written: “Let the one who boasts boast in the Lord.”\n\n**1 Corinthians 2:1–5 (NIV)**\n1 And so it was with me, brothers and sisters. When I came to you, I did not come with eloquence or human wisdom as I proclaimed to you the testimony about God. 2 For I resolved to know nothing while I was with you except Jesus Christ and him crucified. 3 I came to you in weakness with great fear and trembling. 4 My message and my preaching were not with wise and persuasive words, but with a demonstration of the Spirit’s power, 5 so that your faith might not rest on human wisdom, but on God’s power.\n\n**Reflection question:** As a man, husband, and father, where have you been ashamed of the cross, or tempted to rest your faith on eloquence, gifting, or human wisdom? What would it look like today to preach, and to live, as if Jesus Christ and him crucified were enough?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w201",
+      "number": 201,
+      "date": "2027-05-21",
+      "title": "1 Corinthians: the foolishness of the cross",
+      "passages": "1 Corinthians 1:18–31; 2:1–5",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "1 Corinthians 1:18-31 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A18-31&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 2:1-5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+2%3A1-5&version=NIV"
+        },
+        {
+          "label": "John Piper, Let the One Who Boasts Boast in the Lord (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-the-one-who-boasts-boast-in-the-lord"
+        },
+        {
+          "label": "John Piper, The Present Power of Christ Crucified (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-present-power-of-christ-crucified"
+        },
+        {
+          "label": "John Piper, The Wisdom of Men and the Power of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-wisdom-of-men-and-the-power-of-god"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 201: 1 Corinthians: the foolishness of the cross**\n\nGood morning. Yesterday love fulfilled the law, and we were told to accept one another as Christ accepted us. Today Paul takes us to Corinth, where the church is tempted to look wise, and he will not let the cross be dressed up. “For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.” God was pleased through the foolishness of what was preached to save those who believe. We preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God. For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. Look at the church itself. Not many were wise by human standards, not many were influential, not many were of noble birth. But God chose the foolish things of the world to shame the wise, the weak to shame the strong, the lowly and the despised, so that no one may boast before him. It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and redemption. Therefore, as it is written: “Let the one who boasts boast in the Lord.” And Paul came to them that way. He did not come with eloquence or human wisdom. “For I resolved to know nothing while I was with you except Jesus Christ and him crucified.” His message was not with wise and persuasive words, but with a demonstration of the Spirit’s power, so that their faith might not rest on human wisdom, but on God’s power. John Piper, in “Let the One Who Boasts Boast in the Lord,” walks 1 Corinthians 1 so that the boast stays in the Lord, not in a preacher, a party, or a résumé. In “The Present Power of Christ Crucified,” he hears Paul’s reason for coming as he did: “I decided to know nothing among you except Jesus Christ and him crucified.” In “The Wisdom of Men and the Power of God,” he says Paul writes “to warn the believers against basing their faith on the wisdom of men instead of God’s power.” BibleProject’s 1 Corinthians guide hears the same scandal: the cross looks like foolishness, and it is the power of God for those who are being saved. The Legacy Standard Bible has, “the word of the cross is foolishness to those who are perishing, but to us who are being saved, it is the power of God,” and, “Let him who boasts, boast in the LORD.” The NIV’s “message of the cross” and “boast in the Lord” keep that same power and that same boast. The cross is the power of God, and Christ crucified is all the wisdom you need. As a woman, wife, and a mother, do not polish the message until it looks impressive. Boast in the Lord, and let your faith rest on God’s power, not on human wisdom.\n\n**1 Corinthians 1:18–31 (NIV)**\n18 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. 19 For it is written: “I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate.” 20 Where is the wise person? Where is the teacher of the law? Where is the philosopher of this age? Has not God made foolish the wisdom of the world? 21 For since in the wisdom of God the world through its wisdom did not know him, God was pleased through the foolishness of what was preached to save those who believe. 22 Jews demand signs and Greeks look for wisdom, 23 but we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, 24 but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God. 25 For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength. 26 Brothers and sisters, think of what you were when you were called. Not many of you were wise by human standards; not many were influential; not many were of noble birth. 27 But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong. 28 God chose the lowly things of this world and the despised things—and the things that are not—to nullify the things that are, 29 so that no one may boast before him. 30 It is because of him that you are in Christ Jesus, who has become for us wisdom from God—that is, our righteousness, holiness and redemption. 31 Therefore, as it is written: “Let the one who boasts boast in the Lord.”\n\n**1 Corinthians 2:1–5 (NIV)**\n1 And so it was with me, brothers and sisters. When I came to you, I did not come with eloquence or human wisdom as I proclaimed to you the testimony about God. 2 For I resolved to know nothing while I was with you except Jesus Christ and him crucified. 3 I came to you in weakness with great fear and trembling. 4 My message and my preaching were not with wise and persuasive words, but with a demonstration of the Spirit’s power, 5 so that your faith might not rest on human wisdom, but on God’s power.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been ashamed of the cross, or tempted to rest your faith on eloquence, gifting, or human wisdom? What would it look like today to preach, and to live, as if Jesus Christ and him crucified were enough?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "202",
+      "number": 202,
+      "date": "2027-05-22",
+      "title": "1 Corinthians: your body is a temple; honor God with it",
+      "passages": "1 Corinthians 6:12–20; 7:1–7",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "1 Corinthians 6:12-20 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A12-20&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 7:1-7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A1-7&version=NIV"
+        },
+        {
+          "label": "John Piper, I Will Not Be Enslaved by Anything (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/i-will-not-be-enslaved-by-anything"
+        },
+        {
+          "label": "John Piper, You Were Bought with a Price (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-were-bought-with-a-price"
+        },
+        {
+          "label": "John Piper, Satan Uses Sexual Desire (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/satan-uses-sexual-desire"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 202: 1 Corinthians: your body is a temple; honor God with it**\n\nGood morning, Greg. Yesterday the message of the cross was foolishness to the world, and the power of God to us who are being saved. Today Paul brings that same lordship down into the body. Teach this passage with dignity, and without shrinking from it. Some in Corinth were saying, “I have the right to do anything,” Paul answers: not everything is beneficial, and “I will not be mastered by anything.” The body is not for sexual immorality, but for the Lord, and the Lord for the body. By his power God raised the Lord from the dead, and he will raise us also. “Flee from sexual immorality.” “Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.” Then he turns to what they wrote him about. Some were saying, “It is good for a man not to have sexual relations with a woman.” Paul does not treat the body, or marriage, as dirty, and he does not treat desire as a toy. Because sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband. The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. Neither rules the other’s body as a possession. Each yields it, in honor, to the other. Do not deprive each other, except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer, and then come together again, so that Satan will not tempt you because of your lack of self-control. Paul writes this as a concession, not a command, and he honors both gifts: his own unmarried life, and the gift each person has from God. The body is a temple. Marriage is a place of faithful giving. Neither is a place for being mastered. John Piper, in “I Will Not Be Enslaved by Anything,” takes 1 Corinthians 6:12–20 as a call to freedom, not to indulgence. Believers in Jesus “will not be the slaves of physical pleasure.” “We will not be enslaved by anything.” In “You Were Bought with a Price,” he holds the same line: you are not your own, you were bought at a price, so honor God with your body. In “Satan Uses Sexual Desire,” he takes up 7:1–7 with the same seriousness: marriage is God’s provision, husbands and wives are not to deprive one another, and desire is not to be handed over to Satan as a foothold. BibleProject’s 1 Corinthians guide hears these chapters as holiness in the body, because you belong to the Lord who bought you. The Legacy Standard Bible has, “your body is a sanctuary of the Holy Spirit who is in you, whom you have from God, and that you are not your own?” and, “you were bought with a price: therefore glorify God in your body.” The NIV’s “temples of the Holy Spirit” and “honor God with your bodies” is that same claim. The body is holy because it is already his. You are not your own. You were bought at a price. As a man, husband, and father, flee what masters the body, honor God with it, and in marriage, if that is your gift, give yourself faithfully to one another. The Spirit lives in you. Live like a person who has already been purchased.\n\n**1 Corinthians 6:12–20 (NIV)**\n12 “I have the right to do anything,” you say—but not everything is beneficial. “I have the right to do anything”—but I will not be mastered by anything. 13 You say, “Food for the stomach and the stomach for food, and God will destroy them both.” The body, however, is not meant for sexual immorality but for the Lord, and the Lord for the body. 14 By his power God raised the Lord from the dead, and he will raise us also. 15 Do you not know that your bodies are members of Christ himself? Shall I then take the members of Christ and unite them with a prostitute? Never! 16 Do you not know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.” 17 But whoever is united with the Lord is one with him in spirit. 18 Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body. 19 Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; 20 you were bought at a price. Therefore honor God with your bodies.\n\n**1 Corinthians 7:1–7 (NIV)**\n1 Now for the matters you wrote about: “It is good for a man not to have sexual relations with a woman.” 2 But since sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband. 3 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. 4 The wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife. 5 Do not deprive each other except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer. Then come together again so that Satan will not tempt you because of your lack of self-control. 6 I say this as a concession, not as a command. 7 I wish that all of you were as I am. But each of you has your own gift from God; one has this gift, another has that.\n\n**Reflection question:** As a man, husband, and father, where has the body been treated as if it were your own, or desire been allowed to master you? What would it look like today to flee sexual immorality, to honor God with your body, and, if you are married, to give yourself faithfully to your spouse?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w202",
+      "number": 202,
+      "date": "2027-05-22",
+      "title": "1 Corinthians: your body is a temple; honor God with it",
+      "passages": "1 Corinthians 6:12–20; 7:1–7",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "1 Corinthians 6:12-20 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A12-20&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 7:1-7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A1-7&version=NIV"
+        },
+        {
+          "label": "John Piper, I Will Not Be Enslaved by Anything (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/i-will-not-be-enslaved-by-anything"
+        },
+        {
+          "label": "John Piper, You Were Bought with a Price (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-were-bought-with-a-price"
+        },
+        {
+          "label": "John Piper, Satan Uses Sexual Desire (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/satan-uses-sexual-desire"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 202: 1 Corinthians: your body is a temple; honor God with it**\n\nGood morning. Yesterday the message of the cross was foolishness to the world, and the power of God to us who are being saved. Today Paul brings that same lordship down into the body. Teach this passage with dignity, and without shrinking from it. Some in Corinth were saying, “I have the right to do anything,” Paul answers: not everything is beneficial, and “I will not be mastered by anything.” The body is not for sexual immorality, but for the Lord, and the Lord for the body. By his power God raised the Lord from the dead, and he will raise us also. “Flee from sexual immorality.” “Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies.” Then he turns to what they wrote him about. Some were saying, “It is good for a man not to have sexual relations with a woman.” Paul does not treat the body, or marriage, as dirty, and he does not treat desire as a toy. Because sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband. The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. Neither rules the other’s body as a possession. Each yields it, in honor, to the other. Do not deprive each other, except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer, and then come together again, so that Satan will not tempt you because of your lack of self-control. Paul writes this as a concession, not a command, and he honors both gifts: his own unmarried life, and the gift each person has from God. The body is a temple. Marriage is a place of faithful giving. Neither is a place for being mastered. John Piper, in “I Will Not Be Enslaved by Anything,” takes 1 Corinthians 6:12–20 as a call to freedom, not to indulgence. Believers in Jesus “will not be the slaves of physical pleasure.” “We will not be enslaved by anything.” In “You Were Bought with a Price,” he holds the same line: you are not your own, you were bought at a price, so honor God with your body. In “Satan Uses Sexual Desire,” he takes up 7:1–7 with the same seriousness: marriage is God’s provision, husbands and wives are not to deprive one another, and desire is not to be handed over to Satan as a foothold. BibleProject’s 1 Corinthians guide hears these chapters as holiness in the body, because you belong to the Lord who bought you. The Legacy Standard Bible has, “your body is a sanctuary of the Holy Spirit who is in you, whom you have from God, and that you are not your own?” and, “you were bought with a price: therefore glorify God in your body.” The NIV’s “temples of the Holy Spirit” and “honor God with your bodies” is that same claim. The body is holy because it is already his. You are not your own. You were bought at a price. As a woman, wife, and a mother, flee what masters the body, honor God with it, and in marriage, if that is your gift, give yourself faithfully to one another. The Spirit lives in you. Live like a person who has already been purchased.\n\n**1 Corinthians 6:12–20 (NIV)**\n12 “I have the right to do anything,” you say—but not everything is beneficial. “I have the right to do anything”—but I will not be mastered by anything. 13 You say, “Food for the stomach and the stomach for food, and God will destroy them both.” The body, however, is not meant for sexual immorality but for the Lord, and the Lord for the body. 14 By his power God raised the Lord from the dead, and he will raise us also. 15 Do you not know that your bodies are members of Christ himself? Shall I then take the members of Christ and unite them with a prostitute? Never! 16 Do you not know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.” 17 But whoever is united with the Lord is one with him in spirit. 18 Flee from sexual immorality. All other sins a person commits are outside the body, but whoever sins sexually, sins against their own body. 19 Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; 20 you were bought at a price. Therefore honor God with your bodies.\n\n**1 Corinthians 7:1–7 (NIV)**\n1 Now for the matters you wrote about: “It is good for a man not to have sexual relations with a woman.” 2 But since sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband. 3 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband. 4 The wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife. 5 Do not deprive each other except perhaps by mutual consent and for a time, so that you may devote yourselves to prayer. Then come together again so that Satan will not tempt you because of your lack of self-control. 6 I say this as a concession, not as a command. 7 I wish that all of you were as I am. But each of you has your own gift from God; one has this gift, another has that.\n\n**Reflection question:** As a woman, wife, and a mother, where has the body been treated as if it were your own, or desire been allowed to master you? What would it look like today to flee sexual immorality, to honor God with your body, and, if you are married, to give yourself faithfully to your spouse?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "203",
+      "number": 203,
+      "date": "2027-05-23",
+      "title": "1 Corinthians: one body, and the greatest of these is love",
+      "passages": "1 Corinthians 12:12–27; 13:1–13",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "1 Corinthians 12:12-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A12-27&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 13:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A1-13&version=NIV"
+        },
+        {
+          "label": "John Piper, How Important Is Church Membership? (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/how-important-is-church-membership"
+        },
+        {
+          "label": "John Piper, A Call to Love — and to Death (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/a-call-to-love-and-to-death"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 203: 1 Corinthians: one body, and the greatest of these is love**\n\nGood morning, Greg. Yesterday we heard that the body is a temple of the Holy Spirit, bought at a price. Today Paul shows us another body, the church, and the love that must hold it together. “Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.” For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. The body is not made up of one part but of many. God has placed the parts in the body, every one of them, just as he wanted them to be. There should be no division in the body, but its parts should have equal concern for each other. If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it. “Now you are the body of Christ, and each one of you is a part of it.” And now the still more excellent way. If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails. And now these three remain: faith, hope and love. But the greatest of these is love. John Piper, in “How Important Is Church Membership?,” takes 1 Corinthians 12:12–31 seriously as the local church becoming a visible expression of the one body of Christ. You are not a spare part, and you are not the whole body. In “A Call to Love — and to Death,” he lingers over love’s patience: “Love suffers long.” “Love is not easily angered.” The gifts without this love are noise, and even costly sacrifice without it gains nothing. BibleProject’s 1 Corinthians guide hears the same pairing: many members, one body, and a way that is greater than any gift, because the greatest of these is love. The Legacy Standard Bible has, “Now you are Christ’s body, and individually members of it.” and, “now abide faith, hope, love—these three; but the greatest of these is love.” The NIV’s “body of Christ” and “the greatest of these is love” keep the same membership and the same greatest gift. You are the body of Christ, and each one of you is a part of it, and the greatest of these is love. As a man, husband, and father, do not despise a weaker member, and do not treat your gift as if it could replace love. Belong to the body, suffer and rejoice with it, and let love be what remains.\n\n**1 Corinthians 12:12–27 (NIV)**\n12 Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ. 13 For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. 14 Even so the body is not made up of one part but of many. 15 Now if the foot should say, “Because I am not a hand, I do not belong to the body,” it would not for that reason stop being part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” it would not for that reason stop being part of the body. 17 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be? 18 But in fact God has placed the parts in the body, every one of them, just as he wanted them to be. 19 If they were all one part, where would the body be? 20 As it is, there are many parts, but one body. 21 The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!” 22 On the contrary, those parts of the body that seem to be weaker are indispensable, 23 and the parts that we think are less honorable we treat with special honor. And the parts that are unpresentable are treated with special modesty, 24 while our presentable parts need no special treatment. But God has put the body together, giving greater honor to the parts that lacked it, 25 so that there should be no division in the body, but that its parts should have equal concern for each other. 26 If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it. 27 Now you are the body of Christ, and each one of you is a part of it.\n\n**1 Corinthians 13:1–13 (NIV)**\n1 If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. 2 If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. 3 If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. 4 Love is patient, love is kind. It does not envy, it does not boast, it is not proud. 5 It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 6 Love does not delight in evil but rejoices with the truth. 7 It always protects, always trusts, always hopes, always perseveres. 8 Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. 9 For we know in part and we prophesy in part, 10 but when completeness comes, what is in part disappears. 11 When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me. 12 For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known. 13 And now these three remain: faith, hope and love. But the greatest of these is love.\n\n**Reflection question:** As a man, husband, and father, where have you been living as if you did not need the body, or serving with gifts that have not been ruled by love? What would it look like today to treat another member as indispensable, and to practice this patient, unfailing love?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w203",
+      "number": 203,
+      "date": "2027-05-23",
+      "title": "1 Corinthians: one body, and the greatest of these is love",
+      "passages": "1 Corinthians 12:12–27; 13:1–13",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "1 Corinthians 12:12-27 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A12-27&version=NIV"
+        },
+        {
+          "label": "1 Corinthians 13:1-13 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A1-13&version=NIV"
+        },
+        {
+          "label": "John Piper, How Important Is Church Membership? (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/how-important-is-church-membership"
+        },
+        {
+          "label": "John Piper, A Call to Love — and to Death (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/a-call-to-love-and-to-death"
+        },
+        {
+          "label": "BibleProject, Book of 1 Corinthians guide",
+          "url": "https://bibleproject.com/guides/book-of-1-corinthians/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 203: 1 Corinthians: one body, and the greatest of these is love**\n\nGood morning. Yesterday we heard that the body is a temple of the Holy Spirit, bought at a price. Today Paul shows us another body, the church, and the love that must hold it together. “Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.” For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. The body is not made up of one part but of many. God has placed the parts in the body, every one of them, just as he wanted them to be. There should be no division in the body, but its parts should have equal concern for each other. If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it. “Now you are the body of Christ, and each one of you is a part of it.” And now the still more excellent way. If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. Love never fails. And now these three remain: faith, hope and love. But the greatest of these is love. John Piper, in “How Important Is Church Membership?,” takes 1 Corinthians 12:12–31 seriously as the local church becoming a visible expression of the one body of Christ. You are not a spare part, and you are not the whole body. In “A Call to Love — and to Death,” he lingers over love’s patience: “Love suffers long.” “Love is not easily angered.” The gifts without this love are noise, and even costly sacrifice without it gains nothing. BibleProject’s 1 Corinthians guide hears the same pairing: many members, one body, and a way that is greater than any gift, because the greatest of these is love. The Legacy Standard Bible has, “Now you are Christ’s body, and individually members of it.” and, “now abide faith, hope, love—these three; but the greatest of these is love.” The NIV’s “body of Christ” and “the greatest of these is love” keep the same membership and the same greatest gift. You are the body of Christ, and each one of you is a part of it, and the greatest of these is love. As a woman, wife, and a mother, do not despise a weaker member, and do not treat your gift as if it could replace love. Belong to the body, suffer and rejoice with it, and let love be what remains.\n\n**1 Corinthians 12:12–27 (NIV)**\n12 Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ. 13 For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. 14 Even so the body is not made up of one part but of many. 15 Now if the foot should say, “Because I am not a hand, I do not belong to the body,” it would not for that reason stop being part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” it would not for that reason stop being part of the body. 17 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be? 18 But in fact God has placed the parts in the body, every one of them, just as he wanted them to be. 19 If they were all one part, where would the body be? 20 As it is, there are many parts, but one body. 21 The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!” 22 On the contrary, those parts of the body that seem to be weaker are indispensable, 23 and the parts that we think are less honorable we treat with special honor. And the parts that are unpresentable are treated with special modesty, 24 while our presentable parts need no special treatment. But God has put the body together, giving greater honor to the parts that lacked it, 25 so that there should be no division in the body, but that its parts should have equal concern for each other. 26 If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it. 27 Now you are the body of Christ, and each one of you is a part of it.\n\n**1 Corinthians 13:1–13 (NIV)**\n1 If I speak in the tongues of men or of angels, but do not have love, I am only a resounding gong or a clanging cymbal. 2 If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. 3 If I give all I possess to the poor and give over my body to hardship that I may boast, but do not have love, I gain nothing. 4 Love is patient, love is kind. It does not envy, it does not boast, it is not proud. 5 It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. 6 Love does not delight in evil but rejoices with the truth. 7 It always protects, always trusts, always hopes, always perseveres. 8 Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. 9 For we know in part and we prophesy in part, 10 but when completeness comes, what is in part disappears. 11 When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me. 12 For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known. 13 And now these three remain: faith, hope and love. But the greatest of these is love.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been living as if you did not need the body, or serving with gifts that have not been ruled by love? What would it look like today to treat another member as indispensable, and to practice this patient, unfailing love?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
     }
   ]
 }

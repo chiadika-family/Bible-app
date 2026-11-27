@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.154",
+  "version": "2026.11.21.161",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2343,18 +2343,18 @@
       "passages": [
         "Romans 8:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 198,
       "date": "2027-05-18",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Romans: more than conquerors; nothing can separate us",
+      "title": "Romans: more than conquerors; nothing can separate us",
       "passages": [
         "Romans 8:18–39"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2365,7 +2365,7 @@
       "passages": [
         "Romans 12:1–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2377,7 +2377,7 @@
         "Romans 13:8–14",
         "Romans 15:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2389,7 +2389,7 @@
         "1 Corinthians 1:18–31",
         "1 Corinthians 2:1–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2401,7 +2401,7 @@
         "1 Corinthians 6:12–20",
         "1 Corinthians 7:1–7"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2413,7 +2413,7 @@
         "1 Corinthians 12:12–27",
         "1 Corinthians 13:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
