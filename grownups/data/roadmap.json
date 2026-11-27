@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.140",
+  "version": "2026.11.21.147",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2181,18 +2181,18 @@
       "passages": [
         "John 10:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 184,
       "date": "2027-05-04",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — John: I am the resurrection and the life",
+      "title": "John: I am the resurrection and the life",
       "passages": [
         "John 11:17–44"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2204,7 +2204,7 @@
         "John 13:1–17",
         "John 15:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2216,7 +2216,7 @@
         "John 19:16–30",
         "John 20:19–31"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2228,7 +2228,7 @@
         "Acts 1:1–11",
         "Acts 2:1–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2240,7 +2240,7 @@
         "Acts 3:1–16",
         "Acts 4:8–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2252,7 +2252,7 @@
         "Acts 7:51–60",
         "Acts 8:26–40"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

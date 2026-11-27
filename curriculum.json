@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.23",
+  "contentVersion": "2026.11.21.24",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -6324,11 +6324,233 @@
       "planTitle": "Stephen: faithful to Jesus",
       "title": "Stephen: faithful to Jesus",
       "selectLabel": "Week 27 · Stephen: faithful to Jesus",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 6:8–15; 7:54–60 (NIV)",
-      "bigIdea": "Stephen told the truth about Jesus, even when it cost him his life.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 28 · Philip and the Ethiopian",
+      "bigIdea": "Stephen told the truth about Jesus, even when it cost him his life.",
+      "scheduleNote": "This is the Week 27 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 6:8–15 out loud, then Acts 7:54–60."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 6:8–15",
+          "text": "8 Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people. 9 Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen. 10 But they could not stand up against the wisdom the Spirit gave him as he spoke. 11 Then they secretly persuaded some men to say, “We have heard Stephen speak blasphemous words against Moses and against God.” 12 So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. 13 They produced false witnesses, who testified, “This fellow never stops speaking against this holy place and against the law. 14 For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us.” 15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel."
+        },
+        {
+          "cite": "Acts 7:54–60",
+          "text": "54 When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him. 55 But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. 56 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.” 57 At this they covered their ears and, yelling at the top of their voices, they all rushed at him, 58 dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul. 59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” 60 Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we saw the first church pray, learn, and share so no one was in need. This week we see that the same church also had people who stayed faithful to Jesus when it was hard. Stephen told the truth about Jesus, even when it cost him his life.",
+        "Stephen was a man full of God’s grace and power, and he performed great wonders and signs among the people. Some men began to argue with him, but they could not stand up against the wisdom the Spirit gave him as he spoke. So they secretly stirred up people and produced false witnesses, who said he never stopped speaking against the holy place and the law. They seized Stephen and brought him before the Sanhedrin. All who were sitting there looked intently at him, and they saw that his face was like the face of an angel.",
+        "Stephen told them the long story of how God had been faithful to his people, and he told them the truth: they had resisted the Holy Spirit, and they had betrayed and murdered the Righteous One, Jesus. When they heard this, they were furious. But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”",
+        "They covered their ears, rushed at him, dragged him out of the city, and began to stone him. The witnesses laid their coats at the feet of a young man named Saul. This is a hard and sad part of the story, and we tell it with care, not as a game. While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep. That is the Bible’s gentle way of saying he died, and the Lord Jesus received him.",
+        "Stephen was faithful to the end. He told the truth, he saw Jesus, and he even prayed for the people who were hurting him. Next week we will see that God kept sending the good news. God sent Philip to help a man understand the good news about Jesus."
+      ],
+      "enochLine": "Stephen told the truth about Jesus, and Jesus was with him!",
+      "enochActivities": [
+        "Activity: Stand tall. Stand up straight, look up, and say: Jesus is with me!",
+        "Activity: Kind prayer. Fold your hands and say: Lord Jesus, help me love people, even when it is hard."
+      ],
+      "elijahQuestions": [
+        "In Acts 6:8, what was Stephen full of, and what did he do among the people?",
+        "In Acts 6:10, why could the men who argued with Stephen not stand up against him?",
+        "In Acts 7:55–56, what did Stephen see when he looked up to heaven?",
+        "In Acts 7:59–60, what two prayers did Stephen pray while they were stoning him?"
+      ],
+      "elijahAnswers": [
+        "He was full of God’s grace and power, and he performed great wonders and signs among the people (Acts 6:8).",
+        "They could not stand up against the wisdom the Spirit gave him as he spoke (Acts 6:10).",
+        "He saw the glory of God, and Jesus standing at the right hand of God. He said, “I see heaven open and the Son of Man standing at the right hand of God.” (Acts 7:55–56).",
+        "“Lord Jesus, receive my spirit.” And, “Lord, do not hold this sin against them.” (Acts 7:59–60)."
+      ],
+      "jordynQuestions": [
+        "The men could not answer Stephen’s wisdom, so they used false witnesses (Acts 6:10–13). What does that show about telling the truth when people will not listen fairly?",
+        "Stephen saw Jesus standing at the right hand of God (Acts 7:55–56), and then he prayed for the people who were hurting him (Acts 7:59–60). How do those two things belong together?",
+        "This week Stephen is faithful even when it costs him his life. Next week God will send Philip to help a man understand the good news about Jesus. What does that tell you about God’s work after a very hard day?"
+      ],
+      "jordynAnswers": [
+        "Faithfulness is not the same as winning an argument. Stephen kept telling the truth about Jesus even when people made up lies. The Spirit gave him wisdom, and he did not have to become false in order to be heard.",
+        "He can see that Jesus is alive and in glory, so he can trust Jesus with his life and even with his enemies. “Lord Jesus, receive my spirit” is trust. “Lord, do not hold this sin against them” is mercy, like Jesus’ own prayer.",
+        "The story of Jesus does not stop when one of his people dies. God is still sending the good news. Next week we will see Philip sent to help a man understand it. Stephen was faithful, and God is still at work."
+      ],
+      "jordynApplication": "Stephen told the truth about Jesus, even when it cost him his life (Acts 6:8–15; 7:54–60). This week, tell the truth about Jesus in one hard moment, and ask the Lord to help you forgive. Next week we will see that God kept sending the good news through Philip.",
+      "applicationCheck": "Ask her later in the week whether there was a moment when it was hard to tell the truth about Jesus, or hard to forgive. If it is fitting, thank God together that Jesus stood for Stephen, and that we can ask him for the same faithfulness and mercy.",
+      "prayer": "Father, thank you that Stephen was full of your Spirit and told the truth about Jesus, even when it cost him his life. Thank you that he saw Jesus standing in heaven, and that he prayed for the people who hurt him. Make us faithful too, and keep sending your good news. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 6:8–15",
+        "Acts 7:54–60",
+        "Acts 6:8",
+        "Acts 6:10",
+        "Acts 6:15",
+        "Acts 7:55–56",
+        "Acts 7:59–60"
+      ],
+      "dailies": [
+        {
+          "id": "w27-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Stephen is full of God’s grace and power, and the Spirit gives him wisdom to speak.",
+          "verse": "Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people.",
+          "verseCite": "Acts 6:8, NIV",
+          "enoch": "Stand tall and say: God can make me brave to tell the truth!",
+          "elijah": "In Acts 6:8–10, what was Stephen full of, and what could the men who argued with him not stand up against?",
+          "elijahAnswer": "He was full of God’s grace and power. They could not stand up against the wisdom the Spirit gave him as he spoke.",
+          "jordyn": "In Acts 6:13, they produced false witnesses. What does that tell you about why some people opposed Stephen?",
+          "jordynAnswer": "They could not beat the wisdom the Spirit gave him, so they told lies about him. Opposition to the truth is not always honest. Stephen still stands there with a face like the face of an angel (Acts 6:15).",
+          "action": "Read Acts 6:8–15 together, then tell someone: Stephen was full of God’s grace and power, and the Spirit gave him wisdom.",
+          "prayer": "Father, fill us with your grace and power, and give us the wisdom of your Spirit, so we can tell the truth about Jesus with a faithful heart. In Jesus’ name, Amen.",
+          "passageCite": "Acts 6:8–15, NIV",
+          "teach": "Stephen was full of God’s grace and power, and he performed great wonders and signs among the people. Some argued with him, but they could not stand up against the wisdom the Spirit gave him as he spoke. They secretly stirred up people, produced false witnesses, and brought Stephen before the Sanhedrin. All who were sitting there looked intently at him, and they saw that his face was like the face of an angel.",
+          "enochActivity": "Help a grown-up look at your face, then smile a calm smile, and say: The Spirit can make us brave and kind.",
+          "elijah2": "In Acts 6:15, what did the Sanhedrin see when they looked at Stephen?",
+          "elijahAnswer2": "They saw that his face was like the face of an angel.",
+          "jordyn2": "Why does it matter that Luke tells us about Stephen’s face before he tells us what happened next?",
+          "jordynAnswer2": "The room is already angry, and Stephen is already at peace. His faithfulness is not only in his words. The Spirit’s work can be seen even before the hardest moment comes.",
+          "passageText": "8 Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people. 9 Opposition arose, however, from members of the Synagogue of the Freedmen (as it was called)—Jews of Cyrene and Alexandria as well as the provinces of Cilicia and Asia—who began to argue with Stephen. 10 But they could not stand up against the wisdom the Spirit gave him as he spoke. 11 Then they secretly persuaded some men to say, “We have heard Stephen speak blasphemous words against Moses and against God.” 12 So they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin. 13 They produced false witnesses, who testified, “This fellow never stops speaking against this holy place and against the law. 14 For we have heard him say that this Jesus of Nazareth will destroy this place and change the customs Moses handed down to us.” 15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel."
+        },
+        {
+          "id": "w27-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice standing firm and telling the truth about Jesus, without turning his suffering into a game.",
+          "verse": "All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.",
+          "verseCite": "Acts 6:15, NIV",
+          "enoch": "Stand still, look up, and say: I can be faithful to Jesus!",
+          "elijah": "In Acts 6:10, who gave Stephen the wisdom to speak?",
+          "elijahAnswer": "The Spirit gave him wisdom as he spoke.",
+          "jordyn": "How should we practice being faithful so that we honor Stephen’s story, and do not pretend the stones or the hurt?",
+          "jordynAnswer": "We do not act out the stoning, and we do not make his death a joke. We practice standing firm, telling the truth about Jesus, and keeping a peaceful face, because the Spirit made Stephen faithful.",
+          "action": "Play a stand-firm game: take turns standing tall, looking up, and saying one true sentence about Jesus, such as Jesus is Lord, or Jesus is alive. Cheer for one another’s courage, not for pretend fighting.",
+          "prayer": "Father, thank you that Stephen’s face was peaceful because your Spirit was with him. Teach us to stand firm and tell the truth about Jesus, with kindness and courage. In Jesus’ name, Amen.",
+          "passageCite": "Acts 6:10, 15, NIV",
+          "teach": "They could not stand up against the wisdom the Spirit gave him as he spoke. And when the Sanhedrin looked at Stephen, they saw that his face was like the face of an angel. Today we practice that kind of faithfulness: standing firm and telling the truth, not playing at anyone being hurt.",
+          "enochActivity": "Help a grown-up stand with you, look up, and say: Jesus is Lord!",
+          "elijah2": "In Acts 6:8, what two words describe what Stephen was full of?",
+          "elijahAnswer2": "God’s grace and power.",
+          "jordyn2": "Why is a peaceful, faithful face a better way to remember Stephen than a game about stones?",
+          "jordynAnswer2": "The stones are real and sad. What we are meant to copy is his faithfulness, his wisdom from the Spirit, and his peace in Jesus, not the violence that was done to him.",
+          "passageText": "10 But they could not stand up against the wisdom the Spirit gave him as he spoke. 15 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel."
+        },
+        {
+          "id": "w27-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Full of the Holy Spirit, Stephen looks up and sees Jesus standing in heaven.",
+          "verse": "Look, I see heaven open and the Son of Man standing at the right hand of God.",
+          "verseCite": "Acts 7:56, NIV",
+          "enoch": "Look up and say: Jesus is in heaven, and he sees me!",
+          "elijah": "In Acts 7:54–55, how did the Sanhedrin feel, and what did Stephen do instead of looking at their anger?",
+          "elijahAnswer": "They were furious and gnashed their teeth at him. But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.",
+          "jordyn": "Stephen had just told them the truth about the Righteous One (Acts 7:52). Why does it matter that he sees Jesus standing, not only sitting, at the right hand of God?",
+          "jordynAnswer": "Jesus is alive, in glory, and with Stephen in this hardest moment. Stephen is not alone before angry people. The Son of Man is standing, and Stephen can tell the truth because he can see him.",
+          "action": "Read Acts 7:54–56 together, then tell someone: Stephen saw Jesus standing at the right hand of God.",
+          "prayer": "Father, thank you that Jesus is alive and standing in heaven. When we are afraid, help us look up to him, full of your Spirit, and keep telling the truth. In Jesus’ name, Amen.",
+          "passageCite": "Acts 7:54–56, NIV",
+          "teach": "When the Sanhedrin heard Stephen’s words, they were furious. But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”",
+          "enochActivity": "Help a grown-up look up with you and say: I see Jesus is King!",
+          "elijah2": "In Acts 7:55, what was Stephen full of when he looked up?",
+          "elijahAnswer2": "The Holy Spirit.",
+          "jordyn2": "The room is furious, and Stephen looks up. What does that teach you about where to look when people are against the truth?",
+          "jordynAnswer2": "He does not win by staring back in anger. He is full of the Holy Spirit, and he looks up to Jesus. Faithfulness looks to the Son of Man, even when the room is loud.",
+          "passageText": "54 When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him. 55 But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. 56 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”"
+        },
+        {
+          "id": "w27-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Be faithful to tell the truth about Jesus, even in a hard moment this week.",
+          "verse": "Lord Jesus, receive my spirit.",
+          "verseCite": "Acts 7:59, NIV",
+          "enoch": "Fold your hands and say: Lord Jesus, I belong to you!",
+          "elijah": "In Acts 7:59, what did Stephen pray while they were stoning him?",
+          "elijahAnswer": "“Lord Jesus, receive my spirit.”",
+          "jordyn": "Stephen’s hardest moment is not a child’s game, but his faithfulness still gives you a challenge. What would it look like for you to tell the truth about Jesus in one hard moment this week?",
+          "jordynAnswer": "It may be telling the truth when it would be easier to stay quiet, or being kind when someone is unfair, or saying you belong to Jesus. Faithfulness starts in real life, with a heart that trusts Jesus to receive us.",
+          "action": "Choose one hard moment this week — at home, at school, or with a friend — and tell the truth about Jesus there, or stay faithful when it would be easier not to.",
+          "prayer": "Father, we belong to Jesus. Make us faithful in the real, hard moments of this week, and teach us to trust him with our lives, as Stephen did. In Jesus’ name, Amen.",
+          "passageCite": "Acts 7:57–59, NIV",
+          "teach": "They covered their ears, rushed at Stephen, dragged him out of the city, and began to stone him. The witnesses laid their coats at the feet of a young man named Saul. While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” We tell this with care. The challenge for us is not to pretend we are being hurt. It is to be faithful to Jesus and to trust him with our lives.",
+          "enochActivity": "Help a grown-up hold your hands and say: Lord Jesus, we belong to you.",
+          "elijah2": "In Acts 7:58, where did they take Stephen, and whose feet held the witnesses’ coats?",
+          "elijahAnswer2": "They dragged him out of the city and began to stone him. The witnesses laid their coats at the feet of a young man named Saul.",
+          "jordyn2": "Luke names Saul here, but he does not yet tell us how Jesus will later change him. Why is it enough, this week, to notice that Stephen stays faithful even then?",
+          "jordynAnswer2": "The spotlight stays on Jesus and on Stephen’s trust: “Lord Jesus, receive my spirit.” God can still work in a room this hard, and next week we will see that he keeps sending the good news. We do not have to rush ahead to Saul’s later story to see Stephen’s faithfulness today.",
+          "passageText": "57 At this they covered their ears and, yelling at the top of their voices, they all rushed at him, 58 dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul. 59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.”"
+        },
+        {
+          "id": "w27-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Pray like Stephen: trust Jesus with your life, and ask him to forgive.",
+          "verse": "Lord, do not hold this sin against them.",
+          "verseCite": "Acts 7:60, NIV",
+          "enoch": "Fold your hands and say: Lord, help me forgive.",
+          "elijah": "In Acts 7:60, what did Stephen cry out, and what happened when he had said this?",
+          "elijahAnswer": "He cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.",
+          "jordyn": "Stephen prays for the people who are hurting him, after he has already trusted Jesus with his spirit (Acts 7:59–60). How can that shape the way you pray for someone who has been unkind?",
+          "jordynAnswer": "We can tell Jesus the truth, ask him to receive us, and then ask him not to hold that person’s sin against them. Forgiveness is not pretending the hurt was nothing. It is asking the Lord to be merciful, as Stephen did.",
+          "action": "Pray together: thank Jesus that he received Stephen, and name one person you need help to forgive.",
+          "prayer": "Lord Jesus, receive us, and teach us to pray, “Lord, do not hold this sin against them.” Make us faithful and merciful, like Stephen, because we belong to you. In your name, Amen.",
+          "passageCite": "Acts 7:59–60, NIV",
+          "teach": "While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep. That is how a faithful man prayed at the end: he trusted Jesus, and he asked for mercy on the people who hurt him.",
+          "enochActivity": "Help a grown-up pray a short sentence with you: Lord Jesus, help us forgive.",
+          "elijah2": "In Acts 7:60, what does “he fell asleep” mean in this story?",
+          "elijahAnswer2": "It is the Bible’s gentle way of saying Stephen died, and the Lord Jesus received him.",
+          "jordyn2": "Why is Stephen’s last prayer a good way for a church to remember him, not only his courage to speak?",
+          "jordynAnswer2": "He is not only brave. He is merciful. The man who told the truth also prayed for his enemies. Faithfulness to Jesus includes both a true word and a forgiving heart.",
+          "passageText": "59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” 60 Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep."
+        },
+        {
+          "id": "w27-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Stephen told the truth about Jesus, even when it cost him his life, and next God will send Philip with the good news.",
+          "verse": "Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people.",
+          "verseCite": "Acts 6:8, NIV",
+          "enoch": "Stand tall, look up, and say: Stephen was faithful, and Jesus is with us!",
+          "elijah": "In Acts 6:8 and 7:59–60, what kind of man was Stephen, and how did he finish?",
+          "elijahAnswer": "He was full of God’s grace and power, and at the end he prayed, “Lord Jesus, receive my spirit,” and “Lord, do not hold this sin against them.” Then he fell asleep.",
+          "jordyn": "This week Stephen was faithful even when it cost him his life. How does that get your heart ready for next week, when God sends Philip to help a man understand the good news about Jesus?",
+          "jordynAnswer": "The good news does not stop on a hard day. Stephen was faithful, and God is still sending witnesses. Next week we will see Philip sent to help a man understand the good news about Jesus.",
+          "action": "Tell someone the week’s big idea: Stephen told the truth about Jesus, even when it cost him his life. Then thank God, and look ahead to Philip.",
+          "prayer": "Father, thank you that Stephen told the truth about Jesus, even when it cost him his life. Thank you that he saw Jesus standing, and that he prayed for his enemies. Keep sending your good news, and get our hearts ready for the next story. In Jesus’ name, Amen.",
+          "passageCite": "Acts 6:8; Acts 7:55–56; Acts 7:59–60, NIV",
+          "teach": "This week we learned that Stephen told the truth about Jesus, even when it cost him his life. He was full of God’s grace and power, and the Spirit gave him wisdom. He looked up and saw Jesus standing at the right hand of God. He prayed, “Lord Jesus, receive my spirit,” and “Lord, do not hold this sin against them.” Next week we will see that God kept sending the good news: God sent Philip to help a man understand the good news about Jesus.",
+          "enochActivity": "Help a grown-up open a hand as if sending someone, and say: Next week God will send Philip with the good news!",
+          "elijah2": "In Acts 7:55–56 and 7:60, what two things did Stephen do at the end?",
+          "elijahAnswer2": "He looked up and saw Jesus standing at the right hand of God, and he prayed that the Lord would not hold this sin against them.",
+          "jordyn2": "Why is faithful to Jesus a fitting last word before a week about Philip and a man who needs help understanding the good news?",
+          "jordynAnswer2": "Stephen shows us that Jesus’ people tell the truth and trust him to the end. Next week we will see that Jesus still sends help so that someone else can understand that same good news. Faithfulness and going with the message belong to the same Lord.",
+          "passageText": "8 Now Stephen, a man full of God’s grace and power, performed great wonders and signs among the people. 55 But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God. 56 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.” 59 While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.” 60 Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep."
+        }
+      ]
     },
     {
       "id": "28",
