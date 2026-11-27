@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.126",
+  "version": "2026.11.21.133",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2019,19 +2019,19 @@
       "passages": [
         "Mark 2:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 170,
       "date": "2027-04-20",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Mark: who is this? Even the wind and the dead obey him",
+      "title": "Mark: who is this? Even the wind and the dead obey him.",
       "passages": [
         "Mark 4:35–41",
         "Mark 5:21–43"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2043,7 +2043,7 @@
         "Mark 8:27–38",
         "Mark 9:2–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2055,7 +2055,7 @@
         "Mark 10:35–45",
         "Mark 15:33–39"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2067,7 +2067,7 @@
         "Luke 1:26–38",
         "Luke 2:1–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2078,7 +2078,7 @@
       "passages": [
         "Luke 4:14–30"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2089,7 +2089,7 @@
       "passages": [
         "Luke 10:25–37"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

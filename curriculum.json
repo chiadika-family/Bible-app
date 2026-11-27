@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.21",
+  "contentVersion": "2026.11.21.22",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -5853,11 +5853,237 @@
       "planTitle": "Peter and John at the temple",
       "title": "Peter and John at the temple",
       "selectLabel": "Week 25 · Peter and John at the temple",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 3:1–10; 4:1–12 (NIV)",
-      "bigIdea": "Jesus heals and saves, and Peter and John are bold to say so.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 26 · The church shares what they have",
+      "bigIdea": "Jesus heals and saves, and Peter and John are bold to say so.",
+      "scheduleNote": "This is the Week 25 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 3:1–10 out loud, then Acts 3:12–16, then Acts 4:8–12."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 3:1–10",
+          "text": "1 One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon. 2 Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts. 3 When he saw Peter and John about to enter, he asked them for money. 4 Peter looked straight at him, as did John. Then Peter said, “Look at us!” 5 So the man gave them his attention, expecting to get something from them. 6 Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” 7 Taking him by the right hand, he helped him up, and instantly the man’s feet and ankles became strong. 8 He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God. 9 When all the people saw him walking and praising God, 10 they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him."
+        },
+        {
+          "cite": "Acts 3:12–16",
+          "text": "12 When Peter saw this, he said to them: “Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk? 13 The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go. 14 You disowned the Holy and Righteous One and asked that a murderer be released to you. 15 You killed the author of life, but God raised him from the dead. We are witnesses of this. 16 By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as you can all see."
+        },
+        {
+          "cite": "Acts 4:8–12",
+          "text": "8 Then Peter, filled with the Holy Spirit, said to them: “Rulers and elders of the people! 9 If we are being called to account today for an act of kindness shown to a man who was lame and are being asked how he was healed, 10 then know this, you and all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. 11 Jesus is “‘the stone you builders rejected, which has become the cornerstone.’ 12 Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week God sent the Holy Spirit, and the church began. About three thousand were added in one day. Peter, who had been told to wait, was now filled with the Spirit and bold to preach that Jesus is Lord and Messiah. This week we see that same boldness at the temple. Jesus heals and saves, and Peter and John are bold to say so.",
+        "One day Peter and John were going up to the temple at the time of prayer. A man who had been lame from birth was being carried to the temple gate called Beautiful, where he sat and begged. When he saw Peter and John, he asked them for money. Peter looked straight at him, with John. Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” He helped him up, and instantly the man’s feet and ankles became strong. He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God. The people recognized him and were filled with wonder.",
+        "A crowd ran together. Peter would not let them think the power was his. He asked why they stared, as if by their own power or godliness they had made the man walk. The God of Abraham, Isaac, and Jacob had glorified Jesus. “By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as you can all see.”",
+        "The leaders had Peter and John arrested, and the next day they asked, “By what power or what name did you do this?” Peter, filled with the Holy Spirit, told them it was by the name of Jesus Christ of Nazareth, whom they crucified and whom God raised from the dead. “Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.” The leaders saw their courage and took note that these men had been with Jesus. They commanded them not to speak or teach at all in the name of Jesus. But Peter and John said they must listen to God, and “we cannot help speaking about what we have seen and heard.”",
+        "Jesus heals and saves, and his friends are bold to say so. Next week we will see how this same church shared what they had, so that no one was in need."
+      ],
+      "enochLine": "Jesus heals and saves, and we can be bold to say so!",
+      "enochActivities": [
+        "Activity: Jump and praise. Help a grown-up take two happy jumps and say: Praise God! Jesus heals and saves!",
+        "Activity: The name of Jesus. Cup your hands like a gift and say: In the name of Jesus!"
+      ],
+      "elijahQuestions": [
+        "In Acts 3:6, what did Peter say he did not have, and what did he give the man instead?",
+        "In Acts 3:8, what did the man do after his feet and ankles became strong?",
+        "In Acts 3:16, whose name, and what kind of faith, made the man strong?",
+        "In Acts 4:12, where is salvation found?"
+      ],
+      "elijahAnswers": [
+        "He did not have silver or gold, but he said, “what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” (Acts 3:6).",
+        "He jumped to his feet and began to walk, then went with them into the temple courts, walking and jumping, and praising God (Acts 3:8).",
+        "By faith in the name of Jesus. It is Jesus’ name and the faith that comes through him that completely healed him (Acts 3:16).",
+        "“Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.” (Acts 4:12)."
+      ],
+      "jordynQuestions": [
+        "Peter will not let the crowd think that he and John healed the man by their own power or godliness (Acts 3:12–16). Why does that matter?",
+        "The leaders commanded them not to speak or teach at all in the name of Jesus (Acts 4:18). What do Peter and John say they must do instead?",
+        "Acts 4:13 says the leaders took note that these men had been with Jesus. How does that help you get ready for next week, when we will see this same church share what they have?"
+      ],
+      "jordynAnswers": [
+        "The man was made strong by faith in the name of Jesus, not by Peter and John’s power (Acts 3:16). If they took the credit, the crowd would miss the Savior. Jesus heals and saves, and they are bold to say so.",
+        "They ask which is right in God’s eyes: to listen to the leaders, or to him. “As for us, we cannot help speaking about what we have seen and heard.” (Acts 4:19–20).",
+        "They had been with Jesus, and now they belong to his people. The same church that is bold to speak his name will also share, so that no one is in need. Being with Jesus changes how they speak and how they live together."
+      ],
+      "jordynApplication": "Jesus heals and saves, and there is no other name by which we must be saved (Acts 3:16; 4:12). This week, be bold to say the name of Jesus, and get ready to see how his church also shares. Next week we will see that no one was in need.",
+      "applicationCheck": "Ask her later in the week whether she was bold to say the name of Jesus — in thanks, in a hard moment, or when someone needed help. If it is fitting, thank him together that Jesus heals and saves, and that his friends do not have to stay quiet about him.",
+      "prayer": "Father, thank you that in the name of Jesus the lame man walked, and that salvation is found in no one else. Make us bold, like Peter and John, to say what we have seen and heard. Get our hearts ready to share as your church. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 3:1–10",
+        "Acts 3:12–16",
+        "Acts 4:8–12",
+        "Acts 4:18–20",
+        "Acts 4:23–31",
+        "Acts 3:6",
+        "Acts 4:12"
+      ],
+      "dailies": [
+        {
+          "id": "w25-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "At the temple gate, Peter gives what he has: the name of Jesus.",
+          "verse": "Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.",
+          "verseCite": "Acts 3:6, NIV",
+          "enoch": "Cup your hands and say: In the name of Jesus, God can help!",
+          "elijah": "In Acts 3:1–2, where were Peter and John going, and who was being carried to the temple gate called Beautiful?",
+          "elijahAnswer": "They were going up to the temple at the time of prayer, and a man lame from birth was being carried to the gate called Beautiful, where he sat begging.",
+          "jordyn": "The man asked for money, but Peter gave him something else (Acts 3:6). What does that teach you about the name of Jesus?",
+          "jordynAnswer": "Peter did not have silver or gold, but he had the name of Jesus Christ of Nazareth. That name was not a slogan. The man was told to walk, and Jesus made him strong.",
+          "action": "Read Acts 3:1–10 together, then tell someone: In the name of Jesus Christ of Nazareth, the man walked.",
+          "prayer": "Father, thank you for the name of Jesus. We may not have silver or gold to give, but we can point to him. Help us give what we do have, in his name. In Jesus’ name, Amen.",
+          "passageCite": "Acts 3:1–10, NIV",
+          "teach": "Peter and John were going up to the temple at the time of prayer. A man lame from birth was begging at the gate called Beautiful. Peter looked at him and said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” He helped him up, and instantly the man’s feet and ankles became strong. He jumped to his feet and began to walk, and he went into the temple courts, walking and jumping, and praising God.",
+          "enochActivity": "Help a grown-up take your hand, like Peter helped the man, and say: Jesus makes people strong.",
+          "elijah2": "In Acts 3:7–8, what happened when Peter helped him up?",
+          "elijahAnswer2": "Instantly the man’s feet and ankles became strong. He jumped to his feet and began to walk, then went into the temple courts, walking and jumping, and praising God.",
+          "jordyn2": "Why is it important that the man went into the temple courts walking, jumping, and praising God, and not just walking away quietly?",
+          "jordynAnswer2": "The healing leads to praise. The people can see the same man who used to sit begging, now in the courts of God, and they are filled with wonder. The gift points to God.",
+          "passageText": "1 One day Peter and John were going up to the temple at the time of prayer—at three in the afternoon. 2 Now a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those going into the temple courts. 3 When he saw Peter and John about to enter, he asked them for money. 4 Peter looked straight at him, as did John. Then Peter said, “Look at us!” 5 So the man gave them his attention, expecting to get something from them. 6 Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” 7 Taking him by the right hand, he helped him up, and instantly the man’s feet and ankles became strong. 8 He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God. 9 When all the people saw him walking and praising God, 10 they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him."
+        },
+        {
+          "id": "w25-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "The healed man walks, jumps, and praises God, and the people are filled with wonder.",
+          "verse": "He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God.",
+          "verseCite": "Acts 3:8, NIV",
+          "enoch": "Take two happy jumps and say: Praise God!",
+          "elijah": "In Acts 3:9–10, what did the people recognize, and how did they feel?",
+          "elijahAnswer": "They recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.",
+          "jordyn": "The man had been lame from birth, and now he is walking and jumping and praising God. How should we join his joy without turning his story into a joke?",
+          "jordynAnswer": "We praise God with him. We do not pretend his need was funny. We tell the truth: Jesus made him strong, and the right answer is wonder, amazement, and praise.",
+          "action": "Play a praising walk: walk to another room, take a small jump, and say, Praise God! Jesus heals and saves.",
+          "prayer": "Father, thank you that the man walked and jumped and praised you. Fill us with wonder, not with jokes, and teach us to praise you for what Jesus does. In Jesus’ name, Amen.",
+          "passageCite": "Acts 3:8–10, NIV",
+          "teach": "The man jumped to his feet and began to walk. He went with Peter and John into the temple courts, walking and jumping, and praising God. When all the people saw him walking and praising God, they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him.",
+          "enochActivity": "Help a grown-up walk with you a few steps and say: Walking and jumping and praising God!",
+          "elijah2": "In Acts 3:8, where did the man go after he began to walk?",
+          "elijahAnswer2": "He went with them into the temple courts, walking and jumping, and praising God.",
+          "jordyn2": "Why does it matter that the people recognized him as the same man who used to sit begging?",
+          "jordynAnswer2": "This was not a stranger they had never seen. The man they knew was now walking and praising God. The wonder is tied to a real person Jesus made strong.",
+          "passageText": "8 He jumped to his feet and began to walk. Then he went with them into the temple courts, walking and jumping, and praising God. 9 When all the people saw him walking and praising God, 10 they recognized him as the same man who used to sit begging at the temple gate called Beautiful, and they were filled with wonder and amazement at what had happened to him."
+        },
+        {
+          "id": "w25-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Peter will not take the credit. The man was healed by faith in the name of Jesus.",
+          "verse": "By faith in the name of Jesus, this man whom you see and know was made strong.",
+          "verseCite": "Acts 3:16, NIV",
+          "enoch": "Point up and say: It was Jesus who made him strong!",
+          "elijah": "In Acts 3:12, what does Peter ask the crowd, as if he and John had made the man walk?",
+          "elijahAnswer": "He asks why they stare at them as if by their own power or godliness they had made this man walk.",
+          "jordyn": "Peter says it is Jesus’ name and the faith that comes through him that has completely healed the man (Acts 3:16). How does that keep the story centered on Jesus, not on Peter and John?",
+          "jordynAnswer": "The apostles are witnesses, not the source. If the crowd looks only at Peter and John, they will miss the name that heals and saves. Peter is bold to give Jesus the credit.",
+          "action": "Read Acts 3:12–16, then tell someone: This man was made strong by faith in the name of Jesus.",
+          "prayer": "Father, keep us from taking credit for what you have done. Thank you that Jesus’ name, and the faith that comes through him, made this man strong. Help us point to him. In Jesus’ name, Amen.",
+          "passageCite": "Acts 3:12–16, NIV",
+          "teach": "While the man held on to Peter and John, the people came running, astonished. Peter would not let them think the power was theirs. Why do you stare at us, he asked, as if by our own power or godliness we had made this man walk? The God of Abraham, Isaac, and Jacob had glorified Jesus. By faith in the name of Jesus, this man whom they could see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as they could all see.",
+          "enochActivity": "Help a grown-up shake your head no, then point up and say: Not our power. Jesus’ name!",
+          "elijah2": "In Acts 3:13, whom does Peter say the God of Abraham, Isaac, and Jacob has glorified?",
+          "elijahAnswer2": "His servant Jesus.",
+          "jordyn2": "The man is someone “you see and know” (Acts 3:16). Why is that a strong way for Peter to preach Jesus in the temple courts?",
+          "jordynAnswer2": "The proof is standing there. They do not have to imagine a rumor. The man they know has been completely healed, and Peter names the reason: Jesus’ name and the faith that comes through him.",
+          "passageText": "12 When Peter saw this, he said to them: “Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk? 13 The God of Abraham, Isaac and Jacob, the God of our fathers, has glorified his servant Jesus. You handed him over to be killed, and you disowned him before Pilate, though he had decided to let him go. 14 You disowned the Holy and Righteous One and asked that a murderer be released to you. 15 You killed the author of life, but God raised him from the dead. We are witnesses of this. 16 By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as you can all see."
+        },
+        {
+          "id": "w25-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Filled with the Holy Spirit, Peter says salvation is found in no one else.",
+          "verse": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+          "verseCite": "Acts 4:12, NIV",
+          "enoch": "Say it clearly: Jesus saves! There is no other name.",
+          "elijah": "In Acts 4:7, what did the leaders ask Peter and John?",
+          "elijahAnswer": "“By what power or what name did you do this?”",
+          "jordyn": "Peter, filled with the Holy Spirit, answers that the man stands healed by the name of Jesus Christ of Nazareth, whom they crucified and whom God raised from the dead (Acts 4:10, 12). Why is “no other name” both a hard word and a kind one?",
+          "jordynAnswer": "It is hard because it will not share the saving name with anyone else. It is kind because God has given a name, and that name is enough. Salvation is found in Jesus, and they are bold to say so.",
+          "action": "Tell someone today: Salvation is found in no one else. Then thank God that he has given the name of Jesus.",
+          "prayer": "Father, thank you that salvation is found in no one else, and that you have given the name of Jesus. Fill us with your Spirit, and make us bold to say that he heals and saves. In Jesus’ name, Amen.",
+          "passageCite": "Acts 4:8–12, NIV",
+          "teach": "The leaders asked, “By what power or what name did you do this?” Peter, filled with the Holy Spirit, told them it was by the name of Jesus Christ of Nazareth, whom they crucified but whom God raised from the dead, that this man stood before them healed. Jesus is the stone the builders rejected, which has become the cornerstone. Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+          "enochActivity": "Help a grown-up hold one finger up and say: No other name. Jesus saves!",
+          "elijah2": "In Acts 4:11, what does Peter say about the stone the builders rejected?",
+          "elijahAnswer2": "Jesus is the stone the builders rejected, which has become the cornerstone.",
+          "jordyn2": "Acts 4:8 says Peter was filled with the Holy Spirit when he answered. How does that connect this week to last week, when the Spirit first came?",
+          "jordynAnswer2": "The same gift that began the church now makes Peter bold before rulers. The Spirit was not only for one loud day. He fills Jesus’ friends to speak the saving name.",
+          "passageText": "8 Then Peter, filled with the Holy Spirit, said to them: “Rulers and elders of the people! 9 If we are being called to account today for an act of kindness shown to a man who was lame and are being asked how he was healed, 10 then know this, you and all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed. 11 Jesus is “‘the stone you builders rejected, which has become the cornerstone.’ 12 Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.”"
+        },
+        {
+          "id": "w25-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "They cannot help speaking about what they have seen and heard, and they ask God for boldness.",
+          "verse": "As for us, we cannot help speaking about what we have seen and heard.",
+          "verseCite": "Acts 4:20, NIV",
+          "enoch": "Fold your hands and say: Lord, make us bold to speak about Jesus.",
+          "elijah": "In Acts 4:18–19, what did the leaders command, and what question did Peter and John ask?",
+          "elijahAnswer": "The leaders commanded them not to speak or teach at all in the name of Jesus. They asked, “Which is right in God’s eyes: to listen to you, or to him?”",
+          "jordyn": "After they were released, they prayed, and they were all filled with the Holy Spirit and spoke the word of God boldly (Acts 4:31). What does that teach you about courage?",
+          "jordynAnswer": "Courage is not something they have to invent alone. They tell their people what happened, they ask God to enable them to speak with great boldness, and the Spirit fills them again. We can ask for the same boldness.",
+          "action": "Pray together: thank God for what you have seen and heard about Jesus, and ask him to help you speak with boldness.",
+          "prayer": "Father, we cannot help speaking about what we have seen and heard. Enable your servants to speak your word with great boldness. Fill us with the Holy Spirit, and make us brave in the name of Jesus. In his name, Amen.",
+          "passageCite": "Acts 4:18–20; Acts 4:23–31, NIV",
+          "teach": "The leaders commanded them not to speak or teach at all in the name of Jesus. Peter and John said they must listen to God, and they could not help speaking about what they had seen and heard. When they were released, they went back to their own people and prayed. They asked God to enable them to speak his word with great boldness. After they prayed, the place where they were meeting was shaken, and they were all filled with the Holy Spirit and spoke the word of God boldly.",
+          "enochActivity": "Help a grown-up pray a short sentence with you: Lord, help us speak about Jesus with boldness.",
+          "elijah2": "In Acts 4:13, what did the leaders notice about Peter and John?",
+          "elijahAnswer2": "They saw their courage, realized they were unschooled, ordinary men, and took note that these men had been with Jesus.",
+          "jordyn2": "They are ordinary men, and yet they are courageous. What is the difference, according to Acts 4:13 and 4:31?",
+          "jordynAnswer2": "They had been with Jesus, and they were filled with the Holy Spirit. The boldness is not that they were impressive on their own. It is that they belong to Jesus and are filled by his Spirit.",
+          "passageText": "18 Then they called them in again and commanded them not to speak or teach at all in the name of Jesus. 19 But Peter and John replied, “Which is right in God’s eyes: to listen to you, or to him? You be the judges! 20 As for us, we cannot help speaking about what we have seen and heard.” 23 On their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them. 24 When they heard this, they raised their voices together in prayer to God. “Sovereign Lord,” they said, “you made the heavens and the earth and the sea, and everything in them. 25 You spoke by the Holy Spirit through the mouth of your servant, our father David: “‘Why do the nations rage and the peoples plot in vain? 26 The kings of the earth rise up and the rulers band together against the Lord and against his anointed one.’ 27 Indeed Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed. 28 They did what your power and will had decided beforehand should happen. 29 Now, Lord, consider their threats and enable your servants to speak your word with great boldness. 30 Stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.” 31 After they prayed, the place where they were meeting was shaken. And they were all filled with the Holy Spirit and spoke the word of God boldly."
+        },
+        {
+          "id": "w25-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus heals and saves, Peter and John are bold to say so, and next the church will share.",
+          "verse": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.",
+          "verseCite": "Acts 4:12, NIV",
+          "enoch": "Jump once and say: Jesus heals and saves, and we can be bold to say so!",
+          "elijah": "In Acts 3:6 and 4:12, what two things does the name of Jesus do in this week’s story?",
+          "elijahAnswer": "In his name the lame man walks, and in his name alone we must be saved.",
+          "jordyn": "This week Jesus healed a man at the temple, Peter gave Jesus the credit, and the friends were bold even when they were told to be quiet. How does that get your heart ready for next week, when the church shares so that no one is in need?",
+          "jordynAnswer": "The same people who speak Jesus’ name also live as his family. Next week we will see them share what they have, so that no one is in need. Bold speech and generous love belong to the same church.",
+          "action": "Tell someone the week’s big idea: Jesus heals and saves, and Peter and John are bold to say so. Then thank him that there is no other name.",
+          "prayer": "Father, thank you that Jesus heals and saves, and that there is no other name by which we must be saved. Make us bold to speak what we have seen and heard, and get our hearts ready to share as your church. In Jesus’ name, Amen.",
+          "passageCite": "Acts 3:6; Acts 3:16; Acts 4:12; Acts 4:20, NIV",
+          "teach": "This week we learned that Jesus heals and saves, and Peter and John are bold to say so. At the temple gate, Peter said he did not have silver or gold, but he gave what he had: the name of Jesus Christ of Nazareth. The man walked, jumped, and praised God. Peter would not take the credit. The man was made strong by faith in the name of Jesus. Salvation is found in no one else. They could not help speaking about what they had seen and heard, and they prayed for boldness. Next week we will see this same church share what they have, so that no one was in need.",
+          "enochActivity": "Help a grown-up open your hands as if sharing, and say: Next week the church will share, and Jesus still saves!",
+          "elijah2": "In Acts 4:13 and 4:20, what two things mark Peter and John after the healing?",
+          "elijahAnswer2": "The leaders took note that they had been with Jesus, and they said they could not help speaking about what they had seen and heard.",
+          "jordyn2": "Why is “no other name” a fitting last word for a week that began with a man begging at a gate?",
+          "jordynAnswer2": "The man needed more than silver or gold. He needed the name of Jesus to walk, and the world needs that same name to be saved. The story begins with a gift at the gate and ends with the only saving name.",
+          "passageText": "6 Then Peter said, “Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.” 16 By faith in the name of Jesus, this man whom you see and know was made strong. It is Jesus’ name and the faith that comes through him that has completely healed him, as you can all see. 12 Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved.” 20 As for us, we cannot help speaking about what we have seen and heard.”"
+        }
+      ]
     },
     {
       "id": "26",
