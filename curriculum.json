@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.14",
+  "contentVersion": "2026.11.21.15",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -4190,9 +4190,235 @@
       "planTitle": "Loving everyone made in God's image",
       "title": "Loving everyone made in God's image",
       "selectLabel": "Week 18 · Loving everyone made in God's image",
-      "ready": false,
+      "ready": true,
+      "passage": "Genesis 1:26–27; Luke 10:25–37; James 2:1–9 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 19 · Heaven: our forever home",
+      "bigIdea": "God made every person in his image. We love our neighbor as ourselves — without picking favorites — because every person bears that image.",
+      "scheduleNote": "This is the Week 18 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Genesis 1:26–27 out loud, then Luke 10:25–37, then James 2:1–9."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Genesis 1:26–27",
+          "text": "26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.” 27 So God created mankind in his own image, in the image of God he created them; male and female he created them."
+        },
+        {
+          "cite": "Luke 10:25–37",
+          "text": "25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?” 26 “What is written in the Law?” he replied. “How do you read it?” 27 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’” 28 “You have answered correctly,” Jesus replied. “Do this and you will live.” 29 But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?” 30 In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. 31 A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. 32 So too, a Levite, when he came to the place and saw him, passed by on the other side. 33 But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. 34 He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. 35 The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’ 36 “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” 37 The expert in the law replied, “The one who had mercy on him.” Jesus told him, “Go and do likewise.”"
+        },
+        {
+          "cite": "James 2:1–9",
+          "text": "1 My brothers and sisters, believers in our glorious Lord Jesus Christ must not show favoritism. 2 Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in filthy old clothes also comes in. 3 If you show special attention to the man wearing fine clothes and say, “Here’s a good seat for you,” but say to the poor man, “You stand there” or “Sit on the floor by my feet,” 4 have you not discriminated among yourselves and become judges with evil thoughts? 5 Listen, my dear brothers and sisters: Has not God chosen those who are poor in the eyes of the world to be rich in faith and to inherit the kingdom he promised those who love him? 6 But you have dishonored the poor. Is it not the rich who are exploiting you? Are they not the ones who are dragging you into court? 7 Are they not the ones who are blaspheming the noble name of him to whom you belong? 8 If you really keep the royal law found in Scripture, “Love your neighbor as yourself,” you are doing right. 9 But if you show favoritism, you sin and are convicted by the law as lawbreakers."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned God’s design for marriage and family. This week we look wider. In Week 1 we heard that God made people in his image. Today we learn what that means for how we treat everyone.",
+        "“Then God said, ‘Let us make mankind in our image.’” “So God created mankind in his own image, in the image of God he created them; male and female he created them.” Every person you meet is made in God’s image — not only people who look like you, or like you, or can do what you can do.",
+        "An expert in the law asked Jesus what he must do to inherit eternal life. Jesus pointed him back to the Law: love the Lord your God with all your heart, soul, strength, and mind, and love your neighbor as yourself. The man wanted to justify himself. “And who is my neighbor?” Jesus told of a man who was beaten and left hurt on the road. A priest and a Levite passed by on the other side. A Samaritan — someone the hearers did not expect to honor — stopped, took pity, bandaged the wounds, and paid for his care. “Which of these three do you think was a neighbor?” “The one who had mercy on him.” Jesus said, “Go and do likewise.”",
+        "James says the same love must show up when people walk into the room. Believers in our glorious Lord Jesus Christ must not show favoritism — a good seat for the person in fine clothes, and “sit on the floor” for the poor. “If you really keep the royal law found in Scripture, ‘Love your neighbor as yourself,’ you are doing right. But if you show favoritism, you sin.”",
+        "So this is the word for our house: God made every person in his image. Love God. Love your neighbor as yourself. Do not pick favorites. Go and do likewise."
+      ],
+      "enochLine": "God made every person. I can be kind to everyone!",
+      "enochActivities": [
+        "Activity: Image of God. Look at each person in the room, point gently, and say, “God made you in his image!”",
+        "Activity: Neighbor help. With a grown-up, put a bandage on a stuffed animal or doll and say, “I can stop and help.”"
+      ],
+      "elijahQuestions": [
+        "In Genesis 1:26, in whose image did God want to make mankind?",
+        "In Luke 10:27, whom are we told to love as ourselves?",
+        "In Luke 10:33–34, who stopped and helped the hurt man?",
+        "In James 2:1, what must believers in our glorious Lord Jesus Christ not show?"
+      ],
+      "jordynQuestions": [
+        "Genesis 1:27 says God created mankind in his own image. How should that change the way you treat a person you find hard to like, or a person who cannot do what you can do?",
+        "In Luke 10, Jesus makes the neighbor a Samaritan — someone the hearers did not expect to honor — while a priest and a Levite pass by. What is Jesus teaching about “who is my neighbor”?",
+        "James 2:1–9 warns against a good seat for the person in fine clothes and “sit on the floor” for the poor. How is favoritism a failure to keep the royal law, “Love your neighbor as yourself”?"
+      ],
+      "jordynApplication": "Every person is made in God’s image (Genesis 1:27). This week, love your neighbor as yourself in a concrete way: notice someone easy to overlook, and honor them as an image-bearer, without favoritism (Luke 10:36–37; James 2:1, 8).",
+      "elijahAnswers": [
+        "In “our image” — God’s image (Genesis 1:26). “Let us make mankind in our image, in our likeness.”",
+        "“Your neighbor” (Luke 10:27). We are also told to love the Lord our God with all our heart, soul, strength, and mind.",
+        "A Samaritan. “When he saw him, he took pity on him.” He bandaged his wounds and took care of him (Luke 10:33–34).",
+        "Favoritism. “Believers in our glorious Lord Jesus Christ must not show favoritism” (James 2:1)."
+      ],
+      "jordynAnswers": [
+        "That person is made in God’s image too (Genesis 1:26–27). Their worth does not come from whether they are easy, impressive, or like us. We treat them with the dignity God gave them.",
+        "Your neighbor is not only your friend or your people. The neighbor is the one who needs mercy, even someone you might pass by or look down on. Jesus says, “Go and do likewise” (Luke 10:29–37).",
+        "Favoritism honors the impressive and dishonors the poor, and James says that is sin (James 2:1–9). The royal law loves the neighbor as yourself — not only the neighbor who can give you something back."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced loving a neighbor in a concrete way, especially someone easy to overlook, and whether she refused favoritism. If it is fitting, share one way you honored an image-bearer this week too, and pray together.",
+      "prayer": "Father, thank you that you made mankind in your image — every person, male and female. Teach us to love you with all our heart, and to love our neighbor as ourselves. Keep us from favoritism. Make us like the one who had mercy, and help us go and do likewise. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w18-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "God made mankind in his own image. Every person bears that image.",
+          "verse": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+          "verseCite": "Genesis 1:27, NIV",
+          "enoch": "Look at each person in the room and say, “God made you!”",
+          "elijah": "In Genesis 1:27, in whose image did God create mankind?",
+          "elijahAnswer": "“In his own image,” “in the image of God.” He created them “male and female.”",
+          "jordyn": "If every person is made in God’s image, what is wrong with treating some people as if they matter less?",
+          "jordynAnswer": "Their worth comes from the God who made them in his image (Genesis 1:26–27), not from how useful, likeable, or impressive they seem to us. To treat someone as less is to forget who made them.",
+          "action": "Name one person you will treat today as someone made in God’s image — especially someone easy to rush past.",
+          "prayer": "Father, thank you that you made us in your image. Help us see every person that way today. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 1:26–27, NIV",
+          "teach": "In the beginning, God made mankind on purpose, in his image and likeness — male and female. That is why every person has God-given dignity. This week we will learn what that means for how we love our neighbor.",
+          "enochActivity": "Point to your own face in a mirror, then to a family member, and say, “God made us in his image!”",
+          "elijah2": "In Genesis 1:26, what job did God give the people he made in his image?",
+          "elijahAnswer2": "To “rule over” the fish, birds, livestock, wild animals, and creatures that move along the ground — to care for his world (Genesis 1:26).",
+          "jordyn2": "Week 1 taught that God made you in his image. This week asks how that same truth should shape the way you treat everyone else. What is the difference?",
+          "jordynAnswer2": "It is not only about my own worth. It is about my neighbor’s worth too. If God made them in his image, I am not free to ignore, mock, or rank them as if they were less (Genesis 1:26–27).",
+          "passageText": "26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.” 27 So God created mankind in his own image, in the image of God he created them; male and female he created them."
+        },
+        {
+          "id": "w18-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Jesus names two great commands: love God, and love your neighbor as yourself.",
+          "verse": "And the second is like it: ‘Love your neighbor as yourself.’",
+          "verseCite": "Matthew 22:39, NIV",
+          "enoch": "Hold up one finger and say, “Love God!” Hold up two fingers and say, “Love my neighbor!”",
+          "elijah": "In Matthew 22:37–38, what does Jesus call the first and greatest commandment?",
+          "elijahAnswer": "“Love the Lord your God with all your heart and with all your soul and with all your mind.” That is the first and greatest commandment.",
+          "jordyn": "Jesus says the second command is “like” the first: “Love your neighbor as yourself.” How is loving your neighbor connected to loving God, not a separate leftover rule?",
+          "jordynAnswer": "The neighbor is made in God’s image (Genesis 1:27). To love the Lord with all your heart, and then treat his image-bearers as if they do not matter, is not whole love. The second command is like the first because the people we love belong to the God we love.",
+          "action": "Play the two-finger game once at a meal: a grown-up names a moment from the day, and everyone holds up one finger (love God) or two (love neighbor) and says how they could do it.",
+          "prayer": "Lord, help us love you with all our heart, and love our neighbor as ourselves. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 22:37–39, NIV",
+          "teach": "Jesus was asked about the greatest commandment. He did not give only one. Love the Lord your God with all your heart, soul, and mind — that is first. And the second is like it: love your neighbor as yourself. Both belong together.",
+          "enochActivity": "Practice the game: a grown-up says “Love God” or “Love your neighbor,” and you hold up one finger or two and smile.",
+          "elijah2": "In Matthew 22:39, whom are we told to love as ourselves?",
+          "elijahAnswer2": "“Your neighbor.” “And the second is like it: ‘Love your neighbor as yourself.’”",
+          "jordyn2": "What is one concrete way “love your neighbor as yourself” could look in your house or at school tomorrow, not only as a phrase you can recite?",
+          "jordynAnswer2": "Answers will vary: sharing, including someone left out, speaking kindly, helping without being asked. The command is not only words. It is how you treat a real person made in God’s image.",
+          "passageText": "37 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ 38 This is the first and greatest commandment. 39 And the second is like it: ‘Love your neighbor as yourself.’"
+        },
+        {
+          "id": "w18-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus tells of a Samaritan who stopped to help. The neighbor is the one who shows mercy.",
+          "verse": "The expert in the law replied, “The one who had mercy on him.” Jesus told him, “Go and do likewise.”",
+          "verseCite": "Luke 10:37, NIV",
+          "enoch": "Act out stopping to help: kneel, pretend to bandage, and say, “I can help.”",
+          "elijah": "In Luke 10:31–32, what did the priest and the Levite do when they saw the hurt man?",
+          "elijahAnswer": "They “passed by on the other side.” They saw him and did not stop.",
+          "jordyn": "The expert asked, “And who is my neighbor?” Jesus answers with a story, then asks who was a neighbor to the hurt man. How does that change the question?",
+          "jordynAnswer": "The man wanted a list of who counts. Jesus asks who became a neighbor by showing mercy (Luke 10:29, 36–37). The question is not “Whom can I leave out?” It is “Will I go and do likewise?”",
+          "action": "Do one concrete act of mercy today for someone who needs help, even a small one, without waiting to be asked.",
+          "prayer": "Jesus, thank you for showing us what a neighbor looks like. Make us people who stop and have mercy. In your name, Amen.",
+          "passageCite": "Luke 10:25–37, NIV",
+          "teach": "A man was beaten and left hurt on the road. A priest and a Levite passed by on the other side. A Samaritan took pity, bandaged his wounds, and paid for his care. Jesus asked who was a neighbor to the man. “The one who had mercy on him.” Then he said, “Go and do likewise.”",
+          "enochActivity": "With a grown-up, help someone in the house in a small way (a toy put away, a hug, a drink of water) and say, “Go and do likewise.”",
+          "elijah2": "In Luke 10:33–34, what did the Samaritan do when he saw the hurt man?",
+          "elijahAnswer2": "He “took pity on him.” He went to him, bandaged his wounds, pouring on oil and wine, put him on his own donkey, brought him to an inn, and took care of him.",
+          "jordyn2": "Why does it matter that the one who had mercy was a Samaritan, not the priest or the Levite?",
+          "jordynAnswer2": "The hearers did not expect a Samaritan to be the example. Jesus will not let us limit “neighbor” to our own people or to impressive religious people. Mercy can come from the one we might pass by — and we are called to show that mercy ourselves (Luke 10:33–37).",
+          "passageText": "25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?” 26 “What is written in the Law?” he replied. “How do you read it?” 27 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’” 28 “You have answered correctly,” Jesus replied. “Do this and you will live.” 29 But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?” 30 In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. 31 A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. 32 So too, a Levite, when he came to the place and saw him, passed by on the other side. 33 But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. 34 He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. 35 The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’ 36 “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” 37 The expert in the law replied, “The one who had mercy on him.” Jesus told him, “Go and do likewise.”"
+        },
+        {
+          "id": "w18-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Believers in Jesus must not show favoritism. The royal law is to love your neighbor as yourself.",
+          "verse": "My brothers and sisters, believers in our glorious Lord Jesus Christ must not show favoritism.",
+          "verseCite": "James 2:1, NIV",
+          "enoch": "Practice giving the same kind welcome to two toys or two chairs: no “best seat” for only one. Say, “No favorites!”",
+          "elijah": "In James 2:2–3, how is the man in fine clothes treated differently from the poor man?",
+          "elijahAnswer": "The man in fine clothes is given “a good seat.” The poor man is told, “You stand there” or “Sit on the floor by my feet.”",
+          "jordyn": "James says if you show favoritism you sin, even if you can recite “Love your neighbor as yourself.” Why is the royal law broken by a seating chart?",
+          "jordynAnswer": "The royal law loves the neighbor as yourself (James 2:8–9). Favoritism honors the impressive and dishonors the poor. That is not love. It is judging with evil thoughts (James 2:4).",
+          "action": "Challenge: at school, church, or home, honor someone who is usually overlooked. Do not give the “good seat” only to the impressive person.",
+          "prayer": "Father, keep us from favoritism. Help us love our neighbor as ourselves, including the person who is easy to ignore. In Jesus’ name, Amen.",
+          "passageCite": "James 2:1–9, NIV",
+          "teach": "James is plain: believers in our glorious Lord Jesus Christ must not show favoritism. A good seat for fine clothes, and the floor for the poor, is not love. “If you really keep the royal law found in Scripture, ‘Love your neighbor as yourself,’ you are doing right. But if you show favoritism, you sin.”",
+          "enochActivity": "When you sit down to a meal, help a grown-up welcome everyone the same way: a smile and a kind word for each person.",
+          "elijah2": "In James 2:8–9, what happens if you show favoritism?",
+          "elijahAnswer2": "“If you show favoritism, you sin and are convicted by the law as lawbreakers.” The royal law is “Love your neighbor as yourself.”",
+          "jordyn2": "Has not God chosen those who are poor in the eyes of the world to be rich in faith (James 2:5)? How should that change whose welcome you work hardest to give?",
+          "jordynAnswer2": "God’s welcome does not follow fine clothes. If anything, James warns that dishonoring the poor is a serious wrong (James 2:5–6). Work hardest to honor the person who might be left standing.",
+          "passageText": "1 My brothers and sisters, believers in our glorious Lord Jesus Christ must not show favoritism. 2 Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in filthy old clothes also comes in. 3 If you show special attention to the man wearing fine clothes and say, “Here’s a good seat for you,” but say to the poor man, “You stand there” or “Sit on the floor by my feet,” 4 have you not discriminated among yourselves and become judges with evil thoughts? 5 Listen, my dear brothers and sisters: Has not God chosen those who are poor in the eyes of the world to be rich in faith and to inherit the kingdom he promised those who love him? 6 But you have dishonored the poor. Is it not the rich who are exploiting you? Are they not the ones who are dragging you into court? 7 Are they not the ones who are blaspheming the noble name of him to whom you belong? 8 If you really keep the royal law found in Scripture, “Love your neighbor as yourself,” you are doing right. 9 But if you show favoritism, you sin and are convicted by the law as lawbreakers."
+        },
+        {
+          "id": "w18-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We love one another because love comes from God. He loved us first, and sent his Son.",
+          "verse": "Dear friends, since God so loved us, we also ought to love one another.",
+          "verseCite": "1 John 4:11, NIV",
+          "enoch": "Fold your hands and say, “God loves us. Help me love too.”",
+          "elijah": "In 1 John 4:8, why does the one who does not love not know God?",
+          "elijahAnswer": "“Because God is love.” “Whoever does not love does not know God, because God is love.”",
+          "jordyn": "1 John 4:10 says, “This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.” How does that keep “love your neighbor” from becoming a way we try to earn God’s love?",
+          "jordynAnswer": "Love starts with God, not with us. He loved us and sent his Son. We love one another because he so loved us (1 John 4:10–11), not in order to get him to love us.",
+          "action": "Pray for one person who is hard to love, and ask God to help you show them kindness today.",
+          "prayer": "Father, you are love. You loved us and sent your Son. Teach us to love one another, so that your love is made complete in us. In Jesus’ name, Amen.",
+          "passageCite": "1 John 4:7–12, NIV",
+          "teach": "Love comes from God. “Everyone who loves has been born of God and knows God.” “God is love.” He showed his love by sending his Son. “Dear friends, since God so loved us, we also ought to love one another.” We have not seen God, but if we love one another, God lives in us.",
+          "enochActivity": "Give someone a hug or a kind word, then pray, “Thank you, God, for loving us.”",
+          "elijah2": "In 1 John 4:9–10, how did God show his love among us?",
+          "elijahAnswer2": "“He sent his one and only Son into the world that we might live through him.” “He loved us and sent his Son as an atoning sacrifice for our sins.”",
+          "jordyn2": "Verse 12 says, “No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.” What does loving a real neighbor have to do with knowing the God we cannot see?",
+          "jordynAnswer2": "We cannot see God, but we can love the people made in his image. When we love one another, John says God lives in us and his love is made complete in us (1 John 4:12). Neighbor-love is not a side job. It is how his love shows.",
+          "passageText": "7 Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God. 8 Whoever does not love does not know God, because God is love. 9 This is how God showed his love among us: He sent his one and only Son into the world that we might live through him. 10 This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. 11 Dear friends, since God so loved us, we also ought to love one another. 12 No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
+        },
+        {
+          "id": "w18-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God made every person in his image. Love your neighbor as yourself. Go and do likewise, without favoritism.",
+          "verse": "So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+          "verseCite": "Genesis 1:27, NIV",
+          "enoch": "Say this week’s line out loud: “God made every person. I can be kind to everyone!”",
+          "elijah": "Can you tell, in your own words, what the Samaritan did — and what Jesus said after the story?",
+          "elijahAnswer": "The Samaritan took pity, helped the hurt man, and took care of him. Jesus said the neighbor was “the one who had mercy on him,” and “Go and do likewise” (Luke 10:33–37).",
+          "jordyn": "How do Genesis 1:27, Luke 10:37, and James 2:8 fit together as one week, not three separate lessons?",
+          "jordynAnswer": "God made every person in his image (Genesis 1:27). Jesus commands us to go and show mercy like a true neighbor (Luke 10:37). James says that same royal law — love your neighbor as yourself — means no favoritism (James 2:8–9). Image, mercy, and fairness are one love.",
+          "action": "Look back on the week: where did you love a neighbor well, and where did you show favoritism or pass by? Tell a grown-up one honest answer, and ask God for help for the week ahead.",
+          "prayer": "Father, thank you for making us in your image. Help our family love you, love our neighbor, show mercy, and refuse favoritism. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 1:27; Luke 10:37; James 2:8, NIV",
+          "teach": "This week we learned that God made every person in his image. Jesus said to love your neighbor as yourself, and he told us to go and do likewise — like the one who had mercy. James said the royal law is that same love, and favoritism is sin. That is enough to live this week.",
+          "enochActivity": "Draw three simple pictures with a grown-up: people God made, a helper stopping to help, and a kind welcome for everyone.",
+          "elijah2": "In James 2:8, what is the royal law found in Scripture?",
+          "elijahAnswer2": "“Love your neighbor as yourself.” If you really keep it, “you are doing right.”",
+          "jordyn2": "Who is one image-bearer you are likely to pass by or rank lower next week, and what would “go and do likewise” look like with that person?",
+          "jordynAnswer2": "Answers will vary. Be specific: a name, a hallway, a lunch table, a younger sibling. Mercy is not a story we only admire. It is a next step with a real person God made in his image.",
+          "passageText": "So God created mankind in his own image, in the image of God he created them; male and female he created them. The expert in the law replied, “The one who had mercy on him.” Jesus told him, “Go and do likewise.” If you really keep the royal law found in Scripture, “Love your neighbor as yourself,” you are doing right."
+        }
+      ],
+      "lessonVerses": [
+        "Genesis 1:26–27",
+        "Luke 10:25–37",
+        "James 2:1–9",
+        "Matthew 22:37–39",
+        "1 John 4:7–12"
+      ]
     },
     {
       "id": "19",
