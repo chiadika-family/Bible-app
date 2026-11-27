@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.119",
+  "version": "2026.11.21.126",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1941,18 +1941,18 @@
       "passages": [
         "Matthew 5:1–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 163,
       "date": "2027-04-13",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Matthew: fulfilling the Law — a righteousness that goes to the heart",
+      "title": "Matthew: fulfilling the Law — a righteousness that goes to the heart",
       "passages": [
         "Matthew 5:17–48"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1963,7 +1963,7 @@
       "passages": [
         "Matthew 6:19–34"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1974,7 +1974,7 @@
       "passages": [
         "Matthew 13:1–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1985,7 +1985,7 @@
       "passages": [
         "Matthew 16:13–28"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1997,7 +1997,7 @@
         "Matthew 27:45–54",
         "Matthew 28:1–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2008,7 +2008,7 @@
       "passages": [
         "Mark 1:1–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

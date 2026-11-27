@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.20",
+  "contentVersion": "2026.11.21.21",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -5615,11 +5615,237 @@
       "planTitle": "Pentecost: the Holy Spirit comes",
       "title": "Pentecost: the Holy Spirit comes",
       "selectLabel": "Week 24 · Pentecost: the Holy Spirit comes",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 2:1–12, 36–41 (NIV)",
-      "bigIdea": "God sent the Holy Spirit, and the church began.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 25 · Peter and John at the temple",
+      "bigIdea": "God sent the Holy Spirit, and the church began.",
+      "scheduleNote": "This is the Week 24 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 2:1–12 out loud, then Acts 2:36–41, then John 14:16–18."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 2:1–12",
+          "text": "1 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them. 5 Now there were staying in Jerusalem God-fearing Jews from every nation under heaven. 6 When they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken. 7 Utterly amazed, they asked: “Aren’t all these who are speaking Galileans? 8 Then how is it that each of us hears them in our native language? 9 Parthians, Medes and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, 10 Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome 11 (both Jews and converts to Judaism); Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!” 12 Amazed and perplexed, they asked one another, “What does this mean?”"
+        },
+        {
+          "cite": "Acts 2:36–41",
+          "text": "36 “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.” 37 When the people heard this, they were cut to the heart and said to Peter and the other apostles, “Brothers, what shall we do?” 38 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit. 39 The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.” 40 With many other words he warned them; and he pleaded with them, “Save yourselves from this corrupt generation.” 41 Those who accepted his message were baptized, and about three thousand were added to their number that day."
+        },
+        {
+          "cite": "John 14:16–18",
+          "text": "16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18 I will not leave you as orphans; I will come to you."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we saw Jesus go back to heaven. A cloud hid him, and two men said he will come again. He told his friends not to leave Jerusalem, but to wait for the gift his Father promised. This week the wait is over. God sends the Holy Spirit, and the church begins in a new way.",
+        "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.",
+        "God-fearing Jews from every nation under heaven were staying in Jerusalem. A crowd came together in bewilderment, because each one heard their own language being spoken. They were amazed: “Aren’t all these who are speaking Galileans?” Yet they heard them declaring the wonders of God in their own tongues. Some asked, “What does this mean?” Some made fun of them. But God was keeping his promise.",
+        "Peter stood up and told them the truth about Jesus. Jesus of Nazareth was handed over, and they put him to death by nailing him to the cross. But God raised him from the dead. “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.” When the people heard this, they were cut to the heart and said, “Brothers, what shall we do?” Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.” Those who accepted his message were baptized, and about three thousand were added to their number that day.",
+        "Jesus had said he would ask the Father, and the Father would give them another advocate to help them and be with them forever. He would not leave them as orphans. The gift came, the church began, and the friends became witnesses, just as Jesus had said. Next week we will see Peter and John at the temple, bold to heal and bold to say that Jesus saves."
+      ],
+      "enochLine": "God sent his Holy Spirit, and the church began!",
+      "enochActivities": [
+        "Activity: A soft wind. Help a grown-up fan a little breeze and say: God sent his Holy Spirit!",
+        "Activity: The family grew. Hold up three fingers, then open your hands wide and say: Many people believed, and the church began!"
+      ],
+      "elijahQuestions": [
+        "In Acts 2:2–3, what did they hear, and what did they see, when the day of Pentecost came?",
+        "In Acts 2:4, what happened when they were filled with the Holy Spirit?",
+        "In Acts 2:36, what does Peter say God has made this Jesus, whom they crucified?",
+        "In Acts 2:41, what happened to those who accepted Peter’s message?"
+      ],
+      "elijahAnswers": [
+        "A sound like the blowing of a violent wind came from heaven and filled the house, and they saw what seemed to be tongues of fire that came to rest on each of them (Acts 2:2–3).",
+        "They began to speak in other tongues as the Spirit enabled them (Acts 2:4).",
+        "“God has made this Jesus, whom you crucified, both Lord and Messiah.” (Acts 2:36).",
+        "They were baptized, and about three thousand were added to their number that day (Acts 2:41)."
+      ],
+      "jordynQuestions": [
+        "People from many nations heard the wonders of God in their own languages (Acts 2:6–11). What does that tell you about who this good news is for?",
+        "When the people were cut to the heart, they asked, “Brothers, what shall we do?” (Acts 2:37). What does Peter tell them to do, and what gift does he promise?",
+        "Jesus had told them to wait for the Father’s promise, and he said the Father would give them another advocate (Acts 1:4; John 14:16). How does Pentecost show that Jesus keeps his word?"
+      ],
+      "jordynAnswers": [
+        "The good news is not only for one town or one language. God wanted people from every nation under heaven to hear the wonders of God in words they could understand.",
+        "“Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.” (Acts 2:38).",
+        "They waited, as he said, and the gift came. The Spirit was poured out, they became witnesses, and about three thousand were added. Jesus did not leave them as orphans. He kept his promise."
+      ],
+      "jordynApplication": "God sent the Holy Spirit, and the church began (Acts 2:4, 41). This week, thank Jesus that he kept his promise, and ask the Spirit to help you be a witness where you are. Next week we will see Peter and John at the temple, bold to say that Jesus saves.",
+      "applicationCheck": "Ask her later in the week whether she remembered that God has given his Spirit to his people — when she prayed, told the truth, or belonged with the church family. If it is fitting, thank him together that the church began by his gift, not by our power.",
+      "prayer": "Father, thank you that you sent the Holy Spirit, just as Jesus promised. Thank you that Jesus is Lord and Messiah, and that so many believed and were baptized that day. Help us live as your people by your Spirit, and make us ready for next week. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 2:1–12",
+        "Acts 2:36–41",
+        "Acts 2:22–24",
+        "Acts 2:32–33",
+        "Acts 1:8",
+        "John 14:16–18",
+        "Joel 2:28–32"
+      ],
+      "dailies": [
+        {
+          "id": "w24-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The promised Spirit comes with a sound like wind, and what seemed to be tongues of fire.",
+          "verse": "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.",
+          "verseCite": "Acts 2:4, NIV",
+          "enoch": "Fan a little breeze and say: God sent his Holy Spirit!",
+          "elijah": "In Acts 2:1, where were they when the day of Pentecost came?",
+          "elijahAnswer": "They were all together in one place.",
+          "jordyn": "Acts 2:3 says they saw what seemed to be tongues of fire that separated and came to rest on each of them. Why is it important to stay with those words, and not turn the day into a show we invent?",
+          "jordynAnswer": "The Bible tells us what they saw and heard: a sound like a violent wind, and what seemed to be tongues of fire that came to rest on each of them. We receive the story as it is written. The center of the day is that they were filled with the Holy Spirit.",
+          "action": "Read Acts 2:1–4 together, then tell someone: God sent his Holy Spirit, just as Jesus promised.",
+          "prayer": "Father, thank you that the wait was not empty. You sent your Holy Spirit, and you filled your people. Help us love this gift and tell the story as the Bible tells it. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:1–4, NIV",
+          "teach": "When the day of Pentecost came, they were all together in one place. Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them. The gift the Father promised had come.",
+          "enochActivity": "Help a grown-up cup your hands like a small flame, then open them and say: The Holy Spirit came to rest on them.",
+          "elijah2": "In Acts 2:2, what filled the whole house where they were sitting?",
+          "elijahAnswer2": "A sound like the blowing of a violent wind came from heaven and filled the whole house.",
+          "jordyn2": "Last week Jesus told them to wait for the Father’s promise. How does Acts 2:1–4 show that the wait was worth it?",
+          "jordynAnswer2": "They were together, as he had told them, and the Spirit came. They were filled, and the church’s new beginning started with God’s gift, not with their own plan.",
+          "passageText": "1 When the day of Pentecost came, they were all together in one place. 2 Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3 They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4 All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them."
+        },
+        {
+          "id": "w24-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "People from many nations hear the wonders of God in their own languages.",
+          "verse": "we hear them declaring the wonders of God in our own tongues!",
+          "verseCite": "Acts 2:11, NIV",
+          "enoch": "Point to a few places on a map or around the room and say: They heard the wonders of God!",
+          "elijah": "In Acts 2:6, why did the crowd come together in bewilderment?",
+          "elijahAnswer": "Because each one heard their own language being spoken.",
+          "jordyn": "Some were amazed and asked, “What does this mean?” Some made fun of them (Acts 2:12–13). What is a humble way to hear a work of God you do not yet understand?",
+          "jordynAnswer": "The amazed question is better than the joke. The Spirit enabled them to declare the wonders of God so that people from many nations could hear. We ask what it means, and we listen to what God is doing, instead of making fun.",
+          "action": "Play a simple many-places-one-wonder: take turns naming a place or a language you know, then say together, We hear them declaring the wonders of God.",
+          "prayer": "Father, thank you that people from many nations heard the wonders of God in their own languages. Help us honor this gift, and help us tell your wonders clearly too. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:5–12, NIV",
+          "teach": "God-fearing Jews from every nation under heaven were staying in Jerusalem. When they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken. They were amazed that Galileans were declaring the wonders of God in tongues they could understand. This was not a game and not a joke. God was making his wonders known to the nations.",
+          "enochActivity": "Help a grown-up say a simple good-news line, then you say it back: God is wonderful!",
+          "elijah2": "In Acts 2:7–8, what two questions did the amazed people ask?",
+          "elijahAnswer2": "“Aren’t all these who are speaking Galileans?” And, “Then how is it that each of us hears them in our native language?”",
+          "jordyn2": "Why does Acts 2:11 matter as much as the wind and the fire — that they heard them declaring the wonders of God?",
+          "jordynAnswer2": "The Spirit’s gift had a purpose: the wonders of God were being declared in words people could understand. The sign points to the news, not to itself.",
+          "passageText": "5 Now there were staying in Jerusalem God-fearing Jews from every nation under heaven. 6 When they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken. 7 Utterly amazed, they asked: “Aren’t all these who are speaking Galileans? 8 Then how is it that each of us hears them in our native language? 9 Parthians, Medes and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia, 10 Phrygia and Pamphylia, Egypt and the parts of Libya near Cyrene; visitors from Rome 11 (both Jews and converts to Judaism); Cretans and Arabs—we hear them declaring the wonders of God in our own tongues!” 12 Amazed and perplexed, they asked one another, “What does this mean?”"
+        },
+        {
+          "id": "w24-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Peter preaches Jesus: crucified, raised, and made Lord and Messiah.",
+          "verse": "God has made this Jesus, whom you crucified, both Lord and Messiah.",
+          "verseCite": "Acts 2:36, NIV",
+          "enoch": "Tap your heart gently and say: Jesus is Lord and Messiah!",
+          "elijah": "In Acts 2:23–24, what did wicked men do to Jesus, and what did God do?",
+          "elijahAnswer": "They put him to death by nailing him to the cross, but God raised him from the dead, freeing him from the agony of death.",
+          "jordyn": "Peter does not leave the crowd with wind and fire alone. He says, “God has made this Jesus, whom you crucified, both Lord and Messiah.” Why must Pentecost be about Jesus, not only about a powerful day?",
+          "jordynAnswer": "The Spirit was poured out because Jesus is exalted (Acts 2:33). The meaning of the day is that this Jesus is Lord and Messiah. The gift points to him.",
+          "action": "Read Acts 2:22–24 and 2:32–36, then tell someone: God has made Jesus both Lord and Messiah.",
+          "prayer": "Father, thank you that you raised Jesus from the dead, and that he is both Lord and Messiah. Cut our hearts with this good news, and help us honor him. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:22–24, 32–36, NIV",
+          "teach": "Peter stood up and told the crowd about Jesus of Nazareth. He was handed over by God’s deliberate plan, and they put him to death by nailing him to the cross. But God raised him from the dead, and they were all witnesses of it. Exalted to the right hand of God, Jesus has received the promised Holy Spirit and has poured out what they now see and hear. “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.”",
+          "enochActivity": "Help a grown-up make a small cross with two fingers, then raise a hand and say: God raised Jesus, and he is Lord!",
+          "elijah2": "In Acts 2:32, what does Peter say they all are?",
+          "elijahAnswer2": "“God has raised this Jesus to life, and we are all witnesses of it.”",
+          "jordyn2": "Acts 2:33 says Jesus has received the promised Holy Spirit and has poured out what they now see and hear. How does that connect last week’s wait with this week’s gift?",
+          "jordynAnswer2": "The promise came from the Father through the risen Jesus. He went to heaven, and from there he poured out the Spirit. Pentecost is Jesus keeping his word.",
+          "passageText": "22 “Fellow Israelites, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders and signs, which God did among you through him, as you yourselves know. 23 This man was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross. 24 But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him. 32 God has raised this Jesus to life, and we are all witnesses of it. 33 Exalted to the right hand of God, he has received from the Father the promised Holy Spirit and has poured out what you now see and hear. 36 “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.”"
+        },
+        {
+          "id": "w24-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The people are cut to the heart, and about three thousand are added that day.",
+          "verse": "Those who accepted his message were baptized, and about three thousand were added to their number that day.",
+          "verseCite": "Acts 2:41, NIV",
+          "enoch": "Hold up three fingers, then open your hands and say: The church family grew!",
+          "elijah": "In Acts 2:37, what did the people ask when they were cut to the heart?",
+          "elijahAnswer": "They said to Peter and the other apostles, “Brothers, what shall we do?”",
+          "jordyn": "Peter says, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.” What is one way that answer still invites you today, even if you were baptized long ago, or are still learning what it means?",
+          "jordynAnswer": "The first word is repent: turn to Jesus as Lord and Messiah. Baptism and forgiveness belong to his name, and the Spirit is God’s gift. If you already belong to him, keep turning to him. If you are still learning, this is the way in. The church began with people who accepted this message.",
+          "action": "Tell someone: About three thousand were added that day. Then ask the Lord to make you ready to turn to Jesus and to belong with his people.",
+          "prayer": "Jesus, you are Lord and Messiah. Thank you for forgiveness and for the gift of the Holy Spirit. Help us repent, belong to you, and welcome others into your family. In your name, Amen.",
+          "passageCite": "Acts 2:37–41, NIV",
+          "teach": "When the people heard that Jesus is Lord and Messiah, they were cut to the heart and asked, “Brothers, what shall we do?” Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.” The promise is for them, for their children, and for all who are far off. Those who accepted his message were baptized, and about three thousand were added to their number that day. The church began.",
+          "enochActivity": "Help a grown-up welcome you with a smile or a hug and say: You can belong in God’s family.",
+          "elijah2": "In Acts 2:38, what two things does Peter tell them to do, and what gift will they receive?",
+          "elijahAnswer2": "Repent and be baptized in the name of Jesus Christ for the forgiveness of their sins, and they will receive the gift of the Holy Spirit.",
+          "jordyn2": "The promise, Peter says, is “for you and your children and for all who are far off” (Acts 2:39). How does that make room for your family, and for people who feel far away?",
+          "jordynAnswer2": "The gift is not locked to that one crowd in Jerusalem. God calls people near and far, parents and children. The church that began that day was already open wider than they could see.",
+          "passageText": "37 When the people heard this, they were cut to the heart and said to Peter and the other apostles, “Brothers, what shall we do?” 38 Peter replied, “Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit. 39 The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.” 40 With many other words he warned them; and he pleaded with them, “Save yourselves from this corrupt generation.” 41 Those who accepted his message were baptized, and about three thousand were added to their number that day."
+        },
+        {
+          "id": "w24-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Jesus promised another advocate, and the Spirit makes them witnesses.",
+          "verse": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.",
+          "verseCite": "Acts 1:8, NIV",
+          "enoch": "Fold your hands and say: Jesus, thank you for sending the Helper.",
+          "elijah": "In John 14:16, what did Jesus say he would ask the Father to give them?",
+          "elijahAnswer": "Another advocate to help them and be with them forever.",
+          "jordyn": "Jesus said, “I will not leave you as orphans; I will come to you” (John 14:18). How does that promise comfort you, now that he has gone back to heaven and the Spirit has come?",
+          "jordynAnswer": "He is not absent in the way an orphan is left alone. The Father gave another advocate to be with them forever, and the Spirit has come. Jesus keeps his people, and he makes them witnesses.",
+          "action": "Pray together: thank Jesus that he did not leave us as orphans, and ask the Spirit to help you be a witness this week.",
+          "prayer": "Jesus, thank you that you asked the Father, and he gave another advocate to be with us forever. Thank you that you have not left us as orphans. Give us power to be your witnesses, here and to the ends of the earth. In your name, Amen.",
+          "passageCite": "John 14:16–18; Acts 1:8, NIV",
+          "teach": "Jesus had said he would ask the Father, and the Father would give them another advocate to help them and be with them forever. He would not leave them as orphans. He also said they would receive power when the Holy Spirit came on them, and they would be his witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth. Pentecost is that promise kept. The Helper has come, and the witnesses begin.",
+          "enochActivity": "Help a grown-up sit still for a short prayer and say: You did not leave us as orphans.",
+          "elijah2": "In John 14:16–17, how long will the advocate be with them, and why can the world not accept him?",
+          "elijahAnswer2": "He will be with them forever. “The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.”",
+          "jordyn2": "Acts 1:8 names Jerusalem, Judea and Samaria, and the ends of the earth. How does Acts 2 already begin to keep that word?",
+          "jordynAnswer2": "People from every nation under heaven were in Jerusalem and heard the wonders of God in their own languages. The witnesses start in Jerusalem, and the nations are already listening. The road will run farther still.",
+          "passageText": "16 And I will ask the Father, and he will give you another advocate to help you and be with you forever— 17 the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you. 18 I will not leave you as orphans; I will come to you. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”"
+        },
+        {
+          "id": "w24-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God sent the Holy Spirit, the church began, and next we will see Peter and John at the temple.",
+          "verse": "Those who accepted his message were baptized, and about three thousand were added to their number that day.",
+          "verseCite": "Acts 2:41, NIV",
+          "enoch": "Clap once and say: God sent his Holy Spirit, and the church began!",
+          "elijah": "In Acts 2:4 and 2:41, what two beginnings do we see on the day of Pentecost?",
+          "elijahAnswer": "They were filled with the Holy Spirit, and about three thousand were added to their number that day.",
+          "jordyn": "This week the wait ended, the Spirit came, Peter preached Jesus, and thousands were added. How does that get your heart ready for next week, when Peter and John go to the temple?",
+          "jordynAnswer": "The same Peter who once needed to wait is now filled with the Spirit. Next week he and John will be at the temple, bold to heal and bold to say that Jesus saves. The gift that began the church will make them brave to speak.",
+          "action": "Tell someone the week’s big idea: God sent the Holy Spirit, and the church began. Then thank him that Jesus is Lord and Messiah.",
+          "prayer": "Father, thank you that you sent the Holy Spirit and that the church began. Thank you that Jesus is Lord and Messiah, and that you added so many to their number that day. Get our hearts ready for next week, when Peter and John are bold at the temple. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:4; Acts 2:36; Acts 2:41; Acts 1:8, NIV",
+          "teach": "This week we learned that God sent the Holy Spirit, and the church began. They were all together, and a sound like a violent wind filled the house. What seemed to be tongues of fire came to rest on each of them, and they were filled with the Holy Spirit. People from many nations heard the wonders of God in their own languages. Peter preached that God has made Jesus, whom they crucified, both Lord and Messiah. About three thousand were added that day. Jesus had promised another advocate, and he had said they would be his witnesses. Next week we will see Peter and John at the temple, bold to say that Jesus heals and saves.",
+          "enochActivity": "Help a grown-up look toward the door and say: Next week Peter and John will go to the temple, and Jesus saves!",
+          "elijah2": "In John 14:16 and Acts 1:8, what two promises of Jesus were kept at Pentecost?",
+          "elijahAnswer2": "The Father gave another advocate to be with them, and they received power to be Jesus’ witnesses.",
+          "jordyn2": "Why is it fitting to say the church began, if Jesus already had friends before Pentecost?",
+          "jordynAnswer2": "His friends were already his people, but on this day the promised Spirit was poured out, the wonders of God were declared to the nations, and thousands were added. The church began in a new way, as Jesus had told them to wait and see.",
+          "passageText": "All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them. “Therefore let all Israel be assured of this: God has made this Jesus, whom you crucified, both Lord and Messiah.” Those who accepted his message were baptized, and about three thousand were added to their number that day. But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”"
+        }
+      ]
     },
     {
       "id": "25",
