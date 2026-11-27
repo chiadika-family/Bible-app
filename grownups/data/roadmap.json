@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.224",
+  "version": "2026.11.21.231",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3156,19 +3156,19 @@
         "Ephesians 5:21",
         "Philippians 2:1–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 268,
       "date": "2027-07-27",
       "phase": "marriage",
-      "title": "Sunday: connect with this week's Grace Life sermon — The marriage bed: holiness and joy",
+      "title": "The marriage bed: holiness and joy",
       "passages": [
         "Hebrews 13:4",
         "Proverbs 5:15–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3180,7 +3180,7 @@
         "1 Corinthians 7:1–5",
         "Song of Songs 4:9–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3192,7 +3192,7 @@
         "Song of Songs 7:10–13",
         "1 Thessalonians 4:3–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3203,7 +3203,7 @@
       "passages": [
         "Song of Songs 8:6–7"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3215,7 +3215,7 @@
         "James 1:19–20",
         "Proverbs 18:13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3227,7 +3227,7 @@
         "Proverbs 15:1",
         "Ephesians 4:29"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

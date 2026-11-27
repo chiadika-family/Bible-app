@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.35",
+  "contentVersion": "2026.11.21.36",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -9180,11 +9180,232 @@
       "planTitle": "The fruit of the Spirit",
       "title": "The fruit of the Spirit",
       "selectLabel": "Week 39 · The fruit of the Spirit",
-      "ready": false,
+      "ready": true,
       "passage": "Galatians 5:22–23 (NIV)",
-      "bigIdea": "The Holy Spirit grows love, joy, peace, and more good fruit in us.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 40 · The armor of God",
+      "bigIdea": "The Holy Spirit grows love, joy, peace, and more good fruit in us.",
+      "scheduleNote": "This is the Week 39 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Galatians 5:22 out loud, then Galatians 5:23, then Galatians 5:22–23 together."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Galatians 5:22",
+          "text": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,"
+        },
+        {
+          "cite": "Galatians 5:23",
+          "text": "23 gentleness and self-control. Against such things there is no law."
+        },
+        {
+          "cite": "Galatians 5:22–23",
+          "text": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we heard that even in Rome, Paul kept telling people about Jesus. He also wrote letters to churches, so they would know how to live as people who belong to Jesus. In a letter to the churches in Galatia, Paul names the good life the Holy Spirit grows in us. He calls it fruit, because it is grown, not glued on. We do not make a game of pretending to stick fruit on a tree. The Spirit grows this fruit in people who belong to Jesus.",
+        "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. Love, joy, and peace come first in the list, and then more good fruit: forbearance, which is a patient, steady way of treating people; kindness; goodness; faithfulness; gentleness; and self-control. The Holy Spirit grows all of this in us.",
+        "Against such things there is no law means this fruit is not a bad thing God has to stop. It is the good life he wants to grow. We cannot grow it only by trying hard and frowning. We ask the Spirit to grow it, and we practice love, joy, and peace in ordinary days at home.",
+        "Next week we will hear that God gives us his armor so we can stand strong in him."
+      ],
+      "enochLine": "The Holy Spirit grows love, joy, and peace in us!",
+      "enochActivities": [
+        "Activity: Name the fruit. Hold up one finger at a time and say: Love! Joy! Peace!",
+        "Activity: Growing, not glued. Open both hands like a growing plant and say: The Spirit grows good fruit in us!"
+      ],
+      "elijahQuestions": [
+        "In Galatians 5:22, what does Paul call this good life, and which fruit does he name first?",
+        "In Galatians 5:22–23, can you name all the fruit of the Spirit in the order the verses give them?",
+        "In Galatians 5:23, what two fruit come at the end of the list, and what does Paul say about such things?",
+        "What is this week’s big idea, and what does it mean that the Spirit grows fruit in us?"
+      ],
+      "elijahAnswers": [
+        "He calls it the fruit of the Spirit. He names love, joy, and peace first, and then forbearance, kindness, goodness, and faithfulness (Galatians 5:22).",
+        "The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control (Galatians 5:22–23).",
+        "Gentleness and self-control. Against such things there is no law (Galatians 5:23).",
+        "The Holy Spirit grows love, joy, peace, and more good fruit in us. Fruit is grown, not glued on. The Spirit grows this good life in people who belong to Jesus (Galatians 5:22–23)."
+      ],
+      "jordynQuestions": [
+        "Paul calls this the fruit of the Spirit, not the fruit of our willpower (Galatians 5:22). What does that change about how you try to be more loving, joyful, or peaceful?",
+        "The list ends with gentleness and self-control, and then says, Against such things there is no law (Galatians 5:23). What do you think Paul wants you to notice about this kind of life?",
+        "The same Lord who kept the good news going in Rome last week now names the fruit the Spirit grows in us (Galatians 5:22–23). Next week we will hear about the armor of God. How might grown fruit and God-given armor belong together in a life that belongs to Jesus?"
+      ],
+      "jordynAnswers": [
+        "Trying hard still matters, but it is not the root. The Spirit grows the fruit. We ask him to work in us, and we practice love and peace as people who are being grown, not as people who can manufacture the fruit alone.",
+        "This fruit is not a lawless life, and it is not a life God has to restrain. There is no law against love, joy, peace, and the rest. God is not trying to hold this fruit back. He wants it to grow.",
+        "The good news that kept going in Rome is the same good news that brings the Spirit into our ordinary days. Fruit is the life he grows in us. Armor, next week, is how he helps us stand. Both come from God, not from showing off."
+      ],
+      "jordynApplication": "The Holy Spirit grows love, joy, peace, and more good fruit in us (Galatians 5:22–23). This week, choose one fruit from the list and practice it at home in a real moment—love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness, or self-control. Next week we will hear about the armor of God.",
+      "applicationCheck": "Ask her later in the week which fruit she practiced, or whether she remembered that the Spirit grows this fruit in us. If it is fitting, thank God together for one fruit you have seen in your house, and ask him to keep growing it.",
+      "prayer": "Father, thank you that the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Thank you that against such things there is no law. Holy Spirit, grow this good fruit in us, at home and everywhere we go. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Galatians 5:22",
+        "Galatians 5:23",
+        "Galatians 5:22–23"
+      ],
+      "dailies": [
+        {
+          "id": "w39-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The fruit of the Spirit begins with love, joy, and peace.",
+          "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,",
+          "verseCite": "Galatians 5:22, NIV",
+          "enoch": "Hold up three fingers and say: Love! Joy! Peace!",
+          "elijah": "In Galatians 5:22, what does Paul call this good life, and which three fruit does he name first?",
+          "elijahAnswer": "He calls it the fruit of the Spirit, and he names love, joy, and peace first.",
+          "jordyn": "Why might it matter that love, joy, and peace come first in the list (Galatians 5:22)?",
+          "jordynAnswer": "The Spirit’s work in us starts with a heart that loves, a joy that is real, and a peace that can settle a house. The other fruit grows with these, not instead of them.",
+          "action": "Read Galatians 5:22 out loud. Then thank God for love, joy, and peace, and ask the Spirit to grow them in your house.",
+          "prayer": "Father, thank you that the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness. Grow love, joy, and peace in us today. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:22, NIV",
+          "teach": "Paul writes, But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness. Today we listen first to love, joy, and peace. This fruit is grown by the Holy Spirit, not glued on by us.",
+          "enochActivity": "Smile, take a slow breath, and say: Love, joy, peace—the Spirit grows these in me!",
+          "elijah2": "In Galatians 5:22, what word does Paul use for this whole list, fruit or works?",
+          "elijahAnswer2": "Fruit. He calls it the fruit of the Spirit.",
+          "jordyn2": "What is the difference between fruit that is grown and good behavior that is only acted out (Galatians 5:22)?",
+          "jordynAnswer2": "Fruit comes from life inside the tree. The Spirit grows love, joy, and peace in us. We still practice them, but we do not pretend they started with us alone.",
+          "passageText": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,"
+        },
+        {
+          "id": "w39-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "We name the fruit of the Spirit, because the Spirit grows this good life in us.",
+          "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
+          "verseCite": "Galatians 5:22–23, NIV",
+          "enoch": "Hold up one finger at a time and try to name love, joy, and peace, then as many more as you can!",
+          "elijah": "In Galatians 5:22–23, how many fruit does Paul name, and can you say them in order?",
+          "elijahAnswer": "He names nine: love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+          "jordyn": "The list is called fruit, not fruits (Galatians 5:22). What might that tell you about the life the Spirit grows?",
+          "jordynAnswer": "It is one life with many signs, not nine separate projects. The same Spirit grows love and self-control, joy and gentleness, together.",
+          "action": "Play Name the fruit. Take turns saying one name from the list. A grown-up can help with forbearance, kindness, goodness, faithfulness, gentleness, and self-control. Do not throw food, and do not make a joke of the names. This is a glad way to learn the Spirit’s fruit.",
+          "prayer": "Father, thank you for every fruit you name: love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Help us remember them, and grow them in us. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:22–23, NIV",
+          "teach": "The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. Today we name them with gladness, because the Spirit grows this fruit in us.",
+          "enochActivity": "Open your hands like a growing plant and say each name you remember: Love, joy, peace!",
+          "elijah2": "In Galatians 5:23, what does Paul say against such things?",
+          "elijahAnswer2": "Against such things there is no law.",
+          "jordyn2": "How can naming the fruit be a kind of practice, not only a memory game (Galatians 5:22–23)?",
+          "jordynAnswer2": "When we name love or gentleness, we remember what the Spirit is growing, and we can watch for a real chance to live it at home.",
+          "passageText": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law."
+        },
+        {
+          "id": "w39-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The same fruit includes forbearance, kindness, goodness, and faithfulness.",
+          "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,",
+          "verseCite": "Galatians 5:22, NIV",
+          "enoch": "Hold up four fingers and say: Forbearance, kindness, goodness, faithfulness!",
+          "elijah": "In Galatians 5:22, after love, joy, and peace, which four fruit does Paul name?",
+          "elijahAnswer": "Forbearance, kindness, goodness, and faithfulness.",
+          "jordyn": "Forbearance is a patient, steady way of treating people, and faithfulness keeps going (Galatians 5:22). Why might a family need both?",
+          "jordynAnswer": "Kindness and goodness show care in the moment. Forbearance and faithfulness keep that care from giving up when a day is long. The Spirit grows all of them.",
+          "action": "Read Galatians 5:22 out loud again, and listen for forbearance, kindness, goodness, and faithfulness. Then thank God for one of those four you want him to grow in you.",
+          "prayer": "Father, thank you that the fruit of the Spirit also includes forbearance, kindness, goodness, and faithfulness. Grow a patient, kind, good, and faithful heart in us. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:22, NIV",
+          "teach": "The fruit of the Spirit is not only love, joy, and peace. Paul also names forbearance, kindness, goodness, and faithfulness. Forbearance means we do not quickly give up on people. Faithfulness means we keep our word. Kindness and goodness make a house gentle and safe.",
+          "enochActivity": "Sit still for a count of three, then say: Forbearance! The Spirit can help me be patient!",
+          "elijah2": "In Galatians 5:22, which fruit sounds most like keeping your word?",
+          "elijahAnswer2": "Faithfulness.",
+          "jordyn2": "How is kindness different from only being nice when it is easy (Galatians 5:22)?",
+          "jordynAnswer2": "Kindness and goodness are fruit the Spirit grows, even on a hard day. They are not a thin politeness we put on and take off.",
+          "passageText": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,"
+        },
+        {
+          "id": "w39-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The list ends with gentleness and self-control, and against such things there is no law.",
+          "verse": "gentleness and self-control. Against such things there is no law.",
+          "verseCite": "Galatians 5:23, NIV",
+          "enoch": "Place a hand over your heart and say: Gentleness and self-control!",
+          "elijah": "In Galatians 5:23, which two fruit end the list, and what does Paul say about such things?",
+          "elijahAnswer": "Gentleness and self-control. Against such things there is no law.",
+          "jordyn": "Self-control is not only about food or toys; it is a Spirit-grown way of holding yourself (Galatians 5:23). What is one ordinary moment at home where gentleness or self-control would be good fruit?",
+          "jordynAnswer": "Answers may name a sharp word, a snatched turn, or a quick temper. The point is that the Spirit grows a different way: gentle, and able to wait or stop.",
+          "action": "Today’s challenge: Practice gentleness or self-control in one real moment—let someone else go first, use a quiet voice, or stop when a grown-up says stop. Then thank God that against such things there is no law.",
+          "prayer": "Father, thank you for gentleness and self-control, and that against such things there is no law. Grow these fruit in us today, in a real moment at home. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:23, NIV",
+          "teach": "The list ends, gentleness and self-control. Against such things there is no law. God is not against this fruit. He wants it to grow. Today we practice one of these in a real moment, and we remember that the Spirit is the one who grows it.",
+          "enochActivity": "Use a quiet voice to say: Gentle words. The Spirit can help me!",
+          "elijah2": "In Galatians 5:23, what short sentence comes right after gentleness and self-control?",
+          "elijahAnswer2": "Against such things there is no law.",
+          "jordyn2": "Why is it good news that there is no law against this fruit (Galatians 5:23)?",
+          "jordynAnswer2": "God is not trying to hold back love, gentleness, or self-control. This is the life he is glad to grow in his people.",
+          "passageText": "23 gentleness and self-control. Against such things there is no law."
+        },
+        {
+          "id": "w39-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God for the fruit of the Spirit, and we ask him to grow it in us.",
+          "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
+          "verseCite": "Galatians 5:22–23, NIV",
+          "enoch": "Fold your hands and say: Holy Spirit, grow your fruit in me!",
+          "elijah": "In Galatians 5:22–23, what do we thank God for when we pray about this fruit?",
+          "elijahAnswer": "We thank him that the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control, and that against such things there is no law.",
+          "jordyn": "If the Spirit grows the fruit, why do we still pray, and not only wait (Galatians 5:22–23)?",
+          "jordynAnswer": "Prayer is how we ask the Spirit to do what we cannot do alone. We thank him for the fruit he names, and we ask him to grow it in ordinary days.",
+          "action": "Pray today’s prayer out loud as a family. Then each person can thank God for one fruit from the list, or ask him to grow that fruit in them.",
+          "prayer": "Father, thank you that the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. Holy Spirit, grow this fruit in our home. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:22–23, NIV",
+          "teach": "Today we pray the list itself. The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. We thank God, and we ask the Spirit to grow this fruit in us.",
+          "enochActivity": "Fold your hands, then open them like a thank-you, and say: Thank you, God, for love, joy, and peace!",
+          "elijah2": "In Galatians 5:22, what three fruit can even the youngest child thank God for by name?",
+          "elijahAnswer2": "Love, joy, and peace.",
+          "jordyn2": "How can a family prayer over this list keep us from treating the fruit as a score we have to earn (Galatians 5:22–23)?",
+          "jordynAnswer2": "We ask, and we thank. That is the language of gift. The Spirit grows the fruit; we receive it and practice it.",
+          "passageText": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law."
+        },
+        {
+          "id": "w39-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The Holy Spirit grows good fruit in us, and next we will hear about the armor of God.",
+          "verse": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.",
+          "verseCite": "Galatians 5:22–23, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, the armor of God!",
+          "elijah": "What is this week’s big idea, and can you name the fruit of the Spirit?",
+          "elijahAnswer": "The Holy Spirit grows love, joy, peace, and more good fruit in us. The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+          "jordyn": "The Spirit grows fruit in us this week, and next week God gives us his armor so we can stand strong in him (Galatians 5:22–23). What stays the same in both weeks?",
+          "jordynAnswer": "Both the fruit and the armor come from God. He grows a good life in us, and he also helps us stand. We do not have to invent either one by ourselves.",
+          "action": "Tell someone the week’s big idea: The Holy Spirit grows love, joy, peace, and more good fruit in us. Then thank God, and look ahead to the armor of God.",
+          "prayer": "Father, thank you that the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Get our hearts ready to hear that you also give us your armor so we can stand strong in you. In Jesus’ name, Amen.",
+          "passageCite": "Galatians 5:22–23, NIV",
+          "teach": "This week we learned that the Holy Spirit grows love, joy, peace, and more good fruit in us. The fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. Next week we will hear that God gives us his armor so we can stand strong in him.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week God gives us his armor!",
+          "elijah2": "In Galatians 5:22–23, what short last line should we remember with the whole list?",
+          "elijahAnswer2": "Against such things there is no law.",
+          "jordyn2": "What stays the same when the story moves from the fruit of the Spirit to the armor of God next week?",
+          "jordynAnswer2": "The Lord who grows good fruit in us is the same Lord who gives us what we need to stand. The life and the armor both come from him.",
+          "passageText": "22 But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, 23 gentleness and self-control. Against such things there is no law."
+        }
+      ]
     },
     {
       "id": "40",
