@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.203",
+  "version": "2026.11.21.210",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2914,18 +2914,18 @@
       "passages": [
         "2 Peter 1:3–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 247,
       "date": "2027-07-06",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — 2 Peter: the day of the Lord; grow in grace",
+      "title": "2 Peter: the day of the Lord; grow in grace",
       "passages": [
         "2 Peter 3:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2936,7 +2936,7 @@
       "passages": [
         "1 John 2:28–3:10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2948,7 +2948,7 @@
         "1 John 3:11–24",
         "1 John 4:7–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2959,7 +2959,7 @@
       "passages": [
         "1 John 5:1–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2970,7 +2970,7 @@
       "passages": [
         "2 John 1:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2981,7 +2981,7 @@
       "passages": [
         "3 John 1:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

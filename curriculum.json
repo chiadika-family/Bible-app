@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.32",
+  "contentVersion": "2026.11.21.33",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -8464,11 +8464,238 @@
       "planTitle": "Priscilla, Aquila, and the church in Corinth",
       "title": "Priscilla, Aquila, and the church in Corinth",
       "selectLabel": "Week 36 · Priscilla, Aquila, and the church in Corinth",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 18:1–11 (NIV)",
-      "bigIdea": "Friends in Christ work and teach together so more people can hear about Jesus.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 37 · God keeps Paul safe in the storm",
+      "bigIdea": "Friends in Christ work and teach together so more people can hear about Jesus.",
+      "scheduleNote": "This is the Week 36 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 18:1–4 out loud, then Acts 18:5–8, then Acts 18:9–11."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 18:1–4",
+          "text": "1 After this, Paul left Athens and went to Corinth. 2 There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. Paul went to see them, 3 and because he was a tentmaker as they were, he stayed and worked with them. 4 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks."
+        },
+        {
+          "cite": "Acts 18:5–8",
+          "text": "5 When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Messiah. 6 But when they opposed Paul and became abusive, he shook out his clothes in protest and said to them, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” 7 Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God. 8 Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized."
+        },
+        {
+          "cite": "Acts 18:9–11",
+          "text": "9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. 10 For I am with you, and no one is going to attack and harm you, because I have many people in this city.” 11 So Paul stayed in Corinth for a year and a half, teaching them the word of God."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week Paul told the people of Athens about the one God who made the world and raised Jesus. After this, Paul left Athens and went to Corinth. There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. We say that simply. Paul went to see them, and because he was a tentmaker as they were, he stayed and worked with them. Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.",
+        "When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Messiah. But when they opposed Paul and became abusive, he shook out his clothes in protest and said to them, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” We tell the hard words simply. We do not act out the anger, and we do not make a game of the protest. Paul is saying he has told them the truth, and he will now take the good news to the Gentiles. Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God. Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized.",
+        "One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” We hear the promise of safety with care, not as a fight to act out. So Paul stayed in Corinth for a year and a half, teaching them the word of God. Friends in Christ worked and taught together so more people could hear about Jesus.",
+        "Next week we will hear how God kept his promise and brought Paul safely through a storm."
+      ],
+      "enochLine": "Friends worked together, and God said: Keep on speaking! I am with you!",
+      "enochActivities": [
+        "Activity: Work together. Sit or stand side by side with someone and say: Friends in Jesus can work together!",
+        "Activity: Keep speaking. Cup your hands like a megaphone and say: Keep on speaking! God is with you!"
+      ],
+      "elijahQuestions": [
+        "In Acts 18:1–3, whom did Paul meet in Corinth, and why did he stay and work with them?",
+        "In Acts 18:4–5, what did Paul do every Sabbath, and what did he devote himself to when Silas and Timothy came?",
+        "In Acts 18:6–8, what did Paul say when people opposed him, and what happened at the house next door?",
+        "In Acts 18:9–11, what did the Lord say to Paul in a vision, and how long did Paul stay in Corinth?"
+      ],
+      "elijahAnswers": [
+        "He met Aquila, a native of Pontus, and his wife Priscilla, who had come from Italy because Claudius had ordered all Jews to leave Rome. Paul was a tentmaker as they were, so he stayed and worked with them (Acts 18:1–3).",
+        "Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks. When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Messiah (Acts 18:4–5).",
+        "He shook out his clothes in protest and said, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” He went next door to the house of Titius Justus. Crispus and his household believed in the Lord, and many of the Corinthians who heard Paul believed and were baptized (Acts 18:6–8).",
+        "The Lord said, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” So Paul stayed in Corinth for a year and a half, teaching them the word of God (Acts 18:9–11)."
+      ],
+      "jordynQuestions": [
+        "Paul is a tentmaker, as Priscilla and Aquila are, and he stays and works with them (Acts 18:3). What does that show you about how friends in Christ can help the good news travel?",
+        "When some oppose Paul, he says he will go to the Gentiles, and then Crispus and many Corinthians believe and are baptized (Acts 18:6–8). What does that tell you about the door closing in one place, and opening in another?",
+        "The Lord tells Paul, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” and Paul stays a year and a half, teaching the word of God (Acts 18:9–11). Next week God will keep Paul safe in a storm. What do both weeks show you about the Lord’s presence with his messengers?"
+      ],
+      "jordynAnswers": [
+        "The good news does not travel only from a pulpit. Friends share ordinary work, a house, and a trade, and that shared life becomes a place where the message can be spoken. Priscilla, Aquila, and Paul work together, and more people can hear about Jesus.",
+        "Opposition does not stop the message. Paul has told the truth, and he takes the same good news next door, to the Gentiles. Even a synagogue leader believes, and many in the city are baptized. A hard no in one room is not the end of the Lord’s work in that city.",
+        "The Lord is with Paul when he speaks in Corinth, and he tells him not to be afraid or silent. Next week that same faithful Lord will keep his promise in a storm. The messengers move, the settings change, and the Lord stays with them."
+      ],
+      "jordynApplication": "Friends in Christ work and teach together so more people can hear about Jesus (Acts 18:1–11). This week, work with someone in your house to tell one person that Jesus is the Messiah, and remember the Lord’s words: “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” Next week we will hear how God kept Paul safe in a storm.",
+      "applicationCheck": "Ask her later in the week whether she worked with someone to tell a person about Jesus, or remembered the Lord’s words not to be afraid or silent. If it is fitting, thank God together for friends who work and teach with us, and that the Lord is with his people when they speak.",
+      "prayer": "Father, thank you for Priscilla and Aquila, and for Paul, who stayed and worked with them. Thank you that many in Corinth believed and were baptized, and that you said, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” Help us work together as friends in Christ so more people can hear about Jesus. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 18:1–4",
+        "Acts 18:5–8",
+        "Acts 18:9–11",
+        "Acts 18:3",
+        "Acts 18:5",
+        "Acts 18:6",
+        "Acts 18:8",
+        "Acts 18:9–10",
+        "Acts 18:11"
+      ],
+      "dailies": [
+        {
+          "id": "w36-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Paul meets Priscilla and Aquila in Corinth, and because they share a trade, he stays and works with them.",
+          "verse": "and because he was a tentmaker as they were, he stayed and worked with them.",
+          "verseCite": "Acts 18:3, NIV",
+          "enoch": "Sit or stand side by side with someone and say: Friends in Jesus can work together!",
+          "elijah": "In Acts 18:1–3, where did Paul go after Athens, and whom did he meet there?",
+          "elijahAnswer": "He left Athens and went to Corinth. He met Aquila, a native of Pontus, and his wife Priscilla, who had come from Italy. Because Paul was a tentmaker as they were, he stayed and worked with them.",
+          "jordyn": "Priscilla and Aquila have had to leave Rome, and Paul stays and works with them as a tentmaker (Acts 18:2–3). What do you notice about how God uses ordinary work and a shared home?",
+          "jordynAnswer": "The Lord does not wait for a perfect, easy setting. A hard move, a shared trade, and a welcome become the start of gospel work in a new city. Friends in Christ can work with their hands and still make a way for people to hear about Jesus.",
+          "action": "Read Acts 18:1–3 out loud. Then thank God for friends who work with us, and for a place to stay and speak.",
+          "prayer": "Father, thank you that Paul met Priscilla and Aquila, and that he stayed and worked with them. Teach us to work as friends in Christ so more people can hear about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:1–3, NIV",
+          "teach": "After this, Paul left Athens and went to Corinth. There he met Aquila and his wife Priscilla, who had come from Italy because Claudius had ordered all Jews to leave Rome. We say that simply. Paul went to see them, and because he was a tentmaker as they were, he stayed and worked with them.",
+          "enochActivity": "Pretend to smooth a piece of cloth or a towel, as if you were helping with tent work, and say: Paul worked with his friends!",
+          "elijah2": "In Acts 18:3, why did Paul stay and work with Priscilla and Aquila?",
+          "elijahAnswer2": "Because he was a tentmaker as they were.",
+          "jordyn2": "How is a shared trade a kind of friendship in this story (Acts 18:3)?",
+          "jordynAnswer2": "They do the same work, so Paul can stay with them. The friendship is not only talk. It is a shared table and a shared task, and that becomes a base for the message in Corinth.",
+          "passageText": "1 After this, Paul left Athens and went to Corinth. 2 There he met a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla, because Claudius had ordered all Jews to leave Rome. Paul went to see them, 3 and because he was a tentmaker as they were, he stayed and worked with them."
+        },
+        {
+          "id": "w36-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Paul works with his friends, and every Sabbath he reasons in the synagogue, trying to persuade Jews and Greeks.",
+          "verse": "Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks.",
+          "verseCite": "Acts 18:4, NIV",
+          "enoch": "Cup your hands like a megaphone and say: Jesus is the Messiah!",
+          "elijah": "In Acts 18:3–4, what two things is Paul doing in Corinth, one through the week and one on the Sabbath?",
+          "elijahAnswer": "He stays and works with Priscilla and Aquila as a tentmaker, and every Sabbath he reasons in the synagogue, trying to persuade Jews and Greeks.",
+          "jordyn": "Paul works with his hands and also reasons in the synagogue (Acts 18:3–4). Why might both matters for a church taking root in a new city?",
+          "jordynAnswer": "The message needs a life behind it, and the work needs a message in it. Friends who labor together also open a door for Jews and Greeks to hear. The church in Corinth begins in ordinary days and in Sabbath conversations.",
+          "action": "Play Work and speak. Pair up. One person pretends to help with simple work (fold a towel or straighten a chair). The other says: Jesus is the Messiah! Then switch. Do not act out an argument in the synagogue.",
+          "prayer": "Father, thank you that Paul worked with his friends and also reasoned in the synagogue, trying to persuade Jews and Greeks. Help our work and our words go together, so more people can hear about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:3–4, NIV",
+          "teach": "Paul was a tentmaker as Priscilla and Aquila were, so he stayed and worked with them. Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks. Friends in Christ work and teach together so more people can hear about Jesus.",
+          "enochActivity": "Help a grown-up fold a towel or straighten a chair, then say: We can work and tell about Jesus!",
+          "elijah2": "In Acts 18:4, whom was Paul trying to persuade?",
+          "elijahAnswer2": "Jews and Greeks.",
+          "jordyn2": "What does it mean that Paul reasoned in the synagogue (Acts 18:4)?",
+          "jordynAnswer2": "He did not only announce a line and leave. He talked with people, Jews and Greeks, and tried to persuade them. The good news is something to be explained, as well as proclaimed.",
+          "passageText": "3 and because he was a tentmaker as they were, he stayed and worked with them. 4 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks."
+        },
+        {
+          "id": "w36-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Paul testifies that Jesus is the Messiah. When some oppose him, he goes to the Gentiles, and many in Corinth believe.",
+          "verse": "Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized.",
+          "verseCite": "Acts 18:8, NIV",
+          "enoch": "Hold up one finger and say: Jesus is the Messiah!",
+          "elijah": "In Acts 18:5–8, what did Paul testify, what did he say when people opposed him, and who believed?",
+          "elijahAnswer": "He testified to the Jews that Jesus was the Messiah. When they opposed him and became abusive, he said, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” He went next door to the house of Titius Justus. Crispus and his household believed, and many of the Corinthians who heard Paul believed and were baptized.",
+          "jordyn": "Paul’s hard sentence, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” is not a taunt to copy (Acts 18:6). What is he saying about his work, and about where the message goes next?",
+          "jordynAnswer": "He is saying he has told them the truth, and he is not guilty of hiding it. The same good news will now be spoken to the Gentiles, next door. The opposition is real, but it does not own the story. Crispus believes, and many in the city are baptized.",
+          "action": "Read Acts 18:5–8 out loud. Tell the hard words simply. Do not act out the protest or the abuse. Then thank God that many in Corinth believed.",
+          "prayer": "Father, thank you that Paul testified that Jesus was the Messiah, and that when some opposed him, the good news still went next door. Thank you that Crispus and many Corinthians believed and were baptized. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:5–8, NIV",
+          "teach": "When Silas and Timothy came, Paul devoted himself exclusively to preaching, testifying that Jesus was the Messiah. Some opposed him and became abusive. We say that simply, and we do not act it out. Paul said, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” He went next door to Titius Justus. Crispus and his household believed, and many Corinthians believed and were baptized.",
+          "enochActivity": "Take one step to the side, as if going next door, and say: The good news kept going!",
+          "elijah2": "In Acts 18:8, who believed in the Lord, besides many of the Corinthians?",
+          "elijahAnswer2": "Crispus, the synagogue leader, and his entire household.",
+          "jordyn2": "Why is it striking that Crispus, the synagogue leader, believes after Paul has left the synagogue (Acts 18:7–8)?",
+          "jordynAnswer2": "The door Paul left is not empty of faith. The leader of that synagogue and his household believe in the Lord, and many in the city are baptized. God is still at work in the place of opposition, and also in the house next door.",
+          "passageText": "5 When Silas and Timothy came from Macedonia, Paul devoted himself exclusively to preaching, testifying to the Jews that Jesus was the Messiah. 6 But when they opposed Paul and became abusive, he shook out his clothes in protest and said to them, “Your blood be on your own heads! I am innocent of it. From now on I will go to the Gentiles.” 7 Then Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God. 8 Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized."
+        },
+        {
+          "id": "w36-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The Lord tells Paul not to be afraid and not to be silent, because he is with him and has many people in the city.",
+          "verse": "Do not be afraid; keep on speaking, do not be silent.",
+          "verseCite": "Acts 18:9, NIV",
+          "enoch": "Cup your hands and say: Keep on speaking! God is with you!",
+          "elijah": "In Acts 18:9–10, what did the Lord say to Paul in a vision?",
+          "elijahAnswer": "“Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.”",
+          "jordyn": "The Lord says, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” (Acts 18:9–10). How do the call to keep speaking, and the promise that the Lord is with him and already has people in the city, belong together?",
+          "jordynAnswer": "Paul is not told to be brave in an empty town. The Lord is with him, and the Lord already has people in Corinth. So the call to keep speaking is not a lonely dare. It is work inside a city where God already has a people, even if Paul cannot yet see them all.",
+          "action": "Tell one person, with a calm voice, a short line from the vision: the Lord said, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” Do not turn the promise about harm into a scare or a skit.",
+          "prayer": "Father, thank you that you spoke to Paul, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” Be with us, and help us keep speaking about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:9–10, NIV",
+          "teach": "One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” We hear the words about attack and harm with care. The point is the Lord’s presence and his people, not a scene to act out.",
+          "enochActivity": "Place a hand on your chest and say: God is with you. Keep on speaking!",
+          "elijah2": "In Acts 18:10, why does the Lord say no one is going to attack and harm Paul?",
+          "elijahAnswer2": "Because the Lord is with him, and because he has many people in this city.",
+          "jordyn2": "The verse in today’s bite stops, in our words, at do not be silent. Why must we also hear the next sentence (Acts 18:9–10)?",
+          "jordynAnswer2": "The official word is one speech. The Lord does not only say keep speaking. He also says he is with Paul, and that no one is going to attack and harm him, because he has many people in this city. The courage has a reason: the Lord is with him.",
+          "passageText": "9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. 10 For I am with you, and no one is going to attack and harm you, because I have many people in this city.”"
+        },
+        {
+          "id": "w36-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Paul stays in Corinth a year and a half, teaching them the word of God.",
+          "verse": "So Paul stayed in Corinth for a year and a half, teaching them the word of God.",
+          "verseCite": "Acts 18:11, NIV",
+          "enoch": "Open your hands like a book and say: Paul taught them the word of God!",
+          "elijah": "In Acts 18:11, how long did Paul stay in Corinth, and what did he do there?",
+          "elijahAnswer": "He stayed for a year and a half, teaching them the word of God.",
+          "jordyn": "After the vision, Paul stays a year and a half, teaching them the word of God (Acts 18:9–11). What does that long stay show you about the call to keep on speaking?",
+          "jordynAnswer": "The Lord’s word is not a short burst of courage and then a quick exit. Paul remains. He teaches the word of God over many months, in a city where the Lord has many people. Keeping on speaking can look like staying, and teaching, for a long time.",
+          "action": "Pray together, thanking God that Paul stayed and taught the word of God, and asking the Lord to keep your family speaking about Jesus, even in ordinary weeks.",
+          "prayer": "Father, thank you that Paul stayed in Corinth for a year and a half, teaching them the word of God. You were with him, and you had many people in that city. Help us keep speaking, and help us stay with the work you give us. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:9–11, NIV",
+          "teach": "The Lord told Paul not to be afraid and not to be silent, because he was with him and had many people in the city. So Paul stayed in Corinth for a year and a half, teaching them the word of God. Friends in Christ work and teach together so more people can hear about Jesus.",
+          "enochActivity": "Hold both hands open and count quietly to three, then say: Paul stayed, and he taught God’s word!",
+          "elijah2": "In Acts 18:11, what did Paul teach them?",
+          "elijahAnswer2": "The word of God.",
+          "jordyn2": "Why is a year and a half a fitting answer to a night vision (Acts 18:9–11)?",
+          "jordynAnswer2": "The vision is not only comfort for one frightened night. It is a reason to remain. Paul keeps speaking by staying and teaching the word of God until a church can take root in Corinth.",
+          "passageText": "9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. 10 For I am with you, and no one is going to attack and harm you, because I have many people in this city.” 11 So Paul stayed in Corinth for a year and a half, teaching them the word of God."
+        },
+        {
+          "id": "w36-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Friends in Christ work and teach together so more people can hear about Jesus, and next we will see the Lord keep Paul through a storm.",
+          "verse": "and because he was a tentmaker as they were, he stayed and worked with them.",
+          "verseCite": "Acts 18:3, NIV",
+          "enoch": "Tell a grown-up the big idea: Friends in Jesus work and teach together!",
+          "elijah": "From Acts 18:1–11, whom did Paul work with, what did the Lord tell him, and how long did he stay?",
+          "elijahAnswer": "He worked with Priscilla and Aquila as a tentmaker. The Lord told him, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” He stayed a year and a half, teaching them the word of God. Many in Corinth believed and were baptized.",
+          "jordyn": "Why is Friends in Christ work and teach together so more people can hear about Jesus a fitting last word before a week when God keeps Paul safe in a storm?",
+          "jordynAnswer": "This week the church takes root in Corinth through shared work, shared teaching, and the Lord’s promise to be with Paul. Next week that same Lord will keep his promise in a storm. The friends and the city matter, and so does the God who stays with his messenger when the road gets rough.",
+          "action": "Tell someone the week’s big idea: Friends in Christ work and teach together so more people can hear about Jesus. Then thank God, and look ahead to the week when God keeps Paul safe in the storm.",
+          "prayer": "Father, thank you for Priscilla, Aquila, and the church in Corinth, and that you told Paul to keep on speaking because you were with him. Get our hearts ready to hear how you kept Paul safe in the storm. In Jesus’ name, Amen.",
+          "passageCite": "Acts 18:3, 8, 9–11, NIV",
+          "teach": "This week we learned that friends in Christ work and teach together so more people can hear about Jesus. Paul stayed and worked with Priscilla and Aquila. He testified that Jesus was the Messiah. Many in Corinth believed. The Lord said, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” and Paul stayed a year and a half, teaching the word of God. Next week God will keep Paul safe in a storm.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week God keeps Paul safe in the storm!",
+          "elijah2": "In Acts 18:9–10, what exact words did the Lord say to Paul in the vision?",
+          "elijahAnswer2": "“Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.”",
+          "jordyn2": "What stays the same when the story moves from a workshop in Corinth to a storm at sea next week?",
+          "jordynAnswer2": "The Lord who told Paul, “Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city.” is the same Lord who keeps his promises. Friends help the message take root, and God himself keeps his messenger.",
+          "passageText": "3 and because he was a tentmaker as they were, he stayed and worked with them. 8 Crispus, the synagogue leader, and his entire household believed in the Lord; and many of the Corinthians who heard Paul believed and were baptized. 9 One night the Lord spoke to Paul in a vision: “Do not be afraid; keep on speaking, do not be silent. 10 For I am with you, and no one is going to attack and harm you, because I have many people in this city.” 11 So Paul stayed in Corinth for a year and a half, teaching them the word of God."
+        }
+      ]
     },
     {
       "id": "37",
