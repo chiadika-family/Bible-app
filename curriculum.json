@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.37",
+  "contentVersion": "2026.11.21.38",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -9650,11 +9650,236 @@
       "planTitle": "The Lord's Prayer",
       "title": "The Lord's Prayer",
       "selectLabel": "Week 41 · The Lord's Prayer",
-      "ready": false,
+      "ready": true,
       "passage": "Matthew 6:9–13 (NIV)",
-      "bigIdea": "Jesus teaches us how to pray to our Father in heaven.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 42 · One body, many parts",
+      "bigIdea": "Jesus teaches us how to pray to our Father in heaven.",
+      "scheduleNote": "This is the Week 41 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Matthew 6:9–10 out loud, then Matthew 6:11–13, then the whole prayer in Matthew 6:9–13."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab, and pray the Lord’s Prayer together."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Matthew 6:9–10",
+          "text": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "cite": "Matthew 6:11–13",
+          "text": "11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        },
+        {
+          "cite": "Matthew 6:9–13",
+          "text": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that God gives us his armor so we can stand strong in him, and that we can pray in the Spirit on all occasions. Today Jesus teaches us how to pray to our Father in heaven. This, then, is how you should pray. We say the prayer slowly. It is not a race, and it is not a magic chant. These are words Jesus gives us to pray.",
+        "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Hallowed means God’s name is holy. We honor him. We ask for his kingdom and his will, not only our own plans. We call him our Father, not only my Father, because we belong to him together.",
+        "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. Daily bread is the ordinary help we need today. Debts here are the wrongs we have done, and the wrongs others have done to us. We ask God to forgive us, and we also forgive. We ask him to keep us from temptation, and to deliver us from the evil one. We say that simply. We do not make a scary game of it. God can keep us and help us.",
+        "Next week we will hear that in Christ we are one body, and every person matters."
+      ],
+      "enochLine": "Jesus teaches us how to pray to our Father in heaven!",
+      "enochActivities": [
+        "Activity: Look up and say: Our Father in heaven!",
+        "Activity: Open your hands and say: Give us today our daily bread!"
+      ],
+      "elijahQuestions": [
+        "In Matthew 6:9, what does Jesus say this is, and how does the prayer begin?",
+        "In Matthew 6:9–10, what do we ask about God’s name, his kingdom, and his will?",
+        "In Matthew 6:11–12, what two things do we ask God to give us, and what have we also done?",
+        "In Matthew 6:13, what do we ask God not to lead us into, and what do we ask him to deliver us from?"
+      ],
+      "elijahAnswers": [
+        "This, then, is how you should pray. The prayer begins, Our Father in heaven, hallowed be your name (Matthew 6:9).",
+        "Hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven (Matthew 6:9–10).",
+        "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors (Matthew 6:11–12).",
+        "Lead us not into temptation, but deliver us from the evil one (Matthew 6:13)."
+      ],
+      "jordynQuestions": [
+        "Jesus says, This, then, is how you should pray: Our Father in heaven (Matthew 6:9). What is the difference between rushing through these words and letting Jesus teach you how to pray?",
+        "The prayer asks, forgive us our debts, as we also have forgiven our debtors (Matthew 6:12). How should that shape the way you treat someone at home after a wrong, without turning forgiveness into a game?",
+        "We pray to our Father, and next week we will hear that in Christ we are one body, and every person matters. How do those two truths belong together?"
+      ],
+      "jordynAnswers": [
+        "Jesus is teaching us how to pray, not giving us a chant to get through quickly. We come to our Father in heaven, we honor his holy name, and we ask for his kingdom and his will. The words are a gift to use slowly, with our hearts in them.",
+        "Debts here are real wrongs, not points to keep. We ask God to forgive us, and we also forgive. That is honest and kind. It is not pretending nothing happened, and it is not a race to say the words first.",
+        "We do not pray only as separate people. We say our Father, our daily bread, forgive us. Next week we will hear that in Christ we are one body, and every person matters. The same Father holds us together."
+      ],
+      "jordynApplication": "Jesus teaches us how to pray to our Father in heaven (Matthew 6:9–13). This week, pray the Lord’s Prayer slowly once a day—out loud if you can. Pick one line to live: honor God’s holy name, ask for daily bread, forgive someone, or ask God to keep you from temptation. Next week we will hear that in Christ we are one body, and every person matters.",
+      "applicationCheck": "Ask her later in the week whether she prayed the Lord’s Prayer slowly, or which line she tried to live. If it is fitting, pray Our Father in heaven together, and thank God that Jesus teaches us how to pray.",
+      "prayer": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. Thank you that Jesus teaches us how to pray to you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Matthew 6:9–10",
+        "Matthew 6:11–13",
+        "Matthew 6:9–13",
+        "Matthew 6:9",
+        "Matthew 6:11",
+        "Matthew 6:12",
+        "Matthew 6:13"
+      ],
+      "dailies": [
+        {
+          "id": "w41-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus teaches us to pray to our Father in heaven, and to honor his holy name.",
+          "verse": "This, then, is how you should pray: Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven.",
+          "verseCite": "Matthew 6:9–10, NIV",
+          "enoch": "Look up and say: Our Father in heaven! Your name is holy!",
+          "elijah": "In Matthew 6:9, how does Jesus say we should begin to pray, and what do we ask about God’s name?",
+          "elijahAnswer": "This, then, is how you should pray: Our Father in heaven, hallowed be your name.",
+          "jordyn": "In Matthew 6:9–10, why does it matter that we pray for God’s kingdom and his will, not only for our own plans?",
+          "jordynAnswer": "Jesus teaches us to ask, your kingdom come, your will be done, on earth as it is in heaven. We honor our Father first. We want what he wants, here, as it is in heaven.",
+          "action": "Read Matthew 6:9–10 out loud, slowly. Then thank God that Jesus teaches us how to pray to our Father in heaven.",
+          "prayer": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Thank you that we can pray to you. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:9–10, NIV",
+          "teach": "Jesus says, This, then, is how you should pray: Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Hallowed means God’s name is holy. We honor him. These words are a gift, not a race and not a magic chant.",
+          "enochActivity": "Look up, then fold your hands, and say: Our Father! Your will be done!",
+          "elijah2": "In Matthew 6:10, where do we ask for God’s will to be done?",
+          "elijahAnswer2": "On earth as it is in heaven.",
+          "jordyn2": "Jesus has us say our Father, not only my Father (Matthew 6:9). What does that tell you about prayer?",
+          "jordynAnswer2": "We come to God together. He is the Father of his people, not a private helper for one child only.",
+          "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "id": "w41-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "We learn the words Jesus gives us, slowly, because he teaches us how to pray.",
+          "verse": "Our Father in heaven, hallowed be your name,",
+          "verseCite": "Matthew 6:9, NIV",
+          "enoch": "Take turns saying: Our Father in heaven!",
+          "elijah": "In Matthew 6:9–10, can you say the first part of the prayer Jesus gives?",
+          "elijahAnswer": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven.",
+          "jordyn": "If this game is only about remembering lines, what would be missing from what Jesus is teaching (Matthew 6:9)?",
+          "jordynAnswer": "Jesus is teaching us how to pray to our Father, not how to win a memory race. The words matter, and so does a heart that honors God’s holy name.",
+          "action": "Play Pray like this. Take turns saying one short line of Matthew 6:9–10, calmly, with a simple gesture: look up for our Father in heaven, a hand on your heart for his holy name, open hands for his will. Do not race, shout, or turn the prayer into a joke.",
+          "prayer": "Our Father in heaven, thank you for your holy name. Let your kingdom come, and your will be done, on earth as it is in heaven. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:9–10, NIV",
+          "teach": "This, then, is how you should pray: Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Today we practice the words slowly, so they can become a prayer, not a performance.",
+          "enochActivity": "Look up and whisper: Hallowed be your name!",
+          "elijah2": "In Matthew 6:9, what two words come right after Our Father?",
+          "elijahAnswer2": "In heaven.",
+          "jordyn2": "Why might Jesus want us to begin with our Father in heaven, before we ask for anything else (Matthew 6:9–10)?",
+          "jordynAnswer2": "Prayer starts with who God is. He is our Father in heaven, and his name is holy. Then we ask for his kingdom and his will.",
+          "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "id": "w41-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "We ask for daily bread, and we ask to be forgiven as we also forgive.",
+          "verse": "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors.",
+          "verseCite": "Matthew 6:11–12, NIV",
+          "enoch": "Open your hands and say: Give us today our daily bread!",
+          "elijah": "In Matthew 6:11–12, what do we ask God to give us today, and what do we ask him to forgive?",
+          "elijahAnswer": "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors.",
+          "jordyn": "Debts in Matthew 6:12 are the wrongs we have done, and the wrongs others have done to us. How can you ask for forgiveness, and also forgive, without making it a score to keep?",
+          "jordynAnswer": "We tell the truth: we need to be forgiven, and we also forgive. It is not pretending nothing happened, and it is not a game of who owes more. We bring both to our Father.",
+          "action": "Read Matthew 6:11–13 out loud. Then thank God for daily bread, and if it is fitting, forgive someone at home, or ask to be forgiven.",
+          "prayer": "Our Father, give us today our daily bread. Forgive us our debts, as we also have forgiven our debtors. Lead us not into temptation, but deliver us from the evil one. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:11–13, NIV",
+          "teach": "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. Daily bread is the ordinary help we need today. Debts are real wrongs, taught simply. We do not make a scary game of the evil one. We ask our Father to keep us and to help us.",
+          "enochActivity": "Open your hands, then gently fold them, and say: Forgive us, and help us forgive!",
+          "elijah2": "In Matthew 6:13, what two things do we ask about temptation and the evil one?",
+          "elijahAnswer2": "Lead us not into temptation, but deliver us from the evil one.",
+          "jordyn2": "Why might Jesus put daily bread and forgiveness next to each other in the same prayer (Matthew 6:11–12)?",
+          "jordynAnswer2": "We need ordinary help for today, and we also need to be made right with God and with one another. Our Father cares for both.",
+          "passageText": "11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        },
+        {
+          "id": "w41-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Pray one line of the Lord’s Prayer for real, and live it in an ordinary moment.",
+          "verse": "Give us today our daily bread.",
+          "verseCite": "Matthew 6:11, NIV",
+          "enoch": "Open your hands and say: Give us today our daily bread! Thank you, Father!",
+          "elijah": "In Matthew 6:11–12, what do we ask God to give us today, and what have we also done when we ask him to forgive us?",
+          "elijahAnswer": "Give us today our daily bread. We ask him to forgive us our debts, as we also have forgiven our debtors.",
+          "jordyn": "A challenge to pray can turn into a performance (Matthew 6:9–12). How is today’s challenge different from showing off a prayer?",
+          "jordynAnswer": "Jesus is teaching us how to pray to our Father, not how to look holy. The challenge is to use one real line—daily bread, or forgiveness—with your heart in it, in an ordinary moment at home.",
+          "action": "Today’s challenge: Choose one line from Matthew 6:11–13 and live it—thank God for something you needed today, forgive someone, or ask him to keep you from temptation. Pray it simply, not as a show.",
+          "prayer": "Our Father in heaven, give us today our daily bread. Forgive us our debts, as we also have forgiven our debtors. Lead us not into temptation, but deliver us from the evil one. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:11–13, NIV",
+          "teach": "Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. Today’s challenge is to pray one of these lines for real, and to live it, not to perform it.",
+          "enochActivity": "Open your hands and say: Thank you for today’s bread!",
+          "elijah2": "In Matthew 6:12, what have we also done when we ask God to forgive us our debts?",
+          "elijahAnswer2": "We also have forgiven our debtors.",
+          "jordyn2": "What would it look like to live Lead us not into temptation in a small, real way today (Matthew 6:13)?",
+          "jordynAnswer2": "Ask our Father to keep you, and take a simple step away from a wrong choice, without making a game of the evil one.",
+          "passageText": "11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        },
+        {
+          "id": "w41-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We pray the words Jesus gave us, and we ask our Father to keep us and deliver us.",
+          "verse": "And lead us not into temptation, but deliver us from the evil one.",
+          "verseCite": "Matthew 6:13, NIV",
+          "enoch": "Fold your hands and say: Lead us not into temptation. Help us, Father!",
+          "elijah": "In Matthew 6:13, what do we ask God not to lead us into, and what do we ask him to deliver us from?",
+          "elijahAnswer": "Lead us not into temptation, but deliver us from the evil one.",
+          "jordyn": "Matthew 6:13 names the evil one. How should we pray this line with care, and what does it tell you about our Father?",
+          "jordynAnswer": "We say the words simply. We do not make a scary game of the evil one. We ask our Father to keep us and to deliver us. He is able to help us.",
+          "action": "Pray the Lord’s Prayer out loud as a family, slowly, from Matthew 6:9–13. Then sit quiet for a moment and thank our Father that Jesus teaches us how to pray.",
+          "prayer": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:9–13, NIV",
+          "teach": "This, then, is how you should pray. Today we pray the whole prayer Jesus gives: to our Father in heaven, for his holy name, his kingdom, his will, our daily bread, forgiveness, and help in temptation. We ask him to deliver us from the evil one, simply, and we trust our Father.",
+          "enochActivity": "Fold your hands, then look up, and say: Our Father, deliver us! Thank you!",
+          "elijah2": "In Matthew 6:9 and 6:13, how does the prayer begin, and how does this part of the prayer end?",
+          "elijahAnswer2": "It begins, Our Father in heaven, hallowed be your name. This part ends, lead us not into temptation, but deliver us from the evil one.",
+          "jordyn2": "The prayer begins with our Father and ends with a request to be delivered (Matthew 6:9, 13). What stays the same from start to finish?",
+          "jordynAnswer2": "We are talking to our Father in heaven the whole time. He is the one we honor, and he is the one who can keep us.",
+          "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        },
+        {
+          "id": "w41-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus teaches us how to pray to our Father, and next we will hear that in Christ we are one body.",
+          "verse": "This, then, is how you should pray: Our Father in heaven, hallowed be your name,",
+          "verseCite": "Matthew 6:9, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, we are one body in Christ!",
+          "elijah": "What is this week’s big idea, and can you say the Lord’s Prayer from Matthew 6:9–13?",
+          "elijahAnswer": "Jesus teaches us how to pray to our Father in heaven. Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one.",
+          "jordyn": "We have prayed our Father all week, and next week we will hear that in Christ we are one body, and every person matters (Matthew 6:9). What stays the same in both weeks?",
+          "jordynAnswer": "The Father we pray to is the Father of his people, not of one child only. Next week we will hear that in Christ we are one body, and every person matters. We belong to him together.",
+          "action": "Tell someone the week’s big idea: Jesus teaches us how to pray to our Father in heaven. Pray the Lord’s Prayer once more, then look ahead to one body, many parts.",
+          "prayer": "Our Father in heaven, thank you that Jesus teaches us how to pray to you. Hallowed be your name. Get our hearts ready to hear that in Christ we are one body, and every person matters. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:9–13, NIV",
+          "teach": "This week we learned that Jesus teaches us how to pray to our Father in heaven. This, then, is how you should pray: Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one. Next week we will hear that in Christ we are one body, and every person matters.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week, one body, many parts!",
+          "elijah2": "In Matthew 6:9–13, who teaches us how to pray, and what do we call God at the start of the prayer?",
+          "elijahAnswer2": "Jesus teaches us how to pray. We call God our Father in heaven.",
+          "jordyn2": "What stays the same when the story moves from the Lord’s Prayer this week to one body, many parts next week?",
+          "jordynAnswer2": "The Father we pray to holds his people together. We are not left to pray alone, and next week we will hear that in Christ we are one body, and every person matters.",
+          "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’"
+        }
+      ]
     },
     {
       "id": "42",

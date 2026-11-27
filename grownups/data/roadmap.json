@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.238",
+  "version": "2026.11.21.245",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3323,19 +3323,19 @@
         "Luke 17:3–4",
         "Psalm 51:10–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 282,
       "date": "2027-08-10",
       "phase": "marriage",
-      "title": "Sunday: connect with this week's Grace Life sermon — Shared mission: building a house on the rock",
+      "title": "Shared mission: building a house on the rock",
       "passages": [
         "Matthew 7:24–27",
         "Psalm 127:1"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3348,7 +3348,7 @@
         "Ruth 1:16–17",
         "1 Timothy 5:4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3361,7 +3361,7 @@
         "Proverbs 17:22",
         "Song of Songs 5:16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3372,7 +3372,7 @@
       "passages": [
         "1 Corinthians 13:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3384,7 +3384,7 @@
         "Proverbs 5:18–19",
         "Ecclesiastes 9:9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3396,7 +3396,7 @@
         "Romans 14:19",
         "Philippians 2:2–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
