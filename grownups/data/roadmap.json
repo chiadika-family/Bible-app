@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.161",
+  "version": "2026.11.21.168",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2424,19 +2424,19 @@
       "passages": [
         "1 Corinthians 15:1–28"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 205,
       "date": "2027-05-25",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — 1 Corinthians: victory over death; stand firm in the faith",
+      "title": "1 Corinthians: victory over death; stand firm in the faith",
       "passages": [
         "1 Corinthians 15:50–58",
         "1 Corinthians 16:13–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2447,7 +2447,7 @@
       "passages": [
         "2 Corinthians 1:3–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2458,7 +2458,7 @@
       "passages": [
         "2 Corinthians 4:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2469,7 +2469,7 @@
       "passages": [
         "2 Corinthians 5:11–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2480,7 +2480,7 @@
       "passages": [
         "2 Corinthians 12:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2492,7 +2492,7 @@
         "Galatians 1:1–12",
         "Galatians 2:15–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

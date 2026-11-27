@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.26",
+  "contentVersion": "2026.11.21.27",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -7035,11 +7035,237 @@
       "planTitle": "Peter and Cornelius: good news for all people",
       "title": "Peter and Cornelius: good news for all people",
       "selectLabel": "Week 30 · Peter and Cornelius: good news for all people",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 10:1–8, 34–48 (NIV)",
-      "bigIdea": "The good news of Jesus is for every nation and people.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 31 · Peter is set free from prison",
+      "bigIdea": "The good news of Jesus is for every nation and people.",
+      "scheduleNote": "This is the Week 30 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 10:1–8 out loud, then Acts 10:34–43, then Acts 10:44–48."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 10:1–8",
+          "text": "1 At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment. 2 He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly. 3 One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!” 4 Cornelius stared at him in fear. “What is it, Lord?” he asked. The angel answered, “Your prayers and gifts to the poor have come up as a memorial offering before God. 5 Now send men to Joppa to bring back a man named Simon who is called Peter. 6 He is staying with Simon the tanner, whose house is by the sea.” 7 When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants. 8 He told them everything that had happened and sent them to Joppa."
+        },
+        {
+          "cite": "Acts 10:34–43",
+          "text": "34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right. 36 You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all. 37 You know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached— 38 how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him. 39 “We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross, 40 but God raised him from the dead on the third day and caused him to be seen. 41 He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead. 42 He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead. 43 All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”"
+        },
+        {
+          "cite": "Acts 10:44–48",
+          "text": "44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. 46 For they heard them speaking in tongues and praising God. Then Peter said, 47 “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week Jesus met Saul on the road, and we learned that Jesus can change anyone, even someone who fought against him. Today the good news keeps going farther. In Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment. He and all his family were devout and God-fearing. He gave generously to those in need and prayed to God regularly.",
+        "One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!” Cornelius stared at him in fear. “What is it, Lord?” he asked. The angel answered, “Your prayers and gifts to the poor have come up as a memorial offering before God. Now send men to Joppa to bring back a man named Simon who is called Peter. He is staying with Simon the tanner, whose house is by the sea.” Cornelius told them everything that had happened and sent them to Joppa.",
+        "God was also preparing Peter. When Peter arrived, he began to speak. He now realized how true it is that God does not show favoritism, but accepts from every nation the one who fears him and does what is right. Peter told them the good news of peace through Jesus Christ, who is Lord of all. Jesus went around doing good. They killed him by hanging him on a cross, but God raised him from the dead on the third day. All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.",
+        "While Peter was still speaking these words, the Holy Spirit came on all who heard the message. The believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. Then Peter said, “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.",
+        "The good news of Jesus is for every nation and people. Next week we will see the church praying, and God setting Peter free. Peter will be in prison, and the church will pray."
+      ],
+      "enochLine": "The good news of Jesus is for every nation and people!",
+      "enochActivities": [
+        "Activity: Open arms. Open your arms wide and say: The good news is for everyone!",
+        "Activity: Welcome. Hold out a welcome hand and say: God shows no favoritism!"
+      ],
+      "elijahQuestions": [
+        "In Acts 10:1–2, who was Cornelius, and how did he and his family live before God?",
+        "In Acts 10:3–8, what did the angel tell Cornelius to do?",
+        "In Acts 10:34–35, what did Peter say he now realized about God?",
+        "In Acts 10:44–48, what happened while Peter was still speaking, and what did Peter order?"
+      ],
+      "elijahAnswers": [
+        "Cornelius was a centurion in the Italian Regiment. He and all his family were devout and God-fearing. He gave generously to those in need and prayed to God regularly (Acts 10:1–2).",
+        "The angel told him to send men to Joppa to bring back a man named Simon who is called Peter, who was staying with Simon the tanner by the sea. Cornelius told them everything and sent them (Acts 10:5–8).",
+        "Peter said he now realized how true it is that God does not show favoritism, but accepts from every nation the one who fears him and does what is right (Acts 10:34–35).",
+        "The Holy Spirit came on all who heard the message. The believers with Peter were astonished that the gift had been poured out even on Gentiles. Peter ordered that they be baptized in the name of Jesus Christ (Acts 10:44–48)."
+      ],
+      "jordynQuestions": [
+        "Cornelius already prayed and gave generously (Acts 10:2–4). Why did he still need Peter to come and speak about Jesus?",
+        "Peter says God does not show favoritism, and that everyone who believes in Jesus receives forgiveness of sins through his name (Acts 10:34–35, 43). What does that tell you about who the good news is for?",
+        "This week the Spirit is poured out even on Gentiles (Acts 10:44–45). Next week the church will pray, and God will set Peter free. What do both stories show you about how God keeps his work moving?"
+      ],
+      "jordynAnswers": [
+        "Praying and giving are real, and they are not yet the good news itself. Cornelius needed to hear about Jesus, who is Lord of all, who was raised, and through whose name everyone who believes receives forgiveness. God sent Peter to tell him that.",
+        "The good news is not for one nation, one family, or one kind of person. God accepts from every nation the one who fears him, and forgiveness is promised to everyone who believes in Jesus. No one is left out of that welcome by birth.",
+        "God is not stuck with one people, and he is not stuck when trouble comes. This week he pours out the Spirit on people Peter had not expected. Next week we will see the church pray, and God set Peter free, so the good news can keep going."
+      ],
+      "jordynApplication": "The good news of Jesus is for every nation and people (Acts 10:1–8, 34–48). This week, welcome someone you might have quietly left out, or tell someone that forgiveness through Jesus is for everyone who believes. Next week we will see the church praying, and God setting Peter free.",
+      "applicationCheck": "Ask her later in the week whether she welcomed someone with care, or told someone that the good news is for every nation. If it is fitting, thank God together that he shows no favoritism, and that the Spirit was poured out even on the people Peter had not expected.",
+      "prayer": "Father, thank you that you heard Cornelius, and that you sent Peter to tell the good news of Jesus, who is Lord of all. Thank you that you do not show favoritism, and that everyone who believes in him receives forgiveness of sins through his name. Make us ready to welcome people from every nation, and to share this good news with joy. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 10:1–8",
+        "Acts 10:34–43",
+        "Acts 10:44–48",
+        "Acts 10:2",
+        "Acts 10:34–35",
+        "Acts 10:43",
+        "Acts 10:44–48"
+      ],
+      "dailies": [
+        {
+          "id": "w30-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "God hears Cornelius and sends him to find Peter, so he can hear the good news.",
+          "verse": "Your prayers and gifts to the poor have come up as a memorial offering before God.",
+          "verseCite": "Acts 10:4, NIV",
+          "enoch": "Fold your hands, then hold them out, and say: God hears us, and he sends help!",
+          "elijah": "In Acts 10:1–4, what kind of man was Cornelius, and what did the angel say about his prayers and gifts?",
+          "elijahAnswer": "He was a devout, God-fearing centurion who gave generously and prayed regularly. The angel said his prayers and gifts to the poor had come up as a memorial offering before God.",
+          "jordyn": "Cornelius already prayed and gave (Acts 10:2–4), and God still sent him to find Peter. What does that tell you about what God was preparing to give him?",
+          "jordynAnswer": "God had already seen his prayers and gifts, and he was not finished. Cornelius still needed to hear the good news about Jesus. God was opening a door, not leaving him with only the life he already had.",
+          "action": "Read Acts 10:1–8 together, then tell someone: God told Cornelius to send for a man named Peter.",
+          "prayer": "Father, thank you that you heard Cornelius and sent him to Peter. Thank you that you still hear prayer, and that you send the good news. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:1–8, NIV",
+          "teach": "Cornelius was a centurion in Caesarea, devout and God-fearing. He gave generously and prayed regularly. An angel called him by name and told him that his prayers and gifts had come up before God. He was to send men to Joppa for Simon who is called Peter. Cornelius told them everything and sent them.",
+          "enochActivity": "Help a grown-up say Cornelius, then fold your hands and say: God heard him!",
+          "elijah2": "In Acts 10:5–8, where was Peter staying, and what did Cornelius do?",
+          "elijahAnswer2": "Peter was staying with Simon the tanner, whose house is by the sea. Cornelius told his men everything that had happened and sent them to Joppa.",
+          "jordyn2": "Why is it important that this first reading ends with men on the road, before Peter even speaks?",
+          "jordynAnswer2": "God is already at work on both sides. Cornelius obeys and sends. The good news will travel because someone was willing to go and get the messenger. Tomorrow and later this week we will hear what Peter says when he arrives.",
+          "passageText": "1 At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment. 2 He and all his family were devout and God-fearing; he gave generously to those in need and prayed to God regularly. 3 One day at about three in the afternoon he had a vision. He distinctly saw an angel of God, who came to him and said, “Cornelius!” 4 Cornelius stared at him in fear. “What is it, Lord?” he asked. The angel answered, “Your prayers and gifts to the poor have come up as a memorial offering before God. 5 Now send men to Joppa to bring back a man named Simon who is called Peter. 6 He is staying with Simon the tanner, whose house is by the sea.” 7 When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants. 8 He told them everything that had happened and sent them to Joppa."
+        },
+        {
+          "id": "w30-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice a wide welcome, because the good news of Jesus is for every nation and people.",
+          "verse": "God does not show favoritism.",
+          "verseCite": "Acts 10:34, NIV",
+          "enoch": "Open your arms wide and say: The good news is for everyone!",
+          "elijah": "In Acts 10:34–35, what did Peter say God does not do, and whom does God accept?",
+          "elijahAnswer": "God does not show favoritism, but accepts from every nation the one who fears him and does what is right.",
+          "jordyn": "How should we play a wide-welcome game so that we honor every nation and people, and do not make anyone’s country, language, or family a joke?",
+          "jordynAnswer": "We practice a real welcome, not a sketch that copies accents or pokes fun. We say the good news is for every nation, and we treat each person as someone God can welcome.",
+          "action": "Play a wide-welcome game: stand in a small circle, take turns opening your arms toward someone, and say, The good news of Jesus is for you too. Then switch until everyone has been welcomed.",
+          "prayer": "Father, thank you that you do not show favoritism. Teach us to welcome people from every nation with honor and joy. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:34–35, NIV",
+          "teach": "When Peter arrived, he said he now realized that God does not show favoritism, but accepts from every nation the one who fears him and does what is right. Today we practice that kind of welcome: wide, glad, and respectful, because the good news of Jesus is for every nation and people.",
+          "enochActivity": "Help a grown-up open their arms with you, and say: Jesus is for every nation!",
+          "elijah2": "In Acts 10:35, whom does God accept?",
+          "elijahAnswer2": "He accepts from every nation the one who fears him and does what is right.",
+          "jordyn2": "Why is every nation a better line to practice than trying to act out armies or angels?",
+          "jordynAnswer2": "The heart of the story is the welcome of God, not a show. Cornelius was a real officer, and Peter was a real apostle, and the good news crossed a line they had not expected. We honor that by practicing welcome, not by making a play of it.",
+          "passageText": "34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right."
+        },
+        {
+          "id": "w30-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Peter tells the good news of Jesus, and the Holy Spirit is poured out even on the Gentiles.",
+          "verse": "Everyone who believes in him receives forgiveness of sins through his name.",
+          "verseCite": "Acts 10:43, NIV",
+          "enoch": "Point up, then open your arms, and say: Jesus is Lord of all!",
+          "elijah": "In Acts 10:36–43, what good news did Peter tell them about Jesus?",
+          "elijahAnswer": "God sent the good news of peace through Jesus Christ, who is Lord of all. They killed him on a cross, but God raised him from the dead on the third day. Everyone who believes in him receives forgiveness of sins through his name.",
+          "jordyn": "While Peter was still speaking, the Holy Spirit came on all who heard, even on Gentiles (Acts 10:44–45). What does that show you about God’s timing and God’s welcome?",
+          "jordynAnswer": "God did not wait for the listeners to become like Peter’s group first. The Spirit was poured out while they were hearing the good news about Jesus. The welcome is God’s work, and it is wider than the believers with Peter had expected.",
+          "action": "Read Acts 10:34–48 together, then tell someone: The Holy Spirit was poured out even on the Gentiles, and they were baptized.",
+          "prayer": "Father, thank you that Jesus is Lord of all, and that everyone who believes in him receives forgiveness through his name. Thank you that you poured out your Spirit even on people some had not expected. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:34–48, NIV",
+          "teach": "Peter said God does not show favoritism. He told them the good news of peace through Jesus Christ, who is Lord of all. They killed Jesus on a cross, but God raised him on the third day. Everyone who believes in him receives forgiveness of sins through his name. While Peter was still speaking, the Holy Spirit came on all who heard the message. Peter said no one could stand in the way of their being baptized, and they were baptized in the name of Jesus Christ.",
+          "enochActivity": "Help a grown-up sprinkle a drop of water on a fingertip, then say: They were baptized in Jesus’ name!",
+          "elijah2": "In Acts 10:47–48, what did Peter say, and what did he order?",
+          "elijahAnswer2": "He said, “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” Then he ordered that they be baptized in the name of Jesus Christ.",
+          "jordyn2": "The believers with Peter were astonished (Acts 10:45). Why might astonishment be a fitting response, and not a reason to shut the door?",
+          "jordynAnswer2": "They were seeing God do something larger than their old categories. Astonishment can turn into praise and baptism, or it can turn into a wall. Peter lets it turn into a welcome: no one can stand in the way.",
+          "passageText": "34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right. 36 You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all. 37 You know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached— 38 how God anointed Jesus of Nazareth with the Holy Spirit and power, and how he went around doing good and healing all who were under the power of the devil, because God was with him. 39 “We are witnesses of everything he did in the country of the Jews and in Jerusalem. They killed him by hanging him on a cross, 40 but God raised him from the dead on the third day and caused him to be seen. 41 He was not seen by all the people, but by witnesses whom God had already chosen—by us who ate and drank with him after he rose from the dead. 42 He commanded us to preach to the people and to testify that he is the one whom God appointed as judge of the living and the dead. 43 All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.” 44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. 46 For they heard them speaking in tongues and praising God. Then Peter said, 47 “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days."
+        },
+        {
+          "id": "w30-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Welcome someone this week, or tell them that the good news of Jesus is for every nation and people.",
+          "verse": "Surely no one can stand in the way of their being baptized with water.",
+          "verseCite": "Acts 10:47, NIV",
+          "enoch": "Hold out a welcome hand and say: The good news is for you too!",
+          "elijah": "In Acts 10:45–48, who was astonished, and what happened next?",
+          "elijahAnswer": "The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. Then Peter ordered that they be baptized, and they asked him to stay.",
+          "jordyn": "Peter would not stand in the way (Acts 10:47). What would a right-sized challenge look like for you this week, so that you are not standing in the way of someone’s welcome?",
+          "jordynAnswer": "You might welcome a person you usually pass by, sit with someone new, or tell a friend that Jesus is Lord of all and that forgiveness is for everyone who believes. The challenge is not to be Peter in Caesarea. It is to stop leaving someone out.",
+          "action": "Choose one person this week to welcome with care, or to tell that the good news of Jesus is for every nation and people — then do it.",
+          "prayer": "Father, you poured out your Spirit even on people some had not expected. Make us people who do not stand in the way, but who welcome and tell the good news. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:44–48, NIV",
+          "teach": "The Holy Spirit came on all who heard the message, even on Gentiles. Peter said no one could stand in the way of their being baptized. They were baptized in the name of Jesus Christ, and they asked Peter to stay. The good news had crossed a line, and the church’s part was to welcome, not to block the way.",
+          "enochActivity": "Help a grown-up name one person you can welcome or tell this week, and practice the words: The good news is for you too.",
+          "elijah2": "In Acts 10:48, in whose name were they baptized?",
+          "elijahAnswer2": "They were baptized in the name of Jesus Christ.",
+          "jordyn2": "They also asked Peter to stay with them for a few days (Acts 10:48). Why is staying part of a real welcome, not only a moment of surprise?",
+          "jordynAnswer2": "The good news made a new household of people who wanted to keep listening. Welcome is not only a sentence at the door. It can look like time, a table, and staying long enough to keep teaching about Jesus.",
+          "passageText": "44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles. 46 For they heard them speaking in tongues and praising God. Then Peter said, 47 “Surely no one can stand in the way of their being baptized with water. They have received the Holy Spirit just as we have.” 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days."
+        },
+        {
+          "id": "w30-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that the good news is for every nation, and ask for a wide, willing welcome.",
+          "verse": "The gift of the Holy Spirit had been poured out even on Gentiles.",
+          "verseCite": "Acts 10:45, NIV",
+          "enoch": "Open your arms and say: Thank you, God, that Jesus is for everyone!",
+          "elijah": "In Acts 10:34–35 and 10:45, what did Peter realize, and what astonished the believers with him?",
+          "elijahAnswer": "Peter realized that God does not show favoritism, but accepts from every nation the one who fears him. The believers were astonished that the Holy Spirit had been poured out even on Gentiles.",
+          "jordyn": "Cornelius prayed regularly, and then a whole household heard the good news and received the Spirit (Acts 10:2, 44–48). What would it look like to pray this story, not only to retell it?",
+          "jordynAnswer": "Thank God that he hears, that he shows no favoritism, and that forgiveness is through Jesus’ name for everyone who believes. Then ask him to give you a wide welcome, and to send the good news to people you have not expected.",
+          "action": "Pray together: thank God that the good news is for every nation and people, and ask him to help you welcome others the way Peter finally did.",
+          "prayer": "Father, thank you that you do not show favoritism, and that the good news of Jesus is for every nation and people. Thank you for pouring out your Spirit, and for forgiveness through Jesus’ name. Give us wide hearts, and make us glad to welcome. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:34–35, 44–45, NIV",
+          "teach": "Peter said God does not show favoritism, but accepts from every nation the one who fears him. While he was still speaking, the Holy Spirit came on all who heard, even on Gentiles. This is a story for thanking God, and for asking him to keep widening our welcome.",
+          "enochActivity": "Help a grown-up thank God out loud that the good news is for every nation.",
+          "elijah2": "In Acts 10:44, when did the Holy Spirit come on those who heard?",
+          "elijahAnswer2": "While Peter was still speaking these words, the Holy Spirit came on all who heard the message.",
+          "jordyn2": "How does praying this story keep both Cornelius’s house and Peter’s surprising yes in view?",
+          "jordynAnswer2": "We thank God that he heard a praying household, and that he also changed Peter’s understanding. The good news needed a messenger who would go, and listeners who would hear. Both are gifts to ask for again.",
+          "passageText": "34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right. 44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 45 The circumcised believers who had come with Peter were astonished that the gift of the Holy Spirit had been poured out even on Gentiles."
+        },
+        {
+          "id": "w30-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The good news of Jesus is for every nation and people, and next we will see the church pray and God set Peter free.",
+          "verse": "God does not show favoritism.",
+          "verseCite": "Acts 10:34, NIV",
+          "enoch": "Open your arms wide, then fold your hands, and say: The good news is for everyone! Next week, the church will pray.",
+          "elijah": "In Acts 10:34–35 and 10:44–48, what did Peter realize, and what did God do while he was still speaking?",
+          "elijahAnswer": "Peter realized that God does not show favoritism, but accepts from every nation the one who fears him. While Peter was still speaking, the Holy Spirit came on all who heard, and they were baptized in the name of Jesus Christ.",
+          "jordyn": "This week the good news crossed a line Peter had not expected. How does that get your heart ready for next week, when the church will pray and God will set Peter free?",
+          "jordynAnswer": "The same Lord who sent the good news to every nation can also set his servant free when trouble comes. Next week we will see Peter in prison, and the church praying, and God setting him free.",
+          "action": "Tell someone the week’s big idea: The good news of Jesus is for every nation and people. Then thank God, and look ahead to the church praying for Peter.",
+          "prayer": "Father, thank you that you do not show favoritism, and that the good news of Jesus is for every nation and people. Get our hearts ready to see the church pray, and to see you set Peter free. In Jesus’ name, Amen.",
+          "passageCite": "Acts 10:34–35, 44, 48, NIV",
+          "teach": "This week we learned that the good news of Jesus is for every nation and people. God heard Cornelius and sent him to Peter. Peter realized that God does not show favoritism. He told them the good news of Jesus, who is Lord of all, and everyone who believes in him receives forgiveness through his name. While Peter was still speaking, the Holy Spirit came on all who heard, and they were baptized. Next week we will see the church praying, and God setting Peter free.",
+          "enochActivity": "Help a grown-up fold their hands as if in prayer, and say: Next week the church will pray, and God will set Peter free!",
+          "elijah2": "In Acts 10:48, what did they ask Peter to do after they were baptized?",
+          "elijahAnswer2": "They asked Peter to stay with them for a few days.",
+          "jordyn2": "Why is the good news is for every nation a fitting last word before a week about Peter in prison?",
+          "jordynAnswer2": "This week we saw the good news going farther than Peter expected. Next week we will see that the same work can look like it has been stopped, when Peter is in prison. The church will pray, and God will keep his work moving.",
+          "passageText": "34 Then Peter began to speak: “I now realize how true it is that God does not show favoritism 35 but accepts from every nation the one who fears him and does what is right. 44 While Peter was still speaking these words, the Holy Spirit came on all who heard the message. 48 So he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay with them for a few days."
+        }
+      ]
     },
     {
       "id": "31",
