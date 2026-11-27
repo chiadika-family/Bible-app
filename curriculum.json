@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.24",
+  "contentVersion": "2026.11.21.25",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -6558,11 +6558,238 @@
       "planTitle": "Philip and the Ethiopian",
       "title": "Philip and the Ethiopian",
       "selectLabel": "Week 28 · Philip and the Ethiopian",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 8:26–40 (NIV)",
-      "bigIdea": "God sent Philip to help a man understand the good news about Jesus.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 29 · Saul meets Jesus",
+      "bigIdea": "God sent Philip to help a man understand the good news about Jesus.",
+      "scheduleNote": "This is the Week 28 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 8:26–31 out loud, then Acts 8:32–35, then Acts 8:36–40."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 8:26–31",
+          "text": "26 Now an angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.” 27 So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of the Kandake (which means “queen of the Ethiopians”). This man had gone to Jerusalem to worship, 28 and on his way home was sitting in his chariot reading the Book of Isaiah the prophet. 29 The Spirit told Philip, “Go to that chariot and stay near it.” 30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked. 31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him."
+        },
+        {
+          "cite": "Acts 8:32–35",
+          "text": "32 This is the passage of Scripture the eunuch was reading: “He was led like a sheep to the slaughter, and as a lamb before its shearer is silent, so he did not open his mouth. 33 In his humiliation he was deprived of justice. Who can speak of his descendants? For his life was taken from the earth.” 34 The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?” 35 Then Philip began with that very passage of Scripture and told him the good news about Jesus."
+        },
+        {
+          "cite": "Acts 8:36–40",
+          "text": "36 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?” 38 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him. 39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing. 40 Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week Stephen told the truth about Jesus, even when it cost him his life. God did not stop sending the good news. An angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.” Philip started out.",
+        "On the way he met an important official from Ethiopia, a man in charge of all the treasury of the Kandake, which means queen of the Ethiopians. The Bible also calls him a eunuch, a royal official who served the queen. He had gone to Jerusalem to worship, and on his way home he was sitting in his chariot reading the Book of Isaiah the prophet. The Spirit told Philip, “Go to that chariot and stay near it.”",
+        "Philip ran up and heard the man reading Isaiah. “Do you understand what you are reading?” Philip asked. “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him. The passage said that he was led like a sheep to the slaughter, and as a lamb before its shearer is silent, so he did not open his mouth. In his humiliation he was deprived of justice, and his life was taken from the earth. The official asked, “Tell me, please, who is the prophet talking about, himself or someone else?” Then Philip began with that very passage of Scripture and told him the good news about Jesus.",
+        "As they traveled along the road, they came to some water, and the official said, “Look, here is water. What can stand in the way of my being baptized?” He gave orders to stop the chariot. Then both of them went down into the water, and Philip baptized him. When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the official did not see him again, but went on his way rejoicing. Philip appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.",
+        "God sent Philip to help a man understand the good news about Jesus. Next week we will see that Jesus can change anyone, even someone who fought against him. We will meet Saul on the road."
+      ],
+      "enochLine": "God sent Philip to help a man understand the good news about Jesus!",
+      "enochActivities": [
+        "Activity: Go! Take a few steps as if you are heading down a road, and say: God can send me to help!",
+        "Activity: Open the good news. Open your hands like a book, then point to Jesus, and say: This good news is about Jesus!"
+      ],
+      "elijahQuestions": [
+        "In Acts 8:26–29, who told Philip to go to the desert road, and who told him to go to the chariot?",
+        "In Acts 8:30–31, what did Philip ask, and what did the official say he needed?",
+        "In Acts 8:35, what did Philip tell the official, beginning with the passage from Isaiah?",
+        "In Acts 8:36, 38–39, what did the official ask when they came to water, and what happened after he was baptized?"
+      ],
+      "elijahAnswers": [
+        "An angel of the Lord told Philip to go south to the desert road, and the Spirit told him, “Go to that chariot and stay near it.” (Acts 8:26, 29).",
+        "Philip asked, “Do you understand what you are reading?” “How can I,” he said, “unless someone explains it to me?” (Acts 8:30–31).",
+        "Philip began with that very passage of Scripture and told him the good news about Jesus (Acts 8:35).",
+        "He said, “Look, here is water. What can stand in the way of my being baptized?” Philip baptized him, the Spirit of the Lord took Philip away, and the official went on his way rejoicing (Acts 8:36, 38–39)."
+      ],
+      "jordynQuestions": [
+        "The official had already gone to Jerusalem to worship and was already reading Isaiah (Acts 8:27–28, 32–34). Why did he still need Philip?",
+        "Philip does not start with his own ideas. He begins with that very passage of Scripture and tells the good news about Jesus (Acts 8:35). What does that teach you about helping someone understand the Bible?",
+        "This week God sent Philip down a desert road. Next week we will see Saul, who had fought against Jesus, meet him. What do both stories show you about how far the good news is going?"
+      ],
+      "jordynAnswers": [
+        "Wanting to worship and even reading Scripture is not the same as understanding the good news about Jesus. He asked who the prophet was talking about, and he needed someone to explain it. God sent Philip for that very help.",
+        "Start where they are in the word, and show them Jesus. The passage was already about the one whose life was taken, and Philip used it to tell the good news. We do not have to invent a new message. We help people see Jesus in the Scriptures.",
+        "God is sending the good news to people who are searching, and he can also go after people who have been fighting him. Philip helps a worshiper from Ethiopia understand. Next week we will see that Jesus can change anyone, even Saul."
+      ],
+      "jordynApplication": "God sent Philip to help a man understand the good news about Jesus (Acts 8:26–40). This week, be ready to help someone understand a bit of Scripture, or to tell the good news about Jesus. Next week we will see that Jesus can change anyone, even someone who fought against him.",
+      "applicationCheck": "Ask her later in the week whether she had a chance to help someone understand the Bible, or to speak the good news about Jesus. If it is fitting, thank God together that he still sends people to explain, and that the official went on his way rejoicing.",
+      "prayer": "Father, thank you that you sent Philip to the desert road to help a man understand the good news about Jesus. Thank you that the Scriptures point to him, and that the official went on his way rejoicing. Make us ready to go where you send us, and to explain the good news with care. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 8:26–31",
+        "Acts 8:32–35",
+        "Acts 8:36–40",
+        "Acts 8:26",
+        "Acts 8:30–31",
+        "Acts 8:35",
+        "Acts 8:36",
+        "Acts 8:39"
+      ],
+      "dailies": [
+        {
+          "id": "w28-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "God sends Philip to a desert road, and to a chariot, to help a man understand.",
+          "verse": "How can I, unless someone explains it to me?",
+          "verseCite": "Acts 8:31, NIV",
+          "enoch": "Take a few steps and say: God can send me to help!",
+          "elijah": "In Acts 8:26–29, where did the angel tell Philip to go, and what did the Spirit tell him when he got there?",
+          "elijahAnswer": "The angel told him to go south to the desert road that goes down from Jerusalem to Gaza. The Spirit told him, “Go to that chariot and stay near it.”",
+          "jordyn": "The official was already reading Isaiah (Acts 8:28, 30). Why is Philip’s question, “Do you understand what you are reading?” such a kind and needed question?",
+          "jordynAnswer": "Reading is not the same as understanding. The official was a worshiper and a serious reader, and he still needed someone to explain the Scriptures. God sent Philip to sit with him and help.",
+          "action": "Read Acts 8:26–31 together, then tell someone: The official said he needed someone to explain what he was reading.",
+          "prayer": "Father, thank you for sending Philip to the chariot. Give us listening hearts, and make us ready to help someone understand your word. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:26–31, NIV",
+          "teach": "An angel of the Lord sent Philip south to the desert road. There he met an important official from Ethiopia, who had gone to Jerusalem to worship and was reading Isaiah in his chariot. The Spirit said, “Go to that chariot and stay near it.” Philip ran up and asked, “Do you understand what you are reading?” “How can I,” he said, “unless someone explains it to me?” Then he invited Philip to sit with him.",
+          "enochActivity": "Help a grown-up walk a few steps with you, then sit down as if in a chariot, and say: Please help me understand!",
+          "elijah2": "In Acts 8:27, who was this official, and what had he gone to Jerusalem to do?",
+          "elijahAnswer2": "He was an important official in charge of all the treasury of the Kandake, queen of the Ethiopians, and he had gone to Jerusalem to worship.",
+          "jordyn2": "God sent Philip one step at a time: first the road, then the chariot (Acts 8:26, 29). What does that teach you about following the Lord when you do not know the whole plan yet?",
+          "jordynAnswer2": "Philip started out when he was sent, and then he was told the next step. We do not have to see the whole story before we obey. God can lead us to the person who needs help understanding Jesus.",
+          "passageText": "26 Now an angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.” 27 So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of the Kandake (which means “queen of the Ethiopians”). This man had gone to Jerusalem to worship, 28 and on his way home was sitting in his chariot reading the Book of Isaiah the prophet. 29 The Spirit told Philip, “Go to that chariot and stay near it.” 30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked. 31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him."
+        },
+        {
+          "id": "w28-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice going where you are sent, and helping someone understand the good news.",
+          "verse": "The Spirit told Philip, “Go to that chariot and stay near it.”",
+          "verseCite": "Acts 8:29, NIV",
+          "enoch": "Point down an imaginary road and say: I can go and help!",
+          "elijah": "In Acts 8:30, what did Philip do when he was told to go to the chariot?",
+          "elijahAnswer": "He ran up to the chariot and heard the man reading Isaiah the prophet.",
+          "jordyn": "How should we play a go-and-help game so that we honor this official, and do not make his questions or his job a joke?",
+          "jordynAnswer": "We treat him as a real worshiper who wanted to understand. We practice running to help, listening, and explaining the good news with care, not pretending to mock anyone or make a show of the chariot.",
+          "action": "Play a go-and-help game: one person sits with an open Bible, another is sent, runs (or walks quickly) to sit beside them, and says, I can help you understand the good news about Jesus. Then switch.",
+          "prayer": "Father, thank you that Philip ran to the chariot to help. Send us with the same willing feet, and teach us to help with respect and joy. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:29–31, NIV",
+          "teach": "The Spirit told Philip to go to the chariot and stay near it. Philip ran up, heard the official reading, and asked if he understood. The official said he could not understand unless someone explained it, and he invited Philip to sit with him. Today we practice that kind of help: going when we are sent, and sitting close enough to explain.",
+          "enochActivity": "Help a grown-up pretend to send you a few steps, then sit beside them and say: I can help you understand Jesus!",
+          "elijah2": "In Acts 8:31, what did the official do after he said he needed someone to explain?",
+          "elijahAnswer2": "He invited Philip to come up and sit with him.",
+          "jordyn2": "Why is sitting with someone a better picture of Philip’s work than shouting the answer from far away?",
+          "jordynAnswer2": "The official invited him up. Help happened close, with the Scriptures open, in a real conversation. God sent Philip not only to the road, but near the chariot, to stay and explain.",
+          "passageText": "29 The Spirit told Philip, “Go to that chariot and stay near it.” 30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked. 31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him."
+        },
+        {
+          "id": "w28-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Philip begins with the Scriptures the official is already reading, and tells him the good news about Jesus.",
+          "verse": "Then Philip began with that very passage of Scripture and told him the good news about Jesus.",
+          "verseCite": "Acts 8:35, NIV",
+          "enoch": "Open your hands like a book and say: This is about Jesus!",
+          "elijah": "In Acts 8:32–34, what was the official reading about, and what did he ask Philip?",
+          "elijahAnswer": "He was reading about one who was led like a sheep to the slaughter, whose life was taken from the earth. He asked who the prophet was talking about, himself or someone else.",
+          "jordyn": "The passage is about someone silent, treated unjustly, whose life is taken (Acts 8:32–33). Why is it such good news that Philip can start there and tell him about Jesus?",
+          "jordynAnswer": "The Scriptures were already pointing to Jesus, the one who was led like a lamb and whose life was taken for us. Philip does not have to change the subject. He begins with that very passage and tells the good news.",
+          "action": "Read Acts 8:32–35 together, then tell someone: Philip started with Isaiah and told the good news about Jesus.",
+          "prayer": "Father, thank you that the Scriptures point to Jesus. Teach us to begin with your word and to tell the good news about him with clear, glad hearts. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:32–35, NIV",
+          "teach": "The official was reading about one who was led like a sheep to the slaughter, silent as a lamb, deprived of justice, his life taken from the earth. He asked who the prophet was talking about. Then Philip began with that very passage of Scripture and told him the good news about Jesus.",
+          "enochActivity": "Help a grown-up point from an open Bible to the name of Jesus, and say: The good news is about Jesus!",
+          "elijah2": "In Acts 8:35, where did Philip begin his explanation?",
+          "elijahAnswer2": "He began with that very passage of Scripture the official was already reading.",
+          "jordyn2": "Why does “that very passage” matter, instead of Philip starting somewhere easier or more familiar to himself?",
+          "jordynAnswer2": "He honored the word already open in front of them, and he honored the official’s question. Help that stays with the Scripture in hand can lead a person to Jesus, not just to our favorite verses.",
+          "passageText": "32 This is the passage of Scripture the eunuch was reading: “He was led like a sheep to the slaughter, and as a lamb before its shearer is silent, so he did not open his mouth. 33 In his humiliation he was deprived of justice. Who can speak of his descendants? For his life was taken from the earth.” 34 The eunuch asked Philip, “Tell me, please, who is the prophet talking about, himself or someone else?” 35 Then Philip began with that very passage of Scripture and told him the good news about Jesus."
+        },
+        {
+          "id": "w28-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Be ready to help someone understand the good news about Jesus this week.",
+          "verse": "Look, here is water. What can stand in the way of my being baptized?",
+          "verseCite": "Acts 8:36, NIV",
+          "enoch": "Open your hands and say: I want to follow Jesus too!",
+          "elijah": "In Acts 8:36 and 38, what did the official want to do when they came to water, and what did they do?",
+          "elijahAnswer": "He asked what could stand in the way of his being baptized. He gave orders to stop the chariot, and both of them went down into the water, and Philip baptized him.",
+          "jordyn": "The official heard the good news, understood, and wanted to be baptized at once (Acts 8:35–38). What would it look like for you to help someone understand the good news this week, at the size of your life?",
+          "jordynAnswer": "You might sit with a brother or sister and explain a verse, tell a friend that the good news is about Jesus, or ask a parent to help you practice the story. The challenge is not to be Philip on a desert road overnight. It is to be ready to help someone understand.",
+          "action": "Choose one person this week to help with a verse or the good news about Jesus — a sibling, a friend, or someone in your family — and then do it with care.",
+          "prayer": "Father, make us ready, like Philip, to help someone understand the good news about Jesus. Give us a glad yes when you send us, and give others open hearts. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:35–36, 38, NIV",
+          "teach": "Philip told him the good news about Jesus. As they traveled, they came to some water, and the official said, “Look, here is water. What can stand in the way of my being baptized?” He stopped the chariot, and Philip baptized him. When God helps someone understand, they may be ready to follow Jesus right away.",
+          "enochActivity": "Help a grown-up name one person you can tell about Jesus this week, and say: I can help them understand.",
+          "elijah2": "In Acts 8:38, who went down into the water?",
+          "elijahAnswer2": "Both Philip and the official went down into the water, and Philip baptized him.",
+          "jordyn2": "The official asks what can stand in the way. Why is that a good question after hearing the good news about Jesus?",
+          "jordynAnswer2": "He is not stalling. He has understood, and he wants to belong to Jesus now. When the good news is clear, the next step can be a glad, unhindered yes.",
+          "passageText": "35 Then Philip began with that very passage of Scripture and told him the good news about Jesus. 36 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. What can stand in the way of my being baptized?” 38 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him."
+        },
+        {
+          "id": "w28-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God for sending help to understand, and ask to be ready like Philip.",
+          "verse": "The eunuch did not see him again, but went on his way rejoicing.",
+          "verseCite": "Acts 8:39, NIV",
+          "enoch": "Clap once and say: Thank you, God, for the good news!",
+          "elijah": "In Acts 8:39–40, what happened to Philip, and how did the official go on his way?",
+          "elijahAnswer": "The Spirit of the Lord suddenly took Philip away. The official did not see him again, but went on his way rejoicing. Philip appeared at Azotus and traveled about, preaching the gospel.",
+          "jordyn": "The official goes on rejoicing even after Philip is taken away (Acts 8:39). What does that tell you about who the good news depends on?",
+          "jordynAnswer": "Philip was a gift, and then the official’s joy did not depend on keeping Philip beside him. The good news is about Jesus. We can thank God for the people who explain, and we can rejoice in Jesus himself.",
+          "action": "Pray together: thank God for someone who has helped you understand the Bible, and ask him to make you ready to help someone else.",
+          "prayer": "Father, thank you for sending people to help us understand the good news about Jesus. Fill us with the official’s joy, and make us ready, like Philip, to go where you send us. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:39–40, NIV",
+          "teach": "When they came up out of the water, the Spirit of the Lord took Philip away, and the official went on his way rejoicing. Philip appeared at Azotus and kept preaching the gospel in the towns. God can send a helper, give understanding, and then keep both people in his care.",
+          "enochActivity": "Help a grown-up thank God out loud for one person who has helped you understand Jesus.",
+          "elijah2": "In Acts 8:39, who took Philip away?",
+          "elijahAnswer2": "The Spirit of the Lord suddenly took Philip away.",
+          "jordyn2": "Philip keeps preaching after he is taken to Azotus (Acts 8:40). How does that fit with a week about being sent?",
+          "jordynAnswer2": "The same Lord who sent him to one chariot also sends him on to other towns. Being sent is not a one-time errand. God keeps giving him the good news to preach, and the official keeps going with joy.",
+          "passageText": "39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing. 40 Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea."
+        },
+        {
+          "id": "w28-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God sent Philip to help a man understand the good news about Jesus, and next we will see Saul meet Jesus.",
+          "verse": "Then Philip began with that very passage of Scripture and told him the good news about Jesus.",
+          "verseCite": "Acts 8:35, NIV",
+          "enoch": "Take a step, then open your hands, and say: God sends help so we can understand Jesus!",
+          "elijah": "In Acts 8:31 and 8:35, what did the official need, and what did Philip give him?",
+          "elijahAnswer": "He needed someone to explain the Scriptures, and Philip began with that very passage and told him the good news about Jesus.",
+          "jordyn": "This week God sent Philip down a desert road to help a worshiper understand Jesus. How does that get your heart ready for next week, when we will see Saul, who fought against Jesus, meet him on a road?",
+          "jordynAnswer": "God sends the good news both to people who are searching and to people who have been fighting him. Philip helped a man understand. Next week we will see that Jesus can change anyone, even someone who fought against him.",
+          "action": "Tell someone the week’s big idea: God sent Philip to help a man understand the good news about Jesus. Then thank God, and look ahead to Saul.",
+          "prayer": "Father, thank you that you sent Philip to help a man understand the good news about Jesus, and that the official went on his way rejoicing. Get our hearts ready to see that you can change anyone. In Jesus’ name, Amen.",
+          "passageCite": "Acts 8:26, 31, 35, 39, NIV",
+          "teach": "This week we learned that God sent Philip to help a man understand the good news about Jesus. An angel sent him to the desert road, and the Spirit sent him to the chariot. The official asked someone to explain the Scriptures. Philip began with that very passage and told him the good news about Jesus. The official was baptized and went on his way rejoicing. Next week we will see Saul meet Jesus, and we will learn that Jesus can change anyone, even someone who fought against him.",
+          "enochActivity": "Help a grown-up look down a hall as if it were a road, and say: Next week we will see Saul meet Jesus!",
+          "elijah2": "In Acts 8:39, how did the official go on his way after Philip was taken away?",
+          "elijahAnswer2": "He went on his way rejoicing.",
+          "jordyn2": "Why is this week’s picture — God sending help so a man could understand Jesus — a fitting last word before a week about Saul?",
+          "jordynAnswer2": "This week we saw God send a helper to a searching official. Next week we will see God stop a man who was going the wrong way. In both stories, Jesus is the one the good news is about, and God comes to people on the road.",
+          "passageText": "26 Now an angel of the Lord said to Philip, “Go south to the road—the desert road—that goes down from Jerusalem to Gaza.” 31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him. 35 Then Philip began with that very passage of Scripture and told him the good news about Jesus. 39 When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing."
+        }
+      ]
     },
     {
       "id": "29",

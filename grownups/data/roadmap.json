@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.147",
+  "version": "2026.11.21.154",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2263,19 +2263,19 @@
       "passages": [
         "Acts 9:1–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 191,
       "date": "2027-05-11",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Acts: God shows no favoritism",
+      "title": "Acts: God shows no favoritism",
       "passages": [
         "Acts 10:1–35",
         "Acts 10:44–48"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2286,7 +2286,7 @@
       "passages": [
         "Acts 16:6–34"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2299,7 +2299,7 @@
         "Acts 20:17–32",
         "Acts 28:23–31"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2310,7 +2310,7 @@
       "passages": [
         "Romans 1:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2321,7 +2321,7 @@
       "passages": [
         "Romans 3:9–26"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2332,7 +2332,7 @@
       "passages": [
         "Romans 5:1–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
