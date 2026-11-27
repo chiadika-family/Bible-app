@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.33",
+  "contentVersion": "2026.11.21.34",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -8703,11 +8703,238 @@
       "planTitle": "God keeps Paul safe in the storm",
       "title": "God keeps Paul safe in the storm",
       "selectLabel": "Week 37 · God keeps Paul safe in the storm",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 27:13–26, 39–44 (NIV)",
-      "bigIdea": "God kept his promise and brought Paul safely through the storm.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 38 · Paul in Rome: the good news keeps going",
+      "bigIdea": "God kept his promise and brought Paul safely through the storm.",
+      "scheduleNote": "This is the Week 37 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 27:13–20 out loud, then Acts 27:21–26, then Acts 27:39–44."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 27:13–20",
+          "text": "13 When a gentle south wind began to blow, they saw their opportunity; so they weighed anchor and sailed along the shore of Crete. 14 Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. 15 The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along. 16 As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure, 17 so the men hoisted it aboard. Then they passed ropes under the ship itself to hold it together. Because they were afraid they would run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along. 18 We took such a violent battering from the storm that the next day they began to throw the cargo overboard. 19 On the third day, they threw the ship’s tackle overboard with their own hands. 20 When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved."
+        },
+        {
+          "cite": "Acts 27:21–26",
+          "text": "21 After they had gone a long time without food, Paul stood up before them and said: “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. 22 But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. 23 Last night an angel of the God to whom I belong and whom I serve stood beside me 24 and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ 25 So keep up your courage, men, for I have faith in God that it will happen just as he told me. 26 Nevertheless, we must run aground on some island.”"
+        },
+        {
+          "cite": "Acts 27:39–44",
+          "text": "39 When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could. 40 Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach. 41 But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf. 42 The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping. 43 But the centurion wanted to spare Paul’s life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land. 44 The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week Paul stayed in Corinth with Priscilla and Aquila, and the Lord told him to keep on speaking because he was with him. Later Paul is on a ship, being taken toward Rome. When a gentle south wind began to blow, they saw their opportunity; so they weighed anchor and sailed along the shore of Crete. Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. The ship was caught by the storm and could not head into the wind; so they gave way to it and were driven along. They passed ropes under the ship to hold it together, and they began to throw the cargo overboard. When neither sun nor stars appeared for many days and the storm continued raging, they finally gave up all hope of being saved. We tell the storm simply. We do not act it out, and we do not make a game of being afraid.",
+        "After they had gone a long time without food, Paul stood up before them and said, “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. Last night an angel of the God to whom I belong and whom I serve stood beside me and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ So keep up your courage, men, for I have faith in God that it will happen just as he told me. Nevertheless, we must run aground on some island.” We hear the angel’s words with care: ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Paul has faith in God that it will happen just as he was told. God has given him the lives of all who sail with him.",
+        "After more days at sea, they came near land. When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could. They made for the beach, but the ship struck a sandbar and ran aground. The bow stuck fast, and the stern was broken to pieces by the pounding of the surf. The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping. We say this simply, with care. We do not act it out, and we do not make a game of it. But the centurion wanted to spare Paul’s life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land. The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely. God kept his promise and brought Paul safely through the storm.",
+        "Next week we will hear how Paul reached Rome, and the good news kept going."
+      ],
+      "enochLine": "God kept his promise! Everyone reached land safely!",
+      "enochActivities": [
+        "Activity: Keep up your courage. Hold a grown-up’s hand and say: Keep up your courage! God keeps his promise!",
+        "Activity: Safe on land. Step from a rug onto the floor, as if stepping onto the beach, and say: Everyone reached land safely!"
+      ],
+      "elijahQuestions": [
+        "In Acts 27:13–20, what happened after the gentle south wind, and how did the people on the ship feel after many days?",
+        "In Acts 27:21–26, what did Paul urge the men to do, and what did the angel say to him?",
+        "In Acts 27:39–41, what did they try to do when daylight came, and what happened to the ship?",
+        "In Acts 27:42–44, what did the centurion do, and how did everyone reach land?"
+      ],
+      "elijahAnswers": [
+        "Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. The ship was caught by the storm and driven along. They threw cargo and tackle overboard. When neither sun nor stars appeared for many days and the storm continued raging, they finally gave up all hope of being saved (Acts 27:13–20).",
+        "Paul urged them to keep up their courage, because not one of them would be lost; only the ship would be destroyed. An angel of the God to whom Paul belongs and whom he serves stood beside him and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Paul had faith in God that it would happen just as he was told, and they must run aground on some island (Acts 27:21–26).",
+        "They saw a bay with a sandy beach and decided to run the ship aground if they could. They made for the beach, but the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf (Acts 27:39–41).",
+        "The soldiers planned to kill the prisoners, but we say that simply and do not act it out. The centurion wanted to spare Paul’s life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land. The rest got there on planks or on other pieces of the ship. In this way everyone reached land safely (Acts 27:42–44)."
+      ],
+      "jordynQuestions": [
+        "The people on the ship give up all hope of being saved (Acts 27:20), and then Paul says they should keep up their courage, because not one of them will be lost (Acts 27:22). What does that show you about hope that comes from God’s promise, not from the weather?",
+        "The angel says, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ (Acts 27:24). How does that promise hold together Paul’s own journey and the lives of the others on the ship?",
+        "The ship is destroyed, and still everyone reaches land safely (Acts 27:41–44). Next week Paul will be in Rome, and the good news will keep going. What do you learn about the kind of safety God promised here?"
+      ],
+      "jordynAnswers": [
+        "The storm can take away every sign they trust: sun, stars, and hope of being saved. Paul does not pretend the storm is small. He points them to what God has said. Courage here is not a feeling they work up. It is trust that God’s word will stand when the sea will not.",
+        "Paul must stand trial before Caesar, so the Lord is still taking him toward Rome. And God has graciously given him the lives of all who sail with him. The promise is not only for the messenger. It is wide enough for the whole ship, even people who did not yet trust Paul’s God.",
+        "God did not promise that the ship would stay together. He promised that the people would not be lost. The ship runs aground, the stern breaks, and still everyone reaches land safely. Safety here is God’s kept word, not an easy trip. That same faithful God will take the good news on to Rome."
+      ],
+      "jordynApplication": "God kept his promise and brought Paul safely through the storm (Acts 27:13–26, 39–44). This week, when something feels too big, remember the angel’s words, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ and say out loud: Keep up your courage. God keeps his promise. Next week we will hear how Paul reached Rome, and the good news kept going.",
+      "applicationCheck": "Ask her later in the week whether she remembered to keep up her courage because God keeps his promises, or told someone that everyone on the ship reached land safely. If it is fitting, thank God together that he kept his word to Paul, and that his promises still hold.",
+      "prayer": "Father, thank you that when the storm was strong and hope was gone, you sent your word to Paul. Thank you for the angel’s words, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Thank you that everyone reached land safely. Help us keep up our courage, because you keep your promises. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 27:13–20",
+        "Acts 27:21–26",
+        "Acts 27:39–44",
+        "Acts 27:14",
+        "Acts 27:20",
+        "Acts 27:22",
+        "Acts 27:24",
+        "Acts 27:25",
+        "Acts 27:43–44"
+      ],
+      "dailies": [
+        {
+          "id": "w37-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "A gentle wind turns into a storm, and after many days the people on the ship give up all hope of being saved.",
+          "verse": "When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved.",
+          "verseCite": "Acts 27:20, NIV",
+          "enoch": "Hold a grown-up’s hand and say: The storm was strong, but God still had a promise!",
+          "elijah": "In Acts 27:13–15, what happened after the gentle south wind began to blow?",
+          "elijahAnswer": "They weighed anchor and sailed along the shore of Crete. Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. The ship was caught by the storm and could not head into the wind, so they gave way to it and were driven along.",
+          "jordyn": "In Acts 27:18–20, what do the people throw overboard, and what happens to their hope?",
+          "jordynAnswer": "They take such a violent battering that they throw the cargo overboard, and on the third day they throw the ship’s tackle overboard with their own hands. When neither sun nor stars appear for many days and the storm continues raging, they finally give up all hope of being saved.",
+          "action": "Read Acts 27:13–20 out loud. Then thank God that this story does not end with lost hope, because he still has a promise for Paul.",
+          "prayer": "Father, thank you that even when the storm was strong and hope was gone, you still had a promise for Paul. Help us trust you when we cannot see a way through. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:13–20, NIV",
+          "teach": "When a gentle south wind began to blow, they sailed along the shore of Crete. Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. The ship was caught by the storm and driven along. They threw cargo and tackle overboard. When neither sun nor stars appeared for many days, they finally gave up all hope of being saved. We tell the storm simply. We do not act it out, and we do not make a game of being afraid.",
+          "enochActivity": "Look out a window, then come back and hold a grown-up’s hand and say: We cannot always see the way, but God still keeps his promise!",
+          "elijah2": "In Acts 27:20, why did they finally give up all hope of being saved?",
+          "elijahAnswer2": "Because neither sun nor stars appeared for many days and the storm continued raging.",
+          "jordyn2": "The storm takes away the signs sailors use to find their way (Acts 27:20). What does that help you notice before Paul speaks God’s promise?",
+          "jordynAnswer2": "They are not only wet and tired. They have lost the ordinary helps they trust: sun, stars, and hope of being saved. The next word will have to come from God, not from the sky.",
+          "passageText": "13 When a gentle south wind began to blow, they saw their opportunity; so they weighed anchor and sailed along the shore of Crete. 14 Before very long, a wind of hurricane force, called the Northeaster, swept down from the island. 15 The ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along. 16 As we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat secure, 17 so the men hoisted it aboard. Then they passed ropes under the ship itself to hold it together. Because they were afraid they would run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along. 18 We took such a violent battering from the storm that the next day they began to throw the cargo overboard. 19 On the third day, they threw the ship’s tackle overboard with their own hands. 20 When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved."
+        },
+        {
+          "id": "w37-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Paul urges the men to keep up their courage, because God has promised that not one of them will be lost.",
+          "verse": "But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed.",
+          "verseCite": "Acts 27:22, NIV",
+          "enoch": "Hold a grown-up’s hand and say: Keep up your courage! God keeps his promise!",
+          "elijah": "In Acts 27:21–22, what does Paul urge the men to do, and what does he say will happen to the people and to the ship?",
+          "elijahAnswer": "He urges them to keep up their courage, because not one of them will be lost; only the ship will be destroyed.",
+          "jordyn": "Paul says not one of them will be lost, and only the ship will be destroyed (Acts 27:22). Why is it important that the promise is about the people, not about the boat staying together?",
+          "jordynAnswer": "God can keep a promise even when the thing they are standing on does not last. The storm may break the ship, and still the people are not lost. Courage here is trust in God’s word, not trust in the ship.",
+          "action": "Play Keep up your courage. Hold a grown-up’s hand, or hold a rolled towel like a shared rope, and say: Keep up your courage! God keeps his promise! Then switch. Do not act out the storm, the ship breaking, or anyone sinking.",
+          "prayer": "Father, thank you that Paul urged the men to keep up their courage, because not one of them would be lost. Teach us to trust your promise more than what we can see. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:21–22, NIV",
+          "teach": "After they had gone a long time without food, Paul stood up and told them they should have taken his advice not to sail from Crete. But now he urges them to keep up their courage, because not one of them will be lost; only the ship will be destroyed. We do not typographically close Paul’s words early. We hear the first part of his speech and wait for the rest of God’s promise.",
+          "enochActivity": "Hold both of a grown-up’s hands and say, slowly: Keep up your courage!",
+          "elijah2": "In Acts 27:22, what two things does Paul say about the people and the ship?",
+          "elijahAnswer2": "Not one of them will be lost; only the ship will be destroyed.",
+          "jordyn2": "Why might it have been hard to believe Paul’s words in Acts 27:22 after so many days of storm?",
+          "jordynAnswer2": "They have already given up all hope of being saved. The sea still looks stronger than the promise. Paul is asking them to trust God’s word before they can see land.",
+          "passageText": "21 After they had gone a long time without food, Paul stood up before them and said: “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. 22 But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed."
+        },
+        {
+          "id": "w37-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "An angel of God tells Paul not to be afraid, and Paul says he has faith that it will happen just as God told him.",
+          "verse": "‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’",
+          "verseCite": "Acts 27:24, NIV",
+          "enoch": "Place a hand over your heart and say: Do not be afraid, Paul. God keeps his promise!",
+          "elijah": "In Acts 27:23–24, who stood beside Paul, and what did he say?",
+          "elijahAnswer": "An angel of the God to whom Paul belongs and whom he serves stood beside him and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’",
+          "jordyn": "In Acts 27:25–26, why does Paul tell the men to keep up their courage, and what does he say must still happen?",
+          "jordynAnswer": "He has faith in God that it will happen just as he told him. Nevertheless, they must run aground on some island.",
+          "action": "Read Acts 27:21–26 out loud. Then thank God that he spoke to Paul in the storm, and that Paul believed it would happen just as God said.",
+          "prayer": "Father, thank you for the angel’s words, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Help us keep up our courage, because we have faith in you. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:21–26, NIV",
+          "teach": "Paul stood up and said, “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. Last night an angel of the God to whom I belong and whom I serve stood beside me and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ So keep up your courage, men, for I have faith in God that it will happen just as he told me. Nevertheless, we must run aground on some island.” The angel’s words are God’s care for Paul and for everyone sailing with him. Paul has faith in God that it will happen just as he was told, even though they must run aground on some island.",
+          "enochActivity": "Stand still, then take one brave step forward and say: I have faith in God!",
+          "elijah2": "In Acts 27:25, what reason does Paul give for keeping up courage?",
+          "elijahAnswer2": "He has faith in God that it will happen just as he told him.",
+          "jordyn2": "The angel says Paul must stand trial before Caesar, and God has graciously given him the lives of all who sail with him (Acts 27:24). What two promises are held together here?",
+          "jordynAnswer2": "God is still taking Paul where he said he would go, and he is also keeping the other people on the ship. The promise is personal to Paul, and it is wide enough for everyone sailing with him.",
+          "passageText": "21 After they had gone a long time without food, Paul stood up before them and said: “Men, you should have taken my advice not to sail from Crete; then you would have spared yourselves this damage and loss. 22 But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. 23 Last night an angel of the God to whom I belong and whom I serve stood beside me 24 and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ 25 So keep up your courage, men, for I have faith in God that it will happen just as he told me. 26 Nevertheless, we must run aground on some island.”"
+        },
+        {
+          "id": "w37-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The ship runs aground, and everyone reaches land safely, just as God had said.",
+          "verse": "The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely.",
+          "verseCite": "Acts 27:44, NIV",
+          "enoch": "Step from a rug onto the floor and say: Everyone reached land safely!",
+          "elijah": "In Acts 27:39–41, what did they see when daylight came, and what happened when they made for the beach?",
+          "elijahAnswer": "They did not recognize the land, but they saw a bay with a sandy beach and decided to run the ship aground if they could. They made for the beach, but the ship struck a sandbar and ran aground. The bow stuck fast, and the stern was broken to pieces by the pounding of the surf.",
+          "jordyn": "In Acts 27:42–44, what hard plan do we tell simply, what did the centurion do, and how did everyone reach land?",
+          "jordynAnswer": "The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping. We say this simply, with care, and we do not act it out. The centurion wanted to spare Paul’s life and kept them from carrying out their plan. Those who could swim jumped overboard first, and the rest got there on planks or on other pieces of the ship. In this way everyone reached land safely.",
+          "action": "Today’s challenge: Tell someone, In this way everyone reached land safely. Then thank God that he kept his promise, even after the ship broke. Do not act out the wreck, the swimming, or the soldiers’ plan.",
+          "prayer": "Father, thank you that the ship ran aground and still everyone reached land safely. Thank you for keeping your promise to Paul. Help us tell this part of the story with care and with thanks. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:39–44, NIV",
+          "teach": "After more days at sea, they came near land. When daylight came, they saw a bay with a sandy beach and tried to run the ship aground. The ship struck a sandbar. The bow stuck fast, and the stern was broken to pieces. The soldiers planned to kill the prisoners. We say this simply, with care. We do not act it out, and we do not make a game of it. The centurion wanted to spare Paul’s life and kept them from carrying out their plan. Those who could swim jumped first, and the rest got there on planks or on other pieces of the ship. In this way everyone reached land safely.",
+          "enochActivity": "Step from a rug onto the floor, as if stepping onto a beach, and say: God kept his promise!",
+          "elijah2": "In Acts 27:43–44, why did the centurion stop the soldiers’ plan, and how did everyone get to land?",
+          "elijahAnswer2": "He wanted to spare Paul’s life. He ordered those who could swim to jump overboard first and get to land, and the rest got there on planks or on other pieces of the ship. In this way everyone reached land safely.",
+          "jordyn2": "The ship is destroyed, and still everyone reaches land safely (Acts 27:41–44). How does that match what Paul had already said in Acts 27:22?",
+          "jordynAnswer2": "Paul had said not one of them would be lost; only the ship would be destroyed. That is exactly what happens. God’s promise did not fail when the stern broke. It was kept, down to the last person on board.",
+          "passageText": "39 When daylight came, they did not recognize the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could. 40 Cutting loose the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach. 41 But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf. 42 The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping. 43 But the centurion wanted to spare Paul’s life and kept them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land. 44 The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely."
+        },
+        {
+          "id": "w37-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that he kept his promise and brought everyone to land safely.",
+          "verse": "So keep up your courage, men, for I have faith in God that it will happen just as he told me.",
+          "verseCite": "Acts 27:25, NIV",
+          "enoch": "Fold your hands and say: Thank you, God, for keeping your promise!",
+          "elijah": "In Acts 27:24–25, what did the angel promise, and how did Paul answer that promise in prayer-like faith?",
+          "elijahAnswer": "The angel said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Paul told the men to keep up their courage, for he had faith in God that it would happen just as he told him.",
+          "jordyn": "Paul has faith in God that it will happen just as he was told (Acts 27:25). How can that shape the way your family prays when a hard day is not over yet?",
+          "jordynAnswer": "Prayer can tell the truth about the storm and still hold onto what God has said. Paul does not wait until they are already on the beach to trust God. He prays and speaks courage while they still have to run aground.",
+          "action": "Pray today’s prayer out loud as a family. Then each person can thank God for one way he has kept a promise.",
+          "prayer": "Father, thank you for the angel’s words, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Thank you that Paul had faith in you, and that everyone reached land safely. Help us keep up our courage and trust that you keep your word. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:23–26, 44, NIV",
+          "teach": "An angel of the God to whom Paul belongs stood beside him and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ Paul had faith in God that it would happen just as he was told. They had to run aground on some island, and later everyone reached land safely. Today we thank God that he kept his promise.",
+          "enochActivity": "Fold your hands, then open them like a thank-you, and say: Thank you, God! You kept your promise!",
+          "elijah2": "In Acts 27:44, what short sentence tells you that God kept the promise Paul believed in Acts 27:25?",
+          "elijahAnswer2": "In this way everyone reached land safely.",
+          "jordyn2": "Why is it good to pray about a promise after God has already kept it, not only while you are waiting (Acts 27:25, 44)?",
+          "jordynAnswer2": "Waiting prayer trusts God before you see the end. Thankful prayer remembers that he really did what he said. Both kinds of prayer teach our hearts that God’s word stands.",
+          "passageText": "23 Last night an angel of the God to whom I belong and whom I serve stood beside me 24 and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ 25 So keep up your courage, men, for I have faith in God that it will happen just as he told me. 26 Nevertheless, we must run aground on some island.” 44 The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely."
+        },
+        {
+          "id": "w37-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God kept his promise and brought Paul safely through the storm, and next the good news will keep going in Rome.",
+          "verse": "In this way everyone reached land safely.",
+          "verseCite": "Acts 27:44, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week Paul is in Rome, and the good news keeps going!",
+          "elijah": "What is this week’s big idea, and what happened at the end of the storm?",
+          "elijahAnswer": "God kept his promise and brought Paul safely through the storm. The ship ran aground, and in this way everyone reached land safely.",
+          "jordyn": "Paul heard, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ and later everyone reached land safely (Acts 27:24, 44). Next week Paul will be in Rome, and the good news will keep going. What stays the same from the storm to the next city?",
+          "jordynAnswer": "God’s promise does not end on the beach. He said Paul must stand trial before Caesar, and he also kept the people on the ship. The same faithful God who brought them safely through the storm will keep the good news moving toward Rome.",
+          "action": "Tell someone the week’s big idea: God kept his promise and brought Paul safely through the storm. Then thank God, and look ahead to Paul in Rome, where the good news keeps going.",
+          "prayer": "Father, thank you that you kept your promise and brought Paul safely through the storm, and that everyone reached land safely. Get our hearts ready to hear how the good news keeps going in Rome. In Jesus’ name, Amen.",
+          "passageCite": "Acts 27:20, 22, 24, 44, NIV",
+          "teach": "This week we learned that God kept his promise and brought Paul safely through the storm. The people on the ship gave up all hope of being saved. Paul urged them to keep up their courage, because not one of them would be lost. The angel said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ The ship ran aground, and in this way everyone reached land safely. Next week Paul will be in Rome, and the good news will keep going.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week the good news keeps going!",
+          "elijah2": "In Acts 27:22 and 27:44, how can you tell that God did what he said?",
+          "elijahAnswer2": "Paul said not one of them would be lost, and only the ship would be destroyed. At the end, the ship has broken, and everyone reached land safely.",
+          "jordyn2": "What stays the same when the story moves from a storm at sea to Paul in Rome next week?",
+          "jordynAnswer2": "The God who kept his promise in the storm is the same God who is taking Paul where he said he would go. The ship does not last, and the good news still does.",
+          "passageText": "20 When neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved. 22 But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed. 24 and said, ‘Do not be afraid, Paul. You must stand trial before Caesar; and God has graciously given you the lives of all who sail with you.’ 44 The rest were to get there on planks or on other pieces of the ship. In this way everyone reached land safely."
+        }
+      ]
     },
     {
       "id": "38",

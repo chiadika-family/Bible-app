@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.210",
+  "version": "2026.11.21.217",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2992,18 +2992,18 @@
       "passages": [
         "Jude 1:1–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 254,
       "date": "2027-07-13",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Revelation: a vision of the risen Christ among the lampstands",
+      "title": "Revelation: a vision of the risen Christ among the lampstands",
       "passages": [
         "Revelation 1:9–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3015,7 +3015,7 @@
         "Revelation 2:1–11",
         "Revelation 3:14–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3026,7 +3026,7 @@
       "passages": [
         "Revelation 5:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3038,7 +3038,7 @@
         "Revelation 7:9–17",
         "Revelation 12:7–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3049,7 +3049,7 @@
       "passages": [
         "Revelation 19:1–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3061,7 +3061,7 @@
         "Revelation 20:11–15",
         "Revelation 21:1–8"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
