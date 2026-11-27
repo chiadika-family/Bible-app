@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.10",
+  "contentVersion": "2026.11.21.11",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -3223,9 +3223,240 @@
       "planTitle": "Faith and repentance (the lost son)",
       "title": "Faith and repentance (the lost son)",
       "selectLabel": "Week 14 · Faith and repentance (the lost son)",
-      "ready": false,
+      "ready": true,
+      "passage": "Luke 15:11–32; Mark 1:15 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 15 · Prayer: talking with our Father",
+      "bigIdea": "Jesus tells about a son who wasted what his father gave him, came to his senses, and said, “I have sinned.” The father ran to welcome him home. That is a picture of repentance and faith: we turn from our sin and trust the Father who comes to meet us.",
+      "scheduleNote": "This is the Week 14 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Luke 15:11–32 out loud in two parts, then read Mark 1:15, where Jesus says, “Repent and believe the good news!”"
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "kind": "scripture",
+          "cite": "Luke 15:11–24",
+          "text": "11 Jesus continued: “There was a man who had two sons. 12 The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. 13 “Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. 14 After he had spent everything, there was a severe famine in that whole country, and he began to be in need. 15 So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. 16 He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything. 17 “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! 18 I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. 19 I am no longer worthy to be called your son; make me like one of your hired servants.’ 20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate."
+        },
+        {
+          "kind": "scripture",
+          "cite": "Luke 15:25–32",
+          "text": "25 “Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. 26 So he called one of the servants and asked him what was going on. 27 ‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’ 28 “The older brother became angry and refused to go in. So his father went out and pleaded with him. 29 But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. 30 But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’ 31 “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. 32 But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”"
+        },
+        {
+          "kind": "scripture",
+          "cite": "Mark 1:15",
+          "text": "15 “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that we were dead in our sins, and that Jesus paid for our sin. Salvation is a gift of grace we cannot earn. This week we ask: how do we come home to God? Jesus tells a story about a father and two sons to help us see.",
+        "The younger son asked for his share of the family’s goods while his father was still living, then went far away and wasted it all. When he had nothing left, he was so hungry he wanted to eat the pods he was feeding to pigs. Then he came to his senses. He said, “I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.” That is repentance: he turned around, told the truth about his sin, and went home.",
+        "While he was still a long way off, his father saw him, ran to him, threw his arms around him, and kissed him. The son started his confession, but the father was already calling for the best robe, a ring, and a feast. “This son of mine was dead and is alive again; he was lost and is found.” The father did not make him earn his way back. He welcomed him with joy.",
+        "The older son had stayed home and worked, and he became angry. He would not go in to the party. The father went out to him too, and said, “You are always with me, and everything I have is yours. But we had to celebrate, because this brother of yours was dead and is alive again.” Coming home is a gift. Being “the good one” can keep a person standing outside the feast.",
+        "Jesus also said, “The kingdom of God has come near. Repent and believe the good news!” Faith and repentance belong together: we turn from going our own way, and we trust the Father who runs to meet us because of Jesus."
+      ],
+      "enochLine": "I can tell God I’m sorry and come home. My Father runs to me!",
+      "enochActivities": [
+        "Activity: The long way home. Have Enoch take a few steps away, then turn around and run back into a parent’s hug. Say together, “I’m sorry. I’m home! The Father runs to me!”",
+        "Activity: The welcome feast. Set a napkin or paper “robe” on Enoch’s shoulders and say, “You were lost, and now you’re found. Let’s celebrate!”"
+      ],
+      "elijahQuestions": [
+        "In Luke 15:18, what did the younger son decide to say to his father?",
+        "In Luke 15:20, what did the father do when he saw his son still a long way off?",
+        "In Luke 15:24, how did the father describe what had happened to his son?",
+        "In Mark 1:15, what two things did Jesus say to do because the kingdom of God has come near?"
+      ],
+      "jordynQuestions": [
+        "The son planned a speech about being a hired servant (Luke 15:18–21). What does the father’s welcome in verses 20–24 tell you about how God receives people who repent?",
+        "The older son was angry and would not go in (Luke 15:28–30). What was wrong with the way he thought about his father and his brother?",
+        "Jesus said, “Repent and believe the good news” (Mark 1:15). How do both parts matter if someone only says “sorry” but does not trust the Father, or only says they believe but will not turn?"
+      ],
+      "jordynApplication": "Repentance is telling the truth and turning toward the Father; faith is trusting his welcome (Luke 15:18–24; Mark 1:15). This week, if you need to confess something, do not delay and do not try to earn your way back. Tell God, and if you have wronged someone at home, go to them too. Then thank the Father that he runs to meet you.",
+      "elijahAnswers": [
+        "“Father, I have sinned against heaven and against you” (Luke 15:18). He also planned to say he was no longer worthy to be called a son.",
+        "“He ran to his son, threw his arms around him and kissed him” (Luke 15:20).",
+        "“This son of mine was dead and is alive again; he was lost and is found” (Luke 15:24).",
+        "“Repent and believe the good news!” (Mark 1:15)."
+      ],
+      "jordynAnswers": [
+        "The father ran, embraced him, and restored him as a son with a robe, a ring, and a feast before the speech was even finished (Luke 15:20–24). God welcomes repenting people with joy, not as hired hands who must earn their way back.",
+        "He treated his years at home like unpaid labor, and he would not share his father’s joy that a lost brother was found (Luke 15:28–32). He was close to the house and far from the father’s heart.",
+        "Repentance is turning; faith is trusting the good news (Mark 1:15). Sorry without trust is only words; belief that will not turn is not the coming-home Jesus describes. We need both: turn from our own way and trust the Father who runs to meet us."
+      ],
+      "applicationCheck": "Ask her later in the week whether she had a chance to confess something and to thank God for his welcome. If it is fitting, share one place you needed to come home to the Father too, and pray for each other.",
+      "prayer": "Dear Father, thank you for running to meet us when we have sinned and come home. Thank you that Jesus said, “Repent and believe the good news.” We confess that we have gone our own way. Please forgive us, welcome us, and give us joy like the father’s joy when the lost son was found. Help us not to stand outside like the older brother. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w14-d2",
+          "day": 2,
+          "label": "Day 2",
+          "kind": "Passage",
+          "focus": "The lost son came to his senses, said “I have sinned,” and started home. While he was still a long way off, his father ran to him.",
+          "verse": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.",
+          "verseCite": "Luke 15:20, NIV",
+          "enoch": "Take a few steps away, then run back for a hug and say, “I’m sorry! I’m home!”",
+          "elijah": "In Luke 15:17, what happened to the younger son in the far country?",
+          "elijahAnswer": "“He came to his senses” (verse 17).",
+          "jordyn": "The father ran while the son was “still a long way off” (verse 20). What does that tell you about God’s welcome when someone begins to turn back?",
+          "jordynAnswer": "God’s compassion meets us before we have finished getting home or making a perfect speech (verses 20–24). He is not waiting at the door with his arms crossed.",
+          "action": "Read Luke 15:20–24 together. Then each person thanks the Father for one way he has welcomed your family.",
+          "prayer": "Father, thank you that you are filled with compassion and that you run to meet us when we come home. We have sinned against heaven and against you. Welcome us, and make our house a place of that same joy. In Jesus’ name, Amen.",
+          "passageCite": "Luke 15:11–24, NIV",
+          "teach": "On Sunday we heard Jesus’ story of a father and two sons. The younger son asked for his share, went far away, and wasted everything. When he was hungry and alone, “he came to his senses.” He did not make excuses. He planned to say, “Father, I have sinned against heaven and against you.” That is repentance: turning around and telling the truth. And here is the surprise of grace: “While he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son.” The son started his speech, but the father was already calling for the best robe, a ring, and a feast. “This son of mine was dead and is alive again; he was lost and is found.” Coming home is not earning a hired place. It is being welcomed as a child.",
+          "enochActivity": "Practice the welcome: a parent pretends to see Enoch “a long way off,” then runs to hug him. Say, “The Father runs to me!”",
+          "elijah2": "Find it in the passage: In verse 21, what did the son say to his father?",
+          "elijahAnswer2": "“Father, I have sinned against heaven and against you. I am no longer worthy to be called your son” (verse 21).",
+          "jordyn2": "The father said the son “was dead and is alive again” (verse 24). How does that fit with what we learned last week about being made alive with Christ?",
+          "jordynAnswer2": "Last week we heard that we were dead in our sins and God made us alive with Christ. This story pictures the same gift: a lost, as-good-as-dead son is alive again because the father welcomes him home.",
+          "passageText": "11 Jesus continued: “There was a man who had two sons. 12 The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. 13 “Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. 14 After he had spent everything, there was a severe famine in that whole country, and he began to be in need. 15 So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. 16 He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything. 17 “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! 18 I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. 19 I am no longer worthy to be called your son; make me like one of your hired servants.’ 20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate."
+        },
+        {
+          "id": "w14-d3",
+          "day": 3,
+          "label": "Day 3",
+          "kind": "Game",
+          "focus": "Repentance is turning around. The son did not stay in the far country making promises. He got up and went home.",
+          "verse": "I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you.",
+          "verseCite": "Luke 15:18, NIV",
+          "enoch": "Turn around in a circle, then walk toward a parent and say, “I will go back to my Father!”",
+          "elijah": "In Luke 15:18, what did the son say he would do?",
+          "elijahAnswer": "“I will set out and go back to my father and say… Father, I have sinned” (verse 18).",
+          "jordyn": "What is the difference between only feeling sorry and doing what the son does in verses 18–20?",
+          "jordynAnswer": "Feeling sorry can stay in the far country. The son got up, went, and confessed, “I have sinned.” Repentance includes turning and coming home.",
+          "action": "Play the far-country game once, then read verses 18–20. If anyone in the family has something to make right, help them take a first step today.",
+          "prayer": "Father, thank you that repentance means we can get up and come home. Give us courage to tell the truth and to turn, and thank you that you run to meet us. In Jesus’ name, Amen.",
+          "passageCite": "Luke 15:17–24, NIV",
+          "teach": "The son came to his senses in a hard place, among the pigs. He remembered his father’s house, and he made a decision: “I will set out and go back to my father.” Repentance is not only feeling sad. It is turning around and going home, telling the truth: “I have sinned.” Jesus wants us to see both the son’s turn and the father’s run. If we only feel bad and never turn, we are still in the far country. If we think we have to finish a perfect speech before God will love us, we have not yet seen the father run.",
+          "enochActivity": "Game: Far country, home. Mark two spots on the floor. Stand in the “far country,” then on the count of three everyone turns and runs “home” for a hug. Laugh, then say, “Repent means turn around and come home!”",
+          "elijah2": "Find it in the passage: In verse 20, did the son actually go, or only talk about going?",
+          "elijahAnswer2": "“So he got up and went to his father” (verse 20). He really went.",
+          "jordyn2": "Is there something this week you need to “get up and go” about — a confession to God, or to someone at home — instead of only meaning to?",
+          "jordynAnswer2": "Answers will vary. The point is to take a real step like verse 20, not to stay in the far country with a plan you never start.",
+          "passageText": "17 “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! 18 I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. 19 I am no longer worthy to be called your son; make me like one of your hired servants.’ 20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate."
+        },
+        {
+          "id": "w14-d4",
+          "day": 4,
+          "label": "Day 4",
+          "kind": "Passage",
+          "focus": "The older son stayed close to the house and far from the father’s joy. The father went out to him too, and invited him into the feast.",
+          "verse": "But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.",
+          "verseCite": "Luke 15:32, NIV",
+          "enoch": "When someone is happy, can you be happy too? Practice a cheer: “Let’s celebrate! He was lost, and now he’s found!”",
+          "elijah": "In Luke 15:28, what did the older son refuse to do?",
+          "elijahAnswer": "“He refused to go in” (verse 28). He was angry.",
+          "jordyn": "The older son said “this son of yours” (verse 30) instead of “my brother.” Why does that matter?",
+          "jordynAnswer": "He would not claim his brother. He wanted the father to take his side against the one who had come home. The father answers, “this brother of yours” (verse 32).",
+          "action": "Read Luke 15:31–32 together. Then each person names one person they can rejoice over, or one place they have been standing outside the feast.",
+          "prayer": "Father, thank you that you come out to the angry older son as well as to the lost younger one. Keep us from refusing to go in. Give us your joy when the lost are found. In Jesus’ name, Amen.",
+          "passageCite": "Luke 15:25–32, NIV",
+          "teach": "The older son was in the field when the music started. He heard about the feast for his brother and became angry. He would not go in. Notice that the father went out to him too. The older son listed his years of work and complained that he had never even received a young goat. He would not call the younger one “my brother,” only “this son of yours.” The father said, “My son, you are always with me, and everything I have is yours.” “But we had to celebrate… because this brother of yours was dead and is alive again.” You can stay near the house and still miss the father’s heart. Faith is not only avoiding the far country. It is sharing the Father’s joy when a lost person comes home.",
+          "enochActivity": "Make a tiny “feast” with a snack. Invite everyone to sit down. If someone hangs back, a parent goes to them like the father and says, “Come in! Everything I have is yours.”",
+          "elijah2": "Find it in the passage: In verse 31, what did the father tell the older son?",
+          "elijahAnswer2": "“My son, you are always with me, and everything I have is yours” (verse 31).",
+          "jordyn2": "When have you been more like the older son than the younger one — sure you have done the right things, and slow to rejoice when God is kind to someone else?",
+          "jordynAnswer2": "Answers will vary. The warning is that working hard and staying home is not the same as sharing the father’s heart (verses 28–32).",
+          "passageText": "25 “Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. 26 So he called one of the servants and asked him what was going on. 27 ‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’ 28 “The older brother became angry and refused to go in. So his father went out and pleaded with him. 29 But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. 30 But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’ 31 “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. 32 But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”"
+        },
+        {
+          "id": "w14-d5",
+          "day": 5,
+          "label": "Day 5",
+          "kind": "Challenge",
+          "focus": "Jesus says the kingdom of God has come near. The right response is two words that belong together: repent, and believe the good news.",
+          "verse": "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”",
+          "verseCite": "Mark 1:15, NIV",
+          "enoch": "Hold up one finger and say, “Repent — turn!” Hold up a second finger and say, “Believe the good news!”",
+          "elijah": "In Mark 1:15, what has come near?",
+          "elijahAnswer": "“The kingdom of God” (Mark 1:15).",
+          "jordyn": "Why does Jesus put “repent” and “believe” together, instead of only one or the other?",
+          "jordynAnswer": "Turning without trust is just trying harder. Believing without turning leaves us in the far country. Jesus calls us to both (Mark 1:15), like the son who came home and trusted the father’s welcome.",
+          "action": "Read Mark 1:15 twice. Then each person names one way they need to turn, and one part of the good news they will trust today.",
+          "prayer": "Lord Jesus, you said the kingdom of God has come near. Help us repent and believe the good news. Turn us from our own way, wipe out our sins, and send times of refreshing from the Lord. Amen.",
+          "passageCite": "Mark 1:15; Acts 3:19, NIV",
+          "teach": "Jesus did not only tell a story about coming home. He also gave a clear call: “The time has come. The kingdom of God has come near. Repent and believe the good news!” Repent means turn. Believe means trust the good news — the news we heard last week, that Jesus paid for our sin, and the news in the story, that the Father runs to welcome us. Peter later said, “Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord.” Turning and trusting are not two different religions. They are how we come home.",
+          "enochActivity": "Two-step challenge: take one step to the side (“I was going my own way”), then turn and take a step toward a parent (“I trust you”). Say Mark 1:15 together: “Repent and believe the good news!”",
+          "elijah2": "Find it in the passage: In Acts 3:19, what happens when we repent and turn to God?",
+          "elijahAnswer2": "Our “sins may be wiped out,” and “times of refreshing may come from the Lord” (Acts 3:19).",
+          "jordyn2": "Acts 3:19 says sins can be “wiped out.” If you have already trusted Jesus, how can this still be a daily call — and if you are still coming, what is a first step?",
+          "jordynAnswer2": "Followers of Jesus still turn when we sin, and we keep trusting the same good news. If you are still coming, the first step is the son’s step: tell the truth and come to the Father. Parents can help you pray.",
+          "passageText": "15 “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” 19 Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord,"
+        },
+        {
+          "id": "w14-d6",
+          "day": 6,
+          "label": "Day 6",
+          "kind": "Prayer",
+          "focus": "A repenting heart asks God for mercy. We can pray David’s words: have mercy, create a pure heart, and receive a broken and contrite heart.",
+          "verse": "My sacrifice, O God, is a broken spirit; a broken and contrite heart you, God, will not despise.",
+          "verseCite": "Psalm 51:17, NIV",
+          "enoch": "Fold your hands and pray, “Have mercy on me, O God. Give me a clean heart.”",
+          "elijah": "In Psalm 51:1, what does David ask for, and why?",
+          "elijahAnswer": "“Have mercy on me, O God, according to your unfailing love” (verse 1). He asks for mercy because of God’s love, not because he has earned it.",
+          "jordyn": "David says, “Against you, you only, have I sinned” (verse 4). What does he mean, if our sin also hurts other people?",
+          "jordynAnswer": "All sin is first against God, even when it also wounds people (verse 4). We confess to God, and we still need to make things right with those we have hurt, like the son who said he had sinned “against heaven and against you.”",
+          "action": "Read Psalm 51:1 and 51:10 together, then let each person pray one short sentence of confession or one sentence of thanks for mercy.",
+          "prayer": "Have mercy on us, O God, according to your unfailing love. Wash us clean, create in us a pure heart, and do not despise our broken and contrite hearts. Thank you that you run to meet us. In Jesus’ name, Amen.",
+          "passageCite": "Psalm 51:1–4, 10, 17, NIV",
+          "teach": "David prayed this after he had sinned badly and then told the truth about it. He did not ask God to pay him what he had earned. He asked for mercy: “Have mercy on me, O God, according to your unfailing love.” He asked to be washed clean. He said, “Against you, you only, have I sinned.” He asked for a new start inside: “Create in me a pure heart, O God, and renew a steadfast spirit within me.” And he told God what the Lord will not despise: “a broken and contrite heart.” That is the younger son’s heart, and it is a good prayer for a family that wants to come home.",
+          "enochActivity": "Pray Psalm 51:10 with Enoch, one short phrase at a time: “Create in me a pure heart, O God.” Then a hug, because God does not despise a sorry heart.",
+          "elijah2": "Find it in the passage: In verse 10, what does David ask God to create?",
+          "elijahAnswer2": "“A pure heart,” and he asks God to “renew a steadfast spirit within me” (verse 10).",
+          "jordyn2": "Verse 17 says God will not despise a broken and contrite heart. How can that make it safer to pray honestly tonight, instead of hiding?",
+          "jordynAnswer2": "God does not push away a truly sorry heart (verse 17). We can tell him the truth, like the lost son, and ask him to create a pure heart in us.",
+          "passageText": "1 Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. 2 Wash away all my iniquity and cleanse me from my sin. 3 For I know my transgressions, and my sin is always before me. 4 Against you, you only, have I sinned and done what is evil in your sight; so you are right in your verdict and justified when you judge. 10 Create in me a pure heart, O God, and renew a steadfast spirit within me. 17 My sacrifice, O God, is a broken spirit; a broken and contrite heart you, God, will not despise."
+        },
+        {
+          "id": "w14-d7",
+          "day": 7,
+          "label": "Day 7",
+          "kind": "Recap",
+          "focus": "Recap: The lost son came home, and the father ran to meet him. Jesus says, “Repent and believe the good news.” We turn from our sin and trust the Father who welcomes us.",
+          "verse": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.",
+          "verseCite": "Luke 15:20, NIV",
+          "enoch": "Ask, “What did the father do when he saw his son?” (He ran!) “What does Jesus tell us to do?” (Repent and believe!)",
+          "elijah": "In Luke 15:20, when did the father run to his son?",
+          "elijahAnswer": "“While he was still a long way off” (verse 20).",
+          "jordyn": "This week we also met the older brother. Why does a recap of the lost son need that part of the story too?",
+          "jordynAnswer": "We can stay near the house and still refuse the father’s joy (Luke 15:28–32). Coming home is for the runaway and for the one who is angry that grace is being given away.",
+          "action": "Read Luke 15:20 and Mark 1:15 together. Then each person shares one thing they learned this week and one way they want to come home to the Father.",
+          "prayer": "Father, thank you for running to meet us while we were still a long way off. Help us repent and believe the good news, and make our family quick to come home and quick to celebrate. In Jesus’ name, Amen.",
+          "passageCite": "Luke 15:20–24; Mark 1:15, NIV",
+          "teach": "Today we look back at our week. The younger son came to his senses, said “I have sinned,” and went home. The father ran, embraced him, and said he was dead and is alive again, lost and is found. The older son would not go in, and the father went out to him too. Jesus calls us to the same coming-home: “Repent and believe the good news.” David taught us to pray for mercy and a pure heart. This is how we come to the Father after last week’s news that Jesus paid for our sin: we turn, we trust, and we are welcomed.",
+          "enochActivity": "Replay the welcome hug or the far-country game one last time. Say together, “I was lost, and I am found. The Father runs to me!”",
+          "elijah2": "Find it in the passage: In Mark 1:15, what two things does Jesus tell us to do?",
+          "elijahAnswer2": "“Repent and believe the good news!” (Mark 1:15).",
+          "jordyn2": "How will you practice both repenting and believing this coming week — at home, at school, or when you fail?",
+          "jordynAnswer2": "Answers will vary: confess quickly, trust the Father’s welcome instead of hiding, rejoice when someone else is forgiven, pray Psalm 51. The call is still Mark 1:15.",
+          "passageText": "20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate. 15 “The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”"
+        }
+      ],
+      "lessonVerses": [
+        "Luke 15:11–24",
+        "Luke 15:25–32",
+        "Mark 1:15",
+        "Acts 3:19",
+        "Psalm 51:1–4",
+        "Psalm 51:10",
+        "Psalm 51:17"
+      ]
     },
     {
       "id": "15",

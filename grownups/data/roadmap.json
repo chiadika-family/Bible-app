@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.49",
+  "version": "2026.11.21.56",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1127,7 +1127,7 @@
         "Nehemiah 4:6–23",
         "Nehemiah 6:15–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1139,7 +1139,7 @@
         "Nehemiah 8:1–12",
         "Nehemiah 9:5–8"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1152,7 +1152,7 @@
         "Esther 3:1–6",
         "Esther 4:12–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1165,7 +1165,7 @@
         "Esther 7:1–10",
         "Esther 9:20–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1176,7 +1176,7 @@
       "passages": [
         "Job 1:1–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1188,7 +1188,7 @@
         "Job 2:11–13",
         "Job 3:1–26"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1200,7 +1200,7 @@
         "Job 19:23–27",
         "Job 23:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
