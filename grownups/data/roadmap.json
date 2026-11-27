@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.133",
+  "version": "2026.11.21.140",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2100,19 +2100,19 @@
       "passages": [
         "Luke 15:1–32"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 177,
       "date": "2027-04-27",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Luke: the Pharisee and the tax collector; Zacchaeus",
+      "title": "Luke: the Pharisee and the tax collector; Zacchaeus",
       "passages": [
         "Luke 18:9–17",
         "Luke 19:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2124,7 +2124,7 @@
         "Luke 22:14–23",
         "Luke 22:39–46"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2136,7 +2136,7 @@
         "Luke 24:13–35",
         "Luke 24:44–53"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2147,7 +2147,7 @@
       "passages": [
         "John 1:1–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2158,7 +2158,7 @@
       "passages": [
         "John 3:1–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2170,7 +2170,7 @@
         "John 4:1–26",
         "John 4:39–42"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

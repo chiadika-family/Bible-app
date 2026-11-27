@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.22",
+  "contentVersion": "2026.11.21.23",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -6091,11 +6091,232 @@
       "planTitle": "The church shares what they have",
       "title": "The church shares what they have",
       "selectLabel": "Week 26 · The church shares what they have",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 2:42–47; 4:32–35 (NIV)",
-      "bigIdea": "The first church prayed, learned, and shared so no one was in need.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 27 · Stephen: faithful to Jesus",
+      "bigIdea": "The first church prayed, learned, and shared so no one was in need.",
+      "scheduleNote": "This is the Week 26 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 2:42–47 out loud, then Acts 4:32–35."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 2:42–47",
+          "text": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+        },
+        {
+          "cite": "Acts 4:32–35",
+          "text": "32 All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. 33 With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all 34 that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales 35 and put it at the apostles’ feet, and it was distributed to anyone who had need."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week Peter and John were bold at the temple. Jesus healed a lame man, and they said that salvation is found in no one else. This week we see the same church, not only speaking the name of Jesus, but sharing what they have, so that no one was in need. The first church prayed, learned, and shared.",
+        "The believers devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need. Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.",
+        "Acts says it again a little later. All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all that there were no needy persons among them. From time to time those who owned land or houses sold them, brought the money from the sales, and put it at the apostles’ feet, and it was distributed to anyone who had need.",
+        "This is what Jesus’ people looked like when the Spirit had come and they were bold to say his name: they learned, they prayed, they ate together, and they shared, so that no one was left in need. Need is not a joke, and sharing is not showing off. It is grace at work in a family that belongs to Jesus.",
+        "Next week we will see that this same church also had people who stayed faithful to Jesus when it was hard. We will meet Stephen, who told the truth about Jesus, even when it cost him."
+      ],
+      "enochLine": "God’s church learns, prays, and shares, so no one is left in need!",
+      "enochActivities": [
+        "Activity: Open hands. Hold your hands out like you are sharing a gift and say: We can share!",
+        "Activity: Learn, pray, share. Touch your head, fold your hands, then open them, and say: We learn, we pray, we share!"
+      ],
+      "elijahQuestions": [
+        "In Acts 2:42, what four things did the believers devote themselves to?",
+        "In Acts 2:44–45, how did the believers treat what they had, and why?",
+        "In Acts 4:32, what does it mean that the believers were one in heart and mind?",
+        "In Acts 4:34–35, why were there no needy persons among them?"
+      ],
+      "elijahAnswers": [
+        "They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer (Acts 2:42).",
+        "All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need (Acts 2:44–45).",
+        "No one claimed that any of their possessions was their own, but they shared everything they had (Acts 4:32). They were united, and their unity showed in how they treated their things.",
+        "From time to time those who owned land or houses sold them, brought the money, put it at the apostles’ feet, and it was distributed to anyone who had need (Acts 4:34–35)."
+      ],
+      "jordynQuestions": [
+        "Acts 2:42–47 shows a church that learns, prays, eats together, and shares. Why do all of those belong together, not just one of them?",
+        "Acts 4:33 says the apostles testified to the resurrection of the Lord Jesus with great power, and God’s grace was powerfully at work so that there were no needy persons among them. How does the resurrection news belong with their sharing?",
+        "This week the church shares so no one is in need. Next week we will meet Stephen, who was faithful to Jesus even when it cost him. How are generosity and faithfulness both ways of belonging to Jesus?"
+      ],
+      "jordynAnswers": [
+        "They are one family. Learning the apostles’ teaching, praying, breaking bread, and sharing with anyone who had need are all part of the same new life. If they only learned and never shared, or only shared and never prayed, they would be missing what this church actually did.",
+        "The apostles are telling the truth that Jesus is alive, and that same grace is at work in how they treat one another. The risen Lord is not only a message they speak. His grace makes a people who will not leave a brother or sister in need.",
+        "The same people who share what they have also tell the truth about Jesus. Next week we will see Stephen stay faithful when it is hard. Belonging to Jesus changes how we use our things and how we stand for his name."
+      ],
+      "jordynApplication": "The first church prayed, learned, and shared so no one was in need (Acts 2:42–47; 4:32–35). This week, share something you actually have — time, a belonging, or help — and get your heart ready to stay faithful to Jesus, as we will see in Stephen next week.",
+      "applicationCheck": "Ask her later in the week whether she shared something, or noticed a need and helped. If it is fitting, thank God together that his grace can make a people who learn, pray, and share, so no one is left in need.",
+      "prayer": "Father, thank you that the first church devoted themselves to the apostles’ teaching, to fellowship, to the breaking of bread, and to prayer, and that they shared so no one was in need. Make us that kind of people. Teach us, hear our prayers, and open our hands. Get us ready to be faithful to Jesus. In his name, Amen.",
+      "lessonVerses": [
+        "Acts 2:42–47",
+        "Acts 4:32–35",
+        "Acts 2:42",
+        "Acts 2:44–45",
+        "Acts 4:32",
+        "Acts 4:34–35"
+      ],
+      "dailies": [
+        {
+          "id": "w26-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The first church devoted themselves to learning, fellowship, bread, and prayer.",
+          "verse": "They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.",
+          "verseCite": "Acts 2:42, NIV",
+          "enoch": "Fold your hands and say: We can learn and pray together!",
+          "elijah": "In Acts 2:42, what did the believers devote themselves to?",
+          "elijahAnswer": "The apostles’ teaching and fellowship, the breaking of bread, and prayer.",
+          "jordyn": "Why does Luke start this picture of the church with devotion, not with a list of things they bought or sold?",
+          "jordynAnswer": "Sharing grows out of a life together with Jesus. They first gave themselves to the teaching, to one another, to the table, and to prayer. The generous church is a devoted church.",
+          "action": "Read Acts 2:42–47 together, then tell someone the four things the church devoted themselves to.",
+          "prayer": "Father, make us devoted like this first church: eager to learn, glad to be together, faithful to pray, and ready to share. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:42–47, NIV",
+          "teach": "The new believers did not treat Jesus as a one-day story. They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. They were together and had everything in common. They sold property and possessions to give to anyone who had need. Every day they met in the temple courts, broke bread in their homes, and ate together with glad and sincere hearts, praising God. And the Lord added to their number daily those who were being saved.",
+          "enochActivity": "Help a grown-up touch your head, then fold your hands, and say: We learn, and we pray!",
+          "elijah2": "In Acts 2:46, where did they meet, and how did they eat together?",
+          "elijahAnswer2": "They continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts.",
+          "jordyn2": "The Lord added to their number daily those who were being saved (Acts 2:47). How does that belong with a glad, sharing church?",
+          "jordynAnswer2": "People could see a family that praised God and took care of one another. The Lord was saving people, and he was adding them to a church that already knew how to learn, pray, eat, and share.",
+          "passageText": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+        },
+        {
+          "id": "w26-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "They had everything in common, and they gave to anyone who had need.",
+          "verse": "All the believers were together and had everything in common.",
+          "verseCite": "Acts 2:44, NIV",
+          "enoch": "Hold out a toy or a snack and say: I can share!",
+          "elijah": "In Acts 2:45, what did they sell, and what did they do with it?",
+          "elijahAnswer": "They sold property and possessions to give to anyone who had need.",
+          "jordyn": "How should we play a sharing game so that need is treated with dignity, not as a joke?",
+          "jordynAnswer": "We do not pretend someone’s need is funny. We practice open hands. The first church gave so that anyone who had need received help, and the right feeling is gladness, not showing off or making fun.",
+          "action": "Play a share-around: each person puts one small item in a basket, then you give those items out so no one is left with nothing. Then thank God that his church can share.",
+          "prayer": "Father, thank you that the first church had everything in common and gave to anyone who had need. Teach us to share with glad hearts, and to treat every person with dignity. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:44–45, NIV",
+          "teach": "All the believers were together and had everything in common. They sold property and possessions to give to anyone who had need. This was not a game to them, and it is not a joke to us. Jesus’ people used what they had so that a real person in need would be helped.",
+          "enochActivity": "Help a grown-up pass a small item from your hands to theirs, then back again, and say: We can share what we have!",
+          "elijah2": "In Acts 2:44, were the believers alone with their own things, or together?",
+          "elijahAnswer2": "They were together and had everything in common.",
+          "jordyn2": "Why does “anyone who had need” matter in Acts 2:45?",
+          "jordynAnswer2": "The gift was aimed at a real need, not at impressing the room. The church watched for people who lacked something, and they gave so that those people were not left out.",
+          "passageText": "44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need."
+        },
+        {
+          "id": "w26-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The believers were one in heart and mind, and there were no needy persons among them.",
+          "verse": "All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.",
+          "verseCite": "Acts 4:32, NIV",
+          "enoch": "Put a hand on your heart and say: One in heart, and we can share!",
+          "elijah": "In Acts 4:32, what did no one claim about their possessions?",
+          "elijahAnswer": "No one claimed that any of their possessions was their own, but they shared everything they had.",
+          "jordyn": "Acts 4:33–34 holds two things together: the apostles testify to the resurrection with great power, and God’s grace is so powerfully at work that there were no needy persons among them. What do you notice?",
+          "jordynAnswer": "The risen Jesus is the center, and his grace does not stay in words only. The same church that preaches the resurrection also makes sure no one among them is left in need.",
+          "action": "Read Acts 4:32–35, then tell someone: There were no needy persons among them, because they shared.",
+          "prayer": "Father, make us one in heart and mind. Let your grace work in us so powerfully that we notice need and share what we have. We believe that Jesus is risen. In his name, Amen.",
+          "passageCite": "Acts 4:32–35, NIV",
+          "teach": "All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all that there were no needy persons among them. From time to time those who owned land or houses sold them, brought the money, put it at the apostles’ feet, and it was distributed to anyone who had need.",
+          "enochActivity": "Help a grown-up open both of your hands and say: God’s grace helps us share.",
+          "elijah2": "In Acts 4:33, what did the apostles testify to with great power?",
+          "elijahAnswer2": "The resurrection of the Lord Jesus.",
+          "jordyn2": "The money was put at the apostles’ feet and then distributed to anyone who had need (Acts 4:35). Why is that a careful, not careless, kind of sharing?",
+          "jordynAnswer2": "They did not throw gifts around to be seen. The gift was brought to the apostles and then given to real people who had need. Sharing was ordered, honest, and aimed at helping.",
+          "passageText": "32 All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. 33 With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all 34 that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales 35 and put it at the apostles’ feet, and it was distributed to anyone who had need."
+        },
+        {
+          "id": "w26-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Share something you have this week, the way the first church gave to anyone who had need.",
+          "verse": "They sold property and possessions to give to anyone who had need.",
+          "verseCite": "Acts 2:45, NIV",
+          "enoch": "Look around, point to one thing you can share, and say: I can share this!",
+          "elijah": "In Acts 4:34, what does Luke say about needy persons among them?",
+          "elijahAnswer": "There were no needy persons among them.",
+          "jordyn": "You may not have land or a house to sell. What would it look like for you to share something you actually have, so that someone else’s need is met?",
+          "jordynAnswer": "Share a belonging, a skill, your time, or a kind help. The first church used what they had, not what they wished they had. The challenge is not to pretend to be rich. It is to open your hands.",
+          "action": "Choose one real thing to share today or tomorrow — a toy, a snack, help with a chore, or time with someone who is left out — and then do it.",
+          "prayer": "Father, you have given us more than we need to keep for ourselves. Show us one person who has a need, and help us share with a glad heart. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:45; Acts 4:34–35, NIV",
+          "teach": "The first church sold property and possessions to give to anyone who had need. Later Luke says there were no needy persons among them, because people brought what they had and it was distributed to anyone who had need. The challenge for us is the same kind of open hands, at the size of our life.",
+          "enochActivity": "Help a grown-up choose one thing you can share this week, and say: This can help someone.",
+          "elijah2": "In Acts 4:35, what happened after the money was put at the apostles’ feet?",
+          "elijahAnswer2": "It was distributed to anyone who had need.",
+          "jordyn2": "Why is “anyone who had need” a better goal than everyone getting the same thing?",
+          "jordynAnswer2": "The church was watching for need, not running a contest. Some people needed help, and the gifts were given there. Sharing means paying attention to people, not only dividing a pile.",
+          "passageText": "45 They sold property and possessions to give to anyone who had need. 34 that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales 35 and put it at the apostles’ feet, and it was distributed to anyone who had need."
+        },
+        {
+          "id": "w26-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Ask God to make you a people who learn, pray, and share, because his grace is at work.",
+          "verse": "And God’s grace was so powerfully at work in them all",
+          "verseCite": "Acts 4:33, NIV",
+          "enoch": "Fold your hands and say: Lord, teach us to share with glad hearts.",
+          "elijah": "In Acts 2:42 and 4:33, what two things do we see God giving this church — a way to live, and a power to speak?",
+          "elijahAnswer": "They devoted themselves to the teaching, fellowship, bread, and prayer, and the apostles testified to the resurrection of the Lord Jesus with great power, with God’s grace at work in them all.",
+          "jordyn": "Why is prayer the right way to become a sharing church, not only a plan to try harder?",
+          "jordynAnswer": "Luke says God’s grace was powerfully at work in them. The generosity was not a trick they invented. We ask the Lord to work that same grace in us, and then we open our hands.",
+          "action": "Pray together: thank God for what you have, ask him to show you a need, and ask for a glad heart to share.",
+          "prayer": "Father, thank you that your grace was powerfully at work in the first church. Make us devoted to Jesus, one in heart and mind, and ready to share so no one among us is left in need. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:42; Acts 4:32–33, NIV",
+          "teach": "They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. They were one in heart and mind, and they shared everything they had. With great power the apostles testified to the resurrection of the Lord Jesus, and God’s grace was so powerfully at work in them all. That is why we pray: we want that same grace to work in us.",
+          "enochActivity": "Help a grown-up pray a short sentence with you: Lord, work your grace in us, and teach us to share.",
+          "elijah2": "In Acts 4:32, what two things were true of the believers at the same time?",
+          "elijahAnswer2": "They were one in heart and mind, and they shared everything they had.",
+          "jordyn2": "God’s grace was at work “in them all” (Acts 4:33). What does that say about who gets to take part in a sharing church?",
+          "jordynAnswer2": "It was not only the apostles, and not only the people who sold land. Grace was at work in them all. Every believer belongs in a church that learns, prays, and shares.",
+          "passageText": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 32 All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. 33 With great power the apostles continued to testify to the resurrection of the Lord Jesus. And God’s grace was so powerfully at work in them all"
+        },
+        {
+          "id": "w26-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The first church prayed, learned, and shared so no one was in need, and next we will see Stephen stay faithful.",
+          "verse": "They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.",
+          "verseCite": "Acts 2:42, NIV",
+          "enoch": "Open your hands and say: The church shares, and Jesus is faithful!",
+          "elijah": "In Acts 2:42 and 4:34, what kind of church was this?",
+          "elijahAnswer": "A church devoted to teaching, fellowship, bread, and prayer, and a church in which there were no needy persons among them.",
+          "jordyn": "This week we saw a church that learned, prayed, ate together, and shared. How does that get your heart ready for next week, when we will meet Stephen, who was faithful to Jesus even when it cost him?",
+          "jordynAnswer": "The same family that opens its hands also stands for Jesus’ name. Next week we will see Stephen tell the truth about Jesus and stay faithful. Sharing and faithfulness both belong to the people Jesus has made.",
+          "action": "Tell someone the week’s big idea: The first church prayed, learned, and shared so no one was in need. Then thank God, and look ahead to Stephen.",
+          "prayer": "Father, thank you that the first church prayed, learned, and shared so no one was in need. Make us that kind of people, and get our hearts ready to be faithful to Jesus, like Stephen. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:42; Acts 2:44; Acts 4:32; Acts 4:34, NIV",
+          "teach": "This week we learned that the first church prayed, learned, and shared so no one was in need. They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. They were together and had everything in common. They were one in heart and mind, and they shared everything they had. God’s grace was so powerfully at work that there were no needy persons among them. Next week we will meet Stephen, who was faithful to Jesus even when it cost him.",
+          "enochActivity": "Help a grown-up stand tall, then open your hands, and say: Next week we will see Stephen stay faithful to Jesus!",
+          "elijah2": "In Acts 4:32–34, what two marks sit side by side in this church?",
+          "elijahAnswer2": "They were one in heart and mind, sharing everything they had, and there were no needy persons among them, while the apostles testified to the resurrection with great power.",
+          "jordyn2": "Why is so no one was in need a fitting last word before a week about Stephen’s faithfulness?",
+          "jordynAnswer2": "Jesus’ people belong to him in their things and in their courage. This week we saw their open hands. Next week we will see a man who will not let go of Jesus’ name, even when it costs him. Both are the life of the same church.",
+          "passageText": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 44 All the believers were together and had everything in common. 32 All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. 34 that there were no needy persons among them. For from time to time those who owned land or houses sold them, brought the money from the sales"
+        }
+      ]
     },
     {
       "id": "27",

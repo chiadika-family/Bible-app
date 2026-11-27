@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.133",
+  "contentVersion": "2026.11.21.140",
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "tracks": [
     {
@@ -182,7 +182,14 @@
         "172",
         "173",
         "174",
-        "175"
+        "175",
+        "176",
+        "177",
+        "178",
+        "179",
+        "180",
+        "181",
+        "182"
       ]
     },
     {
@@ -365,7 +372,14 @@
         "w172",
         "w173",
         "w174",
-        "w175"
+        "w175",
+        "w176",
+        "w177",
+        "w178",
+        "w179",
+        "w180",
+        "w181",
+        "w182"
       ]
     },
     {
@@ -775,7 +789,21 @@
         "174",
         "w174",
         "175",
-        "w175"
+        "w175",
+        "176",
+        "w176",
+        "177",
+        "w177",
+        "178",
+        "w178",
+        "179",
+        "w179",
+        "180",
+        "w180",
+        "181",
+        "w181",
+        "182",
+        "w182"
       ]
     },
     {
@@ -15395,6 +15423,476 @@
         }
       ],
       "deliveredMarkdown": "**Lesson 175: Luke: the good Samaritan — who is my neighbor?**\n\nGood morning. Yesterday Jesus fulfilled Isaiah in Nazareth, and the hometown tried to throw him off the hill. Today an expert in the law stands up to test him and asks, “what must I do to inherit eternal life?” Jesus asks what is written in the Law. The man answers, “Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind”; and, “Love your neighbor as yourself.” “You have answered correctly,” Jesus says. “Do this and you will live.” But the man wants to justify himself, so he asks, “And who is my neighbor?” Jesus tells a story, not a loophole. A man goes down from Jerusalem to Jericho and falls into the hands of robbers. They strip him, beat him, and leave him half dead. A priest and then a Levite see him and pass by on the other side. But a Samaritan comes to where the man is, and when he sees him, he takes pity on him. He bandages his wounds, pouring on oil and wine. He puts the man on his own donkey, brings him to an inn, and takes care of him. The next day he pays the innkeeper and promises to return and reimburse him for any extra expense. “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” The expert says, “The one who had mercy on him.” Jesus tells him, “Go and do likewise.” John Piper, in “Toward Need, Not Comfort,” says that when the lawyer answers with love for God and neighbor, “Jesus approved of that answer.” “So, one of the teachings of this text is that we should love our neighbor as we love ourselves — which is about as radical a thing as you can say.” He adds that “Love your neighbor as yourself” is not about self-esteem. It is about treating another person’s good the way you already pursue your own. At the end of the story, Piper says, “Jesus changed the question from What kind of person is my neighbor? to What kind of person am I?” For years his church used a motto he quotes in that sermon: “Christians move toward need, not comfort.” The priest and the Levite move away. The Samaritan moves toward the wounded man, and mercy becomes a neighbor. The Legacy Standard Bible has the expert say, “The one who showed mercy toward him,” and Jesus answer, “Go and do the same.” The NIV’s “Go and do likewise” is that same charge. Mercy is not only a feeling the Samaritan had. It is the path Jesus sends you on. The question is no longer how small you can draw the circle. It is whether you will become a neighbor. As a woman, wife, and a mother, do not pass by on the other side today. Move toward need, and do likewise.\n\n**Luke 10:25–37 (NIV)**\n25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?” 26 “What is written in the Law?” he replied. “How do you read it?” 27 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’” 28 “You have answered correctly,” Jesus replied. “Do this and you will live.” 29 But he wanted to justify himself, so he asked Jesus, “And who is my neighbor?” 30 In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. 31 A priest happened to be going down the same road, and when he saw the man, he passed by on the other side. 32 So too, a Levite, when he came to the place and saw him, passed by on the other side. 33 But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him. 34 He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him. 35 The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’ 36 “Which of these three do you think was a neighbor to the man who fell into the hands of robbers?” 37 The expert in the law replied, “The one who had mercy on him.” Jesus told him, “Go and do likewise.”\n\n**Reflection question:** As a woman, wife, and a mother, where have you been asking who counts as your neighbor, instead of asking what kind of person you are becoming? What would it look like today to move toward one real need, and to show mercy the way the Samaritan did?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "176",
+      "number": 176,
+      "date": "2027-04-26",
+      "title": "Luke: lost sheep, lost coin, lost son",
+      "passages": "Luke 15:1–32",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Luke 15:1-32 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+15%3A1-32&version=NIV"
+        },
+        {
+          "label": "John Piper, This Man Receives Sinners and Eats with Them (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/this-man-receives-sinners-and-eats-with-them"
+        },
+        {
+          "label": "John Piper, Coming to Yourself and Coming to the Father (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/coming-to-yourself-and-coming-to-the-father"
+        },
+        {
+          "label": "John Piper, A Tender Word to Pharisees (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/a-tender-word-to-pharisees"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 176: Luke: lost sheep, lost coin, lost son**\n\nGood morning, Greg. Yesterday Jesus turned the lawyer’s question from who counts as a neighbor to what kind of person you are, and said, “Go and do likewise.” Today the Pharisees and teachers of the law mutter a different complaint: this man welcomes sinners and eats with them. So Jesus tells three stories. A shepherd leaves the ninety-nine and goes after the one lost sheep until he finds it, then comes home rejoicing. A woman lights a lamp and sweeps the house until she finds the lost coin, then calls her friends to rejoice. “In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.” Then a father has two sons. The younger asks for his share, goes to a distant country, and squanders his wealth in wild living. When he comes to his senses, he goes home, hoping only to be hired. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.” The son who was dead is alive again; he was lost and is found. They begin to celebrate. The older brother stays outside, angry that mercy has been thrown a feast. The father goes out to him too: this brother of yours was dead and is alive again; he was lost and is found. The waiting Father runs, and he also pleads with the son who will not come in. John Piper, in “This Man Receives Sinners and Eats with Them,” says the people the respectable would not touch “were coming to Jesus and he was receiving them and eating with them.” In “Coming to Yourself and Coming to the Father,” he lingers over the run. A man like this father does not usually run. “Such people do not run,” Piper says, “unless they have thrown all middle-aged decorum to the wind and given themselves over to the utter joy of their hearts.” “That’s the way God is about your coming home.” In “A Tender Word to Pharisees,” he reminds us that “the older brother is the Pharisee.” The story is not only about a far country. It is also about a heart that stays outside the feast. The Legacy Standard Bible has the father say, “this brother of yours was dead and is alive, and was lost and has been found.” The NIV’s “is alive again” and “is found” keep the same joy: the lost one is home, and the feast is not a mistake. Heaven does not grudgingly admit a repenting sinner. It rejoices. The Father runs, and he also goes out to the older son who will not come in. As a man, husband, and father, do not stay in the far country, and do not stay on the porch. Come home, and be glad when another sinner does too.\n\n**Luke 15:1–32 (NIV)**\n1 Now the tax collectors and sinners were all gathering around to hear Jesus. 2 But the Pharisees and the teachers of the law muttered, “This man welcomes sinners and eats with them.” 3 Then Jesus told them this parable: 4 “Suppose one of you has a hundred sheep and loses one of them. Doesn’t he leave the ninety-nine in the open country and go after the lost sheep until he finds it? 5 And when he finds it, he joyfully puts it on his shoulders 6 and goes home. Then he calls his friends and neighbors together and says, ‘Rejoice with me; I have found my lost sheep.’ 7 I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent. 8 “Or suppose a woman has ten silver coins and loses one. Doesn’t she light a lamp, sweep the house and search carefully until she finds it? 9 And when she finds it, she calls her friends and neighbors together and says, ‘Rejoice with me; I have found my lost coin.’ 10 In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.” 11 Jesus continued: “There was a man who had two sons. 12 The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. 13 “Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. 14 After he had spent everything, there was a severe famine in that whole country, and he began to be in need. 15 So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. 16 He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything. 17 “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! 18 I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. 19 I am no longer worthy to be called your son; make me like one of your hired servants.’ 20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate. 25 “Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. 26 So he called one of the servants and asked him what was going on. 27 ‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’ 28 “The older brother became angry and refused to go in. So his father went out and pleaded with him. 29 But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. 30 But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’ 31 “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. 32 But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”\n\n**Reflection question:** As a man, husband, and father, where have you been more like the younger son, still far off, or more like the older brother, unwilling to come into the feast? What would it look like today to come home to the Father, or to rejoice when he runs toward someone else?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w176",
+      "number": 176,
+      "date": "2027-04-26",
+      "title": "Luke: lost sheep, lost coin, lost son",
+      "passages": "Luke 15:1–32",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Luke 15:1-32 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+15%3A1-32&version=NIV"
+        },
+        {
+          "label": "John Piper, This Man Receives Sinners and Eats with Them (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/this-man-receives-sinners-and-eats-with-them"
+        },
+        {
+          "label": "John Piper, Coming to Yourself and Coming to the Father (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/coming-to-yourself-and-coming-to-the-father"
+        },
+        {
+          "label": "John Piper, A Tender Word to Pharisees (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/a-tender-word-to-pharisees"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 176: Luke: lost sheep, lost coin, lost son**\n\nGood morning. Yesterday Jesus turned the lawyer’s question from who counts as a neighbor to what kind of person you are, and said, “Go and do likewise.” Today the Pharisees and teachers of the law mutter a different complaint: this man welcomes sinners and eats with them. So Jesus tells three stories. A shepherd leaves the ninety-nine and goes after the one lost sheep until he finds it, then comes home rejoicing. A woman lights a lamp and sweeps the house until she finds the lost coin, then calls her friends to rejoice. “In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.” Then a father has two sons. The younger asks for his share, goes to a distant country, and squanders his wealth in wild living. When he comes to his senses, he goes home, hoping only to be hired. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.” The son who was dead is alive again; he was lost and is found. They begin to celebrate. The older brother stays outside, angry that mercy has been thrown a feast. The father goes out to him too: this brother of yours was dead and is alive again; he was lost and is found. The waiting Father runs, and he also pleads with the son who will not come in. John Piper, in “This Man Receives Sinners and Eats with Them,” says the people the respectable would not touch “were coming to Jesus and he was receiving them and eating with them.” In “Coming to Yourself and Coming to the Father,” he lingers over the run. A man like this father does not usually run. “Such people do not run,” Piper says, “unless they have thrown all middle-aged decorum to the wind and given themselves over to the utter joy of their hearts.” “That’s the way God is about your coming home.” In “A Tender Word to Pharisees,” he reminds us that “the older brother is the Pharisee.” The story is not only about a far country. It is also about a heart that stays outside the feast. The Legacy Standard Bible has the father say, “this brother of yours was dead and is alive, and was lost and has been found.” The NIV’s “is alive again” and “is found” keep the same joy: the lost one is home, and the feast is not a mistake. Heaven does not grudgingly admit a repenting sinner. It rejoices. The Father runs, and he also goes out to the older son who will not come in. As a woman, wife, and a mother, do not stay in the far country, and do not stay on the porch. Come home, and be glad when another sinner does too.\n\n**Luke 15:1–32 (NIV)**\n1 Now the tax collectors and sinners were all gathering around to hear Jesus. 2 But the Pharisees and the teachers of the law muttered, “This man welcomes sinners and eats with them.” 3 Then Jesus told them this parable: 4 “Suppose one of you has a hundred sheep and loses one of them. Doesn’t he leave the ninety-nine in the open country and go after the lost sheep until he finds it? 5 And when he finds it, he joyfully puts it on his shoulders 6 and goes home. Then he calls his friends and neighbors together and says, ‘Rejoice with me; I have found my lost sheep.’ 7 I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent. 8 “Or suppose a woman has ten silver coins and loses one. Doesn’t she light a lamp, sweep the house and search carefully until she finds it? 9 And when she finds it, she calls her friends and neighbors together and says, ‘Rejoice with me; I have found my lost coin.’ 10 In the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.” 11 Jesus continued: “There was a man who had two sons. 12 The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them. 13 “Not long after that, the younger son got together all he had, set off for a distant country and there squandered his wealth in wild living. 14 After he had spent everything, there was a severe famine in that whole country, and he began to be in need. 15 So he went and hired himself out to a citizen of that country, who sent him to his fields to feed pigs. 16 He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything. 17 “When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death! 18 I will set out and go back to my father and say to him: Father, I have sinned against heaven and against you. 19 I am no longer worthy to be called your son; make me like one of your hired servants.’ 20 So he got up and went to his father. “But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him. 21 “The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’ 22 “But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet. 23 Bring the fattened calf and kill it. Let’s have a feast and celebrate. 24 For this son of mine was dead and is alive again; he was lost and is found.’ So they began to celebrate. 25 “Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing. 26 So he called one of the servants and asked him what was going on. 27 ‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’ 28 “The older brother became angry and refused to go in. So his father went out and pleaded with him. 29 But he answered his father, ‘Look! All these years I’ve been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. 30 But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!’ 31 “‘My son,’ the father said, ‘you are always with me, and everything I have is yours. 32 But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”\n\n**Reflection question:** As a woman, wife, and a mother, where have you been more like the younger son, still far off, or more like the older brother, unwilling to come into the feast? What would it look like today to come home to the Father, or to rejoice when he runs toward someone else?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "177",
+      "number": 177,
+      "date": "2027-04-27",
+      "title": "Luke: the Pharisee and the tax collector; Zacchaeus",
+      "passages": "Luke 18:9–17; 19:1–10",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Luke 18:9-17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+18%3A9-17&version=NIV"
+        },
+        {
+          "label": "Luke 19:1-10 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+19%3A1-10&version=NIV"
+        },
+        {
+          "label": "John Piper, This Man Went Down to His House Justified (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/this-man-went-down-to-his-house-justified"
+        },
+        {
+          "label": "John Piper, Let the Children Come to Me (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-the-children-come-to-me"
+        },
+        {
+          "label": "John Piper, Loved Flock, Do Not Be Afraid to Give It Away (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/loved-flock-do-not-be-afraid-to-give-it-away"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 177: Luke: the Pharisee and the tax collector; Zacchaeus**\n\nGood morning, Greg. Yesterday the Father ran to a lost son, and pleaded with an older brother who would not come in. Today Jesus tells another story to people who were confident of their own righteousness and looked down on everyone else. Two men go up to the temple to pray. The Pharisee stands and thanks God that he is not like other people, even like this tax collector. The tax collector stands at a distance, will not even look up to heaven, and beats his breast: “God, have mercy on me, a sinner.” Jesus says this man, rather than the other, went home justified before God. “For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.” People also bring babies to Jesus for him to place his hands on them. The disciples rebuke them, but Jesus calls the children to him. “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.” Anyone who will not receive the kingdom of God like a little child will never enter it. Then he enters Jericho, and a chief tax collector named Zacchaeus climbs a sycamore-fig tree to see him. Jesus looks up: “Zacchaeus, come down immediately. I must stay at your house today.” Zacchaeus welcomes him gladly, and then stands up: he will give half of his possessions to the poor, and if he has cheated anybody, he will pay back four times the amount. Jesus says that today salvation has come to this house, because this man, too, is a son of Abraham. “For the Son of Man came to seek and to save the lost.” John Piper, in “This Man Went Down to His House Justified,” says the parable comes to its climax in that word justified: it is “about how to be justified and how not to be justified.” Mercy, not a résumé, is how a sinner goes home right with God. In “Let the Children Come to Me,” Piper hears a charge for Jesus’ disciples: “Disciples of Jesus should remove all hindrances that keep children from coming to Jesus.” He also holds the two sayings together: to humble yourself is of a piece with receiving the kingdom like a child. There is no Piper sermon whose main text is Zacchaeus, but in “Loved Flock, Do Not Be Afraid to Give It Away,” preaching from Luke 12, Piper illustrates the change with this very scene. “Did he mean Zacchaeus bought salvation? No, he meant salvation changed Zacchaeus, and the proof was his radically different attitude toward money.” BibleProject’s Luke guide also places Zacchaeus among the people Jesus seeks and saves. The Son of Man came for the lost, and salvation shows in a lowered heart and open hands. The Legacy Standard Bible has Jesus say, “For the Son of Man has come to seek and to save the lost.” The NIV’s “came to seek and to save the lost” is that same errand. He is still doing it in the temple, among the children, and under a sycamore-fig tree. Do not go home impressed with yourself. Go home justified, like a child who receives, and like Zacchaeus, whose salvation changes how he uses his money. As a man, husband, and father, ask for mercy, make room for the little ones, and let the Son of Man seek and save you, not find you still climbing on your own résumé.\n\n**Luke 18:9–17 (NIV)**\n9 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 10 “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. 11 The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. 12 I fast twice a week and give a tenth of all I get.’ 13 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ 14 “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.” 15 People were also bringing babies to Jesus for him to place his hands on them. When the disciples saw this, they rebuked them. 16 But Jesus called the children to him and said, “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. 17 Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.”\n\n**Luke 19:1–10 (NIV)**\n1 Jesus entered Jericho and was passing through. 2 A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy. 3 He wanted to see who Jesus was, but because he was short he could not see over the crowd. 4 So he ran ahead and climbed a sycamore-fig tree to see him, since Jesus was coming that way. 5 When Jesus reached the spot, he looked up and said to him, “Zacchaeus, come down immediately. I must stay at your house today.” 6 So he came down at once and welcomed him gladly. 7 All the people saw this and began to mutter, “He has gone to be the guest of a sinner.” 8 But Zacchaeus stood up and said to the Lord, “Look, Lord! Here and now I give half of my possessions to the poor, and if I have cheated anybody out of anything, I will pay back four times the amount.” 9 Jesus said to him, “Today salvation has come to this house, because this man, too, is a son of Abraham. 10 For the Son of Man came to seek and to save the lost.”\n\n**Reflection question:** As a man, husband, and father, where have you been praying like the Pharisee this week, or hindering someone small from coming to Jesus? What would it look like today to ask for mercy, and to let salvation change the way you use what you have?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w177",
+      "number": 177,
+      "date": "2027-04-27",
+      "title": "Luke: the Pharisee and the tax collector; Zacchaeus",
+      "passages": "Luke 18:9–17; 19:1–10",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Luke 18:9-17 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+18%3A9-17&version=NIV"
+        },
+        {
+          "label": "Luke 19:1-10 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+19%3A1-10&version=NIV"
+        },
+        {
+          "label": "John Piper, This Man Went Down to His House Justified (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/this-man-went-down-to-his-house-justified"
+        },
+        {
+          "label": "John Piper, Let the Children Come to Me (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/let-the-children-come-to-me"
+        },
+        {
+          "label": "John Piper, Loved Flock, Do Not Be Afraid to Give It Away (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/loved-flock-do-not-be-afraid-to-give-it-away"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 177: Luke: the Pharisee and the tax collector; Zacchaeus**\n\nGood morning. Yesterday the Father ran to a lost son, and pleaded with an older brother who would not come in. Today Jesus tells another story to people who were confident of their own righteousness and looked down on everyone else. Two men go up to the temple to pray. The Pharisee stands and thanks God that he is not like other people, even like this tax collector. The tax collector stands at a distance, will not even look up to heaven, and beats his breast: “God, have mercy on me, a sinner.” Jesus says this man, rather than the other, went home justified before God. “For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.” People also bring babies to Jesus for him to place his hands on them. The disciples rebuke them, but Jesus calls the children to him. “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.” Anyone who will not receive the kingdom of God like a little child will never enter it. Then he enters Jericho, and a chief tax collector named Zacchaeus climbs a sycamore-fig tree to see him. Jesus looks up: “Zacchaeus, come down immediately. I must stay at your house today.” Zacchaeus welcomes him gladly, and then stands up: he will give half of his possessions to the poor, and if he has cheated anybody, he will pay back four times the amount. Jesus says that today salvation has come to this house, because this man, too, is a son of Abraham. “For the Son of Man came to seek and to save the lost.” John Piper, in “This Man Went Down to His House Justified,” says the parable comes to its climax in that word justified: it is “about how to be justified and how not to be justified.” Mercy, not a résumé, is how a sinner goes home right with God. In “Let the Children Come to Me,” Piper hears a charge for Jesus’ disciples: “Disciples of Jesus should remove all hindrances that keep children from coming to Jesus.” He also holds the two sayings together: to humble yourself is of a piece with receiving the kingdom like a child. There is no Piper sermon whose main text is Zacchaeus, but in “Loved Flock, Do Not Be Afraid to Give It Away,” preaching from Luke 12, Piper illustrates the change with this very scene. “Did he mean Zacchaeus bought salvation? No, he meant salvation changed Zacchaeus, and the proof was his radically different attitude toward money.” BibleProject’s Luke guide also places Zacchaeus among the people Jesus seeks and saves. The Son of Man came for the lost, and salvation shows in a lowered heart and open hands. The Legacy Standard Bible has Jesus say, “For the Son of Man has come to seek and to save the lost.” The NIV’s “came to seek and to save the lost” is that same errand. He is still doing it in the temple, among the children, and under a sycamore-fig tree. Do not go home impressed with yourself. Go home justified, like a child who receives, and like Zacchaeus, whose salvation changes how he uses his money. As a woman, wife, and a mother, ask for mercy, make room for the little ones, and let the Son of Man seek and save you, not find you still climbing on your own résumé.\n\n**Luke 18:9–17 (NIV)**\n9 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 10 “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. 11 The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. 12 I fast twice a week and give a tenth of all I get.’ 13 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ 14 “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.” 15 People were also bringing babies to Jesus for him to place his hands on them. When the disciples saw this, they rebuked them. 16 But Jesus called the children to him and said, “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. 17 Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.”\n\n**Luke 19:1–10 (NIV)**\n1 Jesus entered Jericho and was passing through. 2 A man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy. 3 He wanted to see who Jesus was, but because he was short he could not see over the crowd. 4 So he ran ahead and climbed a sycamore-fig tree to see him, since Jesus was coming that way. 5 When Jesus reached the spot, he looked up and said to him, “Zacchaeus, come down immediately. I must stay at your house today.” 6 So he came down at once and welcomed him gladly. 7 All the people saw this and began to mutter, “He has gone to be the guest of a sinner.” 8 But Zacchaeus stood up and said to the Lord, “Look, Lord! Here and now I give half of my possessions to the poor, and if I have cheated anybody out of anything, I will pay back four times the amount.” 9 Jesus said to him, “Today salvation has come to this house, because this man, too, is a son of Abraham. 10 For the Son of Man came to seek and to save the lost.”\n\n**Reflection question:** As a woman, wife, and a mother, where have you been praying like the Pharisee this week, or hindering someone small from coming to Jesus? What would it look like today to ask for mercy, and to let salvation change the way you use what you have?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "178",
+      "number": 178,
+      "date": "2027-04-28",
+      "title": "Luke: the last supper, and a garden of surrender",
+      "passages": "Luke 22:14–23; 22:39–46",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Luke 22:14-23 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+22%3A14-23&version=NIV"
+        },
+        {
+          "label": "Luke 22:39-46 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+22%3A39-46&version=NIV"
+        },
+        {
+          "label": "John Piper, Until It Is Fulfilled in the Kingdom of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/until-it-is-fulfilled-in-the-kingdom-of-god"
+        },
+        {
+          "label": "John Piper, God’s Mission Triumphs Through Prayerful Suffering (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/gods-mission-triumphs-through-prayerful-suffering"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 178: Luke: the last supper, and a garden of surrender**\n\nGood morning, Greg. Yesterday a humble tax collector went home justified, children were welcomed, and salvation came to Zacchaeus’s house. Today the hour comes, and Jesus reclines at the table with his apostles. He has eagerly desired to eat this Passover with them before he suffers. He takes bread, gives thanks, breaks it, and gives it to them, saying, “This is my body given for you; do this in remembrance of me.” After the supper he takes the cup: this cup is the new covenant in his blood, which is poured out for them. The hand of the one who will betray him is at the table with his. The gift is given on the night he is handed over. Teach this with quiet dignity. The bread and the cup are not a spectacle. They are his body and his blood, given for you. Then he goes out as usual to the Mount of Olives, and the disciples follow him. He tells them to pray so that they will not fall into temptation. He withdraws, kneels down, and prays, “Father, if you are willing, take this cup from me; yet not my will, but yours be done.” An angel from heaven appears and strengthens him. Being in anguish, he prays more earnestly, and his sweat is like drops of blood falling to the ground. When he rises from prayer and returns, he finds the disciples asleep, exhausted from sorrow. “Get up and pray so that you will not fall into temptation.” The Son surrenders in the garden, while his friends sleep. John Piper, in “Until It Is Fulfilled in the Kingdom of God,” takes us to this table, where the Passover is gathered up into Jesus’ own body and blood, given for his people, until it is fulfilled in the kingdom of God. In “God’s Mission Triumphs Through Prayerful Suffering,” he follows Jesus to the Mount of Olives, where the cup is not taken away, and the Son still prays, “not my will, but yours be done.” The mission does not triumph by Jesus avoiding the cup. It triumphs as he drinks it in surrendered prayer. The Legacy Standard Bible has the same garden prayer: “Father, if You are willing, remove this cup from Me, yet not My will, but Yours be done.” The wording is very close to the NIV. The point is not a different request. It is the same surrender. At the table he gives himself. In the garden he yields his will. That is how the new covenant is poured out for you. As a man, husband, and father, remember him when you come to the bread and the cup, and learn to pray when your own will pulls hard against the Father’s.\n\n**Luke 22:14–23 (NIV)**\n14 When the hour came, Jesus and his apostles reclined at the table. 15 And he said to them, “I have eagerly desired to eat this Passover with you before I suffer. 16 For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.” 17 After taking the cup, he gave thanks and said, “Take this and divide it among you. 18 For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.” 19 And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.” 20 In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you. 21 But the hand of him who is going to betray me is with mine on the table. 22 The Son of Man will go as it has been decreed. But woe to that man who betrays him!” 23 They began to question among themselves which of them it might be who would do this.\n\n**Luke 22:39–46 (NIV)**\n39 Jesus went out as usual to the Mount of Olives, and his disciples followed him. 40 On reaching the place, he said to them, “Pray that you will not fall into temptation.” 41 He withdrew about a stone’s throw beyond them, knelt down and prayed, 42 “Father, if you are willing, take this cup from me; yet not my will, but yours be done.” 43 An angel from heaven appeared to him and strengthened him. 44 And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground. 45 When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow. 46 “Why are you sleeping?” he asked them. “Get up and pray so that you will not fall into temptation.”\n\n**Reflection question:** As a man, husband, and father, where is your will fighting the Father’s this week? What would it look like today to remember that Jesus’ body was given for you, and to pray, not my will, but yours be done?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w178",
+      "number": 178,
+      "date": "2027-04-28",
+      "title": "Luke: the last supper, and a garden of surrender",
+      "passages": "Luke 22:14–23; 22:39–46",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Luke 22:14-23 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+22%3A14-23&version=NIV"
+        },
+        {
+          "label": "Luke 22:39-46 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+22%3A39-46&version=NIV"
+        },
+        {
+          "label": "John Piper, Until It Is Fulfilled in the Kingdom of God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/until-it-is-fulfilled-in-the-kingdom-of-god"
+        },
+        {
+          "label": "John Piper, God’s Mission Triumphs Through Prayerful Suffering (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/gods-mission-triumphs-through-prayerful-suffering"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 178: Luke: the last supper, and a garden of surrender**\n\nGood morning. Yesterday a humble tax collector went home justified, children were welcomed, and salvation came to Zacchaeus’s house. Today the hour comes, and Jesus reclines at the table with his apostles. He has eagerly desired to eat this Passover with them before he suffers. He takes bread, gives thanks, breaks it, and gives it to them, saying, “This is my body given for you; do this in remembrance of me.” After the supper he takes the cup: this cup is the new covenant in his blood, which is poured out for them. The hand of the one who will betray him is at the table with his. The gift is given on the night he is handed over. Teach this with quiet dignity. The bread and the cup are not a spectacle. They are his body and his blood, given for you. Then he goes out as usual to the Mount of Olives, and the disciples follow him. He tells them to pray so that they will not fall into temptation. He withdraws, kneels down, and prays, “Father, if you are willing, take this cup from me; yet not my will, but yours be done.” An angel from heaven appears and strengthens him. Being in anguish, he prays more earnestly, and his sweat is like drops of blood falling to the ground. When he rises from prayer and returns, he finds the disciples asleep, exhausted from sorrow. “Get up and pray so that you will not fall into temptation.” The Son surrenders in the garden, while his friends sleep. John Piper, in “Until It Is Fulfilled in the Kingdom of God,” takes us to this table, where the Passover is gathered up into Jesus’ own body and blood, given for his people, until it is fulfilled in the kingdom of God. In “God’s Mission Triumphs Through Prayerful Suffering,” he follows Jesus to the Mount of Olives, where the cup is not taken away, and the Son still prays, “not my will, but yours be done.” The mission does not triumph by Jesus avoiding the cup. It triumphs as he drinks it in surrendered prayer. The Legacy Standard Bible has the same garden prayer: “Father, if You are willing, remove this cup from Me, yet not My will, but Yours be done.” The wording is very close to the NIV. The point is not a different request. It is the same surrender. At the table he gives himself. In the garden he yields his will. That is how the new covenant is poured out for you. As a woman, wife, and a mother, remember him when you come to the bread and the cup, and learn to pray when your own will pulls hard against the Father’s.\n\n**Luke 22:14–23 (NIV)**\n14 When the hour came, Jesus and his apostles reclined at the table. 15 And he said to them, “I have eagerly desired to eat this Passover with you before I suffer. 16 For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.” 17 After taking the cup, he gave thanks and said, “Take this and divide it among you. 18 For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.” 19 And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.” 20 In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you. 21 But the hand of him who is going to betray me is with mine on the table. 22 The Son of Man will go as it has been decreed. But woe to that man who betrays him!” 23 They began to question among themselves which of them it might be who would do this.\n\n**Luke 22:39–46 (NIV)**\n39 Jesus went out as usual to the Mount of Olives, and his disciples followed him. 40 On reaching the place, he said to them, “Pray that you will not fall into temptation.” 41 He withdrew about a stone’s throw beyond them, knelt down and prayed, 42 “Father, if you are willing, take this cup from me; yet not my will, but yours be done.” 43 An angel from heaven appeared to him and strengthened him. 44 And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground. 45 When he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow. 46 “Why are you sleeping?” he asked them. “Get up and pray so that you will not fall into temptation.”\n\n**Reflection question:** As a woman, wife, and a mother, where is your will fighting the Father’s this week? What would it look like today to remember that Jesus’ body was given for you, and to pray, not my will, but yours be done?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "179",
+      "number": 179,
+      "date": "2027-04-29",
+      "title": "Luke: the road to Emmaus — the risen Lord opens the Scriptures",
+      "passages": "Luke 24:13–35; 24:44–53",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Luke 24:13-35 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NIV"
+        },
+        {
+          "label": "Luke 24:44-53 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+24%3A44-53&version=NIV"
+        },
+        {
+          "label": "John Piper, The Supernatural Act of Reading the Bible (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-supernatural-act-of-reading-the-bible"
+        },
+        {
+          "label": "John Piper, The Ascent of Joy (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-ascent-of-joy"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 179: Luke: the road to Emmaus — the risen Lord opens the Scriptures**\n\nGood morning, Greg. Yesterday Jesus gave the bread and the cup, then knelt in the garden and yielded the cup he would drink. Today it is the first day of the week, and two of them are walking to a village called Emmaus, talking about all that has happened. Jesus himself comes up and walks with them, but they are kept from recognizing him. He calls them slow to believe all that the prophets have spoken. “And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.” When he is at the table, he takes bread, gives thanks, breaks it, and begins to give it to them. Their eyes are opened, they recognize him, and he disappears. They say, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?” They return to Jerusalem that same hour and tell the others how he was recognized when he broke the bread. Then the risen Lord stands among the larger group and opens the Scriptures again. “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” He opens their minds so they can understand the Scriptures. The Messiah will suffer and rise from the dead on the third day, and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. They are witnesses. He promises what the Father has promised, and while he is blessing them, he leaves them and is taken up into heaven. They worship him and stay continually at the temple, praising God. John Piper, in “The Supernatural Act of Reading the Bible,” lingers on this Emmaus road and then on the room with the eleven. “The first picture of supernatural help in reading the Bible,” he says, “is that Jesus ‘opens the Scriptures’ and ‘opens the mind’ to understand them.” The burning heart is not a mood they worked up. It is what happens when the risen Lord opens the word concerning himself. In “The Ascent of Joy,” Piper preaches the last paragraph of Luke, where the minds are opened, the mission is given, and Jesus is taken up. The road to Emmaus and the blessing on the way to heaven belong together: the risen Lord opens the Scriptures, and then he sends witnesses with joy. The Legacy Standard Bible has them say, “Were not our hearts burning within us while He was speaking to us on the road, while He was opening the Scriptures to us?” The NIV is almost the same fire: he talked with them on the road and opened the Scriptures to them. The risen Jesus still opens the Scriptures, and he still opens minds. The Bible is not a closed book to those he walks with. As a man, husband, and father, ask him to open the word concerning himself until your heart burns, and then live as a witness who has seen that the Messiah suffered, rose, and now sends you.\n\n**Luke 24:13–35 (NIV)**\n13 Now that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem. 14 They were talking with each other about everything that had happened. 15 As they talked and discussed these things with each other, Jesus himself came up and walked along with them; 16 but they were kept from recognizing him. 17 He asked them, “What are you discussing together as you walk along?” They stood still, their faces downcast. 18 One of them, named Cleopas, asked him, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?” 19 “What things?” he asked. “About Jesus of Nazareth,” they replied. “He was a prophet, powerful in word and deed before God and all the people. 20 The chief priests and our rulers handed him over to be sentenced to death, and they crucified him; 21 but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place. 22 In addition, some of our women amazed us. They went to the tomb early this morning 23 but didn’t find his body. They came and told us that they had seen a vision of angels, who said he was alive. 24 Then some of our companions went to the tomb and found it just as the women had said, but they did not see Jesus.” 25 He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! 26 Did not the Messiah have to suffer these things and then enter his glory?” 27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself. 28 As they approached the village to which they were going, Jesus continued on as if he were going farther. 29 But they urged him strongly, “Stay with us, for it is nearly evening; the day is almost over.” So he went in to stay with them. 30 When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. 31 Then their eyes were opened and they recognized him, and he disappeared from their sight. 32 They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?” 33 They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together 34 and saying, “It is true! The Lord has risen and has appeared to Simon.” 35 Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread.\n\n**Luke 24:44–53 (NIV)**\n44 He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” 45 Then he opened their minds so they could understand the Scriptures. 46 He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day, 47 and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.” 50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God.\n\n**Reflection question:** As a man, husband, and father, where have the Scriptures felt closed or cold this week? What would it look like today to walk with the risen Lord in the word, and to ask him to open your mind to understand what is written about him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w179",
+      "number": 179,
+      "date": "2027-04-29",
+      "title": "Luke: the road to Emmaus — the risen Lord opens the Scriptures",
+      "passages": "Luke 24:13–35; 24:44–53",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Luke 24:13-35 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NIV"
+        },
+        {
+          "label": "Luke 24:44-53 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Luke+24%3A44-53&version=NIV"
+        },
+        {
+          "label": "John Piper, The Supernatural Act of Reading the Bible (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-supernatural-act-of-reading-the-bible"
+        },
+        {
+          "label": "John Piper, The Ascent of Joy (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-ascent-of-joy"
+        },
+        {
+          "label": "BibleProject, Book of Luke guide",
+          "url": "https://bibleproject.com/guides/book-of-luke/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 179: Luke: the road to Emmaus — the risen Lord opens the Scriptures**\n\nGood morning. Yesterday Jesus gave the bread and the cup, then knelt in the garden and yielded the cup he would drink. Today it is the first day of the week, and two of them are walking to a village called Emmaus, talking about all that has happened. Jesus himself comes up and walks with them, but they are kept from recognizing him. He calls them slow to believe all that the prophets have spoken. “And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself.” When he is at the table, he takes bread, gives thanks, breaks it, and begins to give it to them. Their eyes are opened, they recognize him, and he disappears. They say, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?” They return to Jerusalem that same hour and tell the others how he was recognized when he broke the bread. Then the risen Lord stands among the larger group and opens the Scriptures again. “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” He opens their minds so they can understand the Scriptures. The Messiah will suffer and rise from the dead on the third day, and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. They are witnesses. He promises what the Father has promised, and while he is blessing them, he leaves them and is taken up into heaven. They worship him and stay continually at the temple, praising God. John Piper, in “The Supernatural Act of Reading the Bible,” lingers on this Emmaus road and then on the room with the eleven. “The first picture of supernatural help in reading the Bible,” he says, “is that Jesus ‘opens the Scriptures’ and ‘opens the mind’ to understand them.” The burning heart is not a mood they worked up. It is what happens when the risen Lord opens the word concerning himself. In “The Ascent of Joy,” Piper preaches the last paragraph of Luke, where the minds are opened, the mission is given, and Jesus is taken up. The road to Emmaus and the blessing on the way to heaven belong together: the risen Lord opens the Scriptures, and then he sends witnesses with joy. The Legacy Standard Bible has them say, “Were not our hearts burning within us while He was speaking to us on the road, while He was opening the Scriptures to us?” The NIV is almost the same fire: he talked with them on the road and opened the Scriptures to them. The risen Jesus still opens the Scriptures, and he still opens minds. The Bible is not a closed book to those he walks with. As a woman, wife, and a mother, ask him to open the word concerning himself until your heart burns, and then live as a witness who has seen that the Messiah suffered, rose, and now sends you.\n\n**Luke 24:13–35 (NIV)**\n13 Now that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem. 14 They were talking with each other about everything that had happened. 15 As they talked and discussed these things with each other, Jesus himself came up and walked along with them; 16 but they were kept from recognizing him. 17 He asked them, “What are you discussing together as you walk along?” They stood still, their faces downcast. 18 One of them, named Cleopas, asked him, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?” 19 “What things?” he asked. “About Jesus of Nazareth,” they replied. “He was a prophet, powerful in word and deed before God and all the people. 20 The chief priests and our rulers handed him over to be sentenced to death, and they crucified him; 21 but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place. 22 In addition, some of our women amazed us. They went to the tomb early this morning 23 but didn’t find his body. They came and told us that they had seen a vision of angels, who said he was alive. 24 Then some of our companions went to the tomb and found it just as the women had said, but they did not see Jesus.” 25 He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! 26 Did not the Messiah have to suffer these things and then enter his glory?” 27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself. 28 As they approached the village to which they were going, Jesus continued on as if he were going farther. 29 But they urged him strongly, “Stay with us, for it is nearly evening; the day is almost over.” So he went in to stay with them. 30 When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. 31 Then their eyes were opened and they recognized him, and he disappeared from their sight. 32 They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?” 33 They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together 34 and saying, “It is true! The Lord has risen and has appeared to Simon.” 35 Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread.\n\n**Luke 24:44–53 (NIV)**\n44 He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” 45 Then he opened their minds so they could understand the Scriptures. 46 He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day, 47 and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.” 50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God.\n\n**Reflection question:** As a woman, wife, and a mother, where have the Scriptures felt closed or cold this week? What would it look like today to walk with the risen Lord in the word, and to ask him to open your mind to understand what is written about him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "180",
+      "number": 180,
+      "date": "2027-04-30",
+      "title": "John: the Word became flesh",
+      "passages": "John 1:1–18",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "John 1:1-18 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A1-18&version=NIV"
+        },
+        {
+          "label": "John Piper, The Word Was Made Flesh (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-word-was-made-flesh"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 180: John: the Word became flesh**\n\nGood morning, Greg. Yesterday the risen Lord opened the Scriptures on the road and opened the disciples’ minds, then was taken up while he blessed them. Today John begins further back than Bethlehem, further back than the beginning we can remember. “In the beginning was the Word, and the Word was with God, and the Word was God.” He was with God in the beginning. Through him all things were made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it. The true light that gives light to everyone was coming into the world. He was in the world, and though the world was made through him, the world did not recognize him. He came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God — children born not of natural descent, nor of human decision or a husband’s will, but born of God. “The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.” Out of his fullness we have all received grace in place of grace already given. The law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known. John Piper, in “The Word Was Made Flesh,” says the key Christmas sentence is this: “The Word became flesh and made his dwelling among us.” “This is the meaning of Christmas,” he says. “God has come into the world, born of a virgin, in the person of Jesus Christ.” He also refuses to let go of both claims at once: the Word was with God, and the Word was God. BibleProject’s John guide hears this opening as the true story of God coming close, full of grace and truth, so that we might become children of God. The Legacy Standard Bible has, “And the Word became flesh, and dwelt among us, and we beheld His glory, glory as of the only begotten from the Father, full of grace and truth.” The NIV’s “made his dwelling among us” and “one and only Son” keep the same wonder: the Word did not stay far. He dwelt here, and we have seen his glory. The Word is not an idea you admire from a distance. He became flesh, and he has made the Father known. As a man, husband, and father, receive him. Believe in his name. The right to become a child of God is given, not earned, and it comes by the Word who is himself God.\n\n**John 1:1–18 (NIV)**\n1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made. 4 In him was life, and that life was the light of all mankind. 5 The light shines in the darkness, and the darkness has not overcome it. 6 There was a man sent from God whose name was John. 7 He came as a witness to testify concerning that light, so that through him all might believe. 8 He himself was not the light; he came only as a witness to the light. 9 The true light that gives light to everyone was coming into the world. 10 He was in the world, and though the world was made through him, the world did not recognize him. 11 He came to that which was his own, but his own did not receive him. 12 Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— 13 children born not of natural descent, nor of human decision or a husband’s will, but born of God. 14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth. 15 (John testified concerning him. He cried out, saying, “This is the one I spoke about when I said, ‘He who comes after me has surpassed me because he was before me.’”) 16 Out of his fullness we have all received grace in place of grace already given. 17 For the law was given through Moses; grace and truth came through Jesus Christ. 18 No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known.\n\n**Reflection question:** As a man, husband, and father, where have you been treating Jesus as less than the Word who was with God and was God? What would it look like today to receive him, and to live as a child born of God, because the Word became flesh and dwelt among us?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w180",
+      "number": 180,
+      "date": "2027-04-30",
+      "title": "John: the Word became flesh",
+      "passages": "John 1:1–18",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "John 1:1-18 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+1%3A1-18&version=NIV"
+        },
+        {
+          "label": "John Piper, The Word Was Made Flesh (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/the-word-was-made-flesh"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 180: John: the Word became flesh**\n\nGood morning. Yesterday the risen Lord opened the Scriptures on the road and opened the disciples’ minds, then was taken up while he blessed them. Today John begins further back than Bethlehem, further back than the beginning we can remember. “In the beginning was the Word, and the Word was with God, and the Word was God.” He was with God in the beginning. Through him all things were made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it. The true light that gives light to everyone was coming into the world. He was in the world, and though the world was made through him, the world did not recognize him. He came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God — children born not of natural descent, nor of human decision or a husband’s will, but born of God. “The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.” Out of his fullness we have all received grace in place of grace already given. The law was given through Moses; grace and truth came through Jesus Christ. No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known. John Piper, in “The Word Was Made Flesh,” says the key Christmas sentence is this: “The Word became flesh and made his dwelling among us.” “This is the meaning of Christmas,” he says. “God has come into the world, born of a virgin, in the person of Jesus Christ.” He also refuses to let go of both claims at once: the Word was with God, and the Word was God. BibleProject’s John guide hears this opening as the true story of God coming close, full of grace and truth, so that we might become children of God. The Legacy Standard Bible has, “And the Word became flesh, and dwelt among us, and we beheld His glory, glory as of the only begotten from the Father, full of grace and truth.” The NIV’s “made his dwelling among us” and “one and only Son” keep the same wonder: the Word did not stay far. He dwelt here, and we have seen his glory. The Word is not an idea you admire from a distance. He became flesh, and he has made the Father known. As a woman, wife, and a mother, receive him. Believe in his name. The right to become a child of God is given, not earned, and it comes by the Word who is himself God.\n\n**John 1:1–18 (NIV)**\n1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made. 4 In him was life, and that life was the light of all mankind. 5 The light shines in the darkness, and the darkness has not overcome it. 6 There was a man sent from God whose name was John. 7 He came as a witness to testify concerning that light, so that through him all might believe. 8 He himself was not the light; he came only as a witness to the light. 9 The true light that gives light to everyone was coming into the world. 10 He was in the world, and though the world was made through him, the world did not recognize him. 11 He came to that which was his own, but his own did not receive him. 12 Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— 13 children born not of natural descent, nor of human decision or a husband’s will, but born of God. 14 The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth. 15 (John testified concerning him. He cried out, saying, “This is the one I spoke about when I said, ‘He who comes after me has surpassed me because he was before me.’”) 16 Out of his fullness we have all received grace in place of grace already given. 17 For the law was given through Moses; grace and truth came through Jesus Christ. 18 No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been treating Jesus as less than the Word who was with God and was God? What would it look like today to receive him, and to live as a child born of God, because the Word became flesh and dwelt among us?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "181",
+      "number": 181,
+      "date": "2027-05-01",
+      "title": "John: you must be born again",
+      "passages": "John 3:1–21",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "John 3:1-21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+3%3A1-21&version=NIV"
+        },
+        {
+          "label": "John Piper, You Must Be Born Again (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-must-be-born-again"
+        },
+        {
+          "label": "John Piper, God So Loved the World, Part 1 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/god-so-loved-the-world-part-1"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 181: John: you must be born again**\n\nGood morning, Greg. Yesterday John told us that the Word became flesh, and that those who receive him are born of God. Today a Pharisee named Nicodemus comes at night. He knows Jesus is a teacher come from God, because no one could perform the signs Jesus is doing if God were not with him. Jesus answers him more deeply than a compliment: no one can see the kingdom of God unless they are born again. Nicodemus asks how a person can be born when they are old. Jesus says no one can enter the kingdom of God unless they are born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit. The wind blows wherever it pleases. You must be born again. Nicodemus still asks how. Jesus speaks of the Son of Man being lifted up, as Moses lifted up the snake in the wilderness, that everyone who believes may have eternal life in him. Then come the words so many of us know: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already, because they have not believed in the name of God’s one and only Son. Light has come into the world, and the question is whether we love the light or the darkness. John Piper, in “You Must Be Born Again,” will not let this be a small religious upgrade. Jesus tells a man who already has signs, status, and night-time curiosity that he cannot even see the kingdom unless he is born again. The new birth is not a self-improvement. It is a work of the Spirit, like the wind you cannot manage. In “God So Loved the World, Part 1,” Piper takes us to the love that gave the one and only Son, so that whoever believes in him shall not perish but have eternal life. The Father’s love and the Spirit’s birth belong together. You must be born again, and the Son has been given so that you may believe and live. The Legacy Standard Bible has, For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. The NIV’s “one and only Son” is that same gift. Do not let familiarity flatten it. God loved, God gave, and whoever believes will not perish. You cannot enter the kingdom by improving the first birth. You must be born again, and the Son has been given for that very life. As a man, husband, and father, do not settle for night-time respect for Jesus. Come into the light. Believe in the one and only Son, and live as one born of the Spirit.\n\n**John 3:1–21 (NIV)**\n1 Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council. 2 He came to Jesus at night and said, “Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him.” 3 Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.” 4 “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!” 5 Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit. 6 Flesh gives birth to flesh, but the Spirit gives birth to spirit. 7 You should not be surprised at my saying, ‘You must be born again.’ 8 The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.” 9 “How can this be?” Nicodemus asked. 10 “You are Israel’s teacher,” said Jesus, “and do you not understand these things? 11 Very truly I tell you, we speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony. 12 I have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things? 13 No one has ever gone into heaven except the one who came from heaven—the Son of Man. 14 Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, 15 that everyone who believes may have eternal life in him.” 16 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son. 19 This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil. 20 Everyone who does evil hates the light, and will not come into the light for fear that their deeds will be exposed. 21 But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.\n\n**Reflection question:** As a man, husband, and father, where have you been trying to see the kingdom without being born again — by knowledge, by effort, or by a religious name? What would it look like today to believe in the Son the Father gave, and to walk in the light?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w181",
+      "number": 181,
+      "date": "2027-05-01",
+      "title": "John: you must be born again",
+      "passages": "John 3:1–21",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "John 3:1-21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+3%3A1-21&version=NIV"
+        },
+        {
+          "label": "John Piper, You Must Be Born Again (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-must-be-born-again"
+        },
+        {
+          "label": "John Piper, God So Loved the World, Part 1 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/god-so-loved-the-world-part-1"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 181: John: you must be born again**\n\nGood morning. Yesterday John told us that the Word became flesh, and that those who receive him are born of God. Today a Pharisee named Nicodemus comes at night. He knows Jesus is a teacher come from God, because no one could perform the signs Jesus is doing if God were not with him. Jesus answers him more deeply than a compliment: no one can see the kingdom of God unless they are born again. Nicodemus asks how a person can be born when they are old. Jesus says no one can enter the kingdom of God unless they are born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit. The wind blows wherever it pleases. You must be born again. Nicodemus still asks how. Jesus speaks of the Son of Man being lifted up, as Moses lifted up the snake in the wilderness, that everyone who believes may have eternal life in him. Then come the words so many of us know: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already, because they have not believed in the name of God’s one and only Son. Light has come into the world, and the question is whether we love the light or the darkness. John Piper, in “You Must Be Born Again,” will not let this be a small religious upgrade. Jesus tells a man who already has signs, status, and night-time curiosity that he cannot even see the kingdom unless he is born again. The new birth is not a self-improvement. It is a work of the Spirit, like the wind you cannot manage. In “God So Loved the World, Part 1,” Piper takes us to the love that gave the one and only Son, so that whoever believes in him shall not perish but have eternal life. The Father’s love and the Spirit’s birth belong together. You must be born again, and the Son has been given so that you may believe and live. The Legacy Standard Bible has, For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. The NIV’s “one and only Son” is that same gift. Do not let familiarity flatten it. God loved, God gave, and whoever believes will not perish. You cannot enter the kingdom by improving the first birth. You must be born again, and the Son has been given for that very life. As a woman, wife, and a mother, do not settle for night-time respect for Jesus. Come into the light. Believe in the one and only Son, and live as one born of the Spirit.\n\n**John 3:1–21 (NIV)**\n1 Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council. 2 He came to Jesus at night and said, “Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him.” 3 Jesus replied, “Very truly I tell you, no one can see the kingdom of God unless they are born again.” 4 “How can someone be born when they are old?” Nicodemus asked. “Surely they cannot enter a second time into their mother’s womb to be born!” 5 Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit. 6 Flesh gives birth to flesh, but the Spirit gives birth to spirit. 7 You should not be surprised at my saying, ‘You must be born again.’ 8 The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going. So it is with everyone born of the Spirit.” 9 “How can this be?” Nicodemus asked. 10 “You are Israel’s teacher,” said Jesus, “and do you not understand these things? 11 Very truly I tell you, we speak of what we know, and we testify to what we have seen, but still you people do not accept our testimony. 12 I have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things? 13 No one has ever gone into heaven except the one who came from heaven—the Son of Man. 14 Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, 15 that everyone who believes may have eternal life in him.” 16 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son. 19 This is the verdict: Light has come into the world, but people loved darkness instead of light because their deeds were evil. 20 Everyone who does evil hates the light, and will not come into the light for fear that their deeds will be exposed. 21 But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.\n\n**Reflection question:** As a woman, wife, and a mother, where have you been trying to see the kingdom without being born again — by knowledge, by effort, or by a religious name? What would it look like today to believe in the Son the Father gave, and to walk in the light?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "182",
+      "number": 182,
+      "date": "2027-05-02",
+      "title": "John: living water, and a Samaritan town believes",
+      "passages": "John 4:1–26; 4:39–42",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "John 4:1-26 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+4%3A1-26&version=NIV"
+        },
+        {
+          "label": "John 4:39-42 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+4%3A39-42&version=NIV"
+        },
+        {
+          "label": "John Piper, You Will Never Be Thirsty Again (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-will-never-be-thirsty-again"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 182: John: living water, and a Samaritan town believes**\n\nGood morning, Greg. Yesterday Jesus told Nicodemus that he must be born again, and that God so loved the world that he gave his one and only Son. Today he sits by a well in Samaria, tired from the journey, and asks a Samaritan woman for a drink. She is surprised that he, a Jew, would ask her. He speaks of a gift: if she knew the gift of God and who it is that asks her, she would have asked him, and he would have given her living water. Everyone who drinks the well water will be thirsty again, but whoever drinks the water he gives will never thirst. It will become in them a spring of water welling up to eternal life. He knows her life, including the hard and hidden parts, and he does not treat her as a joke or a warning label. He tells her the truth, and then he takes her further: the hour is coming, and is now here, when true worshipers will worship the Father in the Spirit and in truth. The Father seeks such worshipers. She speaks of the Messiah who is coming. Jesus says, “I, the one speaking to you—I am he.” Many Samaritans from that town believe in him because of the woman’s testimony. They urge him to stay, and when they hear him themselves they say they no longer believe just because of what she said. Now they have heard for themselves, and they know that this man really is the Savior of the world. John Piper, in “You Will Never Be Thirsty Again,” says this meeting “reveals woeful truth about ourselves and wonderful truth about Jesus,” and that the wonderful truth “gives hope to us in our woeful condition.” He calls the relationship “relentlessly gracious.” “Jesus is seeking this woman’s salvation,” he says, “knowing everything about her.” The point is not to make a spectacle of her past. It is that the Savior of the world seeks thirsty people, tells the truth, and gives living water. BibleProject’s John guide hears this as Jesus crossing boundaries so that a Samaritan town comes to believe. The Legacy Standard Bible has the town say, “this One is truly the Savior of the world.” The NIV’s “this man really is the Savior of the world” is that same confession. They have heard for themselves. Living water is not a bucket you can manage. It is a gift the Messiah gives, and it wells up to eternal life. As a man, husband, and father, bring your thirst to him. Ask him for the water he gives, and do not be surprised if one honest testimony becomes a town that believes.\n\n**John 4:1–26 (NIV)**\n1 Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John— 2 although in fact it was not Jesus who baptized, but his disciples. 3 So he left Judea and went back once more to Galilee. 4 Now he had to go through Samaria. 5 So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. 6 Jacob’s well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon. 7 When a Samaritan woman came to draw water, Jesus said to her, “Will you give me a drink?” 8 (His disciples had gone into the town to buy food.) 9 The Samaritan woman said to him, “You are a Jew and I am a Samaritan woman. How can you ask me for a drink?” (For Jews do not associate with Samaritans.) 10 Jesus answered her, “If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.” 11 “Sir,” the woman said, “you have nothing to draw with and the well is deep. Where can you get this living water? 12 Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his livestock?” 13 Jesus answered, “Everyone who drinks this water will be thirsty again, 14 but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.” 15 The woman said to him, “Sir, give me this water so that I won’t get thirsty and have to keep coming here to draw water.” 16 He told her, “Go, call your husband and come back.” 17 “I have no husband,” she replied. Jesus said to her, “You are right when you say you have no husband. 18 The fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.” 19 “Sir,” the woman said, “I can see that you are a prophet. 20 Our ancestors worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem.” 21 “Woman,” Jesus replied, “believe me, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem. 22 You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews. 23 Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks. 24 God is spirit, and his worshipers must worship in the Spirit and in truth.” 25 The woman said, “I know that Messiah” (called Christ) “is coming. When he comes, he will explain everything to us.” 26 Then Jesus declared, “I, the one speaking to you—I am he.”\n\n**John 4:39–42 (NIV)**\n39 Many of the Samaritans from that town believed in him because of the woman’s testimony, “He told me everything I ever did.” 40 So when the Samaritans came to him, they urged him to stay with them, and he stayed two days. 41 And because of his words many more became believers. 42 They said to the woman, “We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man really is the Savior of the world.”\n\n**Reflection question:** As a man, husband, and father, where have you been going back to a well that cannot keep you from thirst? What would it look like today to ask Jesus for living water, and to speak of him so that someone else can hear for themselves?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w182",
+      "number": 182,
+      "date": "2027-05-02",
+      "title": "John: living water, and a Samaritan town believes",
+      "passages": "John 4:1–26; 4:39–42",
+      "translation": "NIV",
+      "exact": true,
+      "missingReason": null,
+      "track": "books-of-the-bible",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "John 4:1-26 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+4%3A1-26&version=NIV"
+        },
+        {
+          "label": "John 4:39-42 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=John+4%3A39-42&version=NIV"
+        },
+        {
+          "label": "Nancy DeMoss Wolgemuth, A Deeper Thirst (Revive Our Hearts)",
+          "url": "https://www.reviveourhearts.com/podcast/revive-our-hearts/a-deeper-thirst/"
+        },
+        {
+          "label": "John Piper, You Will Never Be Thirsty Again (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/you-will-never-be-thirsty-again"
+        },
+        {
+          "label": "BibleProject, Book of John guide",
+          "url": "https://bibleproject.com/guides/book-of-john/"
+        }
+      ],
+      "deliveredMarkdown": "**Lesson 182: John: living water, and a Samaritan town believes**\n\nGood morning. Yesterday Jesus told Nicodemus that he must be born again, and that God so loved the world that he gave his one and only Son. Today he sits by a well in Samaria, tired from the journey, and asks a Samaritan woman for a drink. She is surprised that he, a Jew, would ask her. He speaks of a gift: if she knew the gift of God and who it is that asks her, she would have asked him, and he would have given her living water. Everyone who drinks the well water will be thirsty again, but whoever drinks the water he gives will never thirst. It will become in them a spring of water welling up to eternal life. He knows her life, including the hard and hidden parts, and he does not treat her as a joke or a warning label. He tells her the truth, and then he takes her further: the hour is coming, and is now here, when true worshipers will worship the Father in the Spirit and in truth. The Father seeks such worshipers. She speaks of the Messiah who is coming. Jesus says, “I, the one speaking to you—I am he.” Many Samaritans from that town believe in him because of the woman’s testimony. They urge him to stay, and when they hear him themselves they say they no longer believe just because of what she said. Now they have heard for themselves, and they know that this man really is the Savior of the world. Nancy DeMoss Wolgemuth, in “A Deeper Thirst,” teaches this same scene in John 4 and remembers a woman who heard it and said, “That woman you talked about tonight, that’s me.” Nancy says she recognized “a thirsty-hearted woman, just like that woman at the well.” The point is not to make a spectacle of anyone’s past. It is that Jesus meets thirsty people and offers living water. John Piper, in “You Will Never Be Thirsty Again,” calls the relationship “relentlessly gracious.” “Jesus is seeking this woman’s salvation,” he says, “knowing everything about her.” A whole town comes to know that he is the Savior of the world. The Legacy Standard Bible has the town say, “this One is truly the Savior of the world.” The NIV’s “this man really is the Savior of the world” is that same confession. They have heard for themselves. Living water is not a bucket you can manage. It is a gift the Messiah gives, and it wells up to eternal life. As a woman, wife, and a mother, bring your thirst to him. Ask him for the water he gives, and do not be surprised if one honest testimony becomes a town that believes.\n\n**John 4:1–26 (NIV)**\n1 Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John— 2 although in fact it was not Jesus who baptized, but his disciples. 3 So he left Judea and went back once more to Galilee. 4 Now he had to go through Samaria. 5 So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. 6 Jacob’s well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon. 7 When a Samaritan woman came to draw water, Jesus said to her, “Will you give me a drink?” 8 (His disciples had gone into the town to buy food.) 9 The Samaritan woman said to him, “You are a Jew and I am a Samaritan woman. How can you ask me for a drink?” (For Jews do not associate with Samaritans.) 10 Jesus answered her, “If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.” 11 “Sir,” the woman said, “you have nothing to draw with and the well is deep. Where can you get this living water? 12 Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his livestock?” 13 Jesus answered, “Everyone who drinks this water will be thirsty again, 14 but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.” 15 The woman said to him, “Sir, give me this water so that I won’t get thirsty and have to keep coming here to draw water.” 16 He told her, “Go, call your husband and come back.” 17 “I have no husband,” she replied. Jesus said to her, “You are right when you say you have no husband. 18 The fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.” 19 “Sir,” the woman said, “I can see that you are a prophet. 20 Our ancestors worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem.” 21 “Woman,” Jesus replied, “believe me, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem. 22 You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews. 23 Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks. 24 God is spirit, and his worshipers must worship in the Spirit and in truth.” 25 The woman said, “I know that Messiah” (called Christ) “is coming. When he comes, he will explain everything to us.” 26 Then Jesus declared, “I, the one speaking to you—I am he.”\n\n**John 4:39–42 (NIV)**\n39 Many of the Samaritans from that town believed in him because of the woman’s testimony, “He told me everything I ever did.” 40 So when the Samaritans came to him, they urged him to stay with them, and he stayed two days. 41 And because of his words many more became believers. 42 They said to the woman, “We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man really is the Savior of the world.”\n\n**Reflection question:** As a woman, wife, and a mother, where have you been going back to a well that cannot keep you from thirst? What would it look like today to ask Jesus for living water, and to speak of him so that someone else can hear for themselves?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
     }
   ]
 }
