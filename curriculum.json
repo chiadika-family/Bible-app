@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.19",
+  "contentVersion": "2026.11.21.20",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -5377,11 +5377,237 @@
       "planTitle": "Jesus goes back to heaven",
       "title": "Jesus goes back to heaven",
       "selectLabel": "Week 23 · Jesus goes back to heaven",
-      "ready": false,
-      "passage": "Acts 1:6–11 (NIV)",
-      "bigIdea": "Jesus went back to heaven, and he will come again.",
+      "ready": true,
+      "passage": "Acts 1:6–11; Luke 24:50–53; Matthew 28:16–20 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 24 · Pentecost: the Holy Spirit comes",
+      "bigIdea": "Jesus went back to heaven, and he will come again.",
+      "scheduleNote": "This is the Week 23 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 1:6–11 out loud, then Luke 24:50–53, then Matthew 28:16–20."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 1:6–11",
+          "text": "6 Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?” 7 He said to them: “It is not for you to know the times or dates the Father has set by his own authority. 8 But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” 9 After he said this, he was taken up before their very eyes, and a cloud hid him from their sight. 10 They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. 11 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”"
+        },
+        {
+          "cite": "Luke 24:50–53",
+          "text": "50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God."
+        },
+        {
+          "cite": "Matthew 28:16–20",
+          "text": "16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that the church is God’s family. Jesus’ friends loved one another, belonged to his household, and kept meeting, learning, sharing, and praying. This week we see Jesus go back to heaven, and we hear the promise that he will come again.",
+        "After he rose from the dead, Jesus appeared to his friends for forty days and spoke about the kingdom of God. He told them not to leave Jerusalem, but to wait for the gift his Father promised. They asked if he was going to restore the kingdom to Israel at that time. He said it was not for them to know the times or dates the Father has set. Then, after he said this, he was taken up before their very eyes, and a cloud hid him from their sight.",
+        "They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”",
+        "Luke also tells us that Jesus led them out toward Bethany, lifted up his hands, and blessed them. While he was blessing them, he left them and was taken up into heaven. Then they worshiped him and returned to Jerusalem with great joy, and they stayed continually at the temple, praising God.",
+        "Before he went, Jesus said, “All authority in heaven and on earth has been given to me.” He sent them to make disciples of all nations, and he promised, “And surely I am with you always, to the very end of the age.” So Jesus went back to heaven, and he will come again. He is with us always. He told his friends to wait for the Father’s promise. Next week we will see God send the Holy Spirit, and the church will begin in a new way."
+      ],
+      "enochLine": "Jesus went back to heaven, and he will come again!",
+      "enochActivities": [
+        "Activity: Look up. Help a grown-up look up for a moment, then say: Jesus went back to heaven, and he will come again!",
+        "Activity: Jesus is with us. Hold a grown-up’s hand and say: Jesus is with me always."
+      ],
+      "elijahQuestions": [
+        "In Acts 1:9, what happened after Jesus finished speaking?",
+        "In Acts 1:11, what did the two men dressed in white say this same Jesus will do?",
+        "In Luke 24:50–51, what was Jesus doing when he was taken up into heaven?",
+        "In Matthew 28:20, what promise does Jesus give his friends?"
+      ],
+      "elijahAnswers": [
+        "He was taken up before their very eyes, and a cloud hid him from their sight (Acts 1:9).",
+        "“This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.” (Acts 1:11).",
+        "He lifted up his hands and blessed them, and while he was blessing them, he left them and was taken up into heaven (Luke 24:50–51).",
+        "“And surely I am with you always, to the very end of the age.” (Matthew 28:20)."
+      ],
+      "jordynQuestions": [
+        "The two men asked, “why do you stand here looking into the sky?” (Acts 1:11). What should the friends remember, even after Jesus is hidden from their sight?",
+        "Luke 24:52 says they worshiped him and returned to Jerusalem with great joy. Why is joy a fitting response if Jesus has gone away?",
+        "Jesus says all authority has been given to him, and “I am with you always” (Matthew 28:18, 20). How does that promise help you wait for the Father’s gift, which he told them not to leave Jerusalem without?"
+      ],
+      "jordynAnswers": [
+        "Jesus has been taken into heaven, and he will come back in the same way they saw him go (Acts 1:11). They do not lose him forever. A cloud hid him, but the promise stands.",
+        "He blessed them as he was taken up (Luke 24:50–51). He is not gone as if he were defeated. They worship him and return with great joy because he is Lord in heaven, and he will come again.",
+        "The one with all authority is also the one who stays with them. He told them to wait for the Father’s promise (Acts 1:4). They can wait with courage because he is with them always, even as they look for the gift still to come."
+      ],
+      "jordynApplication": "Jesus went back to heaven, and he will come again (Acts 1:11). This week, remember that he is with you always (Matthew 28:20), and wait with hope for the Father’s promise. Next week we will see God send the Holy Spirit.",
+      "applicationCheck": "Ask her later in the week whether she remembered that Jesus is with her always — at home, at school, or when she felt alone. If it is fitting, thank him together that he went back to heaven and will come again.",
+      "prayer": "Father, thank you that Jesus was taken up into heaven and that he will come again. Thank you that he blessed his friends and is with us always. Help us wait for your promise with joy and trust. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 1:6–11",
+        "Luke 24:50–53",
+        "Matthew 28:16–20",
+        "John 14:1–3",
+        "John 16:5–7",
+        "Psalm 47:5–9",
+        "Acts 1:4–8"
+      ],
+      "dailies": [
+        {
+          "id": "w23-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus is taken up, and a cloud hides him from their sight.",
+          "verse": "After he said this, he was taken up before their very eyes, and a cloud hid him from their sight.",
+          "verseCite": "Acts 1:9, NIV",
+          "enoch": "Look up for a moment, then wave and say: Jesus went back to heaven!",
+          "elijah": "In Acts 1:6, what did the friends ask Jesus?",
+          "elijahAnswer": "They asked him, “Lord, are you at this time going to restore the kingdom to Israel?”",
+          "jordyn": "Jesus says it is not for them to know the times or dates the Father has set by his own authority (Acts 1:7). What does that teach you about waiting when you want God to act right now?",
+          "jordynAnswer": "The times belong to the Father. The friends wanted the kingdom now, but Jesus pointed them to the Father’s authority and to the work still ahead. We can trust the Father’s timing instead of demanding our own.",
+          "action": "Read Acts 1:6–11 together, then tell someone: Jesus was taken up, and a cloud hid him from their sight.",
+          "prayer": "Father, thank you that Jesus was taken up before their very eyes. Help us trust your timing and remember that he is in heaven. In Jesus’ name, Amen.",
+          "passageCite": "Acts 1:6–11, NIV",
+          "teach": "The friends asked if Jesus was going to restore the kingdom to Israel at that time. He said it was not for them to know the times or dates the Father has set by his own authority. Then, after he said this, he was taken up before their very eyes, and a cloud hid him from their sight. Jesus went back to heaven. The story is not over, because he will come again.",
+          "enochActivity": "Help a grown-up make a small cloud with your hands, then open them and say: A cloud hid him, and Jesus went back to heaven.",
+          "elijah2": "In Acts 1:9, what hid Jesus from their sight?",
+          "elijahAnswer2": "A cloud hid him from their sight.",
+          "jordyn2": "The friends wanted the kingdom restored at that time (Acts 1:6). Jesus was taken up instead. How does his going to heaven still keep the hope of the kingdom alive?",
+          "jordynAnswer2": "He is not leaving the kingdom behind. The Father has set the times, and Jesus goes to heaven as Lord. Next they will be told that this same Jesus will come back.",
+          "passageText": "6 Then they gathered around him and asked him, “Lord, are you at this time going to restore the kingdom to Israel?” 7 He said to them: “It is not for you to know the times or dates the Father has set by his own authority. 8 But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” 9 After he said this, he was taken up before their very eyes, and a cloud hid him from their sight. 10 They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. 11 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”"
+        },
+        {
+          "id": "w23-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "They look up as he is going, and they hear that he will come again.",
+          "verse": "This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.",
+          "verseCite": "Acts 1:11, NIV",
+          "enoch": "Look up, then look at a grown-up and say: Jesus will come again!",
+          "elijah": "In Acts 1:10, what were the friends doing as Jesus was going, and who stood beside them?",
+          "elijahAnswer": "They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them.",
+          "jordyn": "The two men ask, “why do you stand here looking into the sky?” (Acts 1:11). What is the difference between remembering that Jesus will come again and only staring at the place he left?",
+          "jordynAnswer": "Looking up without hope can freeze you in place. The message is not merely to keep staring at the sky. It is that this same Jesus will come back in the same way they saw him go. We remember, and then we live as his people until he comes.",
+          "action": "Play a simple look-up-then-look-ahead: look at the sky for a moment, then look at each other and say, Jesus will come again.",
+          "prayer": "Father, thank you that this same Jesus will come back in the same way they saw him go. Keep our eyes full of that hope, and help us live for him until he comes. In Jesus’ name, Amen.",
+          "passageCite": "Acts 1:10–11, NIV",
+          "teach": "They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.” Jesus went back to heaven, and he will come again.",
+          "enochActivity": "Help a grown-up look up, then point forward and say: He will come again!",
+          "elijah2": "In Acts 1:11, what two things do the men say about this same Jesus?",
+          "elijahAnswer2": "He has been taken from them into heaven, and he will come back in the same way they have seen him go into heaven.",
+          "jordyn2": "The promise is that he will come back “in the same way you have seen him go into heaven.” What does that tell you about the Jesus who will return?",
+          "jordynAnswer2": "It is this same Jesus — the one they knew, who was taken up before their eyes. The return is not a different Lord. The one who went will come back.",
+          "passageText": "10 They were looking intently up into the sky as he was going, when suddenly two men dressed in white stood beside them. 11 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.”"
+        },
+        {
+          "id": "w23-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus blesses them, is taken up, and they return with great joy.",
+          "verse": "While he was blessing them, he left them and was taken up into heaven.",
+          "verseCite": "Luke 24:51, NIV",
+          "enoch": "Hold your hands out like a blessing and say: Jesus blessed them!",
+          "elijah": "In Luke 24:50, where did Jesus lead them, and what did he do with his hands?",
+          "elijahAnswer": "He led them out to the vicinity of Bethany, and he lifted up his hands and blessed them.",
+          "jordyn": "Luke 24:52 says they worshiped him and returned to Jerusalem with great joy. What does their worship tell you about who Jesus is, even after he is taken up?",
+          "jordynAnswer": "They worship him. That is what you do for the Lord. He has been taken up into heaven, and they answer with worship and great joy, not only with sadness that he is out of sight.",
+          "action": "Read Luke 24:50–53, then tell someone: While he was blessing them, he was taken up into heaven.",
+          "prayer": "Jesus, thank you that you blessed your friends as you were taken up. Teach us to worship you with joy, like they did. In your name, Amen.",
+          "passageCite": "Luke 24:50–53, NIV",
+          "teach": "When Jesus had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. While he was blessing them, he left them and was taken up into heaven. Then they worshiped him and returned to Jerusalem with great joy, and they stayed continually at the temple, praising God. Jesus went back to heaven with a blessing, and his friends answered with worship and joy.",
+          "enochActivity": "Help a grown-up lift your hands and say: We worship Jesus with joy!",
+          "elijah2": "In Luke 24:52–53, what did the friends do after Jesus was taken up?",
+          "elijahAnswer2": "They worshiped him and returned to Jerusalem with great joy, and they stayed continually at the temple, praising God.",
+          "jordyn2": "Why is it important that Jesus was blessing them at the very moment he was taken up (Luke 24:51)?",
+          "jordynAnswer2": "He does not leave them with an empty goodbye. The last thing they see is their Lord blessing them as he goes to heaven. That blessing helps explain their great joy.",
+          "passageText": "50 When he had led them out to the vicinity of Bethany, he lifted up his hands and blessed them. 51 While he was blessing them, he left them and was taken up into heaven. 52 Then they worshiped him and returned to Jerusalem with great joy. 53 And they stayed continually at the temple, praising God."
+        },
+        {
+          "id": "w23-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "All authority is his, and he is with us always.",
+          "verse": "And surely I am with you always, to the very end of the age.",
+          "verseCite": "Matthew 28:20, NIV",
+          "enoch": "Hold a grown-up’s hand and say: Jesus is with me always.",
+          "elijah": "In Matthew 28:18, what does Jesus say has been given to him?",
+          "elijahAnswer": "“All authority in heaven and on earth has been given to me.”",
+          "jordyn": "Jesus gives a great job: go and make disciples of all nations (Matthew 28:19). How does “I am with you always” make that job possible, not just heavy?",
+          "jordynAnswer": "The command comes from the one who has all authority, and he does not send them alone. He will be with them to the very end of the age. The work is his, and his presence goes with them.",
+          "action": "Tell someone today: Jesus has all authority, and he is with me always. Then do one kind thing in his name.",
+          "prayer": "Jesus, you have all authority in heaven and on earth. Thank you that you are with us always. Help us obey you and make disciples, not in our own strength. In your name, Amen.",
+          "passageCite": "Matthew 28:16–20, NIV",
+          "teach": "The eleven disciples went to Galilee, to the mountain where Jesus had told them to go. Jesus came to them and said, “All authority in heaven and on earth has been given to me.” He sent them to go and make disciples of all nations, baptizing them and teaching them to obey everything he has commanded. And he promised, “And surely I am with you always, to the very end of the age.” Jesus went back to heaven, but he has not left his friends alone.",
+          "enochActivity": "Help a grown-up point up and then to your heart and say: All authority is his, and he is with me always.",
+          "elijah2": "In Matthew 28:19, what does Jesus tell them to go and do?",
+          "elijahAnswer2": "Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.",
+          "jordyn2": "Jesus promises to be with his friends “to the very end of the age” (Matthew 28:20), even as he is taken up into heaven. How can both of those be true?",
+          "jordynAnswer2": "He goes to heaven, and he remains with his people. His authority and his presence are not limited to one hillside in Galilee. He is with us always, even until he comes again.",
+          "passageText": "16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”"
+        },
+        {
+          "id": "w23-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "He goes to prepare a place, and it is for our good that he goes away.",
+          "verse": "And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.",
+          "verseCite": "John 14:3, NIV",
+          "enoch": "Fold your hands and say: Jesus, you are getting a place ready for us.",
+          "elijah": "In John 14:2, what does Jesus say he is going to do in his Father’s house?",
+          "elijahAnswer": "He is going there to prepare a place for them.",
+          "jordyn": "In John 16:7 Jesus says, “it is for your good that I am going away.” How can his leaving be for their good, if they are filled with grief?",
+          "jordynAnswer": "He is going to the Father, and unless he goes away, the Advocate will not come to them. If he goes, he will send him to them (John 16:7). His going is not abandonment. It is for their good, and he will come back.",
+          "action": "Pray together: thank Jesus that he is preparing a place, and ask for help to wait for the Father’s promise.",
+          "prayer": "Jesus, thank you that you went to prepare a place for us, and that you will come back and take us to be with you. Thank you that it is for our good that you went away. Help us wait for the Father’s promise. In your name, Amen.",
+          "passageCite": "John 14:1–3; John 16:7; Acts 1:4, NIV",
+          "teach": "Jesus said, “Do not let your hearts be troubled.” He is going to his Father’s house to prepare a place, and he will come back and take his friends to be with him. He also said, “it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send him to you.” After he rose, he told them not to leave Jerusalem, but to wait for the gift his Father promised. We wait with him, because his going is for our good.",
+          "enochActivity": "Help a grown-up sit still for a short prayer and say: We will wait for the Father’s promise.",
+          "elijah2": "In Acts 1:4, what command did Jesus give while he was eating with them?",
+          "elijahAnswer2": "“Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.”",
+          "jordyn2": "Jesus tells them both to wait for the Father’s promise (Acts 1:4) and not to let their hearts be troubled (John 14:1). How do those two words belong together this week?",
+          "jordynAnswer2": "Waiting does not have to mean a troubled heart. He is preparing a place, he will come back, and the gift the Father promised is coming. We wait because he is faithful, not because he has forgotten us.",
+          "passageText": "1 “Do not let your hearts be troubled. You believe in God; believe also in me. 2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send him to you. On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about."
+        },
+        {
+          "id": "w23-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus went back to heaven, he will come again, and we wait for the Father’s promise.",
+          "verse": "God has ascended amid shouts of joy, the LORD amid the sounding of trumpets.",
+          "verseCite": "Psalm 47:5, NIV",
+          "enoch": "Clap once and say: God has ascended! Jesus will come again!",
+          "elijah": "In Psalm 47:5, what has God done amid shouts of joy?",
+          "elijahAnswer": "“God has ascended amid shouts of joy, the LORD amid the sounding of trumpets.”",
+          "jordyn": "This week Jesus was taken up, he promised to come again, and he said he is with us always. How does that get your heart ready for next week, when we will see the Father’s promise come?",
+          "jordynAnswer": "He told them to wait for the gift the Father promised. He went away for their good, and he will send the Advocate. Next week we will see God send the Holy Spirit. We wait with joy, because Jesus is in heaven, he is with us always, and he will come again.",
+          "action": "Tell someone the week’s big idea: Jesus went back to heaven, and he will come again. Then thank him that he is with us always.",
+          "prayer": "Father, thank you that Jesus went back to heaven and that he will come again. Thank you that he is with us always. Get our hearts ready for next week, when we see you send the Holy Spirit. In Jesus’ name, Amen.",
+          "passageCite": "Psalm 47:5; Acts 1:11; Matthew 28:20; Acts 1:4, NIV",
+          "teach": "This week we learned that Jesus went back to heaven, and he will come again. He was taken up, and a cloud hid him from their sight. Two men said this same Jesus will come back in the same way they saw him go. He blessed his friends, and they worshiped him with great joy. He has all authority, and he is with us always. He is preparing a place, and he told them to wait for the Father’s promise. The psalm says, “God has ascended amid shouts of joy, the LORD amid the sounding of trumpets.” Next week we will see God send the Holy Spirit, and the church will begin in a new way.",
+          "enochActivity": "Help a grown-up look up, then clap and say: Jesus went back to heaven, and he will come again!",
+          "elijah2": "In Acts 1:4 and John 16:7, what are the friends told to wait for, and why is Jesus’ going for their good?",
+          "elijahAnswer2": "They are to wait for the gift the Father promised. Jesus said it is for their good that he is going away, because if he goes, he will send the Advocate to them.",
+          "jordyn2": "Psalm 47:5 says God has ascended amid shouts of joy. How does that line help you hold together this week’s goodbye and this week’s hope?",
+          "jordynAnswer2": "His going up is not a quiet defeat. It is the Lord ascending with joy. The friends return with great joy, and we wait for him to come again, and for the promise he told them to wait for.",
+          "passageText": "God has ascended amid shouts of joy, the LORD amid the sounding of trumpets. “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven.” and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.” On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about."
+        }
+      ]
     },
     {
       "id": "24",

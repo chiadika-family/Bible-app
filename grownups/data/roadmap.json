@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.112",
+  "version": "2026.11.21.119",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1857,19 +1857,19 @@
       "passages": [
         "Zephaniah 3:9–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 156,
       "date": "2027-04-06",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Haggai: rebuild the house; the glory of this present house",
+      "title": "Haggai: rebuild the house; the glory of this present house",
       "passages": [
         "Haggai 1:1–15",
         "Haggai 2:1–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1881,7 +1881,7 @@
         "Zechariah 3:1–10",
         "Zechariah 4:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1894,7 +1894,7 @@
         "Zechariah 12:10",
         "Zechariah 14:3–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1906,7 +1906,7 @@
         "Malachi 1:6–14",
         "Malachi 2:13–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1918,7 +1918,7 @@
         "Malachi 3:1–12",
         "Malachi 4:1–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1930,7 +1930,7 @@
         "Matthew 1:18–25",
         "Matthew 2:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
