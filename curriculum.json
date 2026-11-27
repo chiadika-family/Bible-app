@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.17",
+  "contentVersion": "2026.11.21.18",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -4900,9 +4900,238 @@
       "planTitle": "Easter: Jesus is risen",
       "title": "Easter: Jesus is risen",
       "selectLabel": "Week 21 · Easter: Jesus is risen",
-      "ready": false,
+      "ready": true,
+      "passage": "Matthew 28:1–10; John 20:11–18; Luke 24:36–49 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 22 · The church: God's family",
+      "bigIdea": "Jesus died, and the tomb is empty: “He is not here; he has risen, just as he said.” He meets his friends, says “Peace be with you,” and sends them to tell the good news.",
+      "scheduleNote": "This is the Week 21 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Matthew 28:1–10 out loud, then John 20:11–18, then Luke 24:36–49."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Matthew 28:1–10",
+          "text": "1 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. 2 There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. 3 His appearance was like lightning, and his clothes were white as snow. 4 The guards were so afraid of him that they shook and became like dead men. 5 The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. 6 He is not here; he has risen, just as he said. Come and see the place where he lay. 7 Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.” 8 So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. 9 Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. 10 Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”"
+        },
+        {
+          "cite": "John 20:11–18",
+          "text": "11 Now Mary stood outside the tomb crying. As she wept, she bent over to look into the tomb 12 and saw two angels in white, seated where Jesus’ body had been, one at the head and the other at the foot. 13 They asked her, “Woman, why are you crying?” “They have taken my Lord away,” she said, “and I don’t know where they have put him.” 14 At this, she turned around and saw Jesus standing there, but she did not realize that it was Jesus. 15 He asked her, “Woman, why are you crying? Who is it you are looking for?” Thinking he was the gardener, she said, “Sir, if you have carried him away, tell me where you have put him, and I will get him.” 16 Jesus said to her, “Mary.” She turned toward him and cried out in Aramaic, “Rabboni!” (which means “Teacher”). 17 Jesus said, “Do not hold on to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’” 18 Mary Magdalene went to the disciples with the news: “I have seen the Lord!” And she told them that he had said these things to her."
+        },
+        {
+          "cite": "Luke 24:36–49",
+          "text": "36 While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.” 37 They were startled and frightened, thinking they saw a ghost. 38 He said to them, “Why are you troubled, and why do doubts rise in your minds? 39 Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.” 40 When he had said this, he showed them his hands and feet. 41 And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?” 42 They gave him a piece of broiled fish, 43 and he took it and ate it in their presence. 44 He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” 45 Then he opened their minds so they could understand the Scriptures. 46 He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day, 47 and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we shouted “Hosanna!” — “LORD, save us!” — as Jesus entered Jerusalem. This week we see how he saves. Jesus died, just as we have already learned. Early on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.",
+        "There was a great earthquake. An angel of the Lord came, rolled back the stone, and sat on it. The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay.” Then the women hurried away, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They clasped his feet and worshiped him. Jesus said, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”",
+        "Mary stood outside the tomb crying. Jesus said to her, “Mary.” She turned and cried out, “Rabboni!” (which means “Teacher”). Mary Magdalene went to the disciples with the news: “I have seen the Lord!”",
+        "That same day Jesus himself stood among his friends and said to them, “Peace be with you.” He showed them his hands and his feet. He told them that the Messiah would suffer and rise from the dead on the third day, and that they were witnesses of these things. He would send what the Father had promised.",
+        "So we say what the angel said: “He is not here; he has risen, just as he said.” The tomb is empty. Jesus is alive. He gives his friends peace, and he sends them to tell the good news. Next week we will see how those friends become a family: the church, God’s family."
+      ],
+      "enochLine": "The tomb is empty! Jesus is alive!",
+      "enochActivities": [
+        "Activity: The empty place. Help a grown-up open a box or a doorway, look inside, and say, “He is not here; he has risen, just as he said.”",
+        "Activity: Go and tell. Run to someone in the room and say: Jesus is alive!"
+      ],
+      "elijahQuestions": [
+        "In Matthew 28:6, what did the angel tell the women about Jesus?",
+        "In Matthew 28:8–9, what did the women do, and whom did they meet on the way?",
+        "In John 20:18, what news did Mary Magdalene take to the disciples?",
+        "In Luke 24:36, what did Jesus say when he stood among his friends?"
+      ],
+      "jordynQuestions": [
+        "The angel says, “He is not here; he has risen, just as he said.” Why does it matter that the tomb was empty, and that Jesus himself met the women?",
+        "Mary Magdalene tells the disciples, “I have seen the Lord!” (John 20:18). How is going and telling part of believing that Jesus is risen?",
+        "Jesus says, “Peace be with you,” and “You are witnesses of these things” (Luke 24:36, 48). How does the risen Jesus sending his friends get us ready for next week, when we talk about the church?"
+      ],
+      "jordynApplication": "Jesus is risen (Matthew 28:6). This week, tell someone the good news — “He is not here; he has risen, just as he said” — and receive his peace. Next week we will see how his friends become a family: the church, God’s family.",
+      "elijahAnswers": [
+        "“He is not here; he has risen, just as he said.” (Matthew 28:6).",
+        "They hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them (Matthew 28:8–9).",
+        "“I have seen the Lord!” (John 20:18).",
+        "“Peace be with you.” (Luke 24:36)."
+      ],
+      "jordynAnswers": [
+        "The tomb was empty because Jesus is alive, just as he said (Matthew 28:6). He is not only a memory. He met the women himself and told them, “Go and tell” (Matthew 28:9–10).",
+        "Jesus told Mary to go and tell his brothers (John 20:17–18). Believing that he is risen means we do not keep the news to ourselves. We say, with Mary, “I have seen the Lord!”",
+        "The risen Jesus gives his friends peace and sends them as witnesses (Luke 24:36, 48). Next week we will see how those friends become a family — the church, God’s family — who keep telling the good news."
+      ],
+      "applicationCheck": "Ask her later in the week whether she told someone that Jesus is risen, and whether she received his peace. If it is fitting, share one way you told the good news this week too, and thank God together that the tomb is empty.",
+      "prayer": "Father, thank you that Jesus died, and that the tomb is empty. He is not here; he has risen, just as he said. Give us his peace, and help us tell the good news that Jesus is alive. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w21-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "At dawn on the first day of the week, the women find the tomb empty. The angel says, “He is not here; he has risen, just as he said.”",
+          "verse": "He is not here; he has risen, just as he said. Come and see the place where he lay.",
+          "verseCite": "Matthew 28:6, NIV",
+          "enoch": "Help a grown-up look in an open box and say, “He is not here; he has risen, just as he said.”",
+          "elijah": "In Matthew 28:1, who went to look at the tomb at dawn on the first day of the week?",
+          "elijahAnswer": "Mary Magdalene and the other Mary (Matthew 28:1).",
+          "jordyn": "The angel says Jesus “has risen, just as he said” (Matthew 28:6). Why do those last four words matter?",
+          "jordynAnswer": "Jesus had already told them he would rise. The empty tomb keeps his word. He is alive, just as he said.",
+          "action": "Tell someone today, “He is not here; he has risen, just as he said.”",
+          "prayer": "Father, thank you that the tomb is empty. Jesus has risen, just as he said. Help us believe it and tell it. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 28:1–10, NIV",
+          "teach": "After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. An angel of the Lord rolled back the stone and said, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said. Come and see the place where he lay.” The women hurried away, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them and said, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”",
+          "enochActivity": "Clap and say: Jesus is alive!",
+          "elijah2": "In Matthew 28:6, what two things did the angel tell the women to know and to do?",
+          "elijahAnswer2": "Jesus is not here; he has risen, just as he said. And, “Come and see the place where he lay.”",
+          "jordyn2": "The women are “afraid yet filled with joy” as they run to tell (Matthew 28:8). What does it look like to tell the good news with both wonder and joy?",
+          "jordynAnswer2": "They do not stay at the empty tomb. They run to tell, and Jesus meets them on the way (Matthew 28:8–10). Wonder does not have to cancel joy, and joy does not have to pretend there is no wonder.",
+          "passageText": "1 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. 2 There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. 3 His appearance was like lightning, and his clothes were white as snow. 4 The guards were so afraid of him that they shook and became like dead men. 5 The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. 6 He is not here; he has risen, just as he said. Come and see the place where he lay. 7 Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.” 8 So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. 9 Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. 10 Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”"
+        },
+        {
+          "id": "w21-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "The women run from the empty tomb to tell the good news, and Jesus meets them on the way.",
+          "verse": "So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples.",
+          "verseCite": "Matthew 28:8, NIV",
+          "enoch": "Run to a grown-up in the room and say: Jesus is alive!",
+          "elijah": "In Matthew 28:10, what did Jesus tell the women to do?",
+          "elijahAnswer": "“Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”",
+          "jordyn": "Jesus meets the women as they go to tell (Matthew 28:9–10). What does that show you about following the angel’s words?",
+          "jordynAnswer": "They obey and go, and the risen Jesus meets them himself. The good news is not only that the tomb is empty. Jesus is alive, and he is with them as they go and tell.",
+          "action": "Play a go-and-tell race: run to someone at home and say: Jesus is risen!",
+          "prayer": "Jesus, thank you that you met the women as they ran to tell. Take away our fear, and send us to tell that you are alive. In your name, Amen.",
+          "passageCite": "Matthew 28:8–10, NIV",
+          "teach": "The women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.” The first thing the risen Jesus gives them is peace, and a message to carry.",
+          "enochActivity": "Help a grown-up clap a rhythm and say, “He is not here; he has risen, just as he said.”",
+          "elijah2": "In Matthew 28:9, what did the women do when Jesus met them?",
+          "elijahAnswer2": "They came to him, clasped his feet and worshiped him.",
+          "jordyn2": "Why is it good news that the first people sent to tell that Jesus is risen are these women, running from an empty tomb?",
+          "jordynAnswer2": "God let them be the first to see that Jesus is alive and the first to be sent: “Go and tell” (Matthew 28:10). The good news starts with witnesses who have met the risen Jesus.",
+          "passageText": "So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”"
+        },
+        {
+          "id": "w21-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "On the road to Emmaus, two friends walk with Jesus without knowing him. They recognize him when he breaks the bread.",
+          "verse": "They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?”",
+          "verseCite": "Luke 24:32, NIV",
+          "enoch": "Break a piece of bread (or a cracker) with a grown-up and say: Jesus is with us.",
+          "elijah": "In Luke 24:31, when did the two friends recognize Jesus?",
+          "elijahAnswer": "When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. Then their eyes were opened and they recognized him (Luke 24:30–31).",
+          "jordyn": "Their hearts burned while Jesus opened the Scriptures on the road (Luke 24:32). Why does Jesus use the Scriptures, not only a surprise ending, to show who he is?",
+          "jordynAnswer": "He helps them see that what happened was already written. The risen Jesus is the one the Scriptures were talking about, and he opens them so his friends can understand.",
+          "action": "Ask a grown-up to read a few verses about Jesus with you, and thank God that he opens the Scriptures.",
+          "prayer": "Jesus, walk with us as you walked with your friends. Open the Scriptures to us, and help us recognize you. In your name, Amen.",
+          "passageCite": "Luke 24:13–35, NIV",
+          "teach": "That same day two of them were going to a village called Emmaus. Jesus himself came up and walked with them, but they were kept from recognizing him. He explained what was said in all the Scriptures concerning himself. When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. Then their eyes were opened and they recognized him, and he disappeared from their sight. They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?”",
+          "enochActivity": "Walk around the room with a grown-up and say: Jesus walks with us.",
+          "elijah2": "In Luke 24:32, what did the two friends say to each other after they recognized Jesus?",
+          "elijahAnswer2": "“Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?”",
+          "jordyn2": "After they recognized Jesus, they went back to tell the others (Luke 24:33–35). How does that fit with the empty tomb’s “Go and tell”?",
+          "jordynAnswer2": "The same good news keeps moving. The women ran from the tomb. These two return to Jerusalem and tell how Jesus was recognized when he broke the bread (Luke 24:35).",
+          "passageText": "13 Now that same day two of them were going to a village called Emmaus, about seven miles from Jerusalem. 14 They were talking with each other about everything that had happened. 15 As they talked and discussed these things with each other, Jesus himself came up and walked along with them; 16 but they were kept from recognizing him. 17 He asked them, “What are you discussing together as you walk along?” They stood still, their faces downcast. 18 One of them, named Cleopas, asked him, “Are you the only one visiting Jerusalem who does not know the things that have happened there in these days?” 19 “What things?” he asked. “About Jesus of Nazareth,” they replied. “He was a prophet, powerful in word and deed before God and all the people. 20 The chief priests and our rulers handed him over to be sentenced to death, and they crucified him; 21 but we had hoped that he was the one who was going to redeem Israel. And what is more, it is the third day since all this took place. 22 In addition, some of our women amazed us. They went to the tomb early this morning 23 but didn’t find his body. They came and told us that they had seen a vision of angels, who said he was alive. 24 Then some of our companions went to the tomb and found it just as the women had said, but they did not see Jesus.” 25 He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken! 26 Did not the Messiah have to suffer these things and then enter his glory?” 27 And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself. 28 As they approached the village to which they were going, Jesus continued on as if he were going farther. 29 But they urged him strongly, “Stay with us, for it is nearly evening; the day is almost over.” So he went in to stay with them. 30 When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. 31 Then their eyes were opened and they recognized him, and he disappeared from their sight. 32 They asked each other, “Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?” 33 They got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together 34 and saying, “It is true! The Lord has risen and has appeared to Simon.” 35 Then the two told what had happened on the way, and how Jesus was recognized by them when he broke the bread."
+        },
+        {
+          "id": "w21-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Thomas was not there when Jesus first came. Jesus comes again, and Thomas believes: “My Lord and my God!”",
+          "verse": "Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.",
+          "verseCite": "John 20:29, NIV",
+          "enoch": "Point to your eyes, then to your heart, and say: I believe Jesus is alive!",
+          "elijah": "In John 20:25, what did Thomas say he would have to see before he would believe?",
+          "elijahAnswer": "“Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.”",
+          "jordyn": "Jesus does not shame Thomas. He comes and says, “Stop doubting and believe” (John 20:27). What kind of Lord does that show him to be?",
+          "jordynAnswer": "He is kind and true. He comes to Thomas, shows that he is really alive, and invites him to believe. Thomas answers, “My Lord and my God!” (John 20:28).",
+          "action": "If you are struggling to believe, tell a grown-up honestly, and ask Jesus to help you trust him. If you believe, thank him that he blesses those who have not seen and yet have believed.",
+          "prayer": "Jesus, you are Lord and God. Help us believe even when we have not seen you with our eyes. Thank you that you come to your friends with peace. In your name, Amen.",
+          "passageCite": "John 20:24–29, NIV",
+          "teach": "Thomas was not with the disciples when Jesus came. The others told him, “We have seen the Lord!” But he said he would not believe unless he saw the nail marks and put his hand into Jesus’ side. A week later Jesus came, though the doors were locked, and said, “Peace be with you!” He said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.” Thomas said, “My Lord and my God!” Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”",
+          "enochActivity": "Hold out your hands and say: Jesus is really alive.",
+          "elijah2": "In John 20:28–29, what did Thomas say, and whom did Jesus bless?",
+          "elijahAnswer2": "Thomas said, “My Lord and my God!” Jesus said, “blessed are those who have not seen and yet have believed.”",
+          "jordyn2": "We have not seen Jesus the way Thomas did. How can John 20:29 be a blessing for you this week?",
+          "jordynAnswer2": "Jesus blesses those who have not seen and yet have believed. We trust the witnesses God has given us in Scripture, and we believe that Jesus is risen even though we have not seen him with our eyes.",
+          "passageText": "24 Now Thomas (also known as Didymus), one of the Twelve, was not with the disciples when Jesus came. 25 So the other disciples told him, “We have seen the Lord!” But he said to them, “Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.” 26 A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!” 27 Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.” 28 Thomas said to him, “My Lord and my God!” 29 Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”"
+        },
+        {
+          "id": "w21-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "The risen Jesus stands among his friends, says “Peace be with you,” and sends them.",
+          "verse": "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.”",
+          "verseCite": "John 20:21, NIV",
+          "enoch": "Hold out your hands like a greeting and say, “Peace be with you.”",
+          "elijah": "In John 20:19, what did Jesus say when he came and stood among the disciples?",
+          "elijahAnswer": "“Peace be with you!” (John 20:19).",
+          "jordyn": "The doors were locked for fear, and Jesus came and said, “Peace be with you!” (John 20:19). How is his peace different from just feeling safe behind a locked door?",
+          "jordynAnswer": "His peace comes with him, even when the doors are locked. Then he sends them: “As the Father has sent me, I am sending you” (John 20:21). Peace is not only for hiding. It is for going.",
+          "action": "Pray “Peace be with you” for someone who is afraid, and tell them Jesus is alive.",
+          "prayer": "Jesus, thank you that you stand among your friends and say, “Peace be with you.” Give us your peace, and send us to tell that you are risen. In your name, Amen.",
+          "passageCite": "John 20:19–23; Luke 24:36–49, NIV",
+          "teach": "On the evening of that first day of the week, the disciples were together with the doors locked for fear. Jesus came and stood among them and said, “Peace be with you!” Again he said, “Peace be with you! As the Father has sent me, I am sending you.” In Luke, he stands among them and says, “Peace be with you.” He tells them they are witnesses of these things, and that he is going to send what the Father has promised. The risen Jesus gives peace, and he sends his friends.",
+          "enochActivity": "Sit still for a quiet moment with a grown-up and whisper: Jesus, give us your peace.",
+          "elijah2": "In Luke 24:48–49, what does Jesus call his friends, and what does he promise to send?",
+          "elijahAnswer2": "He says, “You are witnesses of these things.” He is going to send what the Father has promised (Luke 24:48–49).",
+          "jordyn2": "How does “Peace be with you” and “I am sending you” get us ready to talk about the church next week?",
+          "jordynAnswer2": "The risen Jesus gathers his friends, gives them peace, and sends them as witnesses (John 20:21; Luke 24:48). Next week we will see how those friends become a family: the church, God’s family.",
+          "passageText": "19 On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!” 20 After he said this, he showed them his hands and side. The disciples were overjoyed when they saw the Lord. 21 Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.” 22 And with that he breathed on them and said, “Receive the Holy Spirit. 23 If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.” 36 While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.” 37 They were startled and frightened, thinking they saw a ghost. 38 He said to them, “Why are you troubled, and why do doubts rise in your minds? 39 Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.” 40 When he had said this, he showed them his hands and feet. 41 And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?” 42 They gave him a piece of broiled fish, 43 and he took it and ate it in their presence. 44 He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.” 45 Then he opened their minds so they could understand the Scriptures. 46 He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day, 47 and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48 You are witnesses of these things. 49 I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”"
+        },
+        {
+          "id": "w21-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Of first importance: Christ died for our sins, was buried, and was raised on the third day. He appeared, and he is the firstfruits of those who have fallen asleep.",
+          "verse": "But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.",
+          "verseCite": "1 Corinthians 15:20, NIV",
+          "enoch": "Give a grown-up a hug and say: Jesus is risen, and he is alive!",
+          "elijah": "In 1 Corinthians 15:3–4, what three things does Paul pass on as of first importance?",
+          "elijahAnswer": "That Christ died for our sins according to the Scriptures, that he was buried, and that he was raised on the third day according to the Scriptures.",
+          "jordyn": "Paul says Christ appeared to many witnesses (1 Corinthians 15:5–8), and that he is “the firstfruits of those who have fallen asleep” (1 Corinthians 15:20). What hope does that give?",
+          "jordynAnswer": "Jesus really rose, and many people saw him. Firstfruits means more life is coming: “For as in Adam all die, so in Christ all will be made alive” (1 Corinthians 15:22).",
+          "action": "Tell someone the good news of first importance: Jesus died, was buried, and was raised. Next week we will see how his friends become the church, God’s family.",
+          "prayer": "Father, thank you that Jesus died for our sins, was buried, and was raised on the third day. He is not here; he has risen, just as he said. Give us his peace, and make us ready to live as his family. In Jesus’ name, Amen.",
+          "passageCite": "1 Corinthians 15:3–8, 20–22, NIV",
+          "teach": "This week we learned that Jesus is risen. The tomb is empty: “He is not here; he has risen, just as he said.” He met Mary, walked to Emmaus, stood among his friends, and said, “Peace be with you.” Paul says this is of first importance: Christ died for our sins, was buried, and was raised on the third day, and he appeared. Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep. Next we will see how his friends become a family: the church, God’s family.",
+          "enochActivity": "Wave and say: Jesus is alive, and he gives us peace!",
+          "elijah2": "In 1 Corinthians 15:22, what two things does Paul set side by side?",
+          "elijahAnswer2": "“For as in Adam all die, so in Christ all will be made alive.”",
+          "jordyn2": "What is one way you will live this week like someone who belongs to the risen Jesus, as we get ready to talk about the church?",
+          "jordynAnswer2": "Answers will vary: telling someone Jesus is risen, receiving his peace, trusting him though we have not seen him, or looking toward his family, the church. The same risen Jesus who met his friends still gathers and sends them.",
+          "passageText": "3 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, 4 that he was buried, that he was raised on the third day according to the Scriptures, 5 and that he appeared to Cephas, and then to the Twelve. 6 After that, he appeared to more than five hundred of the brothers and sisters at the same time, most of whom are still living, though some have fallen asleep. 7 Then he appeared to James, then to all the apostles, 8 and last of all he appeared to me also, as to one abnormally born. 20 But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep. 21 For since death came through a man, the resurrection of the dead comes also through a man. 22 For as in Adam all die, so in Christ all will be made alive."
+        }
+      ],
+      "lessonVerses": [
+        "Matthew 28:1–10",
+        "John 20:11–18",
+        "John 20:19–23",
+        "John 20:24–29",
+        "Luke 24:13–35",
+        "Luke 24:36–49",
+        "1 Corinthians 15:3–8",
+        "1 Corinthians 15:20–22"
+      ]
     },
     {
       "id": "22",

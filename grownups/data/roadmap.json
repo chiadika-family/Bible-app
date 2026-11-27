@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.98",
+  "version": "2026.11.21.105",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1694,19 +1694,19 @@
         "Daniel 7:9–14",
         "Daniel 9:1–19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 142,
       "date": "2027-03-23",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Hosea: a faithful God and an unfaithful people",
+      "title": "Hosea: a faithful God and an unfaithful people",
       "passages": [
         "Hosea 1:1–11",
         "Hosea 2:14–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1719,7 +1719,7 @@
         "Hosea 11:1–11",
         "Hosea 14:1–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1730,7 +1730,7 @@
       "passages": [
         "Joel 2:12–32"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1741,7 +1741,7 @@
       "passages": [
         "Amos 5:14–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1753,7 +1753,7 @@
         "Amos 7:7–9",
         "Amos 9:11–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1764,7 +1764,7 @@
       "passages": [
         "Obadiah 1:1–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
