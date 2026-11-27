@@ -1,221 +1,530 @@
-{
-  "contentVersion": "2026.11.12.3",
-  "tracks": [
-    {
-      "id": "daily",
-      "title": "Daily lessons",
-      "summary": "Every morning lesson in order, Day 1 onward. Shown for the man profile.",
-      "audience": "man",
-      "lessonIds": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13"
-      ]
+[
+  {
+    "id": "daily",
+    "title": "Daily lessons",
+    "summary": "Every morning lesson in order, Day 1 onward. Shown for the man profile.",
+    "audience": "man",
+    "lessonIds": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91"
+    ]
+  },
+  {
+    "id": "daily-women",
+    "title": "Daily lessons for women",
+    "summary": "Every morning lesson in order, written for a woman.",
+    "audience": "woman",
+    "lessonIds": [
+      "w1",
+      "w2",
+      "w3",
+      "w4",
+      "w5",
+      "w6",
+      "w7",
+      "w8",
+      "w9",
+      "w10",
+      "w11",
+      "w12",
+      "w13",
+      "w14",
+      "w15",
+      "w16",
+      "w17",
+      "w18",
+      "w19",
+      "w20",
+      "w21",
+      "w22",
+      "w23",
+      "w24",
+      "w25",
+      "w26",
+      "w27",
+      "w28",
+      "w29",
+      "w30",
+      "w31",
+      "w32",
+      "w33",
+      "w34",
+      "w35",
+      "w36",
+      "w37",
+      "w38",
+      "w39",
+      "w40",
+      "w41",
+      "w42",
+      "w43",
+      "w44",
+      "w45",
+      "w46",
+      "w47",
+      "w48",
+      "w49",
+      "w50",
+      "w51",
+      "w52",
+      "w53",
+      "w54",
+      "w55",
+      "w56",
+      "w57",
+      "w58",
+      "w59",
+      "w60",
+      "w61",
+      "w62",
+      "w63",
+      "w64",
+      "w65",
+      "w66",
+      "w67",
+      "w68",
+      "w69",
+      "w70",
+      "w71",
+      "w72",
+      "w73",
+      "w74",
+      "w75",
+      "w76",
+      "w77",
+      "w78",
+      "w79",
+      "w80",
+      "w81",
+      "w82",
+      "w83",
+      "w84",
+      "w85",
+      "w86",
+      "w87",
+      "w88",
+      "w89",
+      "w90",
+      "w91"
+    ]
+  },
+  {
+    "id": "foundations",
+    "title": "Foundations",
+    "summary": "Who God is, who we are, and how we walk with him. Shown for the man profile.",
+    "audience": "man",
+    "lessonIds": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "id": "man-husband-father",
+    "title": "Man, Husband, Father",
+    "summary": "Godly manhood at home: as a man, a husband, and a father.",
+    "audience": "man",
+    "lessonIds": [
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "id": "church-practices",
+    "title": "Church practices",
+    "summary": "The church, baptism, and the practices Jesus gave his people. Shown for the man profile.",
+    "audience": "man",
+    "lessonIds": [
+      "9",
+      "13",
+      "14"
+    ]
+  },
+  {
+    "id": "foundations-women",
+    "title": "Foundations for women",
+    "summary": "The same foundations, written for a woman. Shown when the profile is set to woman.",
+    "audience": "woman",
+    "lessonIds": [
+      "w1",
+      "w2",
+      "w3",
+      "w4",
+      "w5",
+      "w6",
+      "w7",
+      "w8",
+      "w15",
+      "w16",
+      "w17",
+      "w18",
+      "w19",
+      "w20",
+      "w21",
+      "w22",
+      "w23",
+      "w24",
+      "w25",
+      "w26",
+      "w27",
+      "w28",
+      "w29",
+      "w30"
+    ]
+  },
+  {
+    "id": "woman-wife-mother",
+    "title": "Woman, Wife, Mother",
+    "summary": "Godly womanhood at home: as a woman, a wife, and a mother.",
+    "audience": "woman",
+    "lessonIds": [
+      "w10",
+      "w11",
+      "w12"
+    ]
+  },
+  {
+    "id": "church-practices-women",
+    "title": "Church practices for women",
+    "summary": "The church and baptism, written for a woman.",
+    "audience": "woman",
+    "lessonIds": [
+      "w9",
+      "w13",
+      "w14"
+    ]
+  },
+  {
+    "id": "books-of-the-bible",
+    "title": "Books of the Bible",
+    "summary": "How the Bible is organized, the big storyline, the covenants, and how to read different kinds of writing. Pair this with the 66-book reference.",
+    "audience": "all",
+    "lessonIds": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "31",
+      "w31",
+      "32",
+      "w32",
+      "33",
+      "w33",
+      "34",
+      "w34",
+      "35",
+      "w35",
+      "36",
+      "w36",
+      "37",
+      "w37",
+      "38",
+      "w38",
+      "39",
+      "w39",
+      "40",
+      "w40",
+      "41",
+      "w41",
+      "42",
+      "w42",
+      "43",
+      "w43",
+      "44",
+      "w44",
+      "45",
+      "w45",
+      "46",
+      "w46",
+      "47",
+      "w47",
+      "48",
+      "w48",
+      "49",
+      "w49",
+      "50",
+      "w50",
+      "51",
+      "w51",
+      "52",
+      "w52",
+      "53",
+      "w53",
+      "54",
+      "w54",
+      "55",
+      "w55",
+      "56",
+      "w56",
+      "57",
+      "w57",
+      "58",
+      "w58",
+      "59",
+      "w59",
+      "60",
+      "w60",
+      "61",
+      "w61",
+      "62",
+      "w62",
+      "63",
+      "w63",
+      "64",
+      "w64",
+      "65",
+      "w65",
+      "66",
+      "w66",
+      "67",
+      "w67",
+      "68",
+      "w68",
+      "69",
+      "w69",
+      "70",
+      "w70",
+      "71",
+      "w71",
+      "72",
+      "w72",
+      "73",
+      "w73",
+      "74",
+      "w74",
+      "75",
+      "w75",
+      "76",
+      "w76",
+      "77",
+      "w77",
+      "78",
+      "w78",
+      "79",
+      "w79",
+      "80",
+      "w80",
+      "81",
+      "w81",
+      "82",
+      "w82",
+      "83",
+      "w83",
+      "84",
+      "w84",
+      "85",
+      "w85",
+      "86",
+      "w86",
+      "87",
+      "w87",
+      "88",
+      "w88",
+      "89",
+      "w89",
+      "90",
+      "w90",
+      "91",
+      "w91"
+    ]
+  },
+  {
+    "id": "key-elements",
+    "title": "Other key elements",
+    "summary": "The Trinity, the gospel, law and grace, the covenants, Bible translations, and end-times basics.",
+    "audience": "all",
+    "lessonIds": [
+      "e1",
+      "e2",
+      "e3",
+      "e4",
+      "e5",
+      "e6"
+    ]
+  },
+  {
+    "id": "role-husband",
+    "title": "Husband",
+    "summary": "A husband's duties, and sex in marriage as God's good design.",
+    "audience": "man",
+    "showIf": {
+      "married": true
     },
-    {
-      "id": "daily-women",
-      "title": "Daily lessons for women",
-      "summary": "Every morning lesson in order, written for a woman.",
-      "audience": "woman",
-      "lessonIds": [
-        "w1",
-        "w2",
-        "w3",
-        "w4",
-        "w5",
-        "w6",
-        "w7",
-        "w8",
-        "w9",
-        "w10",
-        "w11",
-        "w12",
-        "w13"
-      ]
+    "lessonIds": [
+      "r-husband",
+      "r-sex-husband"
+    ]
+  },
+  {
+    "id": "role-father",
+    "title": "Father",
+    "summary": "A father's duties: bringing children up in the Lord.",
+    "audience": "man",
+    "showIf": {
+      "hasKids": true
     },
-    {
-      "id": "foundations",
-      "title": "Foundations",
-      "summary": "Who God is, who we are, and how we walk with him. Shown for the man profile.",
-      "audience": "man",
-      "lessonIds": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8"
-      ]
+    "lessonIds": [
+      "r-father"
+    ]
+  },
+  {
+    "id": "role-single-man",
+    "title": "Single man",
+    "summary": "Purity, contentment, and preparing to lead.",
+    "audience": "man",
+    "showIf": {
+      "married": false
     },
-    {
-      "id": "man-husband-father",
-      "title": "Man, Husband, Father",
-      "summary": "Godly manhood at home: as a man, a husband, and a father.",
-      "audience": "man",
-      "lessonIds": [
-        "10",
-        "11",
-        "12"
-      ]
+    "lessonIds": [
+      "r-single-man"
+    ]
+  },
+  {
+    "id": "role-wife",
+    "title": "Wife",
+    "summary": "A wife's duties, and sex in marriage as God's good design.",
+    "audience": "woman",
+    "showIf": {
+      "married": true
     },
-    {
-      "id": "church-practices",
-      "title": "Church practices",
-      "summary": "The church, baptism, and the practices Jesus gave his people. Shown for the man profile.",
-      "audience": "man",
-      "lessonIds": [
-        "9",
-        "13"
-      ]
+    "lessonIds": [
+      "r-wife",
+      "r-sex-wife"
+    ]
+  },
+  {
+    "id": "role-mother",
+    "title": "Mother",
+    "summary": "A mother's duties: faithful instruction at home.",
+    "audience": "woman",
+    "showIf": {
+      "hasKids": true
     },
-    {
-      "id": "foundations-women",
-      "title": "Foundations for women",
-      "summary": "The same foundations, written for a woman. Shown when the profile is set to woman.",
-      "audience": "woman",
-      "lessonIds": [
-        "w1",
-        "w2",
-        "w3",
-        "w4",
-        "w5",
-        "w6",
-        "w7",
-        "w8"
-      ]
+    "lessonIds": [
+      "r-mother"
+    ]
+  },
+  {
+    "id": "role-single-woman",
+    "title": "Single woman",
+    "summary": "Purity, contentment, and preparing — receiving whatever God gives.",
+    "audience": "woman",
+    "showIf": {
+      "married": false
     },
-    {
-      "id": "woman-wife-mother",
-      "title": "Woman, Wife, Mother",
-      "summary": "Godly womanhood at home: as a woman, a wife, and a mother.",
-      "audience": "woman",
-      "lessonIds": [
-        "w10",
-        "w11",
-        "w12"
-      ]
-    },
-    {
-      "id": "church-practices-women",
-      "title": "Church practices for women",
-      "summary": "The church and baptism, written for a woman.",
-      "audience": "woman",
-      "lessonIds": [
-        "w9",
-        "w13"
-      ]
-    },
-    {
-      "id": "books-of-the-bible",
-      "title": "Books of the Bible",
-      "summary": "How the Bible is organized, the big storyline, the covenants, and how to read different kinds of writing. Pair this with the 66-book reference.",
-      "audience": "all",
-      "lessonIds": [
-        "b1",
-        "b2",
-        "b3",
-        "b4"
-      ]
-    },
-    {
-      "id": "key-elements",
-      "title": "Other key elements",
-      "summary": "The Trinity, the gospel, law and grace, the covenants, Bible translations, and end-times basics.",
-      "audience": "all",
-      "lessonIds": [
-        "e1",
-        "e2",
-        "e3",
-        "e4",
-        "e5",
-        "e6"
-      ]
-    },
-    {
-      "id": "role-husband",
-      "title": "Husband",
-      "summary": "A husband's duties, and sex in marriage as God's good design.",
-      "audience": "man",
-      "showIf": {
-        "married": true
-      },
-      "lessonIds": [
-        "r-husband",
-        "r-sex-husband"
-      ]
-    },
-    {
-      "id": "role-father",
-      "title": "Father",
-      "summary": "A father's duties: bringing children up in the Lord.",
-      "audience": "man",
-      "showIf": {
-        "hasKids": true
-      },
-      "lessonIds": [
-        "r-father"
-      ]
-    },
-    {
-      "id": "role-single-man",
-      "title": "Single man",
-      "summary": "Purity, contentment, and preparing to lead.",
-      "audience": "man",
-      "showIf": {
-        "married": false
-      },
-      "lessonIds": [
-        "r-single-man"
-      ]
-    },
-    {
-      "id": "role-wife",
-      "title": "Wife",
-      "summary": "A wife's duties, and sex in marriage as God's good design.",
-      "audience": "woman",
-      "showIf": {
-        "married": true
-      },
-      "lessonIds": [
-        "r-wife",
-        "r-sex-wife"
-      ]
-    },
-    {
-      "id": "role-mother",
-      "title": "Mother",
-      "summary": "A mother's duties: faithful instruction at home.",
-      "audience": "woman",
-      "showIf": {
-        "hasKids": true
-      },
-      "lessonIds": [
-        "r-mother"
-      ]
-    },
-    {
-      "id": "role-single-woman",
-      "title": "Single woman",
-      "summary": "Purity, contentment, and preparing — receiving whatever God gives.",
-      "audience": "woman",
-      "showIf": {
-        "married": false
-      },
-      "lessonIds": [
-        "r-single-woman"
-      ]
-    }
-  ]
-}
+    "lessonIds": [
+      "r-single-woman"
+    ]
+  }
+]

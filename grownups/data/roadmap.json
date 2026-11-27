@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.42",
+  "version": "2026.11.21.49",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1045,7 +1045,7 @@
       "passages": [
         "1 Chronicles 29:10–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1056,7 +1056,7 @@
       "passages": [
         "2 Chronicles 7:11–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1067,7 +1067,7 @@
       "passages": [
         "2 Chronicles 20:1–22"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1078,7 +1078,7 @@
       "passages": [
         "2 Chronicles 36:11–23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1090,7 +1090,7 @@
         "Ezra 1:1–11",
         "Ezra 3:10–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1103,7 +1103,7 @@
         "Ezra 9:1–9",
         "Ezra 10:1–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1115,7 +1115,7 @@
         "Nehemiah 1:1–11",
         "Nehemiah 2:11–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
