@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.105",
+  "version": "2026.11.21.112",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1776,19 +1776,19 @@
         "Jonah 1:1–17",
         "Jonah 2:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 149,
       "date": "2027-03-30",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Jonah: a reluctant preacher, and a God who pities Nineveh",
+      "title": "Jonah: a reluctant preacher, and a God who pities Nineveh",
       "passages": [
         "Jonah 3:1–10",
         "Jonah 4:1–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1800,7 +1800,7 @@
         "Micah 4:1–5",
         "Micah 5:2–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1812,7 +1812,7 @@
         "Micah 6:6–8",
         "Micah 7:18–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1823,7 +1823,7 @@
       "passages": [
         "Nahum 1:1–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1835,7 +1835,7 @@
         "Habakkuk 1:1–11",
         "Habakkuk 2:1–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1846,7 +1846,7 @@
       "passages": [
         "Habakkuk 3:1–19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

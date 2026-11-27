@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.18",
+  "contentVersion": "2026.11.21.19",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -5139,9 +5139,237 @@
       "planTitle": "The church: God's family",
       "title": "The church: God's family",
       "selectLabel": "Week 22 · The church: God's family",
-      "ready": false,
+      "ready": true,
+      "passage": "John 13:34–35; Ephesians 2:19–22; Acts 2:42–47 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 23 · Jesus goes back to heaven",
+      "bigIdea": "The church is God’s family. Jesus says, “Love one another.” We are members of his household, and his friends devote themselves to the apostles’ teaching, to fellowship, to the breaking of bread, and to prayer.",
+      "scheduleNote": "This is the Week 22 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read John 13:34–35 out loud, then Ephesians 2:19–22, then Acts 2:42–47."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "John 13:34–35",
+          "text": "34 “A new command I give you: Love one another. As I have loved you, so you must love one another. 35 By this everyone will know that you are my disciples, if you love one another.”"
+        },
+        {
+          "cite": "Ephesians 2:19–22",
+          "text": "19 Consequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household, 20 built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone. 21 In him the whole building is joined together and rises to become a holy temple in the Lord. 22 And in him you too are being built together to become a dwelling in which God lives by his Spirit."
+        },
+        {
+          "cite": "Acts 2:42–47",
+          "text": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we heard the good news: Jesus is risen. He stood among his friends, said, “Peace be with you,” and sent them to tell that he is alive. This week we see how those friends become a family: the church, God’s family.",
+        "Before he went to the cross, Jesus gave his friends a new command: “Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.” The church is not a club you join to look impressive. It is a family that loves the way Jesus loves.",
+        "Paul writes to the church that “you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household,” and that in Jesus we belong. We are being built together to become a dwelling in which God lives by his Spirit. No one in this family is a stranger at the door.",
+        "This is what that family looked like. They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. All the believers were together and had everything in common. They broke bread in their homes and ate together with glad and sincere hearts, praising God. And the Lord added to their number daily those who were being saved.",
+        "So we love one another, we belong to God’s household, and we keep meeting, learning, sharing, and praying. Next week we will see Jesus go back to heaven, and we will hear that he will come again."
+      ],
+      "enochLine": "The church is God’s family, and we belong!",
+      "enochActivities": [
+        "Activity: A family circle. Help a grown-up hold hands in a circle and say: We are God’s family!",
+        "Activity: Love one another. Give someone a hug, a smile, or a share of a snack, and say: Jesus loves you."
+      ],
+      "elijahQuestions": [
+        "In John 13:34, what new command did Jesus give his friends?",
+        "In Ephesians 2:19, what does Paul say we are, if we are no longer foreigners and strangers?",
+        "In Acts 2:42, what four things did the believers devote themselves to?",
+        "In Acts 2:46, where did they break bread, and how did they eat together?"
+      ],
+      "jordynQuestions": [
+        "Jesus says everyone will know we are his disciples “if you love one another” (John 13:35). What makes that different from just being nice once in a while?",
+        "Ephesians 2:19 says we are members of his household. How does that change the way you think about church — not as a place you visit, but as a family you belong to?",
+        "The first believers devoted themselves to teaching, fellowship, breaking bread, and prayer (Acts 2:42). Which of those do you most want to practice this week, and how does this family get us ready for next week, when Jesus goes back to heaven?"
+      ],
+      "jordynApplication": "The church is God’s family (Ephesians 2:19; Acts 2:42). This week, love someone in the family the way Jesus loved you, and keep meeting, learning, and praying together. Next week we will see Jesus go back to heaven.",
+      "elijahAnswers": [
+        "“Love one another. As I have loved you, so you must love one another.” (John 13:34).",
+        "“fellow citizens with God’s people and also members of his household” (Ephesians 2:19).",
+        "The apostles’ teaching, fellowship, the breaking of bread, and prayer (Acts 2:42).",
+        "They broke bread in their homes and ate together with glad and sincere hearts (Acts 2:46)."
+      ],
+      "jordynAnswers": [
+        "Jesus ties our love to his love: “As I have loved you, so you must love one another” (John 13:34). It is a new command for a family, not a mood. People will know we belong to him by that love (John 13:35).",
+        "A visitor can come and go. A member of the household belongs (Ephesians 2:19). Church is the family Jesus is building, and in him we are not strangers.",
+        "Answers will vary among the four gifts in Acts 2:42. This family belongs to the risen Jesus, who will soon go back to heaven. We keep loving, belonging, and meeting as his people until he comes again."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced love in the family — a welcome, a share, a prayer, or staying to learn. If it is fitting, share one way you belonged to God’s household this week too, and thank him together that you are not strangers.",
+      "prayer": "Father, thank you that the church is your family. Teach us to love one another as Jesus has loved us. Thank you that we are members of your household, not strangers. Help us keep learning, sharing, meeting, and praying together. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w22-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Jesus gives his friends a new command: love one another as he has loved them.",
+          "verse": "A new command I give you: Love one another. As I have loved you, so you must love one another.",
+          "verseCite": "John 13:34, NIV",
+          "enoch": "Give someone a hug or a smile and say: Jesus loves you, and I love you too.",
+          "elijah": "In John 13:35, how will everyone know that we are Jesus’ disciples?",
+          "elijahAnswer": "“By this everyone will know that you are my disciples, if you love one another.”",
+          "jordyn": "Jesus says, “As I have loved you, so you must love one another” (John 13:34). What is one way his love for you can shape how you treat someone in God’s family today?",
+          "jordynAnswer": "His love is the pattern, not only the reason. We do not invent our own standard. We love as he has loved us — patiently, kindly, and in truth.",
+          "action": "Do one loving thing today for someone in your family or church family, and tell them Jesus loves them.",
+          "prayer": "Jesus, thank you for loving us first. Help us love one another as you have loved us, so that people will know we are yours. In your name, Amen.",
+          "passageCite": "John 13:34–35, NIV",
+          "teach": "Jesus said, “A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.” The church is God’s family, and this is the family’s way: we love each other with the love we have first received from Jesus.",
+          "enochActivity": "Help a grown-up draw a heart and say: Love one another.",
+          "elijah2": "In John 13:34, what two things does Jesus say about this new command?",
+          "elijahAnswer2": "He gives it: “Love one another.” And he shows the pattern: “As I have loved you, so you must love one another.”",
+          "jordyn2": "Why does Jesus call this a new command, if loving your neighbor was already in the law?",
+          "jordynAnswer2": "The measure is new: “As I have loved you, so you must love one another.” His disciples are a family known by that love, not only by a rule they already knew.",
+          "passageText": "34 “A new command I give you: Love one another. As I have loved you, so you must love one another. 35 By this everyone will know that you are my disciples, if you love one another.”"
+        },
+        {
+          "id": "w22-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "God’s family practices love: we welcome, share, and treat one another as people who belong.",
+          "verse": "By this everyone will know that you are my disciples, if you love one another.",
+          "verseCite": "John 13:35, NIV",
+          "enoch": "Play a welcome game: open your arms at the door and say: You belong! We are God’s family!",
+          "elijah": "In John 13:34, whose love is the pattern for our love?",
+          "elijahAnswer": "Jesus’ love: “As I have loved you, so you must love one another.”",
+          "jordyn": "If someone new walked into your church family this week, what would “love one another” look like in a real welcome, not only a wave?",
+          "jordynAnswer": "Answers will vary: sit with them, share, learn their name, pray for them, or make sure they are not left standing alone. Love is how people know we belong to Jesus (John 13:35).",
+          "action": "Welcome someone today — at home, at the table, or at church — as a member of the family, not as a stranger.",
+          "prayer": "Father, thank you that we belong in your family. Teach us to welcome and to love, so that everyone can see we are Jesus’ disciples. In his name, Amen.",
+          "passageCite": "John 13:34–35, NIV",
+          "teach": "Jesus’ new command is not only words. “Love one another” looks like a welcome, a share, a seat at the table. This is how everyone will know we are his disciples. The church is God’s family, and families practice love on ordinary days, not only on special ones.",
+          "enochActivity": "Share a snack with someone and say: God’s family shares.",
+          "elijah2": "Why does Jesus say “Love one another,” not only love people in general?",
+          "elijahAnswer2": "He is talking to his friends as a family. We must love one another — the people Jesus has put with us — as he has loved us (John 13:34–35).",
+          "jordyn2": "How can a family “game” of welcome actually be a way of obeying Jesus, not only playing?",
+          "jordynAnswer2": "Practicing a welcome trains our hearts to treat people as members of the household, not as interruptions. The game is practice for the real command: love one another.",
+          "passageText": "34 “A new command I give you: Love one another. As I have loved you, so you must love one another. 35 By this everyone will know that you are my disciples, if you love one another.”"
+        },
+        {
+          "id": "w22-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "In Jesus we are not foreigners or strangers. We are members of God’s household.",
+          "verse": "you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household",
+          "verseCite": "Ephesians 2:19, NIV",
+          "enoch": "Point to your house, then to your heart, and say: I belong in God’s family.",
+          "elijah": "In Ephesians 2:19, what two things are we, if we are no longer foreigners and strangers?",
+          "elijahAnswer": "“fellow citizens with God’s people and also members of his household,”",
+          "jordyn": "Ephesians 2:21–22 says we are being built together to become a dwelling in which God lives by his Spirit. What does it mean that God is building you into this house with other people, not by yourself?",
+          "jordynAnswer": "The church is not a pile of separate stones. In Jesus we are “being built together to become a dwelling in which God lives by his Spirit.” Belonging to him means belonging with his people.",
+          "action": "Tell someone today: You belong. We are members of God’s household.",
+          "prayer": "Father, thank you that in Jesus we are not strangers. We are members of your household. Build us together, and live among us by your Spirit. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 2:19–22, NIV",
+          "teach": "Paul says, “you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household,” The church is God’s family and God’s house. In Jesus we are being built together to become a dwelling in which God lives by his Spirit. No one who belongs to Jesus is left outside the door.",
+          "enochActivity": "Help a grown-up stack blocks into a little house and say: God is building his family.",
+          "elijah2": "In Ephesians 2:20, what is the church built on?",
+          "elijahAnswer2": "It is “built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone.”",
+          "jordyn2": "If Jesus is the chief cornerstone (Ephesians 2:20), what happens to a church family that tries to build on something else — a favorite leader, a feeling, or a crowd?",
+          "jordynAnswer2": "The house will not stand true. The family belongs together only because it is built on Jesus, with the foundation of the apostles and prophets. He holds the household in place.",
+          "passageText": "19 Consequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household, 20 built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone. 21 In him the whole building is joined together and rises to become a holy temple in the Lord. 22 And in him you too are being built together to become a dwelling in which God lives by his Spirit."
+        },
+        {
+          "id": "w22-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "God’s family is one body with many parts. Each one belongs, and each one is needed.",
+          "verse": "Now you are the body of Christ, and each one of you is a part of it.",
+          "verseCite": "1 Corinthians 12:27, NIV",
+          "enoch": "Wiggle your fingers and toes and say: Many parts, one body. I belong!",
+          "elijah": "In 1 Corinthians 12:27, what does Paul say you are, and what is each one of you?",
+          "elijahAnswer": "“Now you are the body of Christ, and each one of you is a part of it.”",
+          "jordyn": "Paul says the body is not made of one part but of many (1 Corinthians 12:14). What is the danger of thinking, “I do not belong to the body,” or of thinking, “I don’t need you!”?",
+          "jordynAnswer": "If you say you don’t belong, you talk as if the body can throw a part away. If you say you don’t need others, you talk as if one part could be the whole body. In Christ, every part is needed, and no one is leftover.",
+          "action": "Thank one person in God’s family today for the part they are, and ask how you can help.",
+          "prayer": "Father, thank you that we are the body of Christ, and each one of us is a part of it. Teach us not to hide, and not to look down on anyone. In Jesus’ name, Amen.",
+          "passageCite": "1 Corinthians 12:12–27, NIV",
+          "teach": "Just as a body, though one, has many parts, so it is with Christ. The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!” God has placed the parts in the body, every one of them, just as he wanted them to be. “Now you are the body of Christ, and each one of you is a part of it.” In God’s family, you belong, and you are needed.",
+          "enochActivity": "Do a simple team job with a grown-up — one holds, one places — and say: We need each other.",
+          "elijah2": "In 1 Corinthians 12:18, who decided where each part should be?",
+          "elijahAnswer2": "“God has placed the parts in the body, every one of them, just as he wanted them to be.”",
+          "jordyn2": "How does “each one of you is a part of it” (1 Corinthians 12:27) help a shy person and a strong person in the same church family?",
+          "jordynAnswer2": "The shy person is not extra. The strong person is not the whole body. Both belong, and both are needed, because God placed every part just as he wanted.",
+          "passageText": "12 Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ. 13 For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink. 14 Even so the body is not made up of one part but of many. 15 Now if the foot should say, “Because I am not a hand, I do not belong to the body,” it would not for that reason stop being part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” it would not for that reason stop being part of the body. 17 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be? 18 But in fact God has placed the parts in the body, every one of them, just as he wanted them to be. 19 If they were all one part, where would the body be? 20 As it is, there are many parts, but one body. 21 The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!” 22 On the contrary, those parts of the body that seem to be weaker are indispensable, 23 and the parts that we think are less honorable we treat with special honor. And the parts that are unpresentable are treated with special modesty, 24 while our presentable parts need no special treatment. But God has put the body together, giving greater honor to the parts that lacked it, 25 so that there should be no division in the body, but that its parts should have equal concern for each other. 26 If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it. 27 Now you are the body of Christ, and each one of you is a part of it."
+        },
+        {
+          "id": "w22-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "God’s family devotes itself to the apostles’ teaching, to fellowship, to the breaking of bread, and to prayer.",
+          "verse": "They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.",
+          "verseCite": "Acts 2:42, NIV",
+          "enoch": "Fold your hands with a grown-up and say: We pray together. We are God’s family.",
+          "elijah": "In Acts 2:44, how were the believers together?",
+          "elijahAnswer": "“All the believers were together and had everything in common.”",
+          "jordyn": "They met in the temple courts and broke bread in their homes with glad and sincere hearts (Acts 2:46). Why does God’s family need both the large gathering and the table at home?",
+          "jordynAnswer": "The family learns and praises together, and it also shares life up close — eating, praying, and caring in homes. Both belong to a household, not only to a crowd.",
+          "action": "Pray today with someone in your family, and thank God that the church is his household.",
+          "prayer": "Father, thank you for a family that learns, shares, eats, and prays together. Make our hearts glad and sincere, and add to your family those who are being saved. In Jesus’ name, Amen.",
+          "passageCite": "Acts 2:42–47, NIV",
+          "teach": "The first believers devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. They were together and had everything in common. Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, praising God. And the Lord added to their number daily those who were being saved. This is what God’s family looks like.",
+          "enochActivity": "Sit at the table with a grown-up, break a piece of bread or a cracker, and thank God for his family.",
+          "elijah2": "In Acts 2:47, what did the Lord do as they praised God?",
+          "elijahAnswer2": "“And the Lord added to their number daily those who were being saved.”",
+          "jordyn2": "How does a family that prays and meets together get us ready for next week, when we will see Jesus go back to heaven?",
+          "jordynAnswer2": "Jesus’ friends are already a family — learning, sharing, and praying. Next week he goes back to heaven, and this family will keep belonging to him until he comes again.",
+          "passageText": "42 They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer. 43 Everyone was filled with awe at the many wonders and signs performed by the apostles. 44 All the believers were together and had everything in common. 45 They sold property and possessions to give to anyone who had need. 46 Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts, 47 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+        },
+        {
+          "id": "w22-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "The church is God’s family: one in heart, built by Jesus, not giving up meeting together.",
+          "verse": "All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had.",
+          "verseCite": "Acts 4:32, NIV",
+          "enoch": "Give a grown-up a hug and say: We are God’s family, and Jesus is building his church!",
+          "elijah": "In Matthew 16:18, what does Jesus say he will build?",
+          "elijahAnswer": "“I will build my church, and the gates of Hades will not overcome it.”",
+          "jordyn": "Hebrews 10:24–25 says we should consider how to spur one another on toward love and good deeds, not giving up meeting together. Why is that a fitting end to a week about God’s family?",
+          "jordynAnswer": "A family keeps showing up. We belong to one another, so we do not give up meeting, and we keep encouraging one another as we look to the Day.",
+          "action": "Plan to meet with God’s family, and tell someone: Jesus is building his church, and we belong.",
+          "prayer": "Father, thank you that the church is your family. Jesus is building his church, and we are members of your household. Teach us to love one another and not give up meeting together. Get our hearts ready for next week, when we see Jesus go back to heaven. In his name, Amen.",
+          "passageCite": "Acts 4:32; Matthew 16:18; Hebrews 10:24–25, NIV",
+          "teach": "This week we learned that the church is God’s family. Jesus said, “Love one another.” We are members of his household, not strangers. The first believers devoted themselves to teaching, fellowship, breaking bread, and prayer. They were one in heart and mind, and they shared. Jesus said, “I will build my church, and the gates of Hades will not overcome it.” So we do not give up meeting together. Next week we will see Jesus go back to heaven, and we will hear that he will come again.",
+          "enochActivity": "Wave and say: God’s family meets together, and we belong!",
+          "elijah2": "In Hebrews 10:25, what should we not give up, and what should we keep doing?",
+          "elijahAnswer2": "We should not give up meeting together, but keep encouraging one another — and all the more as we see the Day approaching.",
+          "jordyn2": "What is one way you will live this week like a member of God’s household, as we get ready to see Jesus go back to heaven?",
+          "jordynAnswer2": "Answers will vary: loving one another, welcoming someone, taking your part in the body, praying with the family, or not giving up meeting together. The same Jesus who is building his church will go back to heaven, and this family belongs to him.",
+          "passageText": "All the believers were one in heart and mind. No one claimed that any of their possessions was their own, but they shared everything they had. And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching."
+        }
+      ],
+      "lessonVerses": [
+        "John 13:34–35",
+        "Ephesians 2:19–22",
+        "Acts 2:42–47",
+        "Acts 4:32–35",
+        "1 Corinthians 12:12–27",
+        "Matthew 16:13–18",
+        "Hebrews 10:24–25"
+      ]
     },
     {
       "id": "23",
