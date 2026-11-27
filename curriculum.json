@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.34",
+  "contentVersion": "2026.11.21.35",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -8942,11 +8942,237 @@
       "planTitle": "Paul in Rome: the good news keeps going",
       "title": "Paul in Rome: the good news keeps going",
       "selectLabel": "Week 38 · Paul in Rome: the good news keeps going",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 28:11–16, 30–31 (NIV)",
-      "bigIdea": "Even in Rome, Paul kept telling people about Jesus.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 39 · The fruit of the Spirit",
+      "bigIdea": "Even in Rome, Paul kept telling people about Jesus.",
+      "scheduleNote": "This is the Week 38 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 28:11–14 out loud, then Acts 28:15–16, then Acts 28:30–31."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 28:11–14",
+          "text": "11 After three months we put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux. 12 We put in at Syracuse and stayed there three days. 13 From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli. 14 There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome."
+        },
+        {
+          "cite": "Acts 28:15–16",
+          "text": "15 The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged. 16 When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him."
+        },
+        {
+          "cite": "Acts 28:30–31",
+          "text": "30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. 31 He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week God kept his promise and brought Paul safely through the storm, and everyone reached land safely. After some time they sailed on again. After three months they put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux. We say the figurehead simply. It is the carving on the ship, and we do not make a game of those names. They put in at Syracuse and stayed there three days. From there they set sail and arrived at Rhegium. The next day the south wind came up, and on the following day they reached Puteoli. There they found some brothers and sisters who invited them to spend a week with them. And so they came to Rome.",
+        "The brothers and sisters there had heard that they were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet them. At the sight of these people Paul thanked God and was encouraged. When they got to Rome, Paul was allowed to live by himself, with a soldier to guard him. We say the guard simply, with care. We do not act out being under guard, and we do not make a game of it. After he arrived, Paul spoke with the Jewish leaders about Jesus. Some believed, and some did not. We tell that meeting only as a short bridge. Then the story shows us how the good news kept going.",
+        "For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance! Even in Rome, with a soldier nearby, Paul kept telling people about Jesus. The good news was not shut up in that house. It kept going.",
+        "Next week we will hear about the fruit of the Spirit: love, joy, peace, and more good fruit the Holy Spirit grows in us."
+      ],
+      "enochLine": "Even in Rome, Paul kept telling people about Jesus!",
+      "enochActivities": [
+        "Activity: Welcome. Pretend to open a door and say: Welcome! Come and hear about Jesus!",
+        "Activity: The good news keeps going. Take three steps across the room and say: The good news keeps going!"
+      ],
+      "elijahQuestions": [
+        "In Acts 28:11–14, how did Paul and his friends travel after three months, and whom did they find at Puteoli?",
+        "In Acts 28:15–16, who came out to meet Paul, and what was his life like when he got to Rome?",
+        "In Acts 28:30–31, how long did Paul stay in his rented house, and what did he do there?",
+        "What is this week’s big idea, and how do Acts 28:16 and 28:31 fit together?"
+      ],
+      "elijahAnswers": [
+        "After three months they put out to sea in an Alexandrian ship that had wintered in the island. They put in at Syracuse, then sailed to Rhegium, and reached Puteoli. There they found some brothers and sisters who invited them to spend a week with them. And so they came to Rome (Acts 28:11–14).",
+        "The brothers and sisters in Rome had heard they were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet them. At the sight of these people Paul thanked God and was encouraged. When they got to Rome, Paul was allowed to live by himself, with a soldier to guard him (Acts 28:15–16).",
+        "For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance (Acts 28:30–31).",
+        "Even in Rome, Paul kept telling people about Jesus. He lived in a house with a soldier to guard him, and still, for two whole years, he welcomed people and taught about the Lord Jesus Christ with all boldness and without hindrance (Acts 28:16, 30–31)."
+      ],
+      "jordynQuestions": [
+        "Friends travel out as far as the Forum of Appius and the Three Taverns to meet Paul, and at the sight of them he thanked God and was encouraged (Acts 28:15). What does that show you about how the good news travels, and how God uses people to strengthen his messengers?",
+        "Paul is allowed to live by himself, with a soldier to guard him (Acts 28:16), and yet for two whole years he welcomes all who come and teaches about the Lord Jesus Christ with all boldness and without hindrance (Acts 28:30–31). What do you notice about a guarded house and an unhindered message?",
+        "The book of Acts ends with the good news still going in Rome, not with Paul being finished (Acts 28:30–31). Next week we will hear about the fruit of the Spirit. What does an unhindered message in Rome help you expect about the life God grows in his people?"
+      ],
+      "jordynAnswers": [
+        "The message is already ahead of Paul. Brothers and sisters hear that he is coming, and they walk a long way to meet him. God does not only keep Paul safe on the sea. He also encourages him with the faces of his people. The good news makes a family, and that family can put courage back into a tired servant.",
+        "The soldier is real, and we say that simply. Paul is not free to go wherever he wants. But the word is not chained. In a rented house he can welcome people, proclaim the kingdom of God, and teach about the Lord Jesus Christ with all boldness. A guard at the door does not have to mean a closed gospel.",
+        "Acts does not close the story as if the work were over. For two whole years the message keeps being spoken. Next week the fruit of the Spirit will show what the Spirit grows in people who belong to Jesus. The same Lord who kept the word going in Rome is the Lord who grows love, joy, and peace in his people."
+      ],
+      "jordynApplication": "Even in Rome, Paul kept telling people about Jesus (Acts 28:11–16, 30–31). This week, welcome one person with kind words, or tell someone that Paul taught about the Lord Jesus Christ with all boldness and without hindrance. Next week we will hear about the fruit of the Spirit.",
+      "applicationCheck": "Ask her later in the week whether she welcomed someone, or remembered that the good news kept going even when Paul was under guard. If it is fitting, thank God together that Jesus is still being taught with boldness, and that his people can still encourage one another.",
+      "prayer": "Father, thank you that you brought Paul to Rome, and that brothers and sisters met him and encouraged him. Thank you that for two whole years he welcomed all who came, and proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance. Help us keep telling people about Jesus, even when the way is not easy. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 28:11–14",
+        "Acts 28:15–16",
+        "Acts 28:30–31",
+        "Acts 28:14",
+        "Acts 28:15",
+        "Acts 28:16",
+        "Acts 28:30",
+        "Acts 28:31"
+      ],
+      "dailies": [
+        {
+          "id": "w38-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "After three months they sail on, find brothers and sisters at Puteoli, and come to Rome.",
+          "verse": "There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome.",
+          "verseCite": "Acts 28:14, NIV",
+          "enoch": "Take three small steps and say: And so we came to Rome!",
+          "elijah": "In Acts 28:11–13, what kind of ship did they sail on, and which places did they reach before Puteoli?",
+          "elijahAnswer": "It was an Alexandrian ship that had wintered in the island, with the figurehead of the twin gods Castor and Pollux. We say that simply. They put in at Syracuse, set sail and arrived at Rhegium, and then the south wind came up and they reached Puteoli.",
+          "jordyn": "In Acts 28:14, whom did they find at Puteoli, and where did the journey finally bring them?",
+          "jordynAnswer": "They found some brothers and sisters who invited them to spend a week with them. And so they came to Rome.",
+          "action": "Read Acts 28:11–14 out loud. Then thank God that he brought Paul all the way to Rome, and that brothers and sisters were already there to welcome him.",
+          "prayer": "Father, thank you that after three months they sailed on, found brothers and sisters at Puteoli, and came to Rome. Thank you for friends in Jesus who welcome us on the way. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:11–14, NIV",
+          "teach": "After three months they put out to sea in an Alexandrian ship that had wintered in the island, with the figurehead of the twin gods Castor and Pollux. We say the figurehead simply, and we do not make a game of those names. They stayed three days at Syracuse, reached Rhegium, and then Puteoli. There they found some brothers and sisters who invited them to spend a week with them. And so they came to Rome.",
+          "enochActivity": "Point down an imaginary road and say: This way to Rome! God is still taking Paul there!",
+          "elijah2": "In Acts 28:14, what did the brothers and sisters at Puteoli do?",
+          "elijahAnswer2": "They invited them to spend a week with them. And so they came to Rome.",
+          "jordyn2": "The journey has many stops, and then the text says, And so we came to Rome (Acts 28:11–14). Why might those last words matter after last week’s storm?",
+          "jordynAnswer2": "God had said Paul must stand trial before Caesar, and last week he kept the people on the ship safe. Now the story names Rome itself. The promise is not only that they would live through the storm. It is that Paul would arrive.",
+          "passageText": "11 After three months we put out to sea in a ship that had wintered in the island—it was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux. 12 We put in at Syracuse and stayed there three days. 13 From there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli. 14 There we found some brothers and sisters who invited us to spend a week with them. And so we came to Rome."
+        },
+        {
+          "id": "w38-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Friends travel a long way to meet Paul, and at the sight of them he thanks God and is encouraged.",
+          "verse": "At the sight of these people Paul thanked God and was encouraged.",
+          "verseCite": "Acts 28:15, NIV",
+          "enoch": "Wave as if you see a friend coming and say: Paul thanked God and was encouraged!",
+          "elijah": "In Acts 28:15, how far did the brothers and sisters travel, and what did Paul do when he saw them?",
+          "elijahAnswer": "They traveled as far as the Forum of Appius and the Three Taverns to meet them. At the sight of these people Paul thanked God and was encouraged.",
+          "jordyn": "Paul has already been through a storm, and now the sight of brothers and sisters encourages him (Acts 28:15). What does that tell you about the kind of help God often uses?",
+          "jordynAnswer": "God can encourage his people through other people. The friends walk out to meet Paul, and their coming makes him thank God. The good news makes a family, and that family can give a tired servant new courage.",
+          "action": "Play Come to meet him. One person stands a few steps away. The others walk toward that person, as if meeting a friend on the road, and all say: Thank you, God! Then switch. Do not act out a crowded rush, and do not turn the meeting into a chase.",
+          "prayer": "Father, thank you that brothers and sisters traveled out to meet Paul, and that at the sight of them he thanked you and was encouraged. Make us the kind of friends who put courage into one another. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:15, NIV",
+          "teach": "The brothers and sisters in Rome had heard that they were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet them. At the sight of these people Paul thanked God and was encouraged. Friends in Jesus can walk toward someone and help that person’s heart be strong again.",
+          "enochActivity": "Walk a few steps toward a grown-up, wave, and say: I thank God for you!",
+          "elijah2": "In Acts 28:15, what two things did Paul do when he saw the brothers and sisters?",
+          "elijahAnswer2": "He thanked God and was encouraged.",
+          "jordyn2": "Why is it fitting that Paul thanks God, and not only the friends, when they meet him (Acts 28:15)?",
+          "jordynAnswer2": "The friends really did walk out to meet him, and God is the one who gave him that gift. Thanks to God keeps the encouragement in the right place: the Lord used his people.",
+          "passageText": "15 The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged."
+        },
+        {
+          "id": "w38-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "When they get to Rome, Paul is allowed to live by himself, with a soldier to guard him.",
+          "verse": "When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.",
+          "verseCite": "Acts 28:16, NIV",
+          "enoch": "Sit in a chair and say: Paul lived in a house in Rome, and he still told people about Jesus!",
+          "elijah": "In Acts 28:16, what was Paul allowed to do in Rome, and who was with him?",
+          "elijahAnswer": "He was allowed to live by himself, with a soldier to guard him.",
+          "jordyn": "Paul lives by himself, yet a soldier guards him (Acts 28:16). How should we talk about that part of the story with care?",
+          "jordynAnswer": "We say it simply. Paul is under guard, and we do not act that out or make a game of catching him. The next verses will show that even in that house the good news can still be spoken.",
+          "action": "Read Acts 28:15–16 out loud. Then thank God that Paul reached Rome, and ask the Lord to help you tell this part of the story with care.",
+          "prayer": "Father, thank you that Paul reached Rome and was allowed to live by himself, with a soldier to guard him. Help us tell this simply, and to trust that you can still use him there. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:15–16, NIV",
+          "teach": "Friends met Paul on the way, and he thanked God and was encouraged. When they got to Rome, Paul was allowed to live by himself, with a soldier to guard him. We say the guard simply, with care. We do not act out being under guard, and we do not make a game of it.",
+          "enochActivity": "Sit down beside a grown-up and say: Paul was in a house in Rome, and God was still with him!",
+          "elijah2": "In Acts 28:16, did Paul go into a prison cell, or was he allowed to live by himself?",
+          "elijahAnswer2": "He was allowed to live by himself, with a soldier to guard him.",
+          "jordyn2": "Why might it matter that the text says he was allowed to live by himself, and also that a soldier guarded him (Acts 28:16)?",
+          "jordynAnswer2": "Both are true at once. He has a house, and he is not wholly free. Tomorrow we will hear what he does in that house for two whole years. The guard does not get the last word.",
+          "passageText": "15 The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged. 16 When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him."
+        },
+        {
+          "id": "w38-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "For two whole years Paul stays in his rented house and welcomes all who come to see him.",
+          "verse": "For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.",
+          "verseCite": "Acts 28:30, NIV",
+          "enoch": "Pretend to open a door and say: Welcome! Come and hear about Jesus!",
+          "elijah": "After Paul arrived, he spoke with the Jewish leaders about Jesus, and some believed and some did not. Then, in Acts 28:30, where did Paul stay, and for how long?",
+          "elijahAnswer": "He stayed in his own rented house for two whole years, and welcomed all who came to see him.",
+          "jordyn": "Paul welcomes all who come to see him (Acts 28:30). What does that show you about how the good news keeps going when Paul cannot travel freely?",
+          "jordynAnswer": "The house becomes a place where people can come. Paul cannot go to every city now, but the people can come to him. Welcome becomes a way the message keeps moving.",
+          "action": "Today’s challenge: Welcome someone in your house with kind words, or tell someone that Paul welcomed all who came to see him. Do not act out the soldier or the guard.",
+          "prayer": "Father, thank you that for two whole years Paul stayed in his own rented house and welcomed all who came to see him. Teach us to welcome people so they can hear about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:30, NIV",
+          "teach": "After Paul arrived, he spoke with the Jewish leaders about Jesus. Some believed, and some did not. We tell that only as a short bridge. Then, for two whole years, Paul stayed in his own rented house and welcomed all who came to see him. Even under guard, he opened the door.",
+          "enochActivity": "Stand at a doorway, open your hand, and say: Welcome!",
+          "elijah2": "In Acts 28:30, what did Paul do for the people who came to see him?",
+          "elijahAnswer2": "He welcomed all who came to see him.",
+          "jordyn2": "Why is all a weighty word in Acts 28:30?",
+          "jordynAnswer2": "The welcome is not only for one kind of visitor. All who came were received. The good news in that house was not a private club. It was open to the people God sent to the door.",
+          "passageText": "30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him."
+        },
+        {
+          "id": "w38-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that Paul proclaimed the kingdom and taught about Jesus with all boldness and without hindrance.",
+          "verse": "He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!",
+          "verseCite": "Acts 28:31, NIV",
+          "enoch": "Fold your hands and say: Thank you, God, that the good news kept going!",
+          "elijah": "In Acts 28:31, what two things did Paul do, and how does the verse say he did them?",
+          "elijahAnswer": "He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance.",
+          "jordyn": "The last words we hear about Paul in Acts are that he taught about the Lord Jesus Christ with all boldness and without hindrance (Acts 28:31). How can that shape the way your family prays today?",
+          "jordynAnswer": "We can thank God that the message was not stopped in Rome, and we can ask him to give us boldness to speak about Jesus too. Prayer here is not only a wish for an easier road. It is thanks that God’s word kept going.",
+          "action": "Pray today’s prayer out loud as a family. Then each person can thank God that the good news kept going in Rome, or ask him for boldness to speak about Jesus.",
+          "prayer": "Father, thank you that Paul proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance. Give us thankful hearts, and make us bold to tell people about Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:30–31, NIV",
+          "teach": "For two whole years Paul stayed in his rented house and welcomed all who came. He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance. Today we thank God that the good news kept going.",
+          "enochActivity": "Fold your hands, then open them like a thank-you, and say: Thank you, God! The good news keeps going!",
+          "elijah2": "In Acts 28:31, what is the last short phrase that tells you the message was not shut up in that house?",
+          "elijahAnswer2": "With all boldness and without hindrance.",
+          "jordyn2": "Why is it good to pray about an unhindered message, not only about an easy life (Acts 28:16, 31)?",
+          "jordynAnswer2": "Paul still has a soldier to guard him, and still the word is spoken without hindrance. We can ask God for that same kind of courage: not that every hard thing would disappear, but that Jesus would still be taught clearly.",
+          "passageText": "30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. 31 He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!"
+        },
+        {
+          "id": "w38-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Even in Rome, Paul kept telling people about Jesus, and next we will hear about the fruit of the Spirit.",
+          "verse": "He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!",
+          "verseCite": "Acts 28:31, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week we will hear about the fruit of the Spirit!",
+          "elijah": "What is this week’s big idea, and what did Paul do for two whole years in Rome?",
+          "elijahAnswer": "Even in Rome, Paul kept telling people about Jesus. For two whole years he stayed in his rented house, welcomed all who came, proclaimed the kingdom of God, and taught about the Lord Jesus Christ with all boldness and without hindrance.",
+          "jordyn": "Friends encouraged Paul on the road, a soldier guarded him in the house, and still the message kept going (Acts 28:15–16, 30–31). Next week we will hear about the fruit of the Spirit. What stays the same when the story moves from a house in Rome to the life the Spirit grows in us?",
+          "jordynAnswer": "The same Lord who brought Paul to Rome, and who kept the word going there, is the Lord who gives his Spirit to his people. The good news does not stop at the end of Acts. It keeps going, and it grows good fruit in the people who belong to Jesus.",
+          "action": "Tell someone the week’s big idea: Even in Rome, Paul kept telling people about Jesus. Then thank God, and look ahead to the fruit of the Spirit.",
+          "prayer": "Father, thank you that even in Rome Paul kept telling people about Jesus, and that he taught about the Lord Jesus Christ with all boldness and without hindrance. Get our hearts ready to hear about the fruit of the Spirit. In Jesus’ name, Amen.",
+          "passageCite": "Acts 28:15–16, 30–31, NIV",
+          "teach": "This week we learned that even in Rome, Paul kept telling people about Jesus. Brothers and sisters met him on the way, and he thanked God and was encouraged. He was allowed to live by himself, with a soldier to guard him. For two whole years he welcomed all who came, proclaimed the kingdom of God, and taught about the Lord Jesus Christ—with all boldness and without hindrance. Next week we will hear about the fruit of the Spirit.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week, the fruit of the Spirit!",
+          "elijah2": "In Acts 28:16 and 28:31, what two true things stand side by side at the end of the story?",
+          "elijahAnswer2": "Paul has a soldier to guard him, and he still teaches about the Lord Jesus Christ with all boldness and without hindrance.",
+          "jordyn2": "What stays the same when the story moves from Paul in Rome to next week’s fruit of the Spirit?",
+          "jordynAnswer2": "The good news that kept going in that house is the same good news the Spirit plants in us. Jesus is still Lord, and he still grows his people.",
+          "passageText": "15 The brothers and sisters there had heard that we were coming, and they traveled as far as the Forum of Appius and the Three Taverns to meet us. At the sight of these people Paul thanked God and was encouraged. 16 When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him. 30 For two whole years Paul stayed there in his own rented house and welcomed all who came to see him. 31 He proclaimed the kingdom of God and taught about the Lord Jesus Christ—with all boldness and without hindrance!"
+        }
+      ]
     },
     {
       "id": "39",

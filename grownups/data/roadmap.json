@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.217",
+  "version": "2026.11.21.224",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3073,19 +3073,19 @@
         "Revelation 21:9–27",
         "Revelation 22:1–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 261,
       "date": "2027-07-20",
       "phase": "marriage",
-      "title": "Sunday: connect with this week's Grace Life sermon — Marriage as covenant, not contract",
+      "title": "Marriage as covenant, not contract",
       "passages": [
         "Malachi 2:13–16",
         "Matthew 19:4–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3096,7 +3096,7 @@
       "passages": [
         "Genesis 2:18–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3108,7 +3108,7 @@
         "Genesis 2:24",
         "Matthew 19:4–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3119,7 +3119,7 @@
       "passages": [
         "Ephesians 5:25–33"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3131,7 +3131,7 @@
         "1 Peter 3:7",
         "Colossians 3:19"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3144,7 +3144,7 @@
         "Ephesians 5:22–24",
         "Genesis 2:18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
