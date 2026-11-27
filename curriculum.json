@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.11",
+  "contentVersion": "2026.11.21.12",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -3459,14 +3459,244 @@
       ]
     },
     {
-      "id": "15",
+      "id": 15,
       "week": 15,
       "planTitle": "Prayer: talking with our Father",
       "title": "Prayer: talking with our Father",
       "selectLabel": "Week 15 · Prayer: talking with our Father",
-      "ready": false,
+      "ready": true,
+      "passage": "Matthew 6:5–15; Luke 11:9–13; Luke 18:9–14 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 16 · The Bible is God's Word",
+      "bigIdea": "Jesus teaches us how to talk with our Father. We pray to our Father in heaven, not to be seen. We ask, seek, and knock, because our Father gives good gifts. We come humbly, like the tax collector who said, “God, have mercy on me, a sinner.”",
+      "scheduleNote": "This is the Week 15 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Matthew 6:5–15 out loud, then Luke 11:9–13, then Luke 18:9–14, the story of two men who went to pray."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "kind": "scripture",
+          "cite": "Matthew 6:5–15",
+          "text": "5 “And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full. 6 But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. 7 And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words. 8 Do not be like them, for your Father knows what you need before you ask him. 9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’ 14 For if you forgive other people when they sin against you, your heavenly Father will also forgive you. 15 But if you do not forgive others their sins, your Father will not forgive your sins."
+        },
+        {
+          "kind": "scripture",
+          "cite": "Luke 11:9–13",
+          "text": "9 “So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. 10 For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened. 11 “Which of you fathers, if your son asks for a fish, will give him a snake instead? 12 Or if he asks for an egg, will give him a scorpion? 13 If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”"
+        },
+        {
+          "kind": "scripture",
+          "cite": "Luke 18:9–14",
+          "text": "9 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 10 “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. 11 The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. 12 I fast twice a week and give a tenth of all I get.’ 13 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ 14 “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that we come home to God by repenting and believing. The lost son said, “I have sinned,” and his father ran to meet him. This week we ask: how do we talk with that same Father? Jesus teaches his disciples how to pray.",
+        "Jesus said, “When you pray, do not be like the hypocrites,” who love to stand and pray so people will see them. And do not keep piling up empty words, as if God will listen only if we talk long enough. “Your Father knows what you need before you ask him.” Then Jesus gave us a prayer that begins, “Our Father in heaven, hallowed be your name.” We ask for his kingdom, our daily bread, forgiveness, and help when we are tempted.",
+        "Jesus also said, “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.” If even earthly fathers know how to give good gifts to their children, “how much more will your Father in heaven give the Holy Spirit to those who ask him!” We can come to God as children who are not afraid to knock.",
+        "Jesus told about two men who went up to the temple to pray. One was proud of himself and looked down on the other. The tax collector stood far off, would not even look up, and said, “God, have mercy on me, a sinner.” Jesus said that man went home justified before God. “Those who humble themselves will be exalted.” Talking with our Father is not bragging. It is asking for mercy.",
+        "So this is how we talk with God. We come to our Father in heaven. We do not put on a show. We ask, seek, and knock. We tell the truth and ask for mercy. And we learn to bring our worries to him with thanksgiving, and to rejoice, pray, and give thanks in all kinds of days."
+      ],
+      "enochLine": "I can talk with my Father. He loves to hear me!",
+      "enochActivities": [
+        "Activity: Our Father. Fold hands and say together, “Our Father in heaven, you are holy. I can talk with you!”",
+        "Activity: Ask, seek, knock. Let Enoch knock on a door. When it opens, say, “Our Father gives good gifts!”"
+      ],
+      "elijahQuestions": [
+        "In Matthew 6:9, how did Jesus say we should begin our prayer?",
+        "In Matthew 6:5, why do the hypocrites love to pray standing in the synagogues and on the street corners?",
+        "In Luke 11:9, what three things did Jesus tell us to do?",
+        "In Luke 18:13, what did the tax collector pray?"
+      ],
+      "jordynQuestions": [
+        "Jesus said not to keep on babbling like pagans, because “your Father knows what you need before you ask him” (Matthew 6:7–8). If he already knows, why does he still teach us to pray the words in verses 9–13?",
+        "In Luke 11:11–13, Jesus compares earthly fathers with “your Father in heaven.” What good gift does he say the Father will give, and what does that teach you about asking?",
+        "The Pharisee thanked God that he was not like the tax collector (Luke 18:11–14). Which man went home justified, and why?"
+      ],
+      "jordynApplication": "Prayer is talking with our Father: not a show, not empty words, and not bragging. This week, practice the prayer Jesus taught, and also practice a humble “have mercy on me” prayer. When you are worried, present your request to God with thanksgiving (Matthew 6:9–13; Luke 18:13; Philippians 4:6–7).",
+      "elijahAnswers": [
+        "“Our Father in heaven, hallowed be your name” (Matthew 6:9).",
+        "“To be seen by others” (Matthew 6:5).",
+        "Ask, seek, and knock (Luke 11:9).",
+        "“God, have mercy on me, a sinner” (Luke 18:13)."
+      ],
+      "jordynAnswers": [
+        "Prayer is not informing God of news he missed. Jesus gives us words to talk with our Father, honor his name, ask for his kingdom and daily bread, and confess our sins (Matthew 6:8–13). He wants us to come to him.",
+        "The Father will give the Holy Spirit to those who ask him (Luke 11:13). If even flawed fathers give good gifts, we can ask our Father with confidence.",
+        "The tax collector went home justified, not the Pharisee. “All those who exalt themselves will be humbled, and those who humble themselves will be exalted” (Luke 18:14). He asked for mercy instead of trusting his own righteousness."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced talking with the Father — the Lord’s Prayer, a “have mercy on me” prayer, or a worried request with thanksgiving. If it is fitting, share one way you talked with the Father too, and pray together.",
+      "prayer": "Our Father in heaven, hallowed be your name. Thank you that we can talk with you, and that you know what we need before we ask. Teach us to ask, seek, and knock. Have mercy on us, sinners, and give us your Holy Spirit. Help us bring our worries to you with thanksgiving. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w15-d2",
+          "day": 2,
+          "label": "Day 2",
+          "kind": "Passage",
+          "focus": "Jesus teaches us how to talk with our Father. We do not pray to be seen. We pray, “Our Father in heaven.”",
+          "verse": "“This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven.",
+          "verseCite": "Matthew 6:9–10, NIV",
+          "enoch": "Fold your hands and say, “Our Father in heaven, you are holy. I can talk with you!”",
+          "elijah": "In Matthew 6:5, why do the hypocrites love to pray standing in the synagogues and on the street corners?",
+          "elijahAnswer": "“To be seen by others” (verse 5).",
+          "jordyn": "Jesus says your Father “knows what you need before you ask him” (verse 8). If he already knows, why does Jesus still teach us to pray the words in verses 9–13?",
+          "jordynAnswer": "Prayer is not informing God of news he missed. It is talking with our Father, honoring his name, asking for his kingdom and daily bread, and confessing our sins (verses 8–13). He wants us to come to him, not to perform for people.",
+          "action": "Read Matthew 6:9–13 together slowly. Then let each person pray one short line from the prayer in their own words.",
+          "prayer": "Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread, and forgive us our debts, as we also have forgiven our debtors. Lead us not into temptation, but deliver us from the evil one. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:5–15, NIV",
+          "teach": "On Sunday we heard Jesus teach his disciples how to pray. He said, “When you pray, do not be like the hypocrites,” who love to pray in public “to be seen by others.” And do not “keep on babbling like pagans,” as if many words could make God listen. “Your Father knows what you need before you ask him.” Then Jesus gave us words to use: “Our Father in heaven, hallowed be your name.” We talk with a Father. We ask for his kingdom, our daily bread, forgiveness, and help against temptation. Prayer is not a show. It is a child talking with a Father who already knows and still wants to hear us.",
+          "enochActivity": "Practice the opening: a parent starts, “Our Father in heaven,” and Enoch says, “You are holy!” Then a hug, because we get to talk with our Father.",
+          "elijah2": "Find it in the passage: In verse 9, how did Jesus say we should begin our prayer?",
+          "elijahAnswer2": "“Our Father in heaven, hallowed be your name” (verse 9).",
+          "jordyn2": "In verses 14–15 Jesus talks about forgiving others after teaching us to pray. How does that fit with “forgive us our debts, as we also have forgiven our debtors” (verse 12)?",
+          "jordynAnswer2": "The prayer we say with our mouths should match the way we treat people. Jesus says if we forgive others, our Father will forgive us, and if we refuse to forgive, we should not expect to receive that same mercy (verses 12, 14–15).",
+          "passageText": "5 “And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full. 6 But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. 7 And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words. 8 Do not be like them, for your Father knows what you need before you ask him. 9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’ 14 For if you forgive other people when they sin against you, your heavenly Father will also forgive you. 15 But if you do not forgive others their sins, your Father will not forgive your sins."
+        },
+        {
+          "id": "w15-d3",
+          "day": 3,
+          "label": "Day 3",
+          "kind": "Game",
+          "focus": "Jesus says, “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.” Our Father gives good gifts.",
+          "verse": "“So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+          "verseCite": "Luke 11:9, NIV",
+          "enoch": "Knock on a door three times and say, “Ask! Seek! Knock! My Father hears me!”",
+          "elijah": "In Luke 11:9, what three things does Jesus tell us to do?",
+          "elijahAnswer": "Ask, seek, and knock (verse 9).",
+          "jordyn": "Jesus asks whether a father would give a snake instead of a fish, or a scorpion instead of an egg (verses 11–12). What is he teaching about God?",
+          "jordynAnswer": "Even earthly fathers, who are “evil,” know how to give good gifts. “How much more” will the heavenly Father give the Holy Spirit to those who ask him (verses 11–13). We can ask with confidence, because our Father is better than the best dad we know.",
+          "action": "Play the ask-seek-knock game once, then read Luke 11:9–13. Each person asks the Father for one good gift, and thanks him that he loves to give.",
+          "prayer": "Father, thank you that you tell us to ask, seek, and knock, and that you give good gifts. Thank you that you give the Holy Spirit to those who ask you. Help us come to you with confidence. In Jesus’ name, Amen.",
+          "passageCite": "Luke 11:9–13, NIV",
+          "teach": "Jesus had been praying, and his disciples asked him to teach them to pray. After he gave them words to use, he told them to keep coming: “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.” Everyone who asks receives, the one who seeks finds, and to the one who knocks, the door will be opened. Then he pictured a child asking a father for a fish or an egg. A good father does not answer that request with a snake or a scorpion. “If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!” We do not have to be afraid to ask. Our Father is generous.",
+          "enochActivity": "Game: Ask, seek, knock. Hide a small treat or toy. Let Enoch ask, “May I have it?” then seek (look), then knock on a door. When it opens, say, “Our Father gives good gifts!”",
+          "elijah2": "In verse 13, what good gift does Jesus say the Father in heaven will give to those who ask him?",
+          "elijahAnswer2": "“The Holy Spirit” (verse 13).",
+          "jordyn2": "Jesus says “everyone who asks receives” (verse 10). How do you hold that together with times it feels as if a door has not opened yet?",
+          "jordynAnswer2": "Jesus is teaching us to keep asking a good Father, not to treat God like a vending machine. The best gift he names here is the Holy Spirit (verses 9–13). We keep knocking because we trust the Father’s character, even while we wait for particular answers.",
+          "passageText": "9 “So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. 10 For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened. 11 “Which of you fathers, if your son asks for a fish, will give him a snake instead? 12 Or if he asks for an egg, will give him a scorpion? 13 If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!”"
+        },
+        {
+          "id": "w15-d4",
+          "day": 4,
+          "label": "Day 4",
+          "kind": "Passage",
+          "focus": "Two men went to the temple to pray. The tax collector would not even look up to heaven. He said, “God, have mercy on me, a sinner,” and he went home justified.",
+          "verse": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’",
+          "verseCite": "Luke 18:13, NIV",
+          "enoch": "Put a hand on your heart and pray, “God, have mercy on me. I need you.”",
+          "elijah": "In Luke 18:13, what did the tax collector say in his prayer?",
+          "elijahAnswer": "“God, have mercy on me, a sinner” (verse 13).",
+          "jordyn": "The Pharisee thanked God that he was not like other people, and he listed his fasting and tithing (verses 11–12). Why did he not go home justified, according to verse 14?",
+          "jordynAnswer": "Jesus said, “All those who exalt themselves will be humbled, and those who humble themselves will be exalted” (verse 14). The Pharisee trusted his own righteousness and looked down on others (verse 9). The tax collector asked for mercy.",
+          "action": "Read Luke 18:9–14 together. Then each person prays a short “have mercy on me” prayer, and thanks God that he hears a humble heart.",
+          "prayer": "God, have mercy on us, sinners. We do not come to you proud of ourselves. Thank you that those who humble themselves will be exalted, and that you hear a prayer for mercy. In Jesus’ name, Amen.",
+          "passageCite": "Luke 18:9–14, NIV",
+          "teach": "Last week we heard a lost son come home and say, “I have sinned.” Today Jesus tells about two men who went up to the temple to pray. One was a Pharisee who was confident of his own righteousness and looked down on others. He thanked God that he was not like the tax collector, and he named his fasting and his gifts. The tax collector stood at a distance. He would not even look up to heaven. He beat his breast and said, “God, have mercy on me, a sinner.” Jesus said this man, not the other, went home justified before God. “For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.” Talking with our Father is not bragging. It is asking for mercy.",
+          "enochActivity": "Two postures: stand tall and fold your arms (the proud prayer), then bow your head, hand on your heart, and say, “God, have mercy on me.” Talk about which prayer Jesus said God welcomed.",
+          "elijah2": "In verse 14, which man went home justified before God?",
+          "elijahAnswer2": "The tax collector, not the Pharisee (verse 14).",
+          "jordyn2": "How does this story fit with last week’s lost son, who said, “Father, I have sinned against heaven and against you”?",
+          "jordynAnswer2": "Both men tell the truth about their need and come asking for mercy, not payment. The Father runs to the lost son, and God justifies the tax collector who says, “Have mercy on me, a sinner.” Proud people who trust their own record stay outside that welcome (Luke 18:9–14).",
+          "passageText": "9 To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 10 “Two men went up to the temple to pray, one a Pharisee and the other a tax collector. 11 The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector. 12 I fast twice a week and give a tenth of all I get.’ 13 “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’ 14 “I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”"
+        },
+        {
+          "id": "w15-d5",
+          "day": 5,
+          "label": "Day 5",
+          "kind": "Challenge",
+          "focus": "When we are anxious, Jesus’ people do not have to hold it all inside. We can tell our Father, with thanksgiving, and he gives peace.",
+          "verse": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+          "verseCite": "Philippians 4:6, NIV",
+          "enoch": "When you feel worried, put your hands out as if you are giving the worry to God and say, “Father, I give this to you. Thank you.”",
+          "elijah": "In Philippians 4:6, what should we do instead of being anxious about anything?",
+          "elijahAnswer": "“In every situation, by prayer and petition, with thanksgiving, present your requests to God” (verse 6).",
+          "jordyn": "Verse 6 says we present our requests “with thanksgiving.” Why does thanksgiving belong in a worried prayer?",
+          "jordynAnswer": "Thanksgiving remembers that we are talking with a Father who already cares for us, not only listing problems. We ask, and we also thank him. Then “the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus” (verses 6–7).",
+          "action": "Read Philippians 4:6–7 twice. Then each person names one worry to give the Father and one thing to thank him for.",
+          "prayer": "Father, we do not want to be anxious about anything. In every situation we present our requests to you, with thanksgiving. Please guard our hearts and minds with your peace in Christ Jesus. Amen.",
+          "passageCite": "Philippians 4:6–7, NIV",
+          "teach": "Jesus taught us to ask our Father for daily bread and for help. Paul teaches the same kind of talking with God when we feel anxious. “Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.” We do not pretend we have no worries. We bring them to our Father, and we thank him as we ask. The promise is not that every hard thing disappears today. The promise is this: “And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.” Today’s challenge is simple: when a worry rises, stop and pray, and thank God for one gift in the same breath.",
+          "enochActivity": "Worry-handoff: hold a small stone or coin as a “worry,” then place it in a parent’s hands and say, “Father, I give this to you. Thank you.” The parent says, “He hears you.”",
+          "elijah2": "In verse 7, what will the peace of God guard?",
+          "elijahAnswer2": "“Your hearts and your minds in Christ Jesus” (verse 7).",
+          "jordyn2": "How does this fit with Jesus teaching us to ask our Father for daily bread (Matthew 6:11) and not to keep babbling as if God were hard of hearing?",
+          "jordynAnswer2": "Both passages invite honest, thankful asking, not a performance. We present requests because our Father cares, and we add thanksgiving because he already knows and already gives good gifts. His peace, not our many words, guards us (Philippians 4:6–7; Matthew 6:7–11).",
+          "passageText": "6 Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. 7 And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+        },
+        {
+          "id": "w15-d6",
+          "day": 6,
+          "label": "Day 6",
+          "kind": "Prayer",
+          "focus": "Talking with our Father is not only for hard days. God’s people learn a simple way of life: rejoice, pray, and give thanks.",
+          "verse": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.",
+          "verseCite": "1 Thessalonians 5:16–18, NIV",
+          "enoch": "Clap once and say, “Rejoice!” Fold your hands and say, “Pray!” Open your hands and say, “Thank you, Father!”",
+          "elijah": "In 1 Thessalonians 5:16–18, what three things does God tell us to do?",
+          "elijahAnswer": "“Rejoice always, pray continually, give thanks in all circumstances” (verses 16–18).",
+          "jordyn": "Verse 18 says to give thanks “in all circumstances,” and that this is “God’s will for you in Christ Jesus.” Does that mean we must feel happy about every hard thing?",
+          "jordynAnswer": "It means we can still talk with our Father and thank him in every kind of day, not only easy ones (verses 16–18). Thanksgiving in hard circumstances is trust, not pretend. We rejoice, we pray, and we give thanks because we belong to Christ Jesus.",
+          "action": "Read 1 Thessalonians 5:16–18 together. Then go around three times: one rejoice, one short prayer, and one thank-you.",
+          "prayer": "Father, teach us to rejoice always, to pray continually, and to give thanks in all circumstances. This is your will for us in Christ Jesus. Make our home a place of that kind of talking with you. Amen.",
+          "passageCite": "1 Thessalonians 5:16–18, NIV",
+          "teach": "Paul gives the family of Jesus a short pattern for everyday life with the Father: “Rejoice always, pray continually, give thanks in all circumstances.” These are three short sentences, but they describe a whole way of living. We do not wait for a perfect day before we rejoice. We do not save prayer for emergencies. We do not wait until everything is fixed before we say thank you. “For this is God’s will for you in Christ Jesus.” Today we practice that pattern out loud, so it can become the habit of our house.",
+          "enochActivity": "Three motions: clap (“Rejoice always”), fold hands (“Pray continually”), open hands (“Give thanks”). Repeat once, then pray, “Thank you, Father, for today.”",
+          "elijah2": "In verse 18, why are we told to give thanks in all circumstances?",
+          "elijahAnswer2": "“For this is God’s will for you in Christ Jesus” (verse 18).",
+          "jordyn2": "How do “pray continually” and Jesus’ warning not to “keep on babbling like pagans” (Matthew 6:7) fit together?",
+          "jordynAnswer2": "Continual prayer is a life of talking with the Father, not a pile of empty phrases meant to get God’s attention. Jesus already said our Father knows what we need. So we keep coming, simply and often, with joy and thanks (Matthew 6:7–8; 1 Thessalonians 5:16–18).",
+          "passageText": "16 Rejoice always, 17 pray continually, 18 give thanks in all circumstances; for this is God’s will for you in Christ Jesus."
+        },
+        {
+          "id": "w15-d7",
+          "day": 7,
+          "label": "Day 7",
+          "kind": "Recap",
+          "focus": "Recap: We talk with our Father. Jesus taught us to pray “Our Father in heaven,” to ask, seek, and knock, and to come humbly, like the tax collector who asked for mercy.",
+          "verse": "“This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name,",
+          "verseCite": "Matthew 6:9, NIV",
+          "enoch": "Ask, “Who do we talk to when we pray?” (Our Father!) “What did the tax collector ask for?” (Mercy!)",
+          "elijah": "In Matthew 6:9, how does Jesus tell us to begin our prayer?",
+          "elijahAnswer": "“Our Father in heaven, hallowed be your name” (verse 9).",
+          "jordyn": "This week we also heard the tax collector’s prayer and the call to ask, seek, and knock. Why does a recap of “talking with our Father” need both the humble prayer and the confident asking?",
+          "jordynAnswer": "We come as sinners who need mercy (Luke 18:13–14), and we come as children who may ask a generous Father (Luke 11:9–13). Humility and confidence belong together when we pray to our Father in heaven.",
+          "action": "Read Matthew 6:9–13 together. Then each person shares one thing they learned this week and one way they want to talk with the Father this coming week.",
+          "prayer": "Our Father in heaven, hallowed be your name. Thank you that we may ask, seek, and knock, and that you give good gifts. Have mercy on us, and teach us to pray with thanks and peace. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 6:9–13; Luke 11:9–13; Luke 18:13, NIV",
+          "teach": "Today we look back at our week. Jesus taught us not to pray to be seen, and not to pile up empty words. He gave us a prayer that begins, “Our Father in heaven, hallowed be your name.” He told us to ask, seek, and knock, because our Father gives good gifts, even the Holy Spirit, to those who ask him. He told a story of a tax collector who would not even look up, but said, “God, have mercy on me, a sinner,” and went home justified. Paul taught us to bring our worries to God with thanksgiving, and to rejoice, pray, and give thanks in all circumstances. Talking with our Father is a gift. We come humbly, and we come as loved children.",
+          "enochActivity": "Recap motions: fold hands (“Our Father”), knock on a door (“Ask, seek, knock”), hand on heart (“Have mercy on me”). Then a family hug and, “We can talk with our Father!”",
+          "elijah2": "In Luke 18:13, what did the tax collector ask God for?",
+          "elijahAnswer2": "“God, have mercy on me, a sinner” (Luke 18:13).",
+          "jordyn2": "Philippians 4:6–7 says to present requests “with thanksgiving,” and 1 Thessalonians 5:18 says to give thanks “in all circumstances.” How does thanksgiving change the way a family talks with the Father?",
+          "jordynAnswer2": "Thanksgiving keeps prayer from becoming only a list of wants or worries. We still ask for mercy and for daily bread, and we also remember the Father’s gifts and his will for us in Christ Jesus (Philippians 4:6–7; 1 Thessalonians 5:16–18).",
+          "passageText": "9 “This, then, is how you should pray: “‘Our Father in heaven, hallowed be your name, 10 your kingdom come, your will be done, on earth as it is in heaven. 11 Give us today our daily bread. 12 And forgive us our debts, as we also have forgiven our debtors. 13 And lead us not into temptation, but deliver us from the evil one.’ “So I say to you: Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. “But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’"
+        }
+      ],
+      "lessonVerses": [
+        "Matthew 6:5–15",
+        "Matthew 6:9–13",
+        "Luke 11:9–13",
+        "Luke 18:9–14",
+        "Philippians 4:6–7",
+        "1 Thessalonians 5:16–18"
+      ]
     },
     {
       "id": "16",
@@ -3511,9 +3741,9 @@
     {
       "id": "20",
       "week": 20,
-      "planTitle": "The church: God's family",
-      "title": "The church: God's family",
-      "selectLabel": "Week 20 · The church: God's family",
+      "planTitle": "Palm Sunday: Jesus enters Jerusalem",
+      "title": "Palm Sunday: Jesus enters Jerusalem",
+      "selectLabel": "Week 20 · Palm Sunday: Jesus enters Jerusalem",
       "ready": false,
       "time": "About 15–20 minutes",
       "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
@@ -3521,9 +3751,9 @@
     {
       "id": "21",
       "week": 21,
-      "planTitle": "Palm Sunday: Jesus enters Jerusalem",
-      "title": "Palm Sunday: Jesus enters Jerusalem",
-      "selectLabel": "Week 21 · Palm Sunday: Jesus enters Jerusalem",
+      "planTitle": "Easter: Jesus is risen",
+      "title": "Easter: Jesus is risen",
+      "selectLabel": "Week 21 · Easter: Jesus is risen",
       "ready": false,
       "time": "About 15–20 minutes",
       "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
@@ -3531,9 +3761,9 @@
     {
       "id": "22",
       "week": 22,
-      "planTitle": "Easter: Jesus is risen",
-      "title": "Easter: Jesus is risen",
-      "selectLabel": "Week 22 · Easter: Jesus is risen",
+      "planTitle": "The church: God's family",
+      "title": "The church: God's family",
+      "selectLabel": "Week 22 · The church: God's family",
       "ready": false,
       "time": "About 15–20 minutes",
       "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."

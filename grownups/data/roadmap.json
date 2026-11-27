@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.56",
+  "version": "2026.11.21.63",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1212,18 +1212,18 @@
         "Job 38:1–18",
         "Job 40:1–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 100,
       "date": "2027-02-09",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Job: repentance, restoration, and praying for your friends",
+      "title": "Job: repentance, restoration, and praying for your friends",
       "passages": [
         "Job 42:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1235,7 +1235,7 @@
         "Psalm 1:1–6",
         "Psalm 2:1–12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1247,7 +1247,7 @@
         "Psalm 19:1–14",
         "Psalm 23:1–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1259,7 +1259,7 @@
         "Psalm 27:1–14",
         "Psalm 32:1–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1271,7 +1271,7 @@
         "Psalm 46:1–11",
         "Psalm 63:1–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1283,7 +1283,7 @@
         "Psalm 73:1–28",
         "Psalm 90:1–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
