@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.30",
+  "contentVersion": "2026.11.21.31",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -7988,11 +7988,238 @@
       "planTitle": "Lydia believes; Paul and Silas sing in prison",
       "title": "Lydia believes; Paul and Silas sing in prison",
       "selectLabel": "Week 34 · Lydia believes; Paul and Silas sing in prison",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 16:11–34 (NIV)",
-      "bigIdea": "God opened Lydia's heart, and he used a midnight song to save a jailer.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 35 · Paul in Athens: the God who made the world",
+      "bigIdea": "God opened Lydia's heart, and he used a midnight song to save a jailer.",
+      "scheduleNote": "This is the Week 34 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 16:11–15 out loud, then Acts 16:16–24, then Acts 16:25–34."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 16:11–15",
+          "text": "11 From Troas we put out to sea and sailed straight for Samothrace, and the next day we went on to Neapolis. 12 From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days. 13 On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there. 14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 15 When she and the members of her household were baptized, she invited us to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded us."
+        },
+        {
+          "cite": "Acts 16:16–24",
+          "text": "16 Once when we were going to the place of prayer, we were met by a female slave who had a spirit by which she predicted the future. She earned a great deal of money for her owners by fortune-telling. 17 She followed Paul and the rest of us, shouting, “These men are servants of the Most High God, who are telling you the way to be saved.” 18 She kept this up for many days. Finally Paul became so annoyed that he turned around and said to the spirit, “In the name of Jesus Christ I command you to come out of her!” At that moment the spirit left her. 19 When her owners realized that their hope of making money was gone, they seized Paul and Silas and dragged them into the marketplace to face the authorities. 20 They brought them before the magistrates and said, “These men are Jews, and are throwing our city into an uproar 21 by advocating customs unlawful for us Romans to accept or practice.” 22 The crowd joined in the attack against Paul and Silas, and the magistrates ordered them to be stripped and beaten with rods. 23 After they had been severely flogged, they were thrown into prison, and the jailer was commanded to guard them carefully. 24 When he received these orders, he put them in the inner cell and fastened their feet in the stocks."
+        },
+        {
+          "cite": "Acts 16:25–34",
+          "text": "25 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them. 26 Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everyone’s chains came loose. 27 The jailer woke up, and when he saw the prison doors open, he drew his sword and was about to kill himself because he thought the prisoners had escaped. 28 But Paul shouted, “Don’t harm yourself! We are all here!” 29 The jailer called for lights, rushed in and fell trembling before Paul and Silas. 30 He then brought them out and asked, “Sirs, what must I do to be saved?” 31 They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” 32 Then they spoke the word of the Lord to him and to all the others in his house. 33 At that hour of the night the jailer took them and washed their wounds; then immediately he and all his household were baptized. 34 The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God—he and his whole household."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we heard that we are saved by the grace of the Lord Jesus, not by keeping extra rules. Then Paul and his companions sailed to Philippi, a leading city in Macedonia, and stayed there several days. On the Sabbath they went outside the city gate to the river, where they expected to find a place of prayer, and they began to speak to the women who had gathered there. One of those listening was Lydia, a dealer in purple cloth from Thyatira, and a worshiper of God. The Lord opened her heart to respond to Paul’s message. When she and the members of her household were baptized, she invited them to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded them.",
+        "Once, on the way to the place of prayer, they were met by a female slave who had a spirit by which she predicted the future. Her owners made a great deal of money from that. She followed Paul and the others, shouting, “These men are servants of the Most High God, who are telling you the way to be saved.” She kept this up for many days. Finally Paul turned to the spirit and said, “In the name of Jesus Christ I command you to come out of her!” At that moment the spirit left her. We tell this simply, and we honor the girl. She is not a joke in the story. When her owners saw that their hope of making money was gone, they seized Paul and Silas, dragged them to the authorities, and made an angry charge against them. The magistrates ordered them to be beaten, and they were thrown into prison. The jailer put them in the inner cell and fastened their feet in the stocks. We say the hurting simply. We do not act it out.",
+        "About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them. Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everyone’s chains came loose. The jailer woke up, and when he saw the prison doors open, he thought the prisoners had escaped, and he was about to harm himself. But Paul shouted, “Don’t harm yourself! We are all here!” The jailer called for lights, rushed in, and fell trembling before Paul and Silas. He brought them out and asked, “Sirs, what must I do to be saved?” They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” Then they spoke the word of the Lord to him and to all the others in his house. At that hour of the night the jailer washed their wounds, and he and all his household were baptized. He brought them into his house, set a meal before them, and was filled with joy because he had come to believe in God—he and his whole household.",
+        "God opened Lydia's heart, and he used a midnight song to save a jailer. Next week Paul will tell the people of Athens about the one God who made the world and raised Jesus."
+      ],
+      "enochLine": "God opened Lydia’s heart, and a jailer believed in Jesus!",
+      "enochActivities": [
+        "Activity: Open heart. Place a hand over your heart and say: God opened Lydia’s heart!",
+        "Activity: Sing. Sing a short line to God, then say: Believe in the Lord Jesus!"
+      ],
+      "elijahQuestions": [
+        "In Acts 16:13–15, who was Lydia, and what did the Lord do so that she responded to Paul’s message?",
+        "In Acts 16:16–24, what happened with the slave girl, and how did Paul and Silas end up in prison?",
+        "In Acts 16:25–28, what were Paul and Silas doing at midnight, and what did Paul shout to the jailer?",
+        "In Acts 16:29–34, what did the jailer ask, what answer was he given, and what happened in his house that night?"
+      ],
+      "elijahAnswers": [
+        "Lydia was a dealer in purple cloth from Thyatira, and a worshiper of God. She was listening by the river, and the Lord opened her heart to respond to Paul’s message. She and her household were baptized, and she invited them to stay at her house (Acts 16:14–15).",
+        "A female slave who had a spirit followed them, shouting that they were servants of the Most High God, telling the way to be saved. Paul, in the name of Jesus Christ, commanded the spirit to come out of her, and it left. Her owners, angry that their hope of making money was gone, seized Paul and Silas. They were beaten and thrown into prison, with their feet in the stocks (Acts 16:16–24).",
+        "About midnight they were praying and singing hymns to God, and the other prisoners were listening. An earthquake shook the prison, the doors flew open, and the chains came loose. Paul shouted, “Don’t harm yourself! We are all here!” (Acts 16:25–28).",
+        "The jailer asked, “Sirs, what must I do to be saved?” They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” They spoke the word of the Lord to his household. He washed their wounds, he and his household were baptized, and he was filled with joy because he had come to believe in God (Acts 16:30–34)."
+      ],
+      "jordynQuestions": [
+        "Lydia is a worshiper of God, and still it is the Lord who opens her heart to respond (Acts 16:14). What does that show you about how people come to believe?",
+        "Paul and Silas are beaten and locked up, and at midnight they pray and sing, and the jailer is told, “Believe in the Lord Jesus, and you will be saved—you and your household.” (Acts 16:25, 31). How is this the same good news Lydia received, even though the setting is so different?",
+        "This week God opens Lydia’s heart and saves a jailer through a midnight song. Next week Paul will tell the people of Athens about the one God who made the world and raised Jesus. What do both stories show you about the way this good news keeps traveling?"
+      ],
+      "jordynAnswers": [
+        "Listening and even already worshiping God is not the same as a heart opened to the message. The Lord does that work. We speak the message, and we also ask him to open hearts, because believing is his gift, not only a person’s effort.",
+        "The same Lord who opened Lydia’s heart is the one the jailer must believe in. Salvation is not a different door in a prison than it was by the river. It is trust in the Lord Jesus, for him and for his household, after the word of the Lord is spoken.",
+        "God opens hearts in a riverside prayer meeting, and he saves a jailer in the middle of the night. Next week the message will be spoken in a new city, to people who do not yet know the God who made the world and raised Jesus. The good news keeps moving, and the way to be saved stays the same."
+      ],
+      "jordynApplication": "God opened Lydia’s heart, and he used a midnight song to save a jailer (Acts 16:11–34). This week, ask the Lord to open someone’s heart, and tell one person, “Believe in the Lord Jesus, and you will be saved—you and your household.” Next week Paul will tell the people of Athens about the one God who made the world and raised Jesus.",
+      "applicationCheck": "Ask her later in the week whether she prayed for someone whose heart needs to be opened, or told someone to believe in the Lord Jesus. If it is fitting, thank God together that he opened Lydia’s heart, and that a jailer and his household came to believe.",
+      "prayer": "Father, thank you that you opened Lydia’s heart to respond to the message, and that at midnight Paul and Silas prayed and sang to you. Thank you that Paul shouted, “Don’t harm yourself! We are all here!” and that the jailer heard, “Believe in the Lord Jesus, and you will be saved—you and your household.” Open hearts this week, keep us from despair, and fill us with the joy of believing in you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 16:11–15",
+        "Acts 16:16–24",
+        "Acts 16:25–34",
+        "Acts 16:14",
+        "Acts 16:15",
+        "Acts 16:25",
+        "Acts 16:28",
+        "Acts 16:30–31",
+        "Acts 16:34"
+      ],
+      "dailies": [
+        {
+          "id": "w34-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The Lord opens Lydia’s heart, and she and her household believe and welcome the messengers.",
+          "verse": "The Lord opened her heart to respond to Paul’s message.",
+          "verseCite": "Acts 16:14, NIV",
+          "enoch": "Place a hand over your heart and say: God opened Lydia’s heart!",
+          "elijah": "In Acts 16:13–15, where did they meet Lydia, and what happened after the Lord opened her heart?",
+          "elijahAnswer": "They went outside the city gate to the river, to a place of prayer, and spoke to the women gathered there. Lydia, a worshiper of God, listened, and the Lord opened her heart to respond. She and her household were baptized, and she invited them to stay at her house.",
+          "jordyn": "Lydia is already a worshiper of God, and still the Lord must open her heart (Acts 16:14). What does that tell you about the message, and about God’s work in a person who is already listening?",
+          "jordynAnswer": "The message must still be spoken, and God must still open the heart. Being near a place of prayer, or already honoring God, is not the same as responding to the good news. The Lord does that inner work, and then Lydia’s house becomes a place of welcome.",
+          "action": "Read Acts 16:11–15 together, then tell someone: The Lord opened Lydia’s heart, and she asked the messengers to stay at her house.",
+          "prayer": "Father, thank you that you opened Lydia’s heart to respond to the message. Open hearts in our house too, and make us glad to welcome people who tell the good news. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:11–15, NIV",
+          "teach": "Paul and his companions came to Philippi. On the Sabbath they went to the river, to a place of prayer, and spoke to the women there. Lydia, a dealer in purple cloth from Thyatira and a worshiper of God, was listening. The Lord opened her heart to respond to Paul’s message. She and her household were baptized, and she said, “If you consider me a believer in the Lord,” and, “come and stay at my house.” She persuaded them.",
+          "enochActivity": "Help a grown-up welcome you at the door, as Lydia did, and say: Come and stay! God opened Lydia’s heart!",
+          "elijah2": "In Acts 16:15, what two things did Lydia say when she invited them, and what had already happened in her household?",
+          "elijahAnswer2": "She said, “If you consider me a believer in the Lord,” and, “come and stay at my house.” She and the members of her household had been baptized, and she persuaded them to stay.",
+          "jordyn2": "Why is it fitting that the first story in Philippi is a heart opened by the Lord, and then an open house?",
+          "jordynAnswer2": "God begins the work inside, and then the new believer’s home becomes a place of welcome. Lydia does not open her heart by herself, and she does not keep the gift to herself either.",
+          "passageText": "11 From Troas we put out to sea and sailed straight for Samothrace, and the next day we went on to Neapolis. 12 From there we traveled to Philippi, a Roman colony and the leading city of that district of Macedonia. And we stayed there several days. 13 On the Sabbath we went outside the city gate to the river, where we expected to find a place of prayer. We sat down and began to speak to the women who had gathered there. 14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 15 When she and the members of her household were baptized, she invited us to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded us."
+        },
+        {
+          "id": "w34-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice a midnight song, and Lydia’s glad welcome, without acting out harm or fear.",
+          "verse": "About midnight Paul and Silas were praying and singing hymns to God.",
+          "verseCite": "Acts 16:25, NIV",
+          "enoch": "Sing a short line to God, then say: Believe in the Lord Jesus!",
+          "elijah": "In Acts 16:14–15 and 16:25, what did the Lord do for Lydia, and what were Paul and Silas doing at midnight in the prison?",
+          "elijahAnswer": "The Lord opened Lydia’s heart, and she welcomed them to her house. At midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening.",
+          "jordyn": "How should we play a sing-and-welcome game so that we honor Lydia, honor the jailer, and do not turn the slave girl, the beating, or the jailer’s despair into a show?",
+          "jordynAnswer": "We do not act out fortune-telling, hitting, chains as a fight, or anyone harming himself. We practice a short song to God in a quiet room, and a glad welcome at the door, like Lydia. The hard parts of the story we tell simply, with care, when we read them. The game is about singing and welcoming.",
+          "action": "Play a sing-and-welcome game: dim a light, sing one short line to God, then go to a door and welcome someone the way Lydia did, saying, Come and stay, and, Believe in the Lord Jesus. Then switch.",
+          "prayer": "Father, thank you that Lydia welcomed the messengers, and that Paul and Silas sang to you at midnight. Teach us to sing to you, and to welcome people with glad hearts. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:14–15, 25, NIV",
+          "teach": "The Lord opened Lydia’s heart, and she invited the messengers to stay at her house. Later, in the prison, Paul and Silas prayed and sang hymns to God at midnight, and the other prisoners listened. Today we practice that welcome, and that kind of song, without acting out the hurting in the story.",
+          "enochActivity": "Help a grown-up sing one short line with you, then welcome you at a doorway and say: Believe in the Lord Jesus!",
+          "elijah2": "In Acts 16:25, who else heard Paul and Silas praying and singing?",
+          "elijahAnswer2": "The other prisoners were listening to them.",
+          "jordyn2": "Why is a song, and a welcome, a better center for a game than the prison earthquake or the owners’ anger?",
+          "jordynAnswer2": "The earthquake is God’s work, and we can tell it with wonder when we read it. The anger and the hurting are real, and we tell them simply, not as play. What we can practice is the same as Lydia and the prisoners heard: a welcome, and a song to God, and the call to believe in the Lord Jesus.",
+          "passageText": "14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 15 When she and the members of her household were baptized, she invited us to her home. “If you consider me a believer in the Lord,” she said, “come and stay at my house.” And she persuaded us. 25 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them."
+        },
+        {
+          "id": "w34-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "At midnight they sing, the jailer is kept from harm, and he and his household believe in the Lord Jesus.",
+          "verse": "Believe in the Lord Jesus, and you will be saved—you and your household.",
+          "verseCite": "Acts 16:31, NIV",
+          "enoch": "Sing a short line, then say: Believe in the Lord Jesus!",
+          "elijah": "In Acts 16:25–31, what happened in the prison at midnight, and what did Paul and Silas tell the jailer he must do to be saved?",
+          "elijahAnswer": "They were praying and singing hymns to God when an earthquake shook the prison, the doors opened, and the chains came loose. The jailer thought the prisoners had escaped and was about to harm himself, but Paul shouted, “Don’t harm yourself! We are all here!” The jailer asked, “Sirs, what must I do to be saved?” They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.”",
+          "jordyn": "The jailer’s despair is real, and Paul stops him with a loud, kind word: they are all still there (Acts 16:27–28). How should we tell this part, and what does the jailer’s question show he needs even more than safety?",
+          "jordynAnswer": "We tell it simply, not as a frightening show, and we do not act it out. Paul keeps the jailer from harming himself. Then the jailer asks how to be saved. He needs the same Lord Lydia believed in, not only a prison that has stopped shaking.",
+          "action": "Read Acts 16:25–34 together, then tell someone: Paul and Silas sang at midnight, and the jailer and his household believed in the Lord Jesus.",
+          "prayer": "Father, thank you that Paul and Silas sang to you in prison, that you kept the jailer from harm, and that he and his household believed in the Lord Jesus. Fill us with that same joy. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:25–34, NIV",
+          "teach": "About midnight Paul and Silas were praying and singing hymns to God. An earthquake shook the prison, the doors opened, and the chains came loose. The jailer thought the prisoners had escaped and was about to harm himself. Paul shouted, “Don’t harm yourself! We are all here!” The jailer asked, “Sirs, what must I do to be saved?” They said, “Believe in the Lord Jesus, and you will be saved—you and your household.” They spoke the word of the Lord to his house. He washed their wounds, he and his household were baptized, and he was filled with joy because he had come to believe in God.",
+          "enochActivity": "Help a grown-up pretend to wash a sore arm gently, as the jailer washed their wounds, and say: He believed in God, and he was filled with joy!",
+          "elijah2": "In Acts 16:33–34, what two kind things did the jailer do, and why was he filled with joy?",
+          "elijahAnswer2": "He washed their wounds, and he set a meal before them in his house. He was filled with joy because he had come to believe in God—he and his whole household. He and all his household were also baptized.",
+          "jordyn2": "Why is it important that the official story includes both “Don’t harm yourself!” and “Believe in the Lord Jesus”?",
+          "jordynAnswer2": "The Lord cares about the jailer’s life, and about his salvation. Paul first keeps him from harm, then answers the question about being saved. We tell both with dignity: God keeps a man from despair, and he also opens the way to believe and have joy.",
+          "passageText": "25 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them. 26 Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everyone’s chains came loose. 27 The jailer woke up, and when he saw the prison doors open, he drew his sword and was about to kill himself because he thought the prisoners had escaped. 28 But Paul shouted, “Don’t harm yourself! We are all here!” 29 The jailer called for lights, rushed in and fell trembling before Paul and Silas. 30 He then brought them out and asked, “Sirs, what must I do to be saved?” 31 They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” 32 Then they spoke the word of the Lord to him and to all the others in his house. 33 At that hour of the night the jailer took them and washed their wounds; then immediately he and all his household were baptized. 34 The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God—he and his whole household."
+        },
+        {
+          "id": "w34-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Ask the Lord to open a heart this week, and tell someone to believe in the Lord Jesus.",
+          "verse": "Believe in the Lord Jesus, and you will be saved—you and your household.",
+          "verseCite": "Acts 16:31, NIV",
+          "enoch": "Place a hand over your heart and say: God, please open someone’s heart!",
+          "elijah": "In Acts 16:14 and 16:31, what did the Lord do for Lydia, and what were the jailer and his household told to do?",
+          "elijahAnswer": "The Lord opened Lydia’s heart to respond to Paul’s message. The jailer was told, “Believe in the Lord Jesus, and you will be saved—you and your household.”",
+          "jordyn": "What would a right-sized challenge look like this week, if the work of opening a heart belongs to the Lord, and our part is to pray and to speak the same simple word?",
+          "jordynAnswer": "Pray by name for one person, asking the Lord to open that person’s heart. Then, if you can do it with a parent’s help, tell someone the same word the jailer heard: Believe in the Lord Jesus. The challenge is not to force a result. It is to ask, and to speak.",
+          "action": "This week, pray by name for one person whose heart you want the Lord to open, and tell someone, “Believe in the Lord Jesus, and you will be saved—you and your household.” Let a parent know you did it.",
+          "prayer": "Father, you opened Lydia’s heart, and you saved a jailer and his household. Please open a heart this week, and help us speak the good news: Believe in the Lord Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:14, 31–32, NIV",
+          "teach": "The Lord opened Lydia’s heart. The jailer was told to believe in the Lord Jesus, and they spoke the word of the Lord to him and to all the others in his house. Prayer and the spoken word belong together in this week’s challenge.",
+          "enochActivity": "Help a grown-up name one person you can pray for this week, and say together: Lord, please open their heart.",
+          "elijah2": "In Acts 16:32, after they told the jailer to believe, what did they do next?",
+          "elijahAnswer2": "They spoke the word of the Lord to him and to all the others in his house.",
+          "jordyn2": "Why is speaking the word of the Lord a fitting next step after the short answer, Believe in the Lord Jesus?",
+          "jordynAnswer2": "The short answer is true and clear, and the household still needed the word of the Lord explained to them. We can say the simple sentence, and we can also take time to tell more of the good news, as they did that night.",
+          "passageText": "14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 31 They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” 32 Then they spoke the word of the Lord to him and to all the others in his house."
+        },
+        {
+          "id": "w34-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that he opens hearts, keeps people from harm, and saves those who believe in the Lord Jesus.",
+          "verse": "The jailer was filled with joy because he had come to believe in God—he and his whole household.",
+          "verseCite": "Acts 16:34, NIV",
+          "enoch": "Fold your hands, then open them, and say: Thank you, God, for saving Lydia and the jailer!",
+          "elijah": "In Acts 16:14, 28, and 34, what did God do for Lydia, what did Paul shout, and how did the jailer’s night end?",
+          "elijahAnswer": "The Lord opened Lydia’s heart. Paul shouted, “Don’t harm yourself! We are all here!” The jailer was filled with joy because he had come to believe in God—he and his whole household.",
+          "jordyn": "How can prayer this week thank God both for an opened heart and for a life kept from despair, without turning the jailer’s crisis into a dramatic story we linger on?",
+          "jordynAnswer": "Thank God simply that he opened Lydia’s heart, that Paul could shout that they were all still there, and that the jailer and his household believed and were filled with joy. Then ask him to open hearts, to keep people who are afraid, and to give the joy of believing.",
+          "action": "Pray together: thank God that he opened Lydia’s heart, that he used a midnight song, and that the jailer and his household believed in the Lord Jesus.",
+          "prayer": "Father, thank you that you opened Lydia’s heart, that Paul and Silas sang to you at midnight, and that the jailer heard, “Don’t harm yourself! We are all here!” Thank you that he and his household believed in the Lord Jesus and were filled with joy. Open hearts, keep the afraid, and teach us to sing to you. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:14, 25, 28, 34, NIV",
+          "teach": "This week’s story gives us many reasons to pray. The Lord opens hearts. His people can sing in a hard place. A man in despair is told not to harm himself, because the prisoners are still there. A household believes and is filled with joy. Prayer can hold all of that, with care and with thanks.",
+          "enochActivity": "Help a grown-up thank God out loud that the jailer and his household believed and were filled with joy.",
+          "elijah2": "In Acts 16:25, when did Paul and Silas pray and sing, and who was listening?",
+          "elijahAnswer2": "About midnight they were praying and singing hymns to God, and the other prisoners were listening to them.",
+          "jordyn2": "Why is a midnight song a fitting picture when we close this week in prayer?",
+          "jordynAnswer2": "They prayed and sang before the earthquake, not only after the joy at the table. Prayer belongs in the hard hours, and God can use it in ways we cannot plan, as he did with a jailer who came to believe.",
+          "passageText": "14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 25 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them. 28 But Paul shouted, “Don’t harm yourself! We are all here!” 34 The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God—he and his whole household."
+        },
+        {
+          "id": "w34-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God opened Lydia’s heart, he saved a jailer through a midnight song, and next the message will go to Athens.",
+          "verse": "The Lord opened her heart to respond to Paul’s message.",
+          "verseCite": "Acts 16:14, NIV",
+          "enoch": "Place a hand over your heart, then sing a short line, and say: God opened Lydia’s heart, and a jailer believed!",
+          "elijah": "In Acts 16:14 and 16:31–34, how did Lydia come to believe, and how did the jailer’s household come to believe?",
+          "elijahAnswer": "The Lord opened Lydia’s heart to respond to Paul’s message, and she and her household were baptized. The jailer was told to believe in the Lord Jesus, they spoke the word of the Lord to his house, and he and his household were baptized and filled with joy because they had come to believe in God.",
+          "jordyn": "This week God opened a heart by the river and saved a jailer at midnight. How does that get you ready for next week, when Paul will tell the people of Athens about the one God who made the world and raised Jesus?",
+          "jordynAnswer": "The same good news is about to be spoken in a new city, to people who do not already gather at a Jewish place of prayer. The Lord who opened Lydia’s heart, and who saved a jailer, is the God who made the world and raised Jesus. Next week we will hear Paul say that in Athens.",
+          "action": "Tell someone the week’s big idea: God opened Lydia's heart, and he used a midnight song to save a jailer. Then thank God, and look ahead to Paul in Athens.",
+          "prayer": "Father, thank you that you opened Lydia’s heart, and that a jailer and his household believed in the Lord Jesus. Get our hearts ready to hear Paul tell the people of Athens about the one God who made the world and raised Jesus. In Jesus’ name, Amen.",
+          "passageCite": "Acts 16:14, 31, 34, NIV",
+          "teach": "This week we learned that God opened Lydia’s heart, and that he used a midnight song to save a jailer. Lydia believed and welcomed the messengers. Paul and Silas were beaten and put in prison, and at midnight they prayed and sang. The jailer was kept from harm and asked how to be saved. He was told to believe in the Lord Jesus, and he and his household believed and were filled with joy. Next week Paul will tell the people of Athens about the one God who made the world and raised Jesus.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week Paul will tell Athens about the God who made the world!",
+          "elijah2": "In Acts 16:31, what exact word were the jailer and his household given?",
+          "elijahAnswer2": "“Believe in the Lord Jesus, and you will be saved—you and your household.”",
+          "jordyn2": "Why is God opened Lydia’s heart, and he used a midnight song to save a jailer a fitting last word before a week in Athens?",
+          "jordynAnswer2": "The message is already traveling from a riverside to a prison, and next it will be spoken in a city full of other gods. The way to be saved will not change: the Lord opens hearts, and people are told to believe in the Lord Jesus, who was raised.",
+          "passageText": "14 One of those listening was a woman from the city of Thyatira named Lydia, a dealer in purple cloth. She was a worshiper of God. The Lord opened her heart to respond to Paul’s message. 31 They replied, “Believe in the Lord Jesus, and you will be saved—you and your household.” 34 The jailer brought them into his house and set a meal before them; he was filled with joy because he had come to believe in God—he and his whole household."
+        }
+      ]
     },
     {
       "id": "35",

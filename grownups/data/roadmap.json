@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.189",
+  "version": "2026.11.21.196",
   "start": "2026-10-31",
   "phases": [
     {
@@ -2749,19 +2749,19 @@
         "Titus 1:5–9",
         "Titus 2:1–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 233,
       "date": "2027-06-22",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Titus: grace teaches us to say no, and yes to good works",
+      "title": "Titus: grace teaches us to say no, and yes to good works",
       "passages": [
         "Titus 2:11–15",
         "Titus 3:3–8"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -2772,7 +2772,7 @@
       "passages": [
         "Philemon 1:1–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2784,7 +2784,7 @@
         "Hebrews 1:1–14",
         "Hebrews 2:1–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2796,7 +2796,7 @@
         "Hebrews 4:14–16",
         "Hebrews 5:7–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2808,7 +2808,7 @@
         "Hebrews 8:1–13",
         "Hebrews 9:11–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -2820,7 +2820,7 @@
         "Hebrews 10:19–25",
         "Hebrews 11:1–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
