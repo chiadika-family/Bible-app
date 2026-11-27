@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.29",
+  "contentVersion": "2026.11.21.30",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -7751,11 +7751,236 @@
       "planTitle": "Saved by grace: the meeting in Jerusalem",
       "title": "Saved by grace: the meeting in Jerusalem",
       "selectLabel": "Week 33 · Saved by grace: the meeting in Jerusalem",
-      "ready": false,
+      "ready": true,
       "passage": "Acts 15:1–11 (NIV)",
-      "bigIdea": "We are saved by the grace of the Lord Jesus, not by keeping extra rules.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 34 · Lydia believes; Paul and Silas sing in prison",
+      "bigIdea": "We are saved by the grace of the Lord Jesus, not by keeping extra rules.",
+      "scheduleNote": "This is the Week 33 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Acts 15:1–5 out loud, then Acts 15:6–9, then Acts 15:10–11."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Acts 15:1–5",
+          "text": "1 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 2 This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. 3 The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad. 4 When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them. 5 Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”"
+        },
+        {
+          "cite": "Acts 15:6–9",
+          "text": "6 The apostles and elders met to consider this question. 7 After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. 8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith."
+        },
+        {
+          "cite": "Acts 15:10–11",
+          "text": "10 Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week the church sent Paul and Barnabas to tell other towns about Jesus, and people believed. Then a hard question came. Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” They wanted to add an extra rule, as if trusting Jesus were not enough. This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.",
+        "The church sent them on their way. As they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted, and this news made all the believers very glad. When they came to Jerusalem, they were welcomed by the church and the apostles and elders, and they reported everything God had done through them. Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”",
+        "The apostles and elders met to consider this question. After much discussion, Peter got up and spoke. He reminded them that God had already chosen that the Gentiles would hear the good news and believe. God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to the Jewish believers. He did not discriminate between them. He purified their hearts by faith. Why, then, try to test God by putting a heavy yoke on their necks, a load neither they nor their ancestors had been able to bear? No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+        "That is the heart of the meeting: we are saved by the grace of the Lord Jesus, not by keeping extra rules. Next week we will see God open Lydia’s heart, and a midnight song used to save a jailer."
+      ],
+      "enochLine": "We are saved by the grace of the Lord Jesus!",
+      "enochActivities": [
+        "Activity: Open hands. Hold your hands open and say: Jesus saves us by grace!",
+        "Activity: Same welcome. Hold a friend’s hand and say: God welcomes us the same way!"
+      ],
+      "elijahQuestions": [
+        "In Acts 15:1–2, what were certain people teaching, and what did the church do about the dispute?",
+        "In Acts 15:3–5, what news made the believers glad, and what did some of the Pharisee believers say in Jerusalem?",
+        "In Acts 15:7–9, how had God already shown that he accepted the Gentile believers?",
+        "In Acts 15:10–11, what heavy load did Peter not want put on the Gentiles, and how did he say we are saved?"
+      ],
+      "elijahAnswers": [
+        "They were teaching, “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” This brought Paul and Barnabas into sharp dispute with them, so the church appointed Paul and Barnabas, and some other believers, to go up to Jerusalem to see the apostles and elders (Acts 15:1–2).",
+        "As they traveled, they told how the Gentiles had been converted, and this news made all the believers very glad. In Jerusalem some of the believers who belonged to the party of the Pharisees said, “The Gentiles must be circumcised and required to keep the law of Moses.” (Acts 15:3–5).",
+        "Peter said God had chosen that the Gentiles would hear the gospel and believe. God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. He did not discriminate between them, for he purified their hearts by faith (Acts 15:7–9).",
+        "He did not want a yoke put on their necks that neither they nor their ancestors had been able to bear. He said, We believe it is through the grace of our Lord Jesus that we are saved, just as they are (Acts 15:10–11)."
+      ],
+      "jordynQuestions": [
+        "The teachers in Antioch said you cannot be saved unless you also keep this custom (Acts 15:1). Peter says God already accepted the Gentiles and purified their hearts by faith (Acts 15:8–9). What is the difference between those two ways of thinking about being saved?",
+        "Peter calls the extra requirement a yoke that even their own ancestors could not bear (Acts 15:10), and then he says we are saved through the grace of the Lord Jesus, just as they are (Acts 15:11). What does that tell you about grace, and about treating Gentile believers as full members of the family?",
+        "This week the meeting in Jerusalem says we are saved by grace, not by extra rules. Next week God will open Lydia’s heart, and a midnight song will be used to save a jailer. What do both stories show you about how God saves people?"
+      ],
+      "jordynAnswers": [
+        "The first way adds a rule as if faith in Jesus were not enough. Peter points to what God has already done: he gave the Holy Spirit, he did not discriminate, and he purified their hearts by faith. Being saved is God’s accepting work, received by faith, not a prize for finishing extra requirements.",
+        "Grace means Jewish and Gentile believers are saved the same way, through the Lord Jesus. No one gets to hang a heavier yoke on someone else’s neck as the price of belonging. If God has accepted them by faith, the church must not treat them as second-class.",
+        "God saves by the grace of the Lord Jesus. He opens hearts, and he meets people in unexpected places. Next week we will see that same grace at work in Lydia and in a jailer. The meeting in Jerusalem tells us what that salvation is: grace, not extra rules."
+      ],
+      "jordynApplication": "We are saved by the grace of the Lord Jesus, not by keeping extra rules (Acts 15:1–11). This week, thank God out loud that you are saved by grace, and be careful not to add an extra rule when you talk with someone about belonging to Jesus. Next week we will see God open Lydia’s heart, and a midnight song used to save a jailer.",
+      "applicationCheck": "Ask her later in the week whether she thanked God for being saved by grace, and whether she noticed a place where it is easy to add extra rules. If it is fitting, thank God together that we are saved through the grace of the Lord Jesus, just as they are.",
+      "prayer": "Father, thank you that you know the heart, and that you accepted the Gentile believers by giving them the Holy Spirit and purifying their hearts by faith. Thank you that we are saved through the grace of our Lord Jesus, not by keeping extra rules. Keep us from putting a heavy yoke on anyone’s neck, and teach us to welcome people the way you have welcomed them. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Acts 15:1–5",
+        "Acts 15:6–9",
+        "Acts 15:10–11",
+        "Acts 15:1",
+        "Acts 15:5",
+        "Acts 15:8–9",
+        "Acts 15:11"
+      ],
+      "dailies": [
+        {
+          "id": "w33-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "A sharp dispute arises, and the church sends leaders to Jerusalem to settle a question about being saved.",
+          "verse": "Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.",
+          "verseCite": "Acts 15:1, NIV",
+          "enoch": "Shake your head gently and say: Jesus is enough to save us!",
+          "elijah": "In Acts 15:1–2, what were certain people teaching in Antioch, and what did the church decide to do?",
+          "elijahAnswer": "They were teaching that unless you are circumcised, according to the custom taught by Moses, you cannot be saved. This brought Paul and Barnabas into sharp dispute and debate with them, so the church appointed them, with some other believers, to go up to Jerusalem to see the apostles and elders about this question.",
+          "jordyn": "The argument is about what must be added before a person can be saved (Acts 15:1, 5). How should we tell this part with care, especially the custom named in the text, and still be clear about the real issue?",
+          "jordynAnswer": "We can name what the official text says, without turning a body custom into a joke or a graphic lesson. The real issue is the claim that faith in Jesus is not enough, and that extra rules must be kept in order to be saved. That is why the church sent people to Jerusalem.",
+          "action": "Read Acts 15:1–5 together, then tell someone: Some people wanted to add extra rules to being saved, so the church sent Paul and Barnabas to Jerusalem.",
+          "prayer": "Father, thank you that the church did not ignore this question. Give us wisdom to tell the truth with care, and to remember that being saved is about your grace, not extra rules. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:1–5, NIV",
+          "teach": "Certain people came down from Judea and taught that you cannot be saved unless you also keep a custom from the law of Moses. Paul and Barnabas disputed this, and the church sent them, with others, to the apostles and elders in Jerusalem. On the way they told how the Gentiles had been converted, and the believers were very glad. In Jerusalem they were welcomed, and they reported everything God had done. Then some of the Pharisee believers said the Gentiles must be circumcised and required to keep the law of Moses.",
+          "enochActivity": "Help a grown-up walk with you a few steps, as if going to ask a question, and say: The church went to find the answer!",
+          "elijah2": "In Acts 15:3–4, what did they report, and how were they received in Jerusalem?",
+          "elijahAnswer2": "They told how the Gentiles had been converted, and this news made all the believers very glad. In Jerusalem they were welcomed by the church and the apostles and elders, and they reported everything God had done through them.",
+          "jordyn2": "Why is it good that the church both argued the issue and also sent it to the apostles and elders, instead of splitting or staying silent?",
+          "jordynAnswer2": "The question was about how people are saved, so it could not be shrugged off. They debated it, and then they went together to the leaders in Jerusalem. The unity of the church, and the truth of the gospel, both mattered.",
+          "passageText": "1 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 2 This brought Paul and Barnabas into sharp dispute and debate with them. So Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question. 3 The church sent them on their way, and as they traveled through Phoenicia and Samaria, they told how the Gentiles had been converted. This news made all the believers very glad. 4 When they came to Jerusalem, they were welcomed by the church and the apostles and elders, to whom they reported everything God had done through them. 5 Then some of the believers who belonged to the party of the Pharisees stood up and said, “The Gentiles must be circumcised and required to keep the law of Moses.”"
+        },
+        {
+          "id": "w33-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Practice a same welcome: we are saved by the grace of the Lord Jesus, not by extra rules.",
+          "verse": "We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "verseCite": "Acts 15:11, NIV",
+          "enoch": "Hold your hands open and say: We are saved by grace!",
+          "elijah": "In Acts 15:8–9 and 15:11, how had God already treated the Gentile believers, and how are we saved?",
+          "elijahAnswer": "God accepted them, gave them the Holy Spirit, did not discriminate, and purified their hearts by faith. We are saved through the grace of our Lord Jesus, just as they are.",
+          "jordyn": "How should we play a grace-and-welcome game so that we honor God’s acceptance, and do not make the law, or anyone’s body, into a joke?",
+          "jordynAnswer": "We do not act out customs, or pretend to load people with shame. We practice the same welcome for everyone: open hands, and the words, We are saved by the grace of the Lord Jesus. The game is about grace, not about mocking a rule or a group.",
+          "action": "Play a same-welcome game: one person stands at a door, and each family member is welcomed in the same way, with open hands, while someone says, We are saved by the grace of the Lord Jesus. Then switch.",
+          "prayer": "Father, thank you that you do not discriminate, and that you save us through the grace of our Lord Jesus. Teach us to welcome people the way you have welcomed them. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:8–11, NIV",
+          "teach": "God, who knows the heart, showed that he accepted the Gentiles by giving them the Holy Spirit, just as he did to the others. He purified their hearts by faith. Peter would not put a yoke on their necks that even their ancestors could not bear. We are saved through the grace of our Lord Jesus, just as they are. Today we practice that same welcome.",
+          "enochActivity": "Help a grown-up welcome you at a doorway with open hands, and say together: We are saved by grace!",
+          "elijah2": "In Acts 15:10, what did Peter say they should not put on the necks of the Gentiles?",
+          "elijahAnswer2": "A yoke that neither they nor their ancestors have been able to bear.",
+          "jordyn2": "Why is a same welcome a better picture for a game than acting out a heavy yoke?",
+          "jordynAnswer2": "The yoke is a warning in Peter’s speech, and we can say that simply. The good news at the center is that God has already accepted people by faith, and we are saved by the same grace. The game should practice that welcome, not the burden God refuses to lay on them.",
+          "passageText": "8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith. 10 Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        },
+        {
+          "id": "w33-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Peter stands up: God has accepted the Gentiles by faith, and we are saved by grace.",
+          "verse": "We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "verseCite": "Acts 15:11, NIV",
+          "enoch": "Open your hands and say: God accepted them, and he accepts us too!",
+          "elijah": "In Acts 15:6–9, who met to consider the question, and how had God shown that he accepted the Gentiles?",
+          "elijahAnswer": "The apostles and elders met. After much discussion, Peter said God had chosen that the Gentiles would hear the gospel and believe. God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us, and he purified their hearts by faith.",
+          "jordyn": "Peter’s last word is that Jewish and Gentile believers are saved the same way: through the grace of our Lord Jesus (Acts 15:11). Why does he say just as they are, and not that one group has a harder path?",
+          "jordynAnswer": "If God has already given the Spirit and purified their hearts by faith, there is not a second, heavier way of being saved. Grace puts both groups on the same ground. Extra rules would test God, and would make some believers look like they belonged less.",
+          "action": "Read Acts 15:6–11 together, then tell someone: We are saved through the grace of our Lord Jesus, just as they are.",
+          "prayer": "Father, thank you that you know the heart, that you give the Holy Spirit, and that you save us through the grace of our Lord Jesus. Keep us from adding a yoke you have not required. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:6–11, NIV",
+          "teach": "The apostles and elders met. After much discussion, Peter stood up. God had already chosen that the Gentiles would hear the good news and believe. God, who knows the heart, accepted them, gave them the Holy Spirit, did not discriminate, and purified their hearts by faith. Peter asked why they would test God by putting a yoke on the Gentiles that even their ancestors could not bear. No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "enochActivity": "Help a grown-up place a hand over your heart and say: God knows the heart, and he saves by grace!",
+          "elijah2": "In Acts 15:11, what two-letter word does Peter begin with, and what does he say we believe?",
+          "elijahAnswer2": "He begins with No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "jordyn2": "The official story this week stops at verse 11. Why is that last sentence a complete enough word for this meeting, even before we hear the rest of the chapter later in life?",
+          "jordynAnswer2": "The question was how people are saved. Peter answers it: through the grace of our Lord Jesus, just as they are. That is the week’s big idea, and it is already enough to hold onto. The later part of the chapter is not our official reading this week.",
+          "passageText": "6 The apostles and elders met to consider this question. 7 After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. 8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith. 10 Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        },
+        {
+          "id": "w33-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Thank God that you are saved by grace, and do not add an extra rule to the good news.",
+          "verse": "We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "verseCite": "Acts 15:11, NIV",
+          "enoch": "Hold your hands open and say: Thank you, Jesus, for your grace!",
+          "elijah": "In Acts 15:1 and 15:11, what did some people say you must add in order to be saved, and what did Peter say instead?",
+          "elijahAnswer": "Some said that unless you are circumcised, according to the custom taught by Moses, you cannot be saved. Peter said we are saved through the grace of our Lord Jesus, just as they are.",
+          "jordyn": "What would a right-sized challenge look like this week, if the danger is adding extra rules to the good news, not forgetting to be kind or obedient in ordinary life?",
+          "jordynAnswer": "Thank God out loud that you are saved by grace. Then notice one place where it is easy to make belonging to Jesus sound like a list of extras, and practice saying the good news simply: we are saved through the grace of the Lord Jesus. The challenge is not to treat obedience as if it does not matter. It is to keep extra rules from becoming the door into salvation.",
+          "action": "This week, thank God out loud that you are saved by the grace of the Lord Jesus, and tell one person the good news without adding an extra rule. Let a parent know you did it.",
+          "prayer": "Father, thank you that we are saved through the grace of our Lord Jesus, just as they are. Keep us from adding extra rules to your good news, and make us glad to share that grace. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:1, 11, NIV",
+          "teach": "Some taught that you cannot be saved unless you also keep an extra custom. Peter said no: we are saved through the grace of our Lord Jesus, just as they are. A fitting challenge is to thank God for that grace, and to tell the good news without hanging a yoke on anyone’s neck.",
+          "enochActivity": "Help a grown-up thank God out loud with you that Jesus saves us by grace.",
+          "elijah2": "In Acts 15:9, what did God do to their hearts, and how?",
+          "elijahAnswer2": "He purified their hearts by faith.",
+          "jordyn2": "How can thanking God for grace, and telling the good news simply, fit together this week?",
+          "jordynAnswer2": "If God has purified hearts by faith, then the right first word is thanks, not a new entrance exam. Telling the good news simply is a way of trusting that same grace for someone else.",
+          "passageText": "1 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 9 He did not discriminate between us and them, for he purified their hearts by faith. 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        },
+        {
+          "id": "w33-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that he accepts people by faith, and that we are saved by the grace of the Lord Jesus.",
+          "verse": "God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us.",
+          "verseCite": "Acts 15:8, NIV",
+          "enoch": "Fold your hands, then open them, and say: Thank you, God, for accepting us by grace!",
+          "elijah": "In Acts 15:8–11, what did God already do, and what does Peter want the church to believe?",
+          "elijahAnswer": "God, who knows the heart, accepted them, gave them the Holy Spirit, did not discriminate, and purified their hearts by faith. Peter wants them to believe that we are saved through the grace of our Lord Jesus, just as they are.",
+          "jordyn": "How can prayer this week thank God both for his welcome, and for a church that would not let extra rules replace grace?",
+          "jordynAnswer": "Thank God that he knows the heart and gives the Holy Spirit. Thank him that the church took the question seriously and heard Peter’s word about grace. Then ask him to keep your family from adding a yoke he has not required, and to make you glad that we are saved just as they are.",
+          "action": "Pray together: thank God that he accepts people by faith, and that we are saved through the grace of the Lord Jesus, just as they are.",
+          "prayer": "Father, you know the heart. Thank you that you accepted the Gentile believers and gave them the Holy Spirit, and that you purify hearts by faith. Thank you that we are saved through the grace of our Lord Jesus, just as they are. Keep us from testing you with extra rules, and teach us to welcome others as you have welcomed us. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:8–11, NIV",
+          "teach": "God knows the heart. He accepted the Gentiles, gave them the Holy Spirit, and purified their hearts by faith. Peter would not put a yoke on them, because we are saved through the grace of our Lord Jesus, just as they are. That is a word for thanking God, and for asking him to keep this gospel clear.",
+          "enochActivity": "Help a grown-up thank God out loud that he knows the heart and saves by grace.",
+          "elijah2": "In Acts 15:6–7, what happened before Peter spoke, and how did he begin?",
+          "elijahAnswer2": "The apostles and elders met to consider this question. After much discussion, Peter got up and addressed them, beginning by reminding them that some time ago God made a choice among them that the Gentiles might hear from his lips the message of the gospel and believe.",
+          "jordyn2": "Why is it fitting to thank God after a meeting that included sharp dispute and much discussion?",
+          "jordynAnswer2": "The discussion was real, and the church did not pretend the question was small. God used it to make the gospel clear: salvation is by the grace of the Lord Jesus. Thanks belongs at the end of a hard, faithful conversation like that.",
+          "passageText": "6 The apostles and elders met to consider this question. 7 After much discussion, Peter got up and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear from my lips the message of the gospel and believe. 8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith. 10 Now then, why do you try to test God by putting on the necks of Gentiles a yoke that neither we nor our ancestors have been able to bear? 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        },
+        {
+          "id": "w33-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "We are saved by the grace of the Lord Jesus, and next we will see God open Lydia’s heart.",
+          "verse": "We believe it is through the grace of our Lord Jesus that we are saved, just as they are.",
+          "verseCite": "Acts 15:11, NIV",
+          "enoch": "Open your hands and say: We are saved by the grace of the Lord Jesus!",
+          "elijah": "In Acts 15:1 and 15:11, what wrong door into salvation was being taught, and what did Peter say is the true way we are saved?",
+          "elijahAnswer": "Some taught that you cannot be saved unless you are circumcised, according to the custom taught by Moses. Peter said we are saved through the grace of our Lord Jesus, just as they are.",
+          "jordyn": "This week a meeting in Jerusalem made the gospel clear: saved by grace, not by extra rules. How does that get your heart ready for next week, when God will open Lydia’s heart, and a midnight song will be used to save a jailer?",
+          "jordynAnswer": "The same grace that the meeting named is the grace that opens hearts and saves people in unexpected places. Next week we will see that grace at work in Lydia and in a jailer. No one is saved by a heavier set of rules. God saves by the grace of the Lord Jesus.",
+          "action": "Tell someone the week’s big idea: We are saved by the grace of the Lord Jesus, not by keeping extra rules. Then thank God, and look ahead to Lydia and the jailer.",
+          "prayer": "Father, thank you that we are saved through the grace of our Lord Jesus, just as they are. Get our hearts ready to see you open Lydia’s heart, and to see a midnight song used to save a jailer. In Jesus’ name, Amen.",
+          "passageCite": "Acts 15:1, 8–11, NIV",
+          "teach": "This week we learned that we are saved by the grace of the Lord Jesus, not by keeping extra rules. Some wanted to add a custom from the law of Moses as the door into salvation. The church sent Paul and Barnabas to Jerusalem. Peter reminded them that God had already accepted the Gentiles, given them the Holy Spirit, and purified their hearts by faith. We are saved through the grace of our Lord Jesus, just as they are. Next week we will see God open Lydia’s heart, and a midnight song used to save a jailer.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week we will see God open Lydia’s heart!",
+          "elijah2": "In Acts 15:8, what two things does Peter say about God and about the Gentiles?",
+          "elijahAnswer2": "God knows the heart, and he showed that he accepted them by giving the Holy Spirit to them, just as he did to us.",
+          "jordyn2": "Why is saved by the grace of the Lord Jesus, not by keeping extra rules a fitting last word before a week about Lydia and a jailer?",
+          "jordynAnswer2": "Lydia and the jailer will not be saved by finishing a list of extras. They will be saved by the same grace this meeting named. The gospel stays the same when it moves from a council room to a household and a prison.",
+          "passageText": "1 Certain people came down from Judea to Antioch and were teaching the believers: “Unless you are circumcised, according to the custom taught by Moses, you cannot be saved.” 8 God, who knows the heart, showed that he accepted them by giving the Holy Spirit to them, just as he did to us. 9 He did not discriminate between us and them, for he purified their hearts by faith. 11 No! We believe it is through the grace of our Lord Jesus that we are saved, just as they are.”"
+        }
+      ]
     },
     {
       "id": "34",
