@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.70",
+  "version": "2026.11.21.77",
   "start": "2026-10-31",
   "phases": [
     {
@@ -1377,18 +1377,18 @@
         "Ecclesiastes 1:1–14",
         "Ecclesiastes 2:9–26"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 114,
       "date": "2027-02-23",
       "phase": "books-of-the-bible",
-      "title": "Sunday: connect with this week's Grace Life sermon — Ecclesiastes: a time for everything, and eternity in our hearts",
+      "title": "Ecclesiastes: a time for everything, and eternity in our hearts",
       "passages": [
         "Ecclesiastes 3:1–15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -1400,7 +1400,7 @@
         "Ecclesiastes 5:8–20",
         "Ecclesiastes 12:1–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1412,7 +1412,7 @@
         "Song of Songs 2:8–17",
         "Song of Songs 4:9–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1423,7 +1423,7 @@
       "passages": [
         "Song of Songs 8:5–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1434,7 +1434,7 @@
       "passages": [
         "Isaiah 1:1–20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -1445,7 +1445,7 @@
       "passages": [
         "Isaiah 6:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

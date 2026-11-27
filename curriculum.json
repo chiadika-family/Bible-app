@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.13",
+  "contentVersion": "2026.11.21.14",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -3943,14 +3943,246 @@
       ]
     },
     {
-      "id": "17",
+      "id": 17,
       "week": 17,
       "planTitle": "God's design for marriage and family",
       "title": "God's design for marriage and family",
       "selectLabel": "Week 17 · God's design for marriage and family",
-      "ready": false,
+      "ready": true,
+      "passage": "Genesis 2:18–24; Matthew 19:4–6; Ephesians 5:25, 31–33; 6:1–4 (NIV)",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 18 · Loving everyone made in God's image",
+      "bigIdea": "God made marriage: a husband and a wife, joined by God as one. Children honor their father and mother. Fathers bring their children up in the Lord, and husbands love their wives as Christ loved the church.",
+      "scheduleNote": "This is the Week 17 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Genesis 2:18–24 out loud, then Matthew 19:4–6, then Ephesians 5:25, 31–33 and 6:1–4."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "kind": "scripture",
+          "cite": "Genesis 2:18–24",
+          "text": "18 The LORD God said, “It is not good for the man to be alone. I will make a helper suitable for him.” 19 Now the LORD God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name. 20 So the man gave names to all the livestock, the birds in the sky and all the wild animals. But for Adam no suitable helper was found. 21 So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs and then closed up the place with flesh. 22 Then the LORD God made a woman from the rib he had taken out of the man, and he brought her to the man. 23 The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.” 24 That is why a man leaves his father and mother and is united to his wife, and they become one flesh."
+        },
+        {
+          "kind": "scripture",
+          "cite": "Matthew 19:4–6",
+          "text": "4 “Haven’t you read,” he replied, “that at the beginning the Creator ‘made them male and female,’ 5 and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’? 6 So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.”"
+        },
+        {
+          "kind": "scripture",
+          "cite": "Ephesians 5:25, 31–33; 6:1–4",
+          "text": "25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 31 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” 32 This is a profound mystery—but I am talking about Christ and the church. 33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband. 1 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother”—which is the first commandment with a promise— 3 “so that it may go well with you and that you may enjoy long life on the earth.” 4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that the Bible is God’s Word. This week we listen to what that Word says about marriage and family. These things are God’s idea, not something people made up later.",
+        "In the beginning, the LORD God said, “It is not good for the man to be alone.” He made a woman, a helper suitable for the man, and brought her to him. The man was glad. “That is why a man leaves his father and mother and is united to his wife, and they become one flesh.” God joined a husband and a wife into one new family.",
+        "When people tested Jesus about marriage, he took them back to that beginning. The Creator “made them male and female.” A man is united to his wife, and the two become one flesh. “So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.” Marriage is a joining God does, and we are not to pull it apart.",
+        "God also gave a word to children and to parents. “Honor your father and your mother.” “Children, obey your parents in the Lord, for this is right.” And fathers are told not to exasperate their children, but to bring them up in the training and instruction of the Lord. Husbands are told to love their wives “just as Christ loved the church and gave himself up for her.”",
+        "So this is God’s design, and it is a gift. A husband and a wife belong to each other for life. Children honor father and mother. Parents train their children in the Lord with love, not harshness. Children are a heritage from the LORD. We want our house to look like that design."
+      ],
+      "enochLine": "God made our family. I can honor Mom and Dad!",
+      "enochActivities": [
+        "Activity: God made them one. Join two hands together and say, “God made a husband and a wife one family!”",
+        "Activity: Honor hug. Give Mom and Dad a hug and say, “I honor you!”"
+      ],
+      "elijahQuestions": [
+        "In Genesis 2:18, what did the LORD God say was not good?",
+        "In Genesis 2:24, what happens when a man is united to his wife?",
+        "In Matthew 19:6, what does Jesus say no one should do to what God has joined together?",
+        "In Ephesians 6:1, what are children told to do?"
+      ],
+      "jordynQuestions": [
+        "Genesis 2:24 says a husband and wife become “one flesh.” Jesus adds, “What God has joined together, let no one separate” (Matthew 19:6). What is God doing in a marriage, if this is more than two people only living under one roof?",
+        "Ephesians 6:1–4 speaks to children and to fathers. Why does God’s design for a family need both of those words, not only the command for children?",
+        "Husbands are told to love their wives “just as Christ loved the church and gave himself up for her” (Ephesians 5:25). What kind of love is that, compared with a love that only wants to be served?"
+      ],
+      "jordynApplication": "God made marriage, and he joins a husband and wife for life (Genesis 2:24; Matthew 19:6). This week, honor your father and mother in a concrete way, and notice how the adults in your house are called to love like Christ, not harshly (Exodus 20:12; Ephesians 5:25; 6:1–4).",
+      "elijahAnswers": [
+        "“It is not good for the man to be alone” (Genesis 2:18). He said he would make “a helper suitable for him.”",
+        "“They become one flesh” (Genesis 2:24). He leaves his father and mother and is united to his wife.",
+        "“Let no one separate” (Matthew 19:6). They are “no longer two, but one flesh.”",
+        "“Obey your parents in the Lord, for this is right” (Ephesians 6:1)."
+      ],
+      "jordynAnswers": [
+        "God himself joins a husband and wife into one new family for life (Genesis 2:18–24; Matthew 19:4–6). Marriage is his design and his joining, not a thin arrangement people may break when they wish.",
+        "Children are to obey and honor, and fathers must not exasperate their children, but bring them up in the training and instruction of the Lord (Ephesians 6:1–4). A holy family is not only well-behaved children. It is also parents who train without crushing.",
+        "It is a self-giving love, like Christ’s: he gave himself up for the church (Ephesians 5:25). A husband is called to spend himself for his wife’s good, not to be harsh or to live as if the home exists only to serve him."
+      ],
+      "applicationCheck": "Ask her later in the week whether she practiced honoring father or mother in a concrete way, and whether she saw something of Christ’s kind of love at home. If it is fitting, share one way you honored God’s design this week too, and pray together for your family.",
+      "prayer": "Father, thank you that it is not good for us to be alone, and that you made marriage — a husband and a wife, joined by you as one. What you have joined together, let no one separate. Help our children honor father and mother, and help the parents in this house bring the children up in the Lord with love, not harshness. Teach husbands to love as Christ loved the church. In Jesus’ name, Amen.",
+      "dailies": [
+        {
+          "id": "w17-d2",
+          "day": 2,
+          "label": "Day 2",
+          "kind": "Passage",
+          "focus": "God saw that it was not good for the man to be alone. He made a wife for him, and the two became one family.",
+          "verse": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+          "verseCite": "Genesis 2:24, NIV",
+          "enoch": "Hold a parent’s hand and say, “God made families! It is not good to be all alone.”",
+          "elijah": "In Genesis 2:18, what did the LORD God say was not good?",
+          "elijahAnswer": "“It is not good for the man to be alone” (verse 18). He said he would make “a helper suitable for him.”",
+          "jordyn": "Verse 24 says a man leaves his father and mother and is united to his wife, and they become “one flesh.” What is God doing in a marriage, if this is more than two people only living in the same house?",
+          "jordynAnswer": "God joins a husband and wife into one new family for life (verses 18, 22–24). The wife is a “helper suitable” — a partner who corresponds to him, not a leftover. Marriage is God’s idea, not a human invention.",
+          "action": "Read Genesis 2:18 and 2:24 together. Then thank God for one way he has given your family to one another, so no one has to be alone.",
+          "prayer": "Father, thank you that it is not good for us to be alone, and that you made marriage and family. Thank you that a husband and wife can be united and become one. Help our home honor your design. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 2:18–24, NIV",
+          "teach": "On Sunday we heard that God made marriage. The LORD God said, “It is not good for the man to be alone. I will make a helper suitable for him.” After Adam named the animals, no suitable helper was found. So the LORD God made a woman, and brought her to the man. The man said she was “bone of my bones and flesh of my flesh.” “That is why a man leaves his father and mother and is united to his wife, and they become one flesh.” God did not leave people to invent marriage. He made a husband and a wife to belong to each other, and to start a new family together.",
+          "enochActivity": "Pair-up: two parents stand a step apart, then join hands and say, “God made them one family!” Let Enoch stand close and say, “God made our family too!”",
+          "elijah2": "Find it in the passage: In verse 23, what did the man say about the woman?",
+          "elijahAnswer2": "“This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man” (verse 23).",
+          "jordyn2": "The woman is called a “helper suitable for him” (verse 18). How does that fit with the man also calling her bone of his bones, not a servant he named like the animals?",
+          "jordynAnswer2": "The animals were named, but none was a suitable helper (verses 19–20). The woman is from his side, brought to him by God, and they become one (verses 22–24). “Helper” here means a partner who corresponds to him, standing with him.",
+          "passageText": "18 The LORD God said, “It is not good for the man to be alone. I will make a helper suitable for him.” 19 Now the LORD God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name. 20 So the man gave names to all the livestock, the birds in the sky and all the wild animals. But for Adam no suitable helper was found. 21 So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs and then closed up the place with flesh. 22 Then the LORD God made a woman from the rib he had taken out of the man, and he brought her to the man. 23 The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.” 24 That is why a man leaves his father and mother and is united to his wife, and they become one flesh."
+        },
+        {
+          "id": "w17-d3",
+          "day": 3,
+          "label": "Day 3",
+          "kind": "Game",
+          "focus": "God’s design for family includes this command: honor your father and your mother.",
+          "verse": "Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.",
+          "verseCite": "Exodus 20:12, NIV",
+          "enoch": "Give a parent a hug and say, “I honor you! Thank you, Mom. Thank you, Dad.”",
+          "elijah": "In Exodus 20:12, whom are we told to honor?",
+          "elijahAnswer": "“Your father and your mother” (Exodus 20:12).",
+          "jordyn": "The command comes with a promise: “so that you may live long in the land the LORD your God is giving you.” What does that tell you about honoring parents, if it is more than only saying “yes” once?",
+          "jordynAnswer": "Honoring father and mother is part of the life God wants for his people in the land he gives (Exodus 20:12). It is a way of life, not a one-time word, and God attaches a promise to it.",
+          "action": "Play the honor game once, then read Exodus 20:12. Each child does one real honor-task for a parent today, without being asked twice.",
+          "prayer": "LORD, you told us to honor our father and our mother. Thank you for the parents you have given us. Help us honor them in our words and in our work today. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 20:12, NIV",
+          "teach": "God’s design for family is not only about a wedding. He also told his people, “Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.” Honor means we treat Mom and Dad as gifts from God. We speak to them with respect. We listen. We help. We do not mock them or drag our feet when they lead our home in what is right. This command has a promise with it, because a home that honors father and mother is a home God meant to be a blessing.",
+          "enochActivity": "Game: Honor helpers. A parent names a simple job (a toy to put away, a shoe to bring). Enoch runs to do it with a smile and says, “I honor you!” Then a hug.",
+          "elijah2": "In Exodus 20:12, what promise is given with the command to honor father and mother?",
+          "elijahAnswer2": "“So that you may live long in the land the LORD your God is giving you” (Exodus 20:12).",
+          "jordyn2": "How does honoring father and mother fit with last week, when we heard that God’s Word should be on our hearts and talked about at home (Deuteronomy 6:6–7)?",
+          "jordynAnswer2": "Parents are to impress God’s commandments on their children at home. Children honor father and mother by receiving that teaching and treating them with respect (Exodus 20:12; Deuteronomy 6:6–7). Both belong to God’s design for a family.",
+          "passageText": "12 “Honor your father and your mother, so that you may live long in the land the LORD your God is giving you."
+        },
+        {
+          "id": "w17-d4",
+          "day": 4,
+          "label": "Day 4",
+          "kind": "Passage",
+          "focus": "Jesus takes us back to the beginning. God made them male and female, and what God has joined together, no one should separate.",
+          "verse": "So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.",
+          "verseCite": "Matthew 19:6, NIV",
+          "enoch": "Hold two hands together tightly and say, “What God joins, we do not pull apart!”",
+          "elijah": "In Matthew 19:6, what does Jesus say no one should do to what God has joined together?",
+          "elijahAnswer": "“Let no one separate” (verse 6). He says they are “no longer two, but one flesh.”",
+          "jordyn": "Jesus answers a question about marriage by saying, “Haven’t you read,” and then quoting Genesis (verses 4–5). Why does he take people back to “the beginning” instead of starting with what is easy or popular?",
+          "jordynAnswer": "Jesus treats God’s design at creation as the rule for marriage: the Creator made them male and female, and a man is united to his wife (verses 4–6). Marriage is what God has joined, not only what people feel like doing at the moment.",
+          "action": "Read Matthew 19:4–6 together. Then thank God that he joins a husband and wife, and pray for one married couple you know to stay faithful.",
+          "prayer": "Father, thank you that at the beginning you made them male and female, and that a husband and wife become one flesh. What you have joined together, let no one separate. Help us honor marriage in our family. In Jesus’ name, Amen.",
+          "passageCite": "Matthew 19:4–6, NIV",
+          "teach": "Some people came to Jesus to test him about marriage. He did not start with their test. He said, “Haven’t you read that at the beginning the Creator ‘made them male and female,’ and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’? So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.” Jesus agrees with Genesis. Marriage is God’s joining of a man and a woman for life. We do not treat it as a thin promise we can break when we are tired of it.",
+          "enochActivity": "Join-and-hold: hook two fingers together (or two hands) and try, gently, not to pull them apart. Say, “What God has joined together, let no one separate.”",
+          "elijah2": "In Matthew 19:4, whom did the Creator make at the beginning?",
+          "elijahAnswer2": "He “made them male and female” (verse 4).",
+          "jordyn2": "Jesus says they are “no longer two, but one flesh” (verse 6). How does that help you understand Genesis 2:24, which we read on Day 2?",
+          "jordynAnswer2": "Jesus is reading Genesis 2:24 as God’s own work. The leaving and uniting is not only a couple’s choice; it is what God has joined, and no one should separate it (Matthew 19:4–6).",
+          "passageText": "4 “Haven’t you read,” he replied, “that at the beginning the Creator ‘made them male and female,’ 5 and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’? 6 So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.”"
+        },
+        {
+          "id": "w17-d5",
+          "day": 5,
+          "label": "Day 5",
+          "kind": "Challenge",
+          "focus": "Children, obey your parents in the Lord. Fathers, bring your children up in the training and instruction of the Lord, not by making them bitter.",
+          "verse": "Children, obey your parents in the Lord, for this is right.",
+          "verseCite": "Ephesians 6:1, NIV",
+          "enoch": "When a parent gives a kind instruction, practice a quick “Yes!” and then do it.",
+          "elijah": "In Ephesians 6:1, what are children told to do, and why?",
+          "elijahAnswer": "“Obey your parents in the Lord, for this is right” (verse 1).",
+          "jordyn": "Verses 2–3 repeat “Honor your father and mother” and call it “the first commandment with a promise.” How is honoring bigger than only obeying a single instruction?",
+          "jordynAnswer": "Obeying is doing what parents ask in the Lord (verse 1). Honoring is the deeper posture of respect that goes with it, and God attaches a promise to it (verses 2–3). A child can do a task and still dishonor a parent with the face or the tone.",
+          "action": "Read Ephesians 6:1–4 twice. Children: name one way you will obey and honor today. Parents: name one way you will bring the children up in the Lord’s instruction, without exasperate-and-scold only.",
+          "prayer": "Father, help the children in this house obey their parents in the Lord, and to honor father and mother. Help the fathers, and all of us who lead, not to exasperate our children, but to bring them up in the training and instruction of the Lord. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 6:1–4, NIV",
+          "teach": "Paul takes the fifth commandment into a Christian home. “Children, obey your parents in the Lord, for this is right.” “Honor your father and mother”—which, he says, is the first commandment with a promise: “so that it may go well with you and that you may enjoy long life on the earth.” Then he turns to fathers: “Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.” God’s design has a word for children and a word for dads. Children obey and honor. Fathers do not crush their children; they raise them in the Lord’s ways. Today’s challenge is to practice both sides of that design.",
+          "enochActivity": "Yes-and-do: a parent gives one short, kind instruction. Enoch says, “Yes!” and does it. Then the parent says, “Thank you. We train you in the Lord with love.”",
+          "elijah2": "In Ephesians 6:4, what are fathers told not to do, and what should they do instead?",
+          "elijahAnswer2": "“Do not exasperate your children; instead, bring them up in the training and instruction of the Lord” (verse 4).",
+          "jordyn2": "Why does a lesson on God’s design for family need verse 4, and not only the command for children in verses 1–3?",
+          "jordynAnswer2": "Parents can be right about the rule and still exasperate a child (verse 4). God’s design is not only a child’s obedience. It is a father’s careful training in the Lord, so the home is not harsh and empty of the Lord’s instruction.",
+          "passageText": "1 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother”—which is the first commandment with a promise— 3 “so that it may go well with you and that you may enjoy long life on the earth.” 4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."
+        },
+        {
+          "id": "w17-d6",
+          "day": 6,
+          "label": "Day 6",
+          "kind": "Prayer",
+          "focus": "We pray for our home: husbands love, families do not turn bitter, and we receive children as a heritage from the LORD.",
+          "verse": "Husbands, love your wives, just as Christ loved the church and gave himself up for her",
+          "verseCite": "Ephesians 5:25, NIV",
+          "enoch": "Fold your hands and pray, “Thank you, God, for Mom and Dad. Help us love one another.”",
+          "elijah": "In Ephesians 5:25, how are husbands told to love their wives?",
+          "elijahAnswer": "“Just as Christ loved the church and gave himself up for her” (Ephesians 5:25).",
+          "jordyn": "Colossians 3:19 says, “Husbands, love your wives and do not be harsh with them,” and 3:21 says, “Fathers, do not embitter your children.” What kind of home is God designing, if love is more than a feeling?",
+          "jordynAnswer": "God’s design is a home where the husband’s love looks like Christ’s self-giving, not harshness, and where children are not embittered (Ephesians 5:25; Colossians 3:19, 21). Love here is how we treat one another, including when we pray.",
+          "action": "Read Ephesians 5:25 and Psalm 127:3 together. Then let each person pray one short sentence for Mom, for Dad, or for the children of the house.",
+          "prayer": "Father, help the husbands in your church love their wives as Christ loved the church and gave himself up for her. Help our family not be harsh or bitter. Thank you that children are a heritage from the LORD. Teach us to love one another in this house. In Jesus’ name, Amen.",
+          "passageCite": "Ephesians 5:25; Colossians 3:18–21; Psalm 127:3, NIV",
+          "teach": "God’s design for a family is full of love that looks like Jesus. “Husbands, love your wives, just as Christ loved the church and gave himself up for her.” In a short household word, Paul also says, “Wives, submit yourselves to your husbands, as is fitting in the Lord. Husbands, love your wives and do not be harsh with them. Children, obey your parents in everything, for this pleases the Lord. Fathers, do not embitter your children, or they will become discouraged.” And the psalm reminds us why children are not a burden only: “Children are a heritage from the LORD, offspring a reward from him.” Today we pray those words over our house.",
+          "enochActivity": "Family-pray: sit close, fold hands, and thank God for each person by name. End with, “Children are a heritage from the LORD.”",
+          "elijah2": "In Psalm 127:3, what are children called?",
+          "elijahAnswer2": "“A heritage from the LORD,” and “offspring a reward from him” (Psalm 127:3).",
+          "jordyn2": "How does a husband’s love “as Christ loved the church” (Ephesians 5:25) protect a home from the harshness and embitterment Colossians 3 warns against?",
+          "jordynAnswer2": "Christ gave himself up for the church. That kind of love does not treat a wife harshly or crush children until they are discouraged (Ephesians 5:25; Colossians 3:19, 21). It spends itself for their good.",
+          "passageText": "25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 18 Wives, submit yourselves to your husbands, as is fitting in the Lord. 19 Husbands, love your wives and do not be harsh with them. 20 Children, obey your parents in everything, for this pleases the Lord. 21 Fathers, do not embitter your children, or they will become discouraged. Children are a heritage from the LORD, offspring a reward from him."
+        },
+        {
+          "id": "w17-d7",
+          "day": 7,
+          "label": "Day 7",
+          "kind": "Recap",
+          "focus": "Recap: God made marriage — a husband and wife joined as one. Children honor father and mother. What God has joined together, let no one separate.",
+          "verse": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+          "verseCite": "Genesis 2:24, NIV",
+          "enoch": "Ask, “Who made marriage?” (God!) “What do children do?” (Honor father and mother!)",
+          "elijah": "In Genesis 2:24, what happens when a man is united to his wife?",
+          "elijahAnswer": "“They become one flesh” (Genesis 2:24). He leaves his father and mother and is united to his wife.",
+          "jordyn": "This week we also heard Jesus say, “What God has joined together, let no one separate,” and Paul tell children to obey and fathers not to exasperate. Why does a recap of “God’s design for marriage and family” need both the joining and the honoring?",
+          "jordynAnswer": "Marriage is God’s joining of a husband and wife for life (Genesis 2:24; Matthew 19:6). A family also needs children who honor father and mother, and fathers who bring children up in the Lord without crushing them (Exodus 20:12; Ephesians 6:1–4). Both are God’s design.",
+          "action": "Read Genesis 2:24 and Matthew 19:6 together. Then each person shares one thing they learned this week and one way they will honor God’s design at home.",
+          "prayer": "Father, thank you that you made marriage, and that what you have joined together no one should separate. Help us honor father and mother, love one another like Christ, and receive our family as a gift from you. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 2:24; Matthew 19:6; Exodus 20:12, NIV",
+          "teach": "Today we look back at our week. The LORD God said it was not good for the man to be alone, and he made a wife, a helper suitable for him. A man leaves his father and mother and is united to his wife, and they become one flesh. Jesus said the Creator made them male and female, and “what God has joined together, let no one separate.” God also said, “Honor your father and your mother.” Children obey their parents in the Lord; fathers do not exasperate their children, but bring them up in the training and instruction of the Lord. Husbands love their wives as Christ loved the church. Children are a heritage from the LORD. That is God’s design for marriage and family, and we want to live it in this house.",
+          "enochActivity": "Recap motions: join two hands (“God makes them one”), hug a parent (“Honor father and mother”), and say, “What God joins, we do not pull apart!”",
+          "elijah2": "In Matthew 19:6, what does Jesus say about what God has joined together?",
+          "elijahAnswer2": "“Let no one separate” (Matthew 19:6).",
+          "jordyn2": "Ephesians 5:25 tells husbands to love as Christ loved the church. How does that belong in a recap that also includes “honor your father and mother”?",
+          "jordynAnswer2": "God’s design is a whole house: a husband’s self-giving love, a marriage God has joined, and children who honor their parents (Ephesians 5:25; Matthew 19:6; Exodus 20:12). Each part helps the others.",
+          "passageText": "That is why a man leaves his father and mother and is united to his wife, and they become one flesh. So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.” 12 “Honor your father and your mother, so that you may live long in the land the LORD your God is giving you."
+        }
+      ],
+      "lessonVerses": [
+        "Genesis 2:18–24",
+        "Matthew 19:4–6",
+        "Ephesians 5:25",
+        "Ephesians 5:31–33",
+        "Ephesians 6:1–4",
+        "Exodus 20:12",
+        "Colossians 3:18–21",
+        "Psalm 127:3–5"
+      ]
     },
     {
       "id": "18",
