@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.322",
+  "version": "2026.11.21.323",
   "start": "2026-10-31",
   "phases": [
     {
@@ -4337,7 +4337,7 @@
         "Hebrews 10:23",
         "Jude 1:24–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     }
   ]

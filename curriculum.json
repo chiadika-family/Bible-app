@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.49",
+  "contentVersion": "2026.11.21.50",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -31,7 +31,7 @@
   "dailyFollowUpsStart": null,
   "planEndLabel": "52 weeks",
   "dated": false,
-  "schemaNote": "This curriculum is not tied to calendar dates. The plan is 52 weeks. Day 1 is the main family lesson for the week. Days 2–7 are the short daily bites. Each daily bite has id 'wN-dK' (week N, day K), a numeric day field, and label 'Day K'. Calendar fields have been removed: sundayISO, sundayLabel, and on each daily, dateISO, dateLabel, dayLabel, and shortLabel. selectLabel is 'Week N · Title'. nextUp names the next week without a date. Progress should follow the family's place in the plan (Week N, Day K), not the real-world calendar, so the family can start the plan over at any time. appFirstSunday and dailyFollowUpsStart are null because dated is false. Weeks with ready: false are title-and-passage stubs still to be written. Daily bites (Days 2–7) may also include passageCite, passageText, teach, enochActivity, elijah2, elijahAnswer2, jordyn2, jordynAnswer2; render them when present.",
+  "schemaNote": "This curriculum is not tied to calendar dates. The plan is 52 weeks. Day 1 is the main family lesson for the week. Days 2–7 are the short daily bites. Each daily bite has id 'wN-dK' (week N, day K), a numeric day field, and label 'Day K'. Calendar fields have been removed: sundayISO, sundayLabel, and on each daily, dateISO, dateLabel, dayLabel, and shortLabel. selectLabel is 'Week N · Title'. nextUp names the next week without a date. Progress should follow the family's place in the plan (Week N, Day K), not the real-world calendar, so the family can start the plan over at any time. appFirstSunday and dailyFollowUpsStart are null because dated is false. All 52 weeks are written and ready; Week 52’s nextUp points back to Week 1 · Creation. Daily bites (Days 2–7) may also include passageCite, passageText, teach, enochActivity, elijah2, elijahAnswer2, jordyn2, jordynAnswer2; render them when present.",
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "sources": [
     {
