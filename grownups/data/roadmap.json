@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.315",
+  "version": "2026.11.21.322",
   "start": "2026-10-31",
   "phases": [
     {
@@ -4251,20 +4251,20 @@
         "James 3:1–12",
         "Ephesians 4:29"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 359,
       "date": "2027-10-26",
       "phase": "character",
-      "title": "Sunday: connect with this week's Grace Life sermon — Anger: slow to speak, slow to become angry",
+      "title": "Anger: slow to speak, slow to become angry",
       "passages": [
         "James 1:19–20",
         "Proverbs 16:32",
         "Ephesians 4:26–27"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -4277,7 +4277,7 @@
         "Zechariah 8:16–17",
         "Acts 24:16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4289,7 +4289,7 @@
         "Luke 10:25–37",
         "Colossians 3:12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4301,7 +4301,7 @@
         "2 Timothy 4:6–8",
         "Hebrews 12:1–3"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4313,7 +4313,7 @@
         "Romans 5:1–5",
         "James 1:2–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4324,7 +4324,7 @@
       "passages": [
         "John 15:1–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

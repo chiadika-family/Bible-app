@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.48",
+  "contentVersion": "2026.11.21.49",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -12271,11 +12271,231 @@
       "planTitle": "Jesus makes all things new",
       "title": "Jesus makes all things new",
       "selectLabel": "Week 52 · Jesus makes all things new",
-      "ready": false,
+      "ready": true,
       "passage": "Revelation 21:1–7 (NIV)",
-      "bigIdea": "Jesus will make a new heaven and a new earth, and God will live with his people forever.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 1 · Creation",
+      "bigIdea": "Jesus will make a new heaven and a new earth, and God will live with his people forever.",
+      "scheduleNote": "This is the Week 52 family lesson, the last week of the 52-week plan. The short daily bites are Days 2–7. When you finish, you can start the plan again at Week 1 · Creation.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Revelation 21:1–4 out loud, then 21:5–7."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Revelation 21:1–4",
+          "text": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”"
+        },
+        {
+          "cite": "Revelation 21:5–7",
+          "text": "5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that God was merciful to Nineveh, and that he wants us to love people we would rather avoid. Today, in the last week of our 52 weeks, we hear that Jesus will make a new heaven and a new earth, and that God will live with his people forever.",
+        "Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. We say this simply, and with wonder. It is not a scary scene. It is a beautiful promise.",
+        "And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” We say death, mourning, crying, and pain simply, with care, because the hope is that God will wipe every tear, and that those things will be no more. The old order of things has passed away.",
+        "He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” He said, It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. Those who are victorious will inherit all this, and I will be their God and they will be my children. We stay inside today’s reading, 21:1–7, and we do not leave it to tell the next verses as official text.",
+        "This is where our 52 weeks end, and it is a good end. We began with Week 1 · Creation: God made everything, and he made us on purpose, in his image. We end with the same God making all things new, and living with his people forever. His words are trustworthy and true. When you are ready, you can start the plan again at Week 1 · Creation."
+      ],
+      "enochLine": "Jesus will make everything new, and God will live with us!",
+      "enochActivities": [
+        "Activity: Help a grown-up draw a beautiful city, and say: Jesus is making everything new!",
+        "Activity: Gently wipe a pretend tear and say: God will wipe every tear."
+      ],
+      "elijahQuestions": [
+        "In Revelation 21:1–2, what did John see after the first heaven and the first earth had passed away?",
+        "In Revelation 21:3–4, what did the loud voice from the throne say about God’s dwelling, and about tears and death?",
+        "In Revelation 21:5, what two things did he who was seated on the throne say?",
+        "In Revelation 21:6–7, what did he say he will give to the thirsty, and what will those who are victorious inherit?"
+      ],
+      "elijahAnswers": [
+        "He saw “a new heaven and a new earth,” and there was no longer any sea. He saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband (Revelation 21:1–2).",
+        "The voice said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” (Revelation 21:3–4).",
+        "He said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” (Revelation 21:5).",
+        "To the thirsty he will give water without cost from the spring of the water of life. Those who are victorious will inherit all this, and he will be their God and they will be his children (Revelation 21:6–7)."
+      ],
+      "jordynQuestions": [
+        "We began this plan with Week 1 · Creation: God made everything, and he made people in his image. This week John saw “a new heaven and a new earth,” How do the beginning and the end of the plan belong together?",
+        "The voice said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” What hope does this give when people still cry and still hurt?",
+        "He who sat on the throne said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” This is the last week of our 52 weeks, and you can start again at Week 1 · Creation. What should we carry with us?"
+      ],
+      "jordynAnswers": [
+        "The God who made the first heaven and the first earth is the God who will make them new. Creation was not a start that fizzles out. The story ends with a Holy City coming down from God, and with God dwelling with his people. The One who made everything will also make all things new.",
+        "The tears, death, mourning, crying, and pain are named honestly, and we say them simply, with care. The promise is not that those things were never real. The promise is that God himself will be with his people, and that he will wipe every tear, and that the old order of things will pass away. We can trust that hope even while we still wait.",
+        "We should remember that his words are trustworthy and true, that God will live with his people forever, and that the story does not end in ruin. Jesus is making everything new. Starting the plan again at Week 1 is not going backward. It is beginning again with the God who made everything and who will make all things new."
+      ],
+      "jordynApplication": "Jesus will make a new heaven and a new earth, and God will live with his people forever (Revelation 21:1–7). This week, thank God for one good gift from the world he made, and tell someone the hope that Jesus is making everything new. When you are ready, you can start the plan again at Week 1 · Creation.",
+      "applicationCheck": "Ask her later in the week what gift she thanked God for, and whom she told that Jesus is making everything new. If it is fitting, thank God together that this 52-week plan ends with a new heaven and a new earth, and that you can begin again at Week 1 · Creation.",
+      "prayer": "Father, thank you that John saw “a new heaven and a new earth,” Thank you that you said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” Thank you that you said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” You will live with your people forever. You made everything, and you will make all things new. Help us trust your words. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Revelation 21:1–2",
+        "Revelation 21:3–4",
+        "Revelation 21:5",
+        "Revelation 21:6–7",
+        "Revelation 21:1–7"
+      ],
+      "dailies": [
+        {
+          "id": "w52-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "John saw a new heaven and a new earth, and the Holy City coming down from God. The first things pass away, and God makes a beautiful new home.",
+          "verse": "Then I saw a new heaven and a new earth.",
+          "verseCite": "Revelation 21:1, NIV",
+          "enoch": "Help a grown-up draw a beautiful city, and say: God will make a new home!",
+          "elijah": "What did John see, and what had happened to the first heaven and the first earth?",
+          "elijahAnswer": "He saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. He also saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband (Revelation 21:1–2).",
+          "jordyn": "The Holy City comes down out of heaven from God, prepared as a bride beautifully dressed for her husband (Revelation 21:2). What kind of promise is this, and what is it not?",
+          "jordynAnswer": "It is a beautiful promise that God himself is preparing a home for his people. It is not a scary scene, and it is not a game about the first earth ending. We say the passing away of the first heaven and the first earth simply, and we look at the city coming down from God.",
+          "action": "Read Revelation 21:1–4 together. Then thank God that he will make a new heaven and a new earth, and that the Holy City comes from him.",
+          "prayer": "Father, thank you that John saw “a new heaven and a new earth,” Thank you for the Holy City, coming down out of heaven from you. Help us hope in the home you are making. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:1–4",
+          "teach": "John saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. He saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. We tell this with wonder, not with fear. God is making a new home for his people.",
+          "enochActivity": "Draw a city and say: God will make a new home!",
+          "elijah2": "What did John hear a loud voice from the throne say about God’s dwelling?",
+          "elijahAnswer2": "The voice said, Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God (Revelation 21:3).",
+          "jordyn2": "How should we hear that the first heaven and the first earth had passed away, and that there was no longer any sea?",
+          "jordynAnswer2": "We do not turn that sentence into a disaster game. We hear it as the way to the new heaven and the new earth. What lasts is God with his people, and the Holy City coming down from him.",
+          "passageText": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”"
+        },
+        {
+          "id": "w52-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "God will wipe every tear, and Jesus is making everything new. Today we practice hope and comfort, not a game about dying or pain.",
+          "verse": "I am making everything new!",
+          "verseCite": "Revelation 21:5, NIV",
+          "enoch": "Gently wipe a pretend tear, then smile and say: Jesus is making everything new!",
+          "elijah": "What did he who was seated on the throne say he is making?",
+          "elijahAnswer": "He said, “I am making everything new!” (Revelation 21:5).",
+          "jordyn": "This game is about comfort and hope. How do we keep it kind, and what do we not act out?",
+          "jordynAnswer": "We do not pretend to die, and we do not make a game of crying or pain. We may gently wipe a pretend tear, then say, “I am making everything new!” The practice is trusting that God will wipe every tear, and that Jesus is making everything new.",
+          "action": "Sit together. Gently wipe a pretend tear from a sibling’s or a parent’s cheek, or from your own. Then say, “I am making everything new!” If someone is actually sad, be gentle, and do not make a show of their tears.",
+          "prayer": "Father, thank you that you said, “I am making everything new!” Thank you that you will wipe every tear from their eyes, and that there will be no more death. Help us comfort one another with this hope. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:3–5",
+          "teach": "A loud voice from the throne said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” Then he who was seated on the throne said, “I am making everything new!” Today we practice hope: a gentle comfort, and the words that Jesus is making everything new. We do not act out death or pain.",
+          "enochActivity": "Wipe a pretend tear and say: Jesus is making everything new!",
+          "elijah2": "What will be no more, and why, according to the voice from the throne?",
+          "elijahAnswer2": "The voice said, ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away (Revelation 21:4).",
+          "jordyn2": "Why is a gentle comfort a better practice than acting out the tears or the ending of the first earth?",
+          "jordynAnswer2": "Death, mourning, crying, and pain are real, and we name them simply, with care. The good news is that God will wipe every tear, and that Jesus is making everything new. That is what we can practice: comfort, and hope in his words.",
+          "passageText": "3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.”"
+        },
+        {
+          "id": "w52-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "God will dwell with his people, wipe every tear, and put an end to death, mourning, crying, and pain. The old order of things has passed away.",
+          "verse": "He will wipe every tear from their eyes. There will be no more death.",
+          "verseCite": "Revelation 21:4, NIV",
+          "enoch": "Help a grown-up say: God will live with his people, and he will wipe every tear!",
+          "elijah": "What did the loud voice from the throne say about God’s dwelling place?",
+          "elijahAnswer": "The voice said, Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God (Revelation 21:3).",
+          "jordyn": "What did the voice say God will wipe, and what will be no more (Revelation 21:4)? How should we hear those words?",
+          "jordynAnswer": "The voice said, ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away. We say those hard words simply, with care. The hope is that God himself will be with his people, and that the old order will pass away.",
+          "action": "Read Revelation 21:3–4 together. Then thank God that he will dwell with his people and wipe every tear.",
+          "prayer": "Father, thank you that your dwelling place will be among the people, and that you yourself will be with them and be their God. Thank you that you will wipe every tear, and that there will be no more death. Help us hold this hope gently. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:3–4",
+          "teach": "A loud voice from the throne said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” God will not stay far away. He will dwell with his people. He will wipe every tear. There will be no more death, or mourning or crying or pain, for the old order of things has passed away. We tell the sorrow honestly, and we tell the comfort as the bigger word.",
+          "enochActivity": "Say: God will live with us, and he will wipe every tear!",
+          "elijah2": "The promise names both God with his people and the end of tears. Why do both belong together?",
+          "elijahAnswer2": "The comfort is not only that hard things will stop. It is that God himself will be with them and be their God. He will wipe every tear from their eyes. His nearness and the passing of the old order belong to the same promise (Revelation 21:3–4).",
+          "jordyn2": "People still cry now. How can this promise help us without pretending that the tears are already gone?",
+          "jordynAnswer2": "We can tell the truth about today’s tears, and still trust the voice from the throne. The old order has not yet fully passed, but the words are already given: God will dwell with his people, and he will wipe every tear. We wait, and we hope.",
+          "passageText": "3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.”"
+        },
+        {
+          "id": "w52-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The One on the throne is making everything new, and his words are trustworthy and true. Today we thank him for a gift he made, and we tell someone this hope.",
+          "verse": "Write this down, for these words are trustworthy and true.",
+          "verseCite": "Revelation 21:5, NIV",
+          "enoch": "Name one good thing God made, then say: These words are trustworthy and true!",
+          "elijah": "After he said he is making everything new, what did he tell John to write, and why?",
+          "elijahAnswer": "Then he said, “Write this down, for these words are trustworthy and true.” (Revelation 21:5).",
+          "jordyn": "He also said, It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life (Revelation 21:6). What is today’s challenge, and what is it not?",
+          "jordynAnswer": "The challenge is to thank God for one good gift in the world he made, and to tell someone that Jesus is making everything new, and that these words are trustworthy and true. It is not a contest, and it is not a way to pretend nothing is hard.",
+          "action": "Name one good gift God has made—light, a person, a place, or a kindness. Thank him for it. Then tell one person, Jesus is making everything new, and his words are trustworthy and true.",
+          "prayer": "Father, thank you that you said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” Thank you that you are the Beginning and the End, and that you give water without cost to the thirsty. Help us trust your words and tell this hope. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:5–7",
+          "teach": "He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” He said, It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. Those who are victorious will inherit all this, and I will be their God and they will be my children. We stay inside 21:1–7. Today’s challenge is thanks, and a true word of hope.",
+          "enochActivity": "Thank God for one gift, then tell someone: Jesus is making everything new!",
+          "elijah2": "What will those who are victorious inherit, and what will God be to them?",
+          "elijahAnswer2": "Those who are victorious will inherit all this, and I will be their God and they will be my children (Revelation 21:7).",
+          "jordyn2": "We began the plan with the God who made everything. How can today’s thanks and today’s hope belong together?",
+          "jordynAnswer2": "The gifts we thank him for now are from the world he already made. The hope we tell is that he will make all things new, and that he will be our God. Thanks for the first creation, and hope for the new creation, are thanks and hope in the same God.",
+          "passageText": "5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        },
+        {
+          "id": "w52-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that he will make a new heaven and a new earth, dwell with his people, and wipe every tear. His words are trustworthy and true.",
+          "verse": "These words are trustworthy and true.",
+          "verseCite": "Revelation 21:5, NIV",
+          "enoch": "Fold your hands and say: Thank you, God. You will make all things new!",
+          "elijah": "What did the voice from the throne say God will do with every tear, and what will be no more?",
+          "elijahAnswer": "The voice said, ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away (Revelation 21:4).",
+          "jordyn": "This is the last week of our 52 weeks. How can that shape a family prayer, knowing we can start again at Week 1 · Creation?",
+          "jordynAnswer": "We can thank God that the plan ends with him dwelling with his people, and with Jesus making everything new. We can thank him that he made everything at the beginning, and that his words are trustworthy and true. We ask him to keep this hope in us, whether we rest here or begin the plan again.",
+          "action": "Pray the family prayer slowly. When you hear, “I am making everything new!” pause and thank him that the story does not end in ruin.",
+          "prayer": "Father, thank you that John saw “a new heaven and a new earth,” Thank you that you said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” Thank you that you said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” You made everything, and you will make all things new. Help us trust you. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:1–7",
+          "teach": "Today we pray at the end of the 52 weeks. John saw “a new heaven and a new earth,” The voice said God will dwell with his people and wipe every tear. The One on the throne said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” We thank him, and we trust him.",
+          "enochActivity": "Fold your hands and say: You will make all things new!",
+          "elijah2": "What will God give to the thirsty, and what will he be to those who are victorious?",
+          "elijahAnswer2": "To the thirsty he will give water without cost from the spring of the water of life. Those who are victorious will inherit all this, and he will be their God and they will be his children (Revelation 21:6–7).",
+          "jordyn2": "How should we pray when this is the last week of the plan, and the tears are not all gone yet?",
+          "jordynAnswer2": "We can thank him for the promise, tell him the tears that are still here, and ask him to keep us until the day he wipes every tear. We can also thank him that we may begin again at Week 1 · Creation, with the same God who makes all things new.",
+          "passageText": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        },
+        {
+          "id": "w52-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Jesus will make a new heaven and a new earth, and God will live with his people forever. This is the last week of our 52 weeks. When you are ready, you can start again at Week 1 · Creation.",
+          "verse": "Jesus will make a new heaven and a new earth, and God will live with his people forever.",
+          "verseCite": "Revelation 21:1–7, NIV",
+          "enoch": "Help a grown-up look back toward the start and say: God made everything, and he will make all things new!",
+          "elijah": "What is this week’s big idea, and can you tell the promise from the new heaven and new earth to God living with his people?",
+          "elijahAnswer": "Jesus will make a new heaven and a new earth, and God will live with his people forever. John saw “a new heaven and a new earth,” and the Holy City coming down from God. The voice said, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” The One on the throne said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” Those who are victorious will inherit all this, and he will be their God.",
+          "jordyn": "We have come to the last week of our 52 weeks. We began with Week 1 · Creation: God made everything, and he made us on purpose, in his image. We end with Jesus making all things new, and with God living with his people forever. When you are ready, you can start the plan again at Week 1 · Creation. What stays the same about God?",
+          "jordynAnswer": "The God who made everything is the God who will make all things new. He was merciful to Nineveh, he will wipe every tear, and he will dwell with his people. His words are trustworthy and true. Starting again at Week 1 is beginning again with the same God.",
+          "action": "Tell someone the week’s big idea: Jesus will make a new heaven and a new earth, and God will live with his people forever. Then, if you are ready, look back to Week 1 · Creation, and to the God who made everything.",
+          "prayer": "Father, thank you for these 52 weeks, and thank you that they end with “a new heaven and a new earth,” Thank you that you will dwell with your people and wipe every tear, and that you said, “I am making everything new!” You made everything, and you will make all things new. Help us trust you, and help us begin again with you when the time comes. In Jesus’ name, Amen.",
+          "passageCite": "Revelation 21:1–7",
+          "teach": "This week, the last of our 52 weeks, we heard John see “a new heaven and a new earth,” and the Holy City coming down from God. God will dwell with his people and wipe every tear. The One on the throne said, “I am making everything new!” and, “Write this down, for these words are trustworthy and true.” We began with Creation, and we end with all things new. When you are ready, you can start again at Week 1 · Creation.",
+          "enochActivity": "Wave a small hello toward the beginning and say: God made everything, and he will make all things new!",
+          "elijah2": "What did John see coming down out of heaven from God, and what did the One on the throne say to write?",
+          "elijahAnswer2": "He saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. The One on the throne said, “Write this down, for these words are trustworthy and true.” (Revelation 21:2, 5).",
+          "jordyn2": "Why is it a good end for the plan to finish here, and then point back to Week 1 · Creation?",
+          "jordynAnswer2": "The story does not end with Jonah, or with a wall, or even with our last week of work. It ends with God making a new home and living with his people. That is why we can begin again at Creation without fear: the God who made everything will also make all things new, and his words are trustworthy and true.",
+          "passageText": "1 Then I saw “a new heaven and a new earth,” for the first heaven and the first earth had passed away, and there was no longer any sea. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’ or mourning or crying or pain, for the old order of things has passed away.” 5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.” 7 Those who are victorious will inherit all this, and I will be their God and they will be my children."
+        }
+      ]
     }
   ]
 }
