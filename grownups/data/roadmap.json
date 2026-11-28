@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.259",
+  "version": "2026.11.21.266",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3573,19 +3573,19 @@
       "passages": [
         "Luke 15:11–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 303,
       "date": "2027-08-31",
       "phase": "parenting",
-      "title": "Sunday: connect with this week's Grace Life sermon — Wisdom for daughters and sons",
+      "title": "Wisdom for daughters and sons",
       "passages": [
         "Proverbs 1:8–9",
         "Proverbs 4:1–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3598,7 +3598,7 @@
         "Philippians 2:15",
         "Proverbs 4:23"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3610,7 +3610,7 @@
         "Micah 6:8",
         "Colossians 3:12–14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3622,7 +3622,7 @@
         "Psalm 139:13–16",
         "Proverbs 22:6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3633,7 +3633,7 @@
       "passages": [
         "Deuteronomy 6:20–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3645,7 +3645,7 @@
         "Psalm 34:11",
         "1 Peter 5:2–4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
