@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.273",
+  "version": "2026.11.21.280",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3742,20 +3742,20 @@
         "Proverbs 21:5",
         "Proverbs 28:20"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 317,
       "date": "2027-09-14",
       "phase": "money",
-      "title": "Sunday: connect with this week's Grace Life sermon — Honest scales: integrity with money",
+      "title": "Honest scales: integrity with money",
       "passages": [
         "Proverbs 11:1",
         "Leviticus 19:35–36",
         "2 Corinthians 8:21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3768,7 +3768,7 @@
         "Luke 12:13–21",
         "1 Timothy 6:9–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3780,7 +3780,7 @@
         "Mark 10:17–27",
         "Matthew 6:19–21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3792,7 +3792,7 @@
         "Malachi 3:8–12",
         "Proverbs 3:9–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3804,7 +3804,7 @@
         "2 Corinthians 8:1–9",
         "2 Corinthians 9:6–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3815,7 +3815,7 @@
       "passages": [
         "Acts 20:32–35"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
