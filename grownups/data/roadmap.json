@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.287",
+  "version": "2026.11.21.294",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3914,19 +3914,19 @@
         "Psalm 112:1–5",
         "2 Corinthians 12:14"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 331,
       "date": "2027-09-28",
       "phase": "work",
-      "title": "Sunday: connect with this week's Grace Life sermon — Work as worship: from the beginning God worked",
+      "title": "Work as worship: from the beginning God worked",
       "passages": [
         "Genesis 1:26–28",
         "Genesis 2:15"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -3938,7 +3938,7 @@
         "Exodus 20:8–11",
         "Colossians 3:23–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3950,7 +3950,7 @@
         "Colossians 3:22–24",
         "Ephesians 6:5–8"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3962,7 +3962,7 @@
         "Proverbs 11:3",
         "Daniel 6:3–5"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3974,7 +3974,7 @@
         "Proverbs 22:29",
         "Exodus 31:1–6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -3986,7 +3986,7 @@
         "1 Corinthians 10:31",
         "Colossians 3:17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

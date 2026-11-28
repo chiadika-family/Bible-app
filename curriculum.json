@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.44",
+  "contentVersion": "2026.11.21.45",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -11319,11 +11319,236 @@
       "planTitle": "Esther: courage for such a time as this",
       "title": "Esther: courage for such a time as this",
       "selectLabel": "Week 48 · Esther: courage for such a time as this",
-      "ready": false,
+      "ready": true,
       "passage": "Esther 4:10–16; 7:1–6 (NIV)",
-      "bigIdea": "God used Esther's courage to save her people.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 49 · Daniel in the lions' den",
+      "bigIdea": "God used Esther's courage to save her people.",
+      "scheduleNote": "This is the Week 48 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Esther 4:10–16 out loud, then Esther 7:1–6."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Esther 4:10–16",
+          "text": "10 Then she instructed him to say to Mordecai, 11 “All the king’s officials and the people of the royal provinces know that for any man or woman who approaches the king in the inner court without being summoned the king has but one law: that they be put to death unless the king extends the gold scepter to them and spares their lives. But thirty days have passed since I was called to go to the king.” 12 When Esther’s words were reported to Mordecai, 13 he sent back this answer: “Do not think that because you are in the king’s house you alone of all the Jews will escape. 14 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” 15 Then Esther sent this reply to Mordecai: 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.”"
+        },
+        {
+          "cite": "Esther 7:1–6",
+          "text": "1 So the king and Haman went to Queen Esther’s banquet, 2 and as they were drinking wine on the second day, the king again asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. 4 For I and my people have been sold to be destroyed, killed and annihilated. If we had merely been sold as male and female slaves, I would have kept quiet, because no such distress would justify disturbing the king.” 5 King Xerxes asked Queen Esther, “Who is he? Where is he—the man who has dared to do such a thing?” 6 Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that David trusted the Lord, not his own size or strength. Today we hear that God used Esther’s courage to save her people.",
+        "We do not leave today’s readings to tell the earlier verses as official text. In our words, Esther was queen, and her people were in great danger. Someone wanted to destroy them. We say that simply, and with care. It is not a scene to act out or to linger on.",
+        "Esther sent word to Mordecai. She said that anyone who went to the king in the inner court without being called could be put to death, unless the king held out the gold scepter and spared their life, and that thirty days had passed since she was called to go to the king. We hear the danger simply. Mordecai sent back this answer: “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?”",
+        "Then Esther sent this reply to Mordecai: “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” We hear her words solemnly. This is not a game about dying. Esther chose to go, and she asked her people to fast with her.",
+        "Later, the king and Haman went to Queen Esther’s banquet. The king asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” Esther asked him to grant her life, and to spare her people. She told him that she and her people had been sold to be destroyed. We say that simply, and with care. The king asked, “Who is he? Where is he—the man who has dared to do such a thing?” Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen.",
+        "We do not leave today’s readings to tell the later verses as official text. In our words, God used Esther’s courage to save her people. She did not remain silent. She went, and she told the truth.",
+        "Next week we will hear that Daniel kept praying to God, and that God shut the lions’ mouths."
+      ],
+      "enochLine": "God used Esther's courage to help her people!",
+      "enochActivities": [
+        "Activity: Walk to a doorway, pause, then go through and say: I will be brave!",
+        "Activity: Tell one true thing to help someone, the way Esther told the truth."
+      ],
+      "elijahQuestions": [
+        "In Esther 4:13–14, what did Mordecai tell Esther not to think, and what did he say about her royal position?",
+        "In Esther 4:16, what did Esther ask the Jews in Susa to do, and what did she say she would do?",
+        "In Esther 7:2–3, what did the king ask Esther, and what petition and request did she name?",
+        "In Esther 7:5–6, what did the king ask, and what did Esther say about Haman?"
+      ],
+      "elijahAnswers": [
+        "He said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” (Esther 4:13–14).",
+        "She said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” (Esther 4:16).",
+        "The king asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” Esther asked him to grant her life—this was her petition—and to spare her people—this was her request (Esther 7:2–3).",
+        "The king asked, “Who is he? Where is he—the man who has dared to do such a thing?” Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen (Esther 7:5–6)."
+      ],
+      "jordynQuestions": [
+        "Mordecai said that if Esther remained silent, relief and deliverance for the Jews would arise from another place, and he asked, who knows but that you have come to your royal position for such a time as this? (Esther 4:14). What does this show about courage, and about remaining silent?",
+        "Esther said she would go to the king, even though it was against the law, and if I perish, I perish (Esther 4:16). At the banquet she asked the king to spare her life and her people, and she named Haman (Esther 7:3–6). How should we hear this courage without making a game of danger or of dying?",
+        "God used Esther’s courage to save her people. Next week we will hear that Daniel kept praying to God, and that God shut the lions’ mouths. What stays the same about God?"
+      ],
+      "jordynAnswers": [
+        "Courage is not loud talk. It is refusing to stay silent when people are in danger and you have a chance to speak. Mordecai did not say Esther was the only hope. Deliverance could arise from another place. But she had been placed where she was for such a time as this, and silence would still cost her. The brave thing was to go and tell the truth.",
+        "We tell the truth: it was dangerous to go, Esther fasted, she went, and she asked the king to spare her people. We say the danger simply, and with care. We do not act out perishing, or make a villain game out of Haman. We honor a solemn yes: she would go, and God used that courage to save her people.",
+        "God can be trusted, and he can save his people. He used Esther’s courage, and next week we will hear that Daniel kept praying, and that God shut the lions’ mouths. The same God is able to help, and he is worthy of trust and courage."
+      ],
+      "jordynApplication": "God used Esther’s courage to save her people (Esther 4:10–16; 7:1–6). This week, when it would be easier to remain silent, tell the truth in a careful way that helps someone, and remember that God can use courage in such a time as this. Next week we will hear that Daniel kept praying to God, and that God shut the lions’ mouths.",
+      "applicationCheck": "Ask her later in the week where she chose to speak up instead of remaining silent. If it is fitting, thank God together that he used Esther’s courage to save her people.",
+      "prayer": "Father, thank you that Mordecai said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Thank you that Esther said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” Thank you that she asked the king to spare her people, and that she told the truth about Haman. You used her courage to save her people. Help us not to remain silent when we should speak, and give us courage in such a time as this. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Esther 4:13–14",
+        "Esther 4:14",
+        "Esther 4:16",
+        "Esther 4:10–16",
+        "Esther 7:2–3",
+        "Esther 7:5–6",
+        "Esther 7:1–6",
+        "Esther 4:10–16; 7:1–6"
+      ],
+      "dailies": [
+        {
+          "id": "w48-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Mordecai told Esther not to remain silent, and he asked who knows but that she had come to her royal position for such a time as this.",
+          "verse": "And who knows but that you have come to your royal position for such a time as this?",
+          "verseCite": "Esther 4:14, NIV",
+          "enoch": "Help a grown-up say with you: I will not stay silent!",
+          "elijah": "What did Mordecai tell Esther not to think, and what did he say about relief and deliverance?",
+          "elijahAnswer": "He said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” (Esther 4:13–14).",
+          "jordyn": "Esther had sent word that going to the king uninvited could mean death, unless the king extended the gold scepter (Esther 4:11). How does Mordecai’s answer call her to courage without making the danger into a game?",
+          "jordynAnswer": "He told the truth about the danger, and he also said that deliverance could arise from another place. He asked her to see her place as a time to act, not a place to hide. We hear the danger simply, and we practice courage by not remaining silent when someone needs help.",
+          "action": "Read Esther 4:10–16 together. Then say, in your own words, that you will not remain silent when someone needs you to tell the truth.",
+          "prayer": "Father, thank you that Mordecai said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Help us not to remain silent when we should speak, and give us courage for such a time as this. In Jesus’ name, Amen.",
+          "passageCite": "Esther 4:10–16",
+          "teach": "In our words, Esther’s people were in great danger. We do not leave today’s reading to tell those earlier verses as official text. Esther sent word that it was dangerous to go to the king without being called. Mordecai answered, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Then Esther said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” We hear that solemnly, not as a game.",
+          "enochActivity": "Say with a grown-up: I will be brave!",
+          "elijah2": "What did Esther ask the Jews in Susa to do, and what did she say she would do when the fast was done?",
+          "elijahAnswer2": "She said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” (Esther 4:16).",
+          "jordyn2": "Esther chose to go even though it was against the law, and she said, if I perish, I perish (Esther 4:16). What kind of courage is this?",
+          "jordynAnswer2": "It is a quiet, costly yes, not a show. She asked others to fast with her, and she would go to the king. We honor that solemn choice. We do not play at perishing. We can practice a smaller courage: telling the truth when silence would be easier.",
+          "passageText": "10 Then she instructed him to say to Mordecai, 11 “All the king’s officials and the people of the royal provinces know that for any man or woman who approaches the king in the inner court without being summoned the king has but one law: that they be put to death unless the king extends the gold scepter to them and spares their lives. But thirty days have passed since I was called to go to the king.” 12 When Esther’s words were reported to Mordecai, 13 he sent back this answer: “Do not think that because you are in the king’s house you alone of all the Jews will escape. 14 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” 15 Then Esther sent this reply to Mordecai: 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.”"
+        },
+        {
+          "id": "w48-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Esther did not remain silent. She asked her people to gather and fast, and she got ready to go and tell the truth.",
+          "verse": "Go, gather together all the Jews who are in Susa, and fast for me.",
+          "verseCite": "Esther 4:16, NIV",
+          "enoch": "Walk to a doorway, pause, then go through and say: I will go and tell the truth!",
+          "elijah": "What did Esther tell Mordecai to have the Jews in Susa do?",
+          "elijahAnswer": "She said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” (Esther 4:16).",
+          "jordyn": "This game is about getting ready to go and tell the truth, not about pretending to be in danger. How do we keep it kind and serious?",
+          "jordynAnswer": "We do not act out going to a king to die, or make a game of fasting until it hurts. We practice a small pause, then a brave step, and we remember that Esther asked her people to gather and that she would go and speak.",
+          "action": "Walk to a doorway, pause like someone getting ready, then go through and say, in your own words, that you will tell the truth. If you like, sit quietly for one short minute first, the way Esther asked her people to stop and fast, then stand and go. Do not pretend to perish.",
+          "prayer": "Father, thank you that Esther said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” Thank you that she would go, and that she asked her people to gather and fast. Help us get ready to tell the truth, and give us courage. In Jesus’ name, Amen.",
+          "passageCite": "Esther 4:15–16",
+          "teach": "Esther sent this reply to Mordecai: “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” Today we practice getting ready and going, not a fight and not a death scene. A pause at the door can help us remember her courage.",
+          "enochActivity": "Walk to a door, then go through and say: I will be brave!",
+          "elijah2": "What did Esther say she and her attendants would do, and when would she go to the king?",
+          "elijahAnswer2": "She said she and her attendants would fast as the Jews in Susa did. When this was done, she would go to the king, even though it was against the law. And if I perish, I perish (Esther 4:16).",
+          "jordyn2": "Why is a doorway a better practice than acting out the palace law or the words if I perish, I perish?",
+          "jordynAnswer2": "The palace law was a real danger, and Esther’s words were solemn. We should not turn them into play. A doorway lets us practice pausing, then going to tell the truth, which is the courage we can actually use today.",
+          "passageText": "15 Then Esther sent this reply to Mordecai: 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.”"
+        },
+        {
+          "id": "w48-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "At the banquet, Esther asked the king to spare her life and her people, and she told the truth about Haman.",
+          "verse": "Grant me my life—this is my petition. And spare my people—this is my request.",
+          "verseCite": "Esther 7:3, NIV",
+          "enoch": "Help a grown-up say with you: Spare my people!",
+          "elijah": "What did the king ask Esther at the banquet, and what did she ask for?",
+          "elijahAnswer": "The king asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” Esther asked him to grant her life—this was her petition—and to spare her people—this was her request (Esther 7:2–3).",
+          "jordyn": "The king asked, “Who is he? Where is he—the man who has dared to do such a thing?” What did Esther say, and what happened to Haman?",
+          "jordynAnswer": "Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen (Esther 7:5–6). We tell that simply. We do not make a mocking game of Haman.",
+          "action": "Read Esther 7:1–6 together. Then say, in your own words, that Esther asked the king to spare her people, and that she told the truth.",
+          "prayer": "Father, thank you that the king asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” Thank you that Esther asked him to grant her life and to spare her people, and that she said, “An adversary and enemy! This vile Haman!” You used her courage. Help us tell the truth. In Jesus’ name, Amen.",
+          "passageCite": "Esther 7:1–6",
+          "teach": "The king and Haman went to Queen Esther’s banquet. The king asked what she wanted. Esther asked him to grant her life and to spare her people, because they had been sold to be destroyed. We say that simply, and with care. The king asked who had dared to do such a thing. Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified.",
+          "enochActivity": "Say: Spare my people! I will tell the truth!",
+          "elijah2": "What reason did Esther give for her petition, in Esther 7:3–4, and how should we hear those words?",
+          "elijahAnswer2": "She asked the king to grant her life and to spare her people, and she said that she and her people had been sold to be destroyed, killed and annihilated. We say that simply, and with care. It is not a scene to act out (Esther 7:3–4).",
+          "jordyn2": "Esther waited until the banquet to speak, and then she told the truth plainly. What can we learn about courage from the way she spoke?",
+          "jordynAnswer2": "Courage can be careful and clear at the same time. She honored the king, she asked for her life and her people, and she named the one who was harming them. We can tell the truth without shouting, and without making a game of someone’s fear.",
+          "passageText": "1 So the king and Haman went to Queen Esther’s banquet, 2 and as they were drinking wine on the second day, the king again asked, “Queen Esther, what is your petition? It will be given you. What is your request? Even up to half the kingdom, it will be granted.” 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. 4 For I and my people have been sold to be destroyed, killed and annihilated. If we had merely been sold as male and female slaves, I would have kept quiet, because no such distress would justify disturbing the king.” 5 King Xerxes asked Queen Esther, “Who is he? Where is he—the man who has dared to do such a thing?” 6 Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen."
+        },
+        {
+          "id": "w48-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Esther did not remain silent. God used her courage to save her people. Today we practice a careful, truthful word that helps someone.",
+          "verse": "For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish.",
+          "verseCite": "Esther 4:14, NIV",
+          "enoch": "Help a grown-up think of one kind true word, then say it out loud!",
+          "elijah": "What did Mordecai say would happen if Esther remained silent, and what question did he ask about her royal position?",
+          "elijahAnswer": "He said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” (Esther 4:13–14).",
+          "jordyn": "Esther went to the king and asked him to spare her people (Esther 7:3). What is today’s challenge, and what is it not?",
+          "jordynAnswer": "The challenge is to speak one careful true word that helps a person, when it would be easier to remain silent. It is not a dare, and it is not a game about danger or dying. It is ordinary courage: telling the truth in love.",
+          "action": "Name one place where silence would be easier—a kindness left unsaid, a true word that would help a sibling, or a grown-up who needs to know something important. Then, with care, say that word, or ask a grown-up to help you say it. Do not use this as a chance to accuse someone harshly.",
+          "prayer": "Father, thank you that Esther did not remain silent, and that you used her courage to save her people. Help us tell the truth this week in a careful way that helps someone. In Jesus’ name, Amen.",
+          "passageCite": "Esther 4:14; 7:3–6",
+          "teach": "Mordecai warned Esther not to remain silent, and he asked who knows but that she had come to her royal position for such a time as this. At the banquet she asked the king to spare her people, and she named Haman. Today’s challenge is a real, careful word, not a play about the palace.",
+          "enochActivity": "Say one kind true word to help someone!",
+          "elijah2": "What did Esther say when the king asked who had dared to harm her people?",
+          "elijahAnswer2": "Esther said, “An adversary and enemy! This vile Haman!” (Esther 7:6).",
+          "jordyn2": "How can we tell the truth about a wrong without turning it into a chance to mock or to show off?",
+          "jordynAnswer2": "We can be clear and fair, as Esther was when she named the adversary. We do not pile on, or make a face, or tell the story to entertain. The point is to help people who are in danger or in need, and to trust that God can use courage like that.",
+          "passageText": "14 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. 4 For I and my people have been sold to be destroyed, killed and annihilated. If we had merely been sold as male and female slaves, I would have kept quiet, because no such distress would justify disturbing the king.” 5 King Xerxes asked Queen Esther, “Who is he? Where is he—the man who has dared to do such a thing?” 6 Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen."
+        },
+        {
+          "id": "w48-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that he used Esther’s courage, and we ask him for courage to tell the truth in our time.",
+          "verse": "And who knows but that you have come to your royal position for such a time as this?",
+          "verseCite": "Esther 4:14, NIV",
+          "enoch": "Fold your hands and say: Thank you, God. Give us courage!",
+          "elijah": "What did Esther ask her people to do before she went to the king?",
+          "elijahAnswer": "She said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” (Esther 4:16).",
+          "jordyn": "Esther asked the king to grant her life and to spare her people (Esther 7:3). How can that shape a family prayer?",
+          "jordynAnswer": "We can thank God that she did not remain silent, and we can ask him for courage to speak when someone needs help. We pray solemnly, not as if danger were a game, and we remember that God used her courage to save her people.",
+          "action": "Pray the family prayer slowly. When you hear, for such a time as this, pause and ask God to help you be brave and truthful today.",
+          "prayer": "Father, thank you that Mordecai said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Thank you that Esther said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” Thank you that she asked the king to spare her people, and that you used her courage to save them. Give us courage, and help us not to remain silent when we should speak. In Jesus’ name, Amen.",
+          "passageCite": "Esther 4:14, 16; 7:3",
+          "teach": "Today we pray with Esther’s courage in our ears. Mordecai asked who knows but that she had come to her royal position for such a time as this. She asked her people to fast, and she went to the king. She asked him to spare her people. God used her courage.",
+          "enochActivity": "Fold your hands and say: Give us courage!",
+          "elijah2": "What petition and request did Esther name at the banquet?",
+          "elijahAnswer2": "She asked the king to grant her life—this was her petition—and to spare her people—this was her request (Esther 7:3).",
+          "jordyn2": "How can we pray about a hard conversation without pretending we are as famous or as endangered as Esther?",
+          "jordynAnswer2": "We can tell God the real thing in front of us, thank him that he used Esther’s courage, and ask for a faithful word in our smaller place. God can use courage in ordinary rooms, not only in a palace.",
+          "passageText": "14 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request."
+        },
+        {
+          "id": "w48-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God used Esther’s courage to save her people. Next, Daniel kept praying to God, and God shut the lions’ mouths.",
+          "verse": "God used Esther's courage to save her people.",
+          "verseCite": "Esther 4:10–16; 7:1–6, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, Daniel kept praying!",
+          "elijah": "What is this week’s big idea, and can you tell the story from Mordecai’s message to Esther’s words at the banquet?",
+          "elijahAnswer": "God used Esther’s courage to save her people. Mordecai said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Esther said, “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” At the banquet she asked the king to spare her life and her people, and she said, “An adversary and enemy! This vile Haman!” We tell the danger simply. She did not remain silent.",
+          "jordyn": "We have seen that God used Esther’s courage to save her people. Next week we will hear that Daniel kept praying to God, and that God shut the lions’ mouths. What stays the same about God?",
+          "jordynAnswer": "God can be trusted, and he can save his people. He used Esther’s courage when silence would have been easier, and next week we will hear that Daniel kept praying, and that God shut the lions’ mouths. The same God is able to help.",
+          "action": "Tell someone the week’s big idea: God used Esther's courage to save her people. Then look ahead to Daniel, who kept praying to God.",
+          "prayer": "Father, thank you that you used Esther’s courage to save her people. Thank you that she would not remain silent, and that she told the truth. Get our hearts ready to hear that Daniel kept praying to you, and that you shut the lions’ mouths. In Jesus’ name, Amen.",
+          "passageCite": "Esther 4:10–16; 7:1–6",
+          "teach": "This week we heard Mordecai call Esther not to remain silent, and we heard Esther gather her people to fast and go to the king. At the banquet she asked him to spare her people, and she named Haman. God used her courage to save her people. Next week we will hear that Daniel kept praying to God, and that God shut the lions’ mouths.",
+          "enochActivity": "Wave a small hello toward tomorrow and say: Daniel kept praying!",
+          "elijah2": "What did Mordecai say about such a time as this, and what did Esther say when she named the enemy?",
+          "elijahAnswer2": "Mordecai said, “Do not think that because you are in the king’s house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” Esther said, “An adversary and enemy! This vile Haman!” (Esther 4:13–14; 7:6).",
+          "jordyn2": "Esther’s story is about courage in a dangerous time, and next week Daniel will keep praying when it is costly. What should we carry from Esther into that story?",
+          "jordynAnswer2": "We should remember that God can use courage, and that his people do not have to remain silent. Esther went and told the truth. Daniel will keep praying. The same God can save his people, and he is worthy of trust.",
+          "passageText": "13 he sent back this answer: “Do not think that because you are in the king’s house you alone of all the Jews will escape. 14 For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father’s family will perish. And who knows but that you have come to your royal position for such a time as this?” 16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.” 3 Then Queen Esther answered, “If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request. 6 Esther said, “An adversary and enemy! This vile Haman!” Then Haman was terrified before the king and queen."
+        }
+      ]
     },
     {
       "id": "49",
