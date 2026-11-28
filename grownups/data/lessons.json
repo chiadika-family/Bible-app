@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.245",
+  "contentVersion": "2026.11.21.252",
   "copyright": "Scripture quotations taken from The Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission of Zondervan. All rights reserved worldwide. www.zondervan.com",
   "tracks": [
     {
@@ -294,7 +294,14 @@
         "284",
         "285",
         "286",
-        "287"
+        "287",
+        "288",
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294"
       ]
     },
     {
@@ -589,7 +596,14 @@
         "w284",
         "w285",
         "w286",
-        "w287"
+        "w287",
+        "w288",
+        "w289",
+        "w290",
+        "w291",
+        "w292",
+        "w293",
+        "w294"
       ]
     },
     {
@@ -1223,7 +1237,21 @@
         "286",
         "w286",
         "287",
-        "w287"
+        "w287",
+        "288",
+        "w288",
+        "289",
+        "w289",
+        "290",
+        "w290",
+        "291",
+        "w291",
+        "292",
+        "w292",
+        "293",
+        "w293",
+        "294",
+        "w294"
       ]
     },
     {
@@ -23551,6 +23579,416 @@
         }
       ],
       "body": "**Lesson 287: When you disagree: unity without erasing each other**\n\nGood morning. Yesterday we heard a lifetime of cherishing: rejoice in the wife of your youth, and enjoy life with your wife, whom you love, all the days God has given. Today the house is taught how to disagree without erasing one another. Let us therefore make every effort to do what leads to peace and to mutual edification. Effort is the word. Peace does not fall on a hard conversation by accident. Mutual edification means we aim to build one another up, not to win. A disagreement can be real. The other person must still be a person we are trying to build, not a problem we are trying to erase.\n\nPaul then gives the manner: then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind. Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, not looking to your own interests but each of you to the interests of the others. Today’s official word begins here, with that then, and we do not take up the verses around it as today’s official text. Like-minded is not the erasing of every difference. It is the same love, one in spirit, without selfish ambition. You can disagree and still value the other above yourself. You can keep your mind, and still look to the interests of the other.\n\nUnity in a marriage is holy work. It is not sameness for its own sake, and it is not a contest in which one voice disappears. Make every effort toward peace and mutual edification. Have the same love. In humility, look to the other’s interests as well as your own.\n\nIn *The Mind of Christ: Looking Out for the Interests of Others*, on Philippians 2, John Piper lingers over the humility that values others and looks to their interests, the shared mind that is not selfish ambition. Today’s official text is Philippians 2:2–4, so we stay inside that range. I did not find a Piper /messages/ sermon whose main text is Romans 14:19, so the call to make every effort to do what leads to peace and to mutual edification is taught from the text itself and from the BibleProject guide to Romans. The BibleProject guide to Philippians helps us hear unity as the gospel’s ordinary posture, not as a tool for winning the argument.\n\nWhere the LSB wording differs in a way that helps the ear: Romans 14:19 has, So then let us pursue the things which make for peace and the building up of one another. Philippians 2:2 has, fulfill my joy, that you think the same way, by maintaining the same love, being united in spirit, thinking on one purpose. Philippians 2:3–4 has, doing nothing from selfish ambition or vain glory, but with humility of mind regarding one another as more important than yourselves, not merely looking out for your own personal interests, but also for the interests of others.\n\nMake every effort to do what leads to peace and to mutual edification. Be like-minded, having the same love. In humility value others above yourselves, and look to the interests of the other. You can disagree without erasing one another.\n\n**Romans 14:19 (NIV)**\n19 Let us therefore make every effort to do what leads to peace and to mutual edification.\n\n**Philippians 2:2–4 (NIV)**\n2 then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind. 3 Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, 4 not looking to your own interests but each of you to the interests of the others.\n\n**For reflection.** As a woman, wife, and a mother, where has a disagreement in your house aimed at winning, rather than at peace and mutual edification? What would it look like today to keep the same love, to value the other above yourself, and to look to their interests as well as your own?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "288",
+      "number": 288,
+      "date": "2027-08-16",
+      "title": "A charge to husbands and wives",
+      "passages": "Ephesians 5:21–33; 1 Peter 3:1–7",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Ephesians 5:21-33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV"
+        },
+        {
+          "label": "1 Peter 3:1-7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A1-7&version=NIV"
+        },
+        {
+          "label": "John Piper, Husbands Who Love Like Christ and the Wives Who Submit to Them (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/husbands-who-love-like-christ-and-the-wives-who-submit-to-them"
+        },
+        {
+          "label": "John Piper, Lionhearted and Lamblike: The Christian Husband as Head, Part 1 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/lionhearted-and-lamblike-the-christian-husband-as-head-part-1"
+        },
+        {
+          "label": "John Piper, Honor, Guard, and Cherish (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/honor-guard-and-cherish"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        },
+        {
+          "label": "BibleProject, Book of 1 Peter guide",
+          "url": "https://bibleproject.com/guides/book-of-1-peter/"
+        }
+      ],
+      "body": "**Lesson 288: A charge to husbands and wives**\n\nGood morning, Greg. Yesterday we heard how to disagree without erasing one another, making every effort toward peace and mutual edification. Today the marriage series comes to a charge for the house. Submit to one another out of reverence for Christ. Wives, submit yourselves to your own husbands as you do to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. This is not a license to dominate, and it is not a joke. Mutual honor stands at the front of the charge, and the wife’s submission is as to the Lord, not a replacing of the Lord.\n\nHusbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church—for we are members of his body. The husband’s charge is not a right to command for himself. It is a call to give himself up, as Christ did, and to feed and care as Christ does the church.\n\n“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This is a profound mystery—but I am talking about Christ and the church. However, each one of you also must love his wife as he loves himself, and the wife must respect her husband. The one-flesh union points beyond itself to Christ and the church, and then comes back to the house: love, and respect.\n\nPeter gives the same holy order another way. Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, when they see the purity and reverence of your lives. Without words is not a muzzle. It is the power of a holy life, especially where a husband does not yet believe. Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. We do not turn this into a rule about jewelry or a slight toward a woman’s voice. The unfading beauty is a gentle and quiet spirit, of great worth in God’s sight. For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear. We hear Sarah’s word as the text’s example of hope in God, not as a demand that a wife take up that title. The end of the charge is courage: do what is right, and do not give way to fear.\n\nHusbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers. Weaker partner is not a slur, and it is not a license to rule a wife as less. She is an heir with you of the gracious gift of life. Consideration and respect belong to that shared gift. If they are withheld, prayers in the house can be hindered.\n\nIn *Husbands Who Love Like Christ and the Wives Who Submit to Them*, on Ephesians 5:21–33 and 1 Peter 3:1–7, John Piper treats headship as a husband’s responsibility to love like Christ, and submission as a wife’s honor that does not put a husband in the place of Christ, and does not follow him into sin. In *Lionhearted and Lamblike: The Christian Husband as Head, Part 1*, on Ephesians 5:21–33, he lingers over a husband’s call to nourish and cherish, not to control. In *Honor, Guard, and Cherish*, on 1 Peter 3:7, he treats a wife as a fellow heir of the grace of life, to be honored so that prayers are not hindered. The BibleProject guides to Ephesians and 1 Peter help us hear this charge as the gospel’s work in a house, not as a tool for winning.\n\nWhere the LSB wording differs in a way that helps the ear: Ephesians 5:21 has, and being subject to one another in the fear of Christ. Ephesians 5:29 has, for no one ever hated his own flesh, but nourishes and cherishes it, just as Christ also does the church. Ephesians 5:32 has, This mystery is great, but I am speaking with reference to Christ and the church. 1 Peter 3:4 has, but let it be the hidden person of the heart, with the incorruptible quality of a lowly and quiet spirit, which is precious in the sight of God. 1 Peter 3:6–7 has, just as Sarah obeyed Abraham, calling him lord. You have become her children if you do good, not fearing any intimidation. You husbands in the same way, live with your wives in an understanding way, as with a weaker vessel, since she is a woman; and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.\n\nSubmit to one another out of reverence for Christ. Husbands, love your wives as Christ loved the church and gave himself up for her. The wife must respect her husband. Live as heirs together of the gracious gift of life, so that nothing will hinder your prayers.\n\n**Ephesians 5:21–33 (NIV)**\n21 Submit to one another out of reverence for Christ. 22 Wives, submit yourselves to your own husbands as you do to the Lord. 23 For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. 24 Now as the church submits to Christ, so also wives should submit to their husbands in everything. 25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. 28 In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. 29 After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— 30 for we are members of his body. 31 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” 32 This is a profound mystery—but I am talking about Christ and the church. 33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n**1 Peter 3:1–7 (NIV)**\n1 Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, 2 when they see the purity and reverence of your lives. 3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. 5 For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, 6 like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear. 7 Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.\n\n**For reflection.** As a man, husband, and father, where has this charge been easier to require of the other than to take up yourself—love that gives itself up, or honor that does not give way to fear? What would it look like today to live this word with reverence for Christ?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w288",
+      "number": 288,
+      "date": "2027-08-16",
+      "title": "A charge to husbands and wives",
+      "passages": "Ephesians 5:21–33; 1 Peter 3:1–7",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Ephesians 5:21-33 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33&version=NIV"
+        },
+        {
+          "label": "1 Peter 3:1-7 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=1+Peter+3%3A1-7&version=NIV"
+        },
+        {
+          "label": "John Piper, Husbands Who Love Like Christ and the Wives Who Submit to Them (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/husbands-who-love-like-christ-and-the-wives-who-submit-to-them"
+        },
+        {
+          "label": "John Piper, Lionhearted and Lamblike: The Christian Husband as Head, Part 1 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/lionhearted-and-lamblike-the-christian-husband-as-head-part-1"
+        },
+        {
+          "label": "John Piper, Honor, Guard, and Cherish (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/honor-guard-and-cherish"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        },
+        {
+          "label": "BibleProject, Book of 1 Peter guide",
+          "url": "https://bibleproject.com/guides/book-of-1-peter/"
+        }
+      ],
+      "body": "**Lesson 288: A charge to husbands and wives**\n\nGood morning. Yesterday we heard how to disagree without erasing one another, making every effort toward peace and mutual edification. Today the marriage series comes to a charge for the house. Submit to one another out of reverence for Christ. Wives, submit yourselves to your own husbands as you do to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. This is not a license to dominate, and it is not a joke. Mutual honor stands at the front of the charge, and the wife’s submission is as to the Lord, not a replacing of the Lord.\n\nHusbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church—for we are members of his body. The husband’s charge is not a right to command for himself. It is a call to give himself up, as Christ did, and to feed and care as Christ does the church.\n\n“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This is a profound mystery—but I am talking about Christ and the church. However, each one of you also must love his wife as he loves himself, and the wife must respect her husband. The one-flesh union points beyond itself to Christ and the church, and then comes back to the house: love, and respect.\n\nPeter gives the same holy order another way. Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, when they see the purity and reverence of your lives. Without words is not a muzzle. It is the power of a holy life, especially where a husband does not yet believe. Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. We do not turn this into a rule about jewelry or a slight toward a woman’s voice. The unfading beauty is a gentle and quiet spirit, of great worth in God’s sight. For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear. We hear Sarah’s word as the text’s example of hope in God, not as a demand that a wife take up that title. The end of the charge is courage: do what is right, and do not give way to fear.\n\nHusbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers. Weaker partner is not a slur, and it is not a license to rule a wife as less. She is an heir with you of the gracious gift of life. Consideration and respect belong to that shared gift. If they are withheld, prayers in the house can be hindered.\n\nIn *Husbands Who Love Like Christ and the Wives Who Submit to Them*, on Ephesians 5:21–33 and 1 Peter 3:1–7, John Piper treats headship as a husband’s responsibility to love like Christ, and submission as a wife’s honor that does not put a husband in the place of Christ, and does not follow him into sin. In *Lionhearted and Lamblike: The Christian Husband as Head, Part 1*, on Ephesians 5:21–33, he lingers over a husband’s call to nourish and cherish, not to control. In *Honor, Guard, and Cherish*, on 1 Peter 3:7, he treats a wife as a fellow heir of the grace of life, to be honored so that prayers are not hindered. The BibleProject guides to Ephesians and 1 Peter help us hear this charge as the gospel’s work in a house, not as a tool for winning.\n\nWhere the LSB wording differs in a way that helps the ear: Ephesians 5:21 has, and being subject to one another in the fear of Christ. Ephesians 5:29 has, for no one ever hated his own flesh, but nourishes and cherishes it, just as Christ also does the church. Ephesians 5:32 has, This mystery is great, but I am speaking with reference to Christ and the church. 1 Peter 3:4 has, but let it be the hidden person of the heart, with the incorruptible quality of a lowly and quiet spirit, which is precious in the sight of God. 1 Peter 3:6–7 has, just as Sarah obeyed Abraham, calling him lord. You have become her children if you do good, not fearing any intimidation. You husbands in the same way, live with your wives in an understanding way, as with a weaker vessel, since she is a woman; and show her honor as a fellow heir of the grace of life, so that your prayers will not be hindered.\n\nSubmit to one another out of reverence for Christ. Husbands, love your wives as Christ loved the church and gave himself up for her. The wife must respect her husband. Live as heirs together of the gracious gift of life, so that nothing will hinder your prayers.\n\n**Ephesians 5:21–33 (NIV)**\n21 Submit to one another out of reverence for Christ. 22 Wives, submit yourselves to your own husbands as you do to the Lord. 23 For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. 24 Now as the church submits to Christ, so also wives should submit to their husbands in everything. 25 Husbands, love your wives, just as Christ loved the church and gave himself up for her 26 to make her holy, cleansing her by the washing with water through the word, 27 and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. 28 In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. 29 After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— 30 for we are members of his body. 31 “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” 32 This is a profound mystery—but I am talking about Christ and the church. 33 However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.\n\n**1 Peter 3:1–7 (NIV)**\n1 Wives, in the same way submit yourselves to your own husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives, 2 when they see the purity and reverence of your lives. 3 Your beauty should not come from outward adornment, such as elaborate hairstyles and the wearing of gold jewelry or fine clothes. 4 Rather, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God’s sight. 5 For this is the way the holy women of the past who put their hope in God used to adorn themselves. They submitted themselves to their own husbands, 6 like Sarah, who obeyed Abraham and called him her lord. You are her daughters if you do what is right and do not give way to fear. 7 Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.\n\n**For reflection.** As a woman, wife, and a mother, where has this charge been easier to require of the other than to take up yourself—love that gives itself up, or honor that does not give way to fear? What would it look like today to live this word with reverence for Christ?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "289",
+      "number": 289,
+      "date": "2027-08-17",
+      "title": "Teach your children diligently",
+      "passages": "Deuteronomy 6:4–9",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Deuteronomy 6:4-9 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=NIV"
+        },
+        {
+          "label": "BibleProject, Book of Deuteronomy guide",
+          "url": "https://bibleproject.com/guides/book-of-deuteronomy/"
+        }
+      ],
+      "body": "**Lesson 289: Teach your children diligently**\n\nGood morning, Greg. Yesterday the marriage series ended with a charge to husbands and wives: love as Christ loved the church, and honor one another as heirs of the gracious gift of life. Today the word turns to the children in the house. Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength. The first work is not a technique for parenting. It is to love the LORD who is one, with all that we are.\n\nThese commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as symbols on your hands and bind them on your foreheads. Write them on the doorframes of your houses and on your gates. Diligence here is ordinary and constant. The words must first be on your hearts, then impressed on your children, in the sitting, the walking, the lying down, and the getting up. Family teaching is not only a formal lesson. It is a life that talks of the LORD in the ordinary hours of a house.\n\nWe do not turn the symbols, the hands, the foreheads, and the doorframes into a costume. The point is that the commandment is kept close, where the family lives and goes out and comes in. A parent cannot hand this work off and still call it done. Impress them on your children is a charge to the house.\n\nI did not find a Piper /messages/ sermon whose main text is Deuteronomy 6:4–9, so today’s word is taught from the text itself and from the BibleProject guide to Deuteronomy. The LORD our God, the LORD is one. Love him with all your heart, keep his commandments on your hearts, and impress them on your children in the ordinary walk of the day. This is how a house begins to teach diligently.\n\nWhere the LSB wording differs in a way that helps the ear: Deuteronomy 6:4–5 has, Hear, O Israel! Yahweh is our God, Yahweh is one! You shall love Yahweh your God with all your heart and with all your soul and with all your might. Deuteronomy 6:7 has, You shall teach them diligently to your sons and shall speak of them when you sit in your house and when you walk by the way and when you lie down and when you rise up. Deuteronomy 6:8–9 has, You shall bind them as a sign on your hand, and they shall be as phylacteries between your eyes. You shall write them on the doorposts of your house and on your gates.\n\nThe LORD our God, the LORD is one. Love him with all your heart. Keep these commandments on your hearts, and impress them on your children when you sit, walk, lie down, and get up. Teach them diligently, in ordinary time.\n\n**Deuteronomy 6:4–9 (NIV)**\n4 Hear, O Israel: The LORD our God, the LORD is one. 5 Love the LORD your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n**For reflection.** As a man, husband, and father, are these commandments first on your own heart, or only a speech you hope your children will hear? What would it look like today to talk of the LORD in an ordinary moment—at the table, on the road, at bedtime, or in the morning?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w289",
+      "number": 289,
+      "date": "2027-08-17",
+      "title": "Teach your children diligently",
+      "passages": "Deuteronomy 6:4–9",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Deuteronomy 6:4-9 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=NIV"
+        },
+        {
+          "label": "BibleProject, Book of Deuteronomy guide",
+          "url": "https://bibleproject.com/guides/book-of-deuteronomy/"
+        }
+      ],
+      "body": "**Lesson 289: Teach your children diligently**\n\nGood morning. Yesterday the marriage series ended with a charge to husbands and wives: love as Christ loved the church, and honor one another as heirs of the gracious gift of life. Today the word turns to the children in the house. Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength. The first work is not a technique for parenting. It is to love the LORD who is one, with all that we are.\n\nThese commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as symbols on your hands and bind them on your foreheads. Write them on the doorframes of your houses and on your gates. Diligence here is ordinary and constant. The words must first be on your hearts, then impressed on your children, in the sitting, the walking, the lying down, and the getting up. Family teaching is not only a formal lesson. It is a life that talks of the LORD in the ordinary hours of a house.\n\nWe do not turn the symbols, the hands, the foreheads, and the doorframes into a costume. The point is that the commandment is kept close, where the family lives and goes out and comes in. A parent cannot hand this work off and still call it done. Impress them on your children is a charge to the house.\n\nI did not find a Piper /messages/ sermon whose main text is Deuteronomy 6:4–9, so today’s word is taught from the text itself and from the BibleProject guide to Deuteronomy. The LORD our God, the LORD is one. Love him with all your heart, keep his commandments on your hearts, and impress them on your children in the ordinary walk of the day. This is how a house begins to teach diligently.\n\nWhere the LSB wording differs in a way that helps the ear: Deuteronomy 6:4–5 has, Hear, O Israel! Yahweh is our God, Yahweh is one! You shall love Yahweh your God with all your heart and with all your soul and with all your might. Deuteronomy 6:7 has, You shall teach them diligently to your sons and shall speak of them when you sit in your house and when you walk by the way and when you lie down and when you rise up. Deuteronomy 6:8–9 has, You shall bind them as a sign on your hand, and they shall be as phylacteries between your eyes. You shall write them on the doorposts of your house and on your gates.\n\nThe LORD our God, the LORD is one. Love him with all your heart. Keep these commandments on your hearts, and impress them on your children when you sit, walk, lie down, and get up. Teach them diligently, in ordinary time.\n\n**Deuteronomy 6:4–9 (NIV)**\n4 Hear, O Israel: The LORD our God, the LORD is one. 5 Love the LORD your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n**For reflection.** As a woman, wife, and a mother, are these commandments first on your own heart, or only a speech you hope your children will hear? What would it look like today to talk of the LORD in an ordinary moment—at the table, on the road, at bedtime, or in the morning?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "290",
+      "number": 290,
+      "date": "2027-08-18",
+      "title": "Fathers, do not exasperate; bring them up in the Lord",
+      "passages": "Ephesians 6:4; Colossians 3:21",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Ephesians 6:4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A4&version=NIV"
+        },
+        {
+          "label": "Colossians 3:21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Colossians+3%3A21&version=NIV"
+        },
+        {
+          "label": "John Piper, Fathers Who Give Hope (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/fathers-who-give-hope"
+        },
+        {
+          "label": "John Piper, Fathers, Bring Them Up in the Discipline & Instruction of the Lord (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/fathers-bring-them-up-in-the-discipline-and-instruction-of-the-lord"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        },
+        {
+          "label": "BibleProject, Book of Colossians guide",
+          "url": "https://bibleproject.com/guides/book-of-colossians/"
+        }
+      ],
+      "body": "**Lesson 290: Fathers, do not exasperate; bring them up in the Lord**\n\nGood morning, Greg. Yesterday we heard that the LORD is one, and that his commandments are to be on our hearts and impressed on our children in the ordinary hours of the day. Today the word comes to fathers in a shorter, sharper line. Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord. The charge is double: do not exasperate, and do bring them up in the Lord. A father can be busy with rules and still leave a child raw. The training that is needed is the Lord’s, not a father’s raw will.\n\nPaul says it again in another letter: Fathers, do not embitter your children, or they will become discouraged. Embitter and exasperate name a real wound. A child can be crossed in love, for a holy reason, and still be brought up in hope. A child can also be worn down by pettiness, by harshness, or by a father’s empty anger, until the heart loses heart. We hear this pastorally, not as a license for a child to rule the house, and not as a shame for a father who is already trying to be gentle. The warning is serious. Discouragement is a fruit we are told not to grow.\n\nThe text addresses fathers. A mother is not excluded from refusing to embitter a child, and she shares the work of bringing them up. Paul still names fathers here, and the house should hear that leading charge without using it to erase a mother’s wisdom, or to excuse a father from the work.\n\nIn *Fathers Who Give Hope*, on Colossians 3:21, John Piper treats a father’s power to discourage, and the call not to embitter children so that they do not lose heart. In *Fathers, Bring Them Up in the Discipline & Instruction of the Lord*, on Ephesians 6:1–4, he lingers over the second half of the charge: bring them up in the training and instruction of the Lord, not merely in a father’s preferences. Today’s official text is Ephesians 6:4 and Colossians 3:21, so we stay with those verses and do not take up the surrounding lines as today’s official word. The BibleProject guides to Ephesians and Colossians help us hear this as the gospel’s way with children in the house, not as a method for control.\n\nWhere the LSB wording differs in a way that helps the ear: Ephesians 6:4 has, Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord. Colossians 3:21 has, Fathers, do not exasperate your children, so that they will not lose heart.\n\nDo not exasperate your children. Do not embitter them, or they will become discouraged. Bring them up in the training and instruction of the Lord.\n\n**Ephesians 6:4 (NIV)**\n4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\n\n**Colossians 3:21 (NIV)**\n21 Fathers, do not embitter your children, or they will become discouraged.\n\n**For reflection.** As a man, husband, and father, where has a word or a rule in your house been more likely to embitter than to bring a child up in the Lord? What would it look like today to correct without exasperating, and to train with the Lord’s instruction rather than with mere frustration?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w290",
+      "number": 290,
+      "date": "2027-08-18",
+      "title": "Fathers, do not exasperate; bring them up in the Lord",
+      "passages": "Ephesians 6:4; Colossians 3:21",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Ephesians 6:4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A4&version=NIV"
+        },
+        {
+          "label": "Colossians 3:21 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Colossians+3%3A21&version=NIV"
+        },
+        {
+          "label": "John Piper, Fathers Who Give Hope (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/fathers-who-give-hope"
+        },
+        {
+          "label": "John Piper, Fathers, Bring Them Up in the Discipline & Instruction of the Lord (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/fathers-bring-them-up-in-the-discipline-and-instruction-of-the-lord"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        },
+        {
+          "label": "BibleProject, Book of Colossians guide",
+          "url": "https://bibleproject.com/guides/book-of-colossians/"
+        }
+      ],
+      "body": "**Lesson 290: Fathers, do not exasperate; bring them up in the Lord**\n\nGood morning. Yesterday we heard that the LORD is one, and that his commandments are to be on our hearts and impressed on our children in the ordinary hours of the day. Today the word comes to fathers in a shorter, sharper line. Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord. The charge is double: do not exasperate, and do bring them up in the Lord. A father can be busy with rules and still leave a child raw. The training that is needed is the Lord’s, not a father’s raw will.\n\nPaul says it again in another letter: Fathers, do not embitter your children, or they will become discouraged. Embitter and exasperate name a real wound. A child can be crossed in love, for a holy reason, and still be brought up in hope. A child can also be worn down by pettiness, by harshness, or by a father’s empty anger, until the heart loses heart. We hear this pastorally, not as a license for a child to rule the house, and not as a shame for a father who is already trying to be gentle. The warning is serious. Discouragement is a fruit we are told not to grow.\n\nThe text addresses fathers. A mother is not excluded from refusing to embitter a child, and she shares the work of bringing them up. Paul still names fathers here, and the house should hear that leading charge without using it to erase a mother’s wisdom, or to excuse a father from the work.\n\nIn *Fathers Who Give Hope*, on Colossians 3:21, John Piper treats a father’s power to discourage, and the call not to embitter children so that they do not lose heart. In *Fathers, Bring Them Up in the Discipline & Instruction of the Lord*, on Ephesians 6:1–4, he lingers over the second half of the charge: bring them up in the training and instruction of the Lord, not merely in a father’s preferences. Today’s official text is Ephesians 6:4 and Colossians 3:21, so we stay with those verses and do not take up the surrounding lines as today’s official word. The BibleProject guides to Ephesians and Colossians help us hear this as the gospel’s way with children in the house, not as a method for control.\n\nWhere the LSB wording differs in a way that helps the ear: Ephesians 6:4 has, Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord. Colossians 3:21 has, Fathers, do not exasperate your children, so that they will not lose heart.\n\nDo not exasperate your children. Do not embitter them, or they will become discouraged. Bring them up in the training and instruction of the Lord.\n\n**Ephesians 6:4 (NIV)**\n4 Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\n\n**Colossians 3:21 (NIV)**\n21 Fathers, do not embitter your children, or they will become discouraged.\n\n**For reflection.** As a woman, wife, and a mother, where has a word or a rule in your house been more likely to embitter than to bring a child up in the Lord? What would it look like today to correct without exasperating, and to train with the Lord’s instruction rather than with mere frustration?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "291",
+      "number": 291,
+      "date": "2027-08-19",
+      "title": "Children, honor your father and mother",
+      "passages": "Exodus 20:12; Ephesians 6:1–3",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Exodus 20:12 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20%3A12&version=NIV"
+        },
+        {
+          "label": "Ephesians 6:1-3 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A1-3&version=NIV"
+        },
+        {
+          "label": "John Piper, Marriage Is Meant for Making Children . . . Disciples of Jesus, Part 2 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/marriage-is-meant-for-making-children-disciples-of-jesus-part-2"
+        },
+        {
+          "label": "BibleProject, Book of Exodus guide",
+          "url": "https://bibleproject.com/guides/book-of-exodus/"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        }
+      ],
+      "body": "**Lesson 291: Children, honor your father and mother**\n\nGood morning, Greg. Yesterday fathers were told not to exasperate their children, but to bring them up in the training and instruction of the Lord. Today the children are addressed, and the house is told to hear the fifth commandment again. Honor your father and your mother, so that you may live long in the land the LORD your God is giving you. Honor is a holy weight. It is not flattery, and it is not a child’s job to pretend a parent has not sinned. It is the honor due to father and mother in the land the LORD gives.\n\nPaul takes the commandment into the church’s house: Children, obey your parents in the Lord, for this is right. “Honor your father and mother”—which is the first commandment with a promise— “so that it may go well with you and that you may enjoy long life on the earth.” Obey your parents in the Lord names both the duty and the limit. In the Lord is not a small phrase. A child is not being told to follow a parent into sin. The command is still a real command, and it is the first commandment with a promise: that it may go well with you, and that you may enjoy long life on the earth.\n\nThis is an adult lesson, and the word is still for the children in the house. Parents receive it first as a charge to teach, to live honorably, and not to make honor harder than it already is. A father who will not exasperate, and a mother who honors her own parents, make this commandment more than a speech. The promise is God’s. The honor is the child’s. The atmosphere of the house is ours to tend.\n\nIn *Marriage Is Meant for Making Children . . . Disciples of Jesus, Part 2*, on Ephesians 6:1–4, John Piper treats the command to children as a real obedience in the Lord, and the honor of father and mother as the first commandment with a promise. Today’s official text is Exodus 20:12 and Ephesians 6:1–3, so we stay inside that range and do not take up Ephesians 6:4 as today’s official word. I did not find a Piper /messages/ sermon whose main text is Exodus 20:12, so the fifth commandment is taught from the text itself, from its use in Ephesians 6, and from the BibleProject guide to Exodus. The BibleProject guide to Ephesians helps us hear a household where honor and obedience belong in the Lord.\n\nWhere the LSB wording differs in a way that helps the ear: Exodus 20:12 has, Honor your father and your mother, that your days may be prolonged in the land which Yahweh your God gives you. Ephesians 6:2–3 has, Honor your father and mother (which is the first commandment with a promise), so that it may be well with you, and that you may live long in the land.\n\nHonor your father and your mother. Children, obey your parents in the Lord, for this is right. It is the first commandment with a promise, that it may go well with you, and that you may enjoy long life on the earth.\n\n**Exodus 20:12 (NIV)**\n12 “Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.\n\n**Ephesians 6:1–3 (NIV)**\n1 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother”—which is the first commandment with a promise— 3 “so that it may go well with you and that you may enjoy long life on the earth.”\n\n**For reflection.** As a man, husband, and father, how are you making it either easier or harder for a child to honor father and mother in your house? What would it look like today to teach this commandment, and to live in a way that is worthy of honor, in the Lord?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w291",
+      "number": 291,
+      "date": "2027-08-19",
+      "title": "Children, honor your father and mother",
+      "passages": "Exodus 20:12; Ephesians 6:1–3",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Exodus 20:12 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+20%3A12&version=NIV"
+        },
+        {
+          "label": "Ephesians 6:1-3 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A1-3&version=NIV"
+        },
+        {
+          "label": "John Piper, Marriage Is Meant for Making Children . . . Disciples of Jesus, Part 2 (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/marriage-is-meant-for-making-children-disciples-of-jesus-part-2"
+        },
+        {
+          "label": "BibleProject, Book of Exodus guide",
+          "url": "https://bibleproject.com/guides/book-of-exodus/"
+        },
+        {
+          "label": "BibleProject, Book of Ephesians guide",
+          "url": "https://bibleproject.com/guides/book-of-ephesians/"
+        }
+      ],
+      "body": "**Lesson 291: Children, honor your father and mother**\n\nGood morning. Yesterday fathers were told not to exasperate their children, but to bring them up in the training and instruction of the Lord. Today the children are addressed, and the house is told to hear the fifth commandment again. Honor your father and your mother, so that you may live long in the land the LORD your God is giving you. Honor is a holy weight. It is not flattery, and it is not a child’s job to pretend a parent has not sinned. It is the honor due to father and mother in the land the LORD gives.\n\nPaul takes the commandment into the church’s house: Children, obey your parents in the Lord, for this is right. “Honor your father and mother”—which is the first commandment with a promise— “so that it may go well with you and that you may enjoy long life on the earth.” Obey your parents in the Lord names both the duty and the limit. In the Lord is not a small phrase. A child is not being told to follow a parent into sin. The command is still a real command, and it is the first commandment with a promise: that it may go well with you, and that you may enjoy long life on the earth.\n\nThis is an adult lesson, and the word is still for the children in the house. Parents receive it first as a charge to teach, to live honorably, and not to make honor harder than it already is. A father who will not exasperate, and a mother who honors her own parents, make this commandment more than a speech. The promise is God’s. The honor is the child’s. The atmosphere of the house is ours to tend.\n\nIn *Marriage Is Meant for Making Children . . . Disciples of Jesus, Part 2*, on Ephesians 6:1–4, John Piper treats the command to children as a real obedience in the Lord, and the honor of father and mother as the first commandment with a promise. Today’s official text is Exodus 20:12 and Ephesians 6:1–3, so we stay inside that range and do not take up Ephesians 6:4 as today’s official word. I did not find a Piper /messages/ sermon whose main text is Exodus 20:12, so the fifth commandment is taught from the text itself, from its use in Ephesians 6, and from the BibleProject guide to Exodus. The BibleProject guide to Ephesians helps us hear a household where honor and obedience belong in the Lord.\n\nWhere the LSB wording differs in a way that helps the ear: Exodus 20:12 has, Honor your father and your mother, that your days may be prolonged in the land which Yahweh your God gives you. Ephesians 6:2–3 has, Honor your father and mother (which is the first commandment with a promise), so that it may be well with you, and that you may live long in the land.\n\nHonor your father and your mother. Children, obey your parents in the Lord, for this is right. It is the first commandment with a promise, that it may go well with you, and that you may enjoy long life on the earth.\n\n**Exodus 20:12 (NIV)**\n12 “Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.\n\n**Ephesians 6:1–3 (NIV)**\n1 Children, obey your parents in the Lord, for this is right. 2 “Honor your father and mother”—which is the first commandment with a promise— 3 “so that it may go well with you and that you may enjoy long life on the earth.”\n\n**For reflection.** As a woman, wife, and a mother, how are you making it either easier or harder for a child to honor father and mother in your house? What would it look like today to teach this commandment, and to live in a way that is worthy of honor, in the Lord?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "292",
+      "number": 292,
+      "date": "2027-08-20",
+      "title": "Children are a heritage from the Lord",
+      "passages": "Psalm 127:3–5; Psalm 128:1–4",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Psalm 127:3-5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+127%3A3-5&version=NIV"
+        },
+        {
+          "label": "Psalm 128:1-4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+128%3A1-4&version=NIV"
+        },
+        {
+          "label": "John Piper, Don’t Eat the Bread of Anxious Toil (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/dont-eat-the-bread-of-anxious-toil"
+        },
+        {
+          "label": "BibleProject, Book of Psalms guide",
+          "url": "https://bibleproject.com/guides/book-of-psalms/"
+        }
+      ],
+      "body": "**Lesson 292: Children are a heritage from the Lord**\n\nGood morning, Greg. Yesterday we heard the fifth commandment: honor your father and your mother, and children, obey your parents in the Lord, for this is right. Today the psalms teach us how to receive the children themselves. Children are a heritage from the LORD, offspring a reward from him. Like arrows in the hands of a warrior are children born in one’s youth. Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court. We hear this as a gift, not as a contest. A heritage is something received, not something a parent invented. A full quiver is named as a blessing, and we do not turn it into a score, or a shame for a house that has walked a harder road.\n\nThe next psalm sets the blessing in the fear of the LORD. Blessed are all who fear the LORD, who walk in obedience to him. You will eat the fruit of your labor; blessings and prosperity will be yours. Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. Yes, this will be the blessing for the man who fears the LORD. The vine and the olive shoots are a picture of a household at peace under the LORD’s fear, not a demand that a woman’s worth be measured by fruitfulness, and not a slight if a table has known grief. The blessing is for those who fear the LORD and walk in obedience to him. The table is a place of life he gives.\n\nChildren are a heritage from the LORD. The warrior’s arrows, the vine, and the olive shoots all say the same thing with care: the children in the house are not an interruption of the real work. They are a reward from him, to be received with honor and raised in his fear.\n\nIn *Don’t Eat the Bread of Anxious Toil*, on Psalm 127, John Piper treats children as a heritage from the Lord, a reward, not a reason for anxious toil. Today’s official text is Psalm 127:3–5, so we stay with those verses and do not take up the earlier lines as today’s official word. I did not find a Piper /messages/ sermon whose main text is Psalm 128:1–4, so the blessing of those who fear the LORD, the fruitful vine, and the olive shoots around the table are taught from the text itself and from the BibleProject guide to the Psalms.\n\nWhere the LSB wording differs in a way that helps the ear: Psalm 127:3–5 has, Behold, children are an inheritance of Yahweh, The fruit of the womb is a reward. Like arrows in the hand of a warrior, So are the children of one’s youth. How blessed is the man who fills his quiver with them; They will not be ashamed When they speak with enemies in the gate. Psalm 128:1–3 has, How blessed is everyone who fears Yahweh, Who walks in His ways. Your wife shall be like a fruitful vine In the innermost parts of your house, Your children like olive plants All around your table.\n\nChildren are a heritage from the LORD, offspring a reward from him. Blessed are all who fear the LORD, who walk in obedience to him. Around a table like that, a wife is honored, and children are received as olive shoots, a gift from his hand.\n\n**Psalm 127:3–5 (NIV)**\n3 Children are a heritage from the LORD, offspring a reward from him. 4 Like arrows in the hands of a warrior are children born in one’s youth. 5 Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court.\n\n**Psalm 128:1–4 (NIV)**\n1 Blessed are all who fear the LORD, who walk in obedience to him. 2 You will eat the fruit of your labor; blessings and prosperity will be yours. 3 Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. 4 Yes, this will be the blessing for the man who fears the LORD.\n\n**For reflection.** As a man, husband, and father, have the children in your house been received as a heritage from the LORD, or mainly as a load to manage? What would it look like today to fear the LORD at the table, and to treat the children around it as a reward from him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w292",
+      "number": 292,
+      "date": "2027-08-20",
+      "title": "Children are a heritage from the Lord",
+      "passages": "Psalm 127:3–5; Psalm 128:1–4",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Psalm 127:3-5 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+127%3A3-5&version=NIV"
+        },
+        {
+          "label": "Psalm 128:1-4 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+128%3A1-4&version=NIV"
+        },
+        {
+          "label": "John Piper, Don’t Eat the Bread of Anxious Toil (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/dont-eat-the-bread-of-anxious-toil"
+        },
+        {
+          "label": "BibleProject, Book of Psalms guide",
+          "url": "https://bibleproject.com/guides/book-of-psalms/"
+        }
+      ],
+      "body": "**Lesson 292: Children are a heritage from the Lord**\n\nGood morning. Yesterday we heard the fifth commandment: honor your father and your mother, and children, obey your parents in the Lord, for this is right. Today the psalms teach us how to receive the children themselves. Children are a heritage from the LORD, offspring a reward from him. Like arrows in the hands of a warrior are children born in one’s youth. Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court. We hear this as a gift, not as a contest. A heritage is something received, not something a parent invented. A full quiver is named as a blessing, and we do not turn it into a score, or a shame for a house that has walked a harder road.\n\nThe next psalm sets the blessing in the fear of the LORD. Blessed are all who fear the LORD, who walk in obedience to him. You will eat the fruit of your labor; blessings and prosperity will be yours. Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. Yes, this will be the blessing for the man who fears the LORD. The vine and the olive shoots are a picture of a household at peace under the LORD’s fear, not a demand that a woman’s worth be measured by fruitfulness, and not a slight if a table has known grief. The blessing is for those who fear the LORD and walk in obedience to him. The table is a place of life he gives.\n\nChildren are a heritage from the LORD. The warrior’s arrows, the vine, and the olive shoots all say the same thing with care: the children in the house are not an interruption of the real work. They are a reward from him, to be received with honor and raised in his fear.\n\nIn *Don’t Eat the Bread of Anxious Toil*, on Psalm 127, John Piper treats children as a heritage from the Lord, a reward, not a reason for anxious toil. Today’s official text is Psalm 127:3–5, so we stay with those verses and do not take up the earlier lines as today’s official word. I did not find a Piper /messages/ sermon whose main text is Psalm 128:1–4, so the blessing of those who fear the LORD, the fruitful vine, and the olive shoots around the table are taught from the text itself and from the BibleProject guide to the Psalms.\n\nWhere the LSB wording differs in a way that helps the ear: Psalm 127:3–5 has, Behold, children are an inheritance of Yahweh, The fruit of the womb is a reward. Like arrows in the hand of a warrior, So are the children of one’s youth. How blessed is the man who fills his quiver with them; They will not be ashamed When they speak with enemies in the gate. Psalm 128:1–3 has, How blessed is everyone who fears Yahweh, Who walks in His ways. Your wife shall be like a fruitful vine In the innermost parts of your house, Your children like olive plants All around your table.\n\nChildren are a heritage from the LORD, offspring a reward from him. Blessed are all who fear the LORD, who walk in obedience to him. Around a table like that, a wife is honored, and children are received as olive shoots, a gift from his hand.\n\n**Psalm 127:3–5 (NIV)**\n3 Children are a heritage from the LORD, offspring a reward from him. 4 Like arrows in the hands of a warrior are children born in one’s youth. 5 Blessed is the man whose quiver is full of them. They will not be put to shame when they contend with their opponents in court.\n\n**Psalm 128:1–4 (NIV)**\n1 Blessed are all who fear the LORD, who walk in obedience to him. 2 You will eat the fruit of your labor; blessings and prosperity will be yours. 3 Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. 4 Yes, this will be the blessing for the man who fears the LORD.\n\n**For reflection.** As a woman, wife, and a mother, have the children in your house been received as a heritage from the LORD, or mainly as a load to manage? What would it look like today to fear the LORD at the table, and to treat the children around it as a reward from him?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "293",
+      "number": 293,
+      "date": "2027-08-21",
+      "title": "As for me and my house, we will serve the Lord",
+      "passages": "Joshua 24:14–15",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Joshua 24:14-15 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A14-15&version=NIV"
+        },
+        {
+          "label": "BibleProject, Book of Joshua guide",
+          "url": "https://bibleproject.com/guides/book-of-joshua/"
+        }
+      ],
+      "body": "**Lesson 293: As for me and my house, we will serve the Lord**\n\nGood morning, Greg. Yesterday we heard that children are a heritage from the LORD, and that the blessing of a house is for those who fear him. Today Joshua puts a choice before a whole household. Now fear the LORD and serve him with all faithfulness. Throw away the gods your ancestors worshiped beyond the Euphrates River and in Egypt, and serve the LORD. Fear and service go together. Faithfulness is not a mood. It includes a real throwing away of other gods, the ones a family can inherit without noticing.\n\nBut if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD. Joshua does not pretend the choice is unreal. Serving the LORD may seem undesirable. Other gods are named, old ones and near ones. Then he speaks for his house: as for me and my household, we will serve the LORD. A parent cannot believe for a child, and a child cannot make this choice for a father. Still, a house can be pointed, clearly, toward the LORD, and led there in the open.\n\nThis is not a slogan to hang and forget. Choose this day is a present word. The gods of a land can be quiet and respectable. The charge is to fear the LORD, serve him with all faithfulness, and let the household hear where the parents intend to stand.\n\nI did not find a Piper /messages/ sermon whose main text is Joshua 24:14–15, so today’s word is taught from the text itself and from the BibleProject guide to Joshua. Fear the LORD and serve him with all faithfulness. Choose this day whom you will serve. As for me and my household, we will serve the LORD. That is a word for a house, spoken in the open, against every other god.\n\nWhere the LSB wording differs in a way that helps the ear: Joshua 24:14 has, So now, fear Yahweh and serve Him in integrity and truth; and put away the gods which your fathers served beyond the River and in Egypt, and serve Yahweh. Joshua 24:15 has, If it is evil in your sight to serve Yahweh, choose for yourselves today whom you will serve; but as for me and my house, we will serve Yahweh.\n\nFear the LORD and serve him with all faithfulness. Throw away the other gods. Choose this day whom you will serve. As for me and my household, we will serve the LORD.\n\n**Joshua 24:14–15 (NIV)**\n14 “Now fear the LORD and serve him with all faithfulness. Throw away the gods your ancestors worshiped beyond the Euphrates River and in Egypt, and serve the LORD. 15 But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.”\n\n**For reflection.** As a man, husband, and father, if your household heard you speak Joshua’s line today, would it match the way you actually spend a day? What would it look like to choose, this day, to serve the LORD with all faithfulness, and to throw away a quieter god that has had a place in the house?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w293",
+      "number": 293,
+      "date": "2027-08-21",
+      "title": "As for me and my house, we will serve the Lord",
+      "passages": "Joshua 24:14–15",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Joshua 24:14-15 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Joshua+24%3A14-15&version=NIV"
+        },
+        {
+          "label": "BibleProject, Book of Joshua guide",
+          "url": "https://bibleproject.com/guides/book-of-joshua/"
+        }
+      ],
+      "body": "**Lesson 293: As for me and my house, we will serve the Lord**\n\nGood morning. Yesterday we heard that children are a heritage from the LORD, and that the blessing of a house is for those who fear him. Today Joshua puts a choice before a whole household. Now fear the LORD and serve him with all faithfulness. Throw away the gods your ancestors worshiped beyond the Euphrates River and in Egypt, and serve the LORD. Fear and service go together. Faithfulness is not a mood. It includes a real throwing away of other gods, the ones a family can inherit without noticing.\n\nBut if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD. Joshua does not pretend the choice is unreal. Serving the LORD may seem undesirable. Other gods are named, old ones and near ones. Then he speaks for his house: as for me and my household, we will serve the LORD. A parent cannot believe for a child, and a child cannot make this choice for a father. Still, a house can be pointed, clearly, toward the LORD, and led there in the open.\n\nThis is not a slogan to hang and forget. Choose this day is a present word. The gods of a land can be quiet and respectable. The charge is to fear the LORD, serve him with all faithfulness, and let the household hear where the parents intend to stand.\n\nI did not find a Piper /messages/ sermon whose main text is Joshua 24:14–15, so today’s word is taught from the text itself and from the BibleProject guide to Joshua. Fear the LORD and serve him with all faithfulness. Choose this day whom you will serve. As for me and my household, we will serve the LORD. That is a word for a house, spoken in the open, against every other god.\n\nWhere the LSB wording differs in a way that helps the ear: Joshua 24:14 has, So now, fear Yahweh and serve Him in integrity and truth; and put away the gods which your fathers served beyond the River and in Egypt, and serve Yahweh. Joshua 24:15 has, If it is evil in your sight to serve Yahweh, choose for yourselves today whom you will serve; but as for me and my house, we will serve Yahweh.\n\nFear the LORD and serve him with all faithfulness. Throw away the other gods. Choose this day whom you will serve. As for me and my household, we will serve the LORD.\n\n**Joshua 24:14–15 (NIV)**\n14 “Now fear the LORD and serve him with all faithfulness. Throw away the gods your ancestors worshiped beyond the Euphrates River and in Egypt, and serve the LORD. 15 But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.”\n\n**For reflection.** As a woman, wife, and a mother, if your household heard you speak Joshua’s line today, would it match the way you actually spend a day? What would it look like to choose, this day, to serve the LORD with all faithfulness, and to throw away a quieter god that has had a place in the house?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "294",
+      "number": 294,
+      "date": "2027-08-22",
+      "title": "Family worship in ordinary time",
+      "passages": "Deuteronomy 6:6–9; Psalm 78:1–8",
+      "audience": "man",
+      "sources": [
+        {
+          "label": "Deuteronomy 6:6-9 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A6-9&version=NIV"
+        },
+        {
+          "label": "Psalm 78:1-8 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+78%3A1-8&version=NIV"
+        },
+        {
+          "label": "John Piper, Educating for Hope (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/educating-for-hope"
+        },
+        {
+          "label": "John Piper, Raising Children Who Are Confident in God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/raising-children-who-are-confident-in-god"
+        },
+        {
+          "label": "BibleProject, Book of Deuteronomy guide",
+          "url": "https://bibleproject.com/guides/book-of-deuteronomy/"
+        },
+        {
+          "label": "BibleProject, Book of Psalms guide",
+          "url": "https://bibleproject.com/guides/book-of-psalms/"
+        }
+      ],
+      "body": "**Lesson 294: Family worship in ordinary time**\n\nGood morning, Greg. Yesterday Joshua said, as for me and my household, we will serve the LORD. Today that choice comes down to ordinary time: the words on the heart, and the story told to the next generation. These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as symbols on your hands and bind them on your foreheads. Write them on the doorframes of your houses and on your gates. We heard this charge earlier in the week, with the Shema around it. Today we stay with the ordinary practice itself. Family worship is not only a formal hour. It is the commandments on the heart, spoken in the sitting, the walking, the lying down, and the getting up.\n\nThe psalm shows why the telling matters. My people, hear my teaching; listen to the words of my mouth. I will open my mouth with a parable; I will utter hidden things, things from of old— things we have heard and known, things our ancestors have told us. We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done. He decreed statutes for Jacob and established the law in Israel, which he commanded our ancestors to teach their children, so the next generation would know them, even the children yet to be born, and they in turn would tell their children. Then they would put their trust in God and would not forget his deeds but would keep his commands. They would not be like their ancestors— a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.\n\nThe aim is not a perfect performance at a family altar. The aim is that the next generation would put their trust in God, remember his deeds, and keep his commands. Hide nothing that should be told. Tell the praiseworthy deeds of the LORD in ordinary time, so that the children yet to be born may hear, and tell their children in turn.\n\nIn *Educating for Hope* and in *Raising Children Who Are Confident in God*, on Psalm 78:1–8, John Piper treats the psalm as a charge to tell the next generation the deeds of the Lord, so that they would set their hope in God and not forget his works. I did not find a Piper /messages/ sermon whose main text is Deuteronomy 6:6–9, so the ordinary practice—commandments on the heart, impressed on the children in the sitting and the walking—is taught from the text itself and from the BibleProject guide to Deuteronomy, as we also heard it earlier this week. The BibleProject guide to the Psalms helps us hear family worship as a telling that aims at trust, not as a mere routine.\n\nWhere the LSB wording differs in a way that helps the ear: Deuteronomy 6:6–7 has, These words, which I am commanding you today, shall be on your heart. You shall teach them diligently to your sons and shall speak of them when you sit in your house and when you walk by the way and when you lie down and when you rise up. Psalm 78:4 has, We will not conceal them from their children, But recount to the generation to come the praises of Yahweh, And His strength and His wondrous deeds that He has done. Psalm 78:7–8 has, That they should set their confidence in God And not forget the deeds of God, But observe His commandments, And not be like their fathers, A stubborn and rebellious generation, A generation that did not prepare its heart And whose spirit was not faithful to God.\n\nLet the commandments be on your hearts, and impress them on your children in ordinary time. Tell the next generation the praiseworthy deeds of the LORD, so they would put their trust in God, and not forget his deeds.\n\n**Deuteronomy 6:6–9 (NIV)**\n6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n**Psalm 78:1–8 (NIV)**\n1 My people, hear my teaching; listen to the words of my mouth. 2 I will open my mouth with a parable; I will utter hidden things, things from of old— 3 things we have heard and known, things our ancestors have told us. 4 We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done. 5 He decreed statutes for Jacob and established the law in Israel, which he commanded our ancestors to teach their children, 6 so the next generation would know them, even the children yet to be born, and they in turn would tell their children. 7 Then they would put their trust in God and would not forget his deeds but would keep his commands. 8 They would not be like their ancestors— a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.\n\n**For reflection.** As a man, husband, and father, where has family worship been postponed until a perfect hour that rarely comes? What would it look like today to put the commandments on your heart, and to tell one praiseworthy deed of the LORD in an ordinary moment with your children?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
+    },
+    {
+      "id": "w294",
+      "number": 294,
+      "date": "2027-08-22",
+      "title": "Family worship in ordinary time",
+      "passages": "Deuteronomy 6:6–9; Psalm 78:1–8",
+      "audience": "woman",
+      "sources": [
+        {
+          "label": "Deuteronomy 6:6-9 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A6-9&version=NIV"
+        },
+        {
+          "label": "Psalm 78:1-8 (NIV)",
+          "url": "https://www.biblegateway.com/passage/?search=Psalm+78%3A1-8&version=NIV"
+        },
+        {
+          "label": "John Piper, Educating for Hope (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/educating-for-hope"
+        },
+        {
+          "label": "John Piper, Raising Children Who Are Confident in God (Desiring God)",
+          "url": "https://www.desiringgod.org/messages/raising-children-who-are-confident-in-god"
+        },
+        {
+          "label": "BibleProject, Book of Deuteronomy guide",
+          "url": "https://bibleproject.com/guides/book-of-deuteronomy/"
+        },
+        {
+          "label": "BibleProject, Book of Psalms guide",
+          "url": "https://bibleproject.com/guides/book-of-psalms/"
+        }
+      ],
+      "body": "**Lesson 294: Family worship in ordinary time**\n\nGood morning. Yesterday Joshua said, as for me and my household, we will serve the LORD. Today that choice comes down to ordinary time: the words on the heart, and the story told to the next generation. These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. Tie them as symbols on your hands and bind them on your foreheads. Write them on the doorframes of your houses and on your gates. We heard this charge earlier in the week, with the Shema around it. Today we stay with the ordinary practice itself. Family worship is not only a formal hour. It is the commandments on the heart, spoken in the sitting, the walking, the lying down, and the getting up.\n\nThe psalm shows why the telling matters. My people, hear my teaching; listen to the words of my mouth. I will open my mouth with a parable; I will utter hidden things, things from of old— things we have heard and known, things our ancestors have told us. We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done. He decreed statutes for Jacob and established the law in Israel, which he commanded our ancestors to teach their children, so the next generation would know them, even the children yet to be born, and they in turn would tell their children. Then they would put their trust in God and would not forget his deeds but would keep his commands. They would not be like their ancestors— a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.\n\nThe aim is not a perfect performance at a family altar. The aim is that the next generation would put their trust in God, remember his deeds, and keep his commands. Hide nothing that should be told. Tell the praiseworthy deeds of the LORD in ordinary time, so that the children yet to be born may hear, and tell their children in turn.\n\nIn *Educating for Hope* and in *Raising Children Who Are Confident in God*, on Psalm 78:1–8, John Piper treats the psalm as a charge to tell the next generation the deeds of the Lord, so that they would set their hope in God and not forget his works. I did not find a Piper /messages/ sermon whose main text is Deuteronomy 6:6–9, so the ordinary practice—commandments on the heart, impressed on the children in the sitting and the walking—is taught from the text itself and from the BibleProject guide to Deuteronomy, as we also heard it earlier this week. The BibleProject guide to the Psalms helps us hear family worship as a telling that aims at trust, not as a mere routine.\n\nWhere the LSB wording differs in a way that helps the ear: Deuteronomy 6:6–7 has, These words, which I am commanding you today, shall be on your heart. You shall teach them diligently to your sons and shall speak of them when you sit in your house and when you walk by the way and when you lie down and when you rise up. Psalm 78:4 has, We will not conceal them from their children, But recount to the generation to come the praises of Yahweh, And His strength and His wondrous deeds that He has done. Psalm 78:7–8 has, That they should set their confidence in God And not forget the deeds of God, But observe His commandments, And not be like their fathers, A stubborn and rebellious generation, A generation that did not prepare its heart And whose spirit was not faithful to God.\n\nLet the commandments be on your hearts, and impress them on your children in ordinary time. Tell the next generation the praiseworthy deeds of the LORD, so they would put their trust in God, and not forget his deeds.\n\n**Deuteronomy 6:6–9 (NIV)**\n6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.\n\n**Psalm 78:1–8 (NIV)**\n1 My people, hear my teaching; listen to the words of my mouth. 2 I will open my mouth with a parable; I will utter hidden things, things from of old— 3 things we have heard and known, things our ancestors have told us. 4 We will not hide them from their descendants; we will tell the next generation the praiseworthy deeds of the LORD, his power, and the wonders he has done. 5 He decreed statutes for Jacob and established the law in Israel, which he commanded our ancestors to teach their children, 6 so the next generation would know them, even the children yet to be born, and they in turn would tell their children. 7 Then they would put their trust in God and would not forget his deeds but would keep his commands. 8 They would not be like their ancestors— a stubborn and rebellious generation, whose hearts were not loyal to God, whose spirits were not faithful to him.\n\n**For reflection.** As a woman, wife, and a mother, where has family worship been postponed until a perfect hour that rarely comes? What would it look like today to put the commandments on your heart, and to tell one praiseworthy deed of the LORD in an ordinary moment with your children?\n\n*Scripture quotations taken from the Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide. LSB wording from the Legacy Standard Bible, Copyright ©2021 by The Lockman Foundation. All rights reserved. Managed in partnership with Three Sixteen Publishing Inc. LSBible.org.*"
     }
   ]
 }
