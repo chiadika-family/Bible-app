@@ -1,7 +1,7 @@
 /* Family Bible Study service worker.
    Network-first for the shell and lesson file so a new pack is not stuck behind an old cache.
    Cache-first only for icons. Old caches are deleted when the version changes. */
-const VERSION = "2026.11.27.1";
+const VERSION = "2026.11.21.52";
 const CACHE = `family-bible-${VERSION}`;
 const PRECACHE = [
   "./",
