@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.325",
+  "version": "2026.11.21.326",
   "start": "2026-10-31",
   "phases": [
     {
@@ -195,6 +195,28 @@
       "title": "Baptism, buried with Christ and raised to walk in new life",
       "passages": [
         "Romans 6:1–11"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 13.1,
+      "date": "2026-11-13",
+      "phase": "foundations",
+      "title": "Buried and raised with Christ, and the charge against us canceled",
+      "passages": [
+        "Colossians 2:11–15"
+      ],
+      "status": "done",
+      "sundaySermonTieIn": false
+    },
+    {
+      "number": 13.2,
+      "date": "2026-11-14",
+      "phase": "foundations",
+      "title": "One loaf, one body: a share in Christ’s blood and body",
+      "passages": [
+        "1 Corinthians 10:16–17"
       ],
       "status": "done",
       "sundaySermonTieIn": false
