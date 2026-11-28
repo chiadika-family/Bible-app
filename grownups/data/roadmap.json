@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.308",
+  "version": "2026.11.21.315",
   "start": "2026-10-31",
   "phases": [
     {
@@ -4166,19 +4166,19 @@
         "Ephesians 4:32",
         "Galatians 6:9–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 352,
       "date": "2027-10-19",
       "phase": "character",
-      "title": "Sunday: connect with this week's Grace Life sermon — Faithfulness in little things",
+      "title": "Faithfulness in little things",
       "passages": [
         "Luke 16:10",
         "Matthew 25:21"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -4190,7 +4190,7 @@
         "Titus 3:1–2",
         "1 Corinthians 9:24–27"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4202,7 +4202,7 @@
         "Philippians 2:1–11",
         "John 3:30"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4214,7 +4214,7 @@
         "Joshua 1:6–9",
         "2 Timothy 1:7"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4226,7 +4226,7 @@
         "Exodus 34:5–7",
         "Malachi 3:6"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4238,7 +4238,7 @@
         "Psalm 15:1–5",
         "Proverbs 10:9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
