@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.294",
+  "version": "2026.11.21.301",
   "start": "2026-10-31",
   "phases": [
     {
@@ -3998,20 +3998,20 @@
         "Proverbs 6:6–11",
         "Proverbs 26:13–16"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 338,
       "date": "2027-10-05",
       "phase": "work",
-      "title": "Sunday: connect with this week's Grace Life sermon — Fair bosses and faithful workers",
+      "title": "Fair bosses and faithful workers",
       "passages": [
         "James 5:1–6",
         "Ephesians 6:9",
         "Leviticus 19:13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -4023,7 +4023,7 @@
         "Romans 12:3–8",
         "Psalm 90:17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4036,7 +4036,7 @@
         "1 Peter 2:12",
         "Titus 2:9–10"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4049,7 +4049,7 @@
         "Exodus 23:12",
         "Hebrews 4:9–11"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4061,7 +4061,7 @@
         "Deuteronomy 28:1–8",
         "Psalm 90:16–17"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4073,7 +4073,7 @@
         "Genesis 3:17–19",
         "Ecclesiastes 2:22–24"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {

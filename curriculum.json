@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.45",
+  "contentVersion": "2026.11.21.46",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -11556,11 +11556,238 @@
       "planTitle": "Daniel in the lions' den",
       "title": "Daniel in the lions' den",
       "selectLabel": "Week 49 · Daniel in the lions' den",
-      "ready": false,
+      "ready": true,
       "passage": "Daniel 6:10–23 (NIV)",
-      "bigIdea": "Daniel kept praying to God, and God shut the lions' mouths.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 50 · Nehemiah: rebuilding the wall",
+      "bigIdea": "Daniel kept praying to God, and God shut the lions' mouths.",
+      "scheduleNote": "This is the Week 49 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Daniel 6:10–15 out loud, then 6:16–18, then 6:19–23."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Daniel 6:10–15",
+          "text": "10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 11 Then these men went as a group and found Daniel praying and asking God for help. 12 So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?” The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.” 13 Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” 14 When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him. 15 Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”"
+        },
+        {
+          "cite": "Daniel 6:16–18",
+          "text": "16 So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!” 17 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed. 18 Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep."
+        },
+        {
+          "cite": "Daniel 6:19–23",
+          "text": "19 At the first light of dawn, the king got up and hurried to the lions’ den. 20 When he came near the den, he called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” 21 Daniel answered, “May the king live forever! 22 My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” 23 The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that God used Esther’s courage to save her people. Today we hear that Daniel kept praying to God, and that God shut the lions’ mouths.",
+        "We do not leave today’s reading to tell the earlier verses as official text. In our words, a law had been made that, for thirty days, people were not to pray to anyone except the king. We say that simply. Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.",
+        "Then these men went as a group and found Daniel praying and asking God for help. They told the king about the decree, and the king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.” Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him. But the men said, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”",
+        "So the king gave the order, and they brought Daniel and threw him into the lions’ den. We say that simply, and with care. It is not a scene to act out or to linger on. The king said to Daniel, “May your God, whom you serve continually, rescue you!” A stone was placed over the mouth of the den, and the king sealed it. Then the king returned to his palace and spent the night without eating, and he could not sleep.",
+        "At the first light of dawn, the king got up and hurried to the lions’ den. He called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” Daniel answered, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.",
+        "We do not leave today’s reading to tell the later verses as official text. What we need is already here: Daniel kept praying, and God shut the lions’ mouths. Daniel had trusted in his God.",
+        "Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild."
+      ],
+      "enochLine": "Daniel kept praying, and God shut the lions’ mouths!",
+      "enochActivities": [
+        "Activity: Get down on your knees three times and say: Thank you, God!",
+        "Activity: Look toward a window and say a short thank-you prayer, the way Daniel kept praying."
+      ],
+      "elijahQuestions": [
+        "In Daniel 6:10, what did Daniel do when he learned that the decree had been published?",
+        "In Daniel 6:13–14, what did the men tell the king about Daniel, and how did the king feel?",
+        "In Daniel 6:16, what did the king say to Daniel when he was thrown into the lions’ den?",
+        "In Daniel 6:20–23, what did the king ask, what did Daniel say God had done, and what was found when Daniel was lifted out?"
+      ],
+      "elijahAnswers": [
+        "He went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before (Daniel 6:10).",
+        "They said, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him (Daniel 6:13–14).",
+        "The king said to Daniel, “May your God, whom you serve continually, rescue you!” (Daniel 6:16).",
+        "The king asked, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” Daniel answered, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” The king was overjoyed, Daniel was lifted from the den, and no wound was found on him, because he had trusted in his God (Daniel 6:20–23)."
+      ],
+      "jordynQuestions": [
+        "When Daniel learned that the decree had been published, he prayed three times a day, giving thanks, just as he had done before (Daniel 6:10). What does this show about praying when it becomes costly?",
+        "The king said, “May your God, whom you serve continually, rescue you!” (Daniel 6:16), and later Daniel said that God sent his angel and shut the mouths of the lions (Daniel 6:22). How should we tell the story of the den without making a game of fear or of harm?",
+        "Daniel kept praying to God, and God shut the lions’ mouths. Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild. What stays the same about God?"
+      ],
+      "jordynAnswers": [
+        "Daniel did not wait to see if the danger would pass, and he did not hide the windows. He kept the same praying life he already had, and he gave thanks. Courage here looks like ordinary faithfulness that will not stop when a law makes it hard.",
+        "We tell the truth: Daniel was thrown into the den, the king could not sleep, and in the morning Daniel was unhurt because God had shut the lions’ mouths. We say that simply, and with care. We do not act out the den, or pretend to be lions. The point is that Daniel had trusted in his God, and that God can rescue the one who keeps praying.",
+        "God can be trusted, and he hears prayer. He used Esther’s courage last week, and this week he shut the lions’ mouths for Daniel, who kept praying. Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild. The same God is able to help."
+      ],
+      "jordynApplication": "Daniel kept praying to God, and God shut the lions’ mouths (Daniel 6:10–23). This week, keep a regular prayer—morning, midday, or evening—even when it would be easier to skip it, and trust God with the thing that feels too big. Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild.",
+      "applicationCheck": "Ask her later in the week whether she kept a regular prayer when it would have been easy to stop. If it is fitting, thank God together that Daniel kept praying, and that God shut the lions’ mouths.",
+      "prayer": "Father, thank you that Daniel got down on his knees three times a day and prayed, giving thanks, just as he had done before. Thank you that the king said, “May your God, whom you serve continually, rescue you!” Thank you that Daniel said, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” You shut the lions’ mouths, and no wound was found on him, because he had trusted in you. Help us keep praying, and help us trust you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Daniel 6:10",
+        "Daniel 6:13–14",
+        "Daniel 6:16",
+        "Daniel 6:20–23",
+        "Daniel 6:22",
+        "Daniel 6:10–23"
+      ],
+      "dailies": [
+        {
+          "id": "w49-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "When the decree was published, Daniel did not stop. Three times a day he got down on his knees and prayed, giving thanks, just as he had done before.",
+          "verse": "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.",
+          "verseCite": "Daniel 6:10, NIV",
+          "enoch": "Help a grown-up get on your knees and say: Thank you, God!",
+          "elijah": "What did Daniel do in his upstairs room when he learned that the decree had been published?",
+          "elijahAnswer": "He went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before (Daniel 6:10).",
+          "jordyn": "The men found Daniel praying and asking God for help, and they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” (Daniel 6:11–13). What does it mean that he still prayed three times a day?",
+          "jordynAnswer": "It means he did not change his praying to stay safe. He kept the same habit of thanks and help, even after the decree was published. Faithfulness here is ordinary prayer that will not quit.",
+          "action": "Read Daniel 6:10–15 together. Then get down on your knees once and thank God, the way Daniel kept giving thanks.",
+          "prayer": "Father, thank you that Daniel got down on his knees three times a day and prayed, giving thanks, just as he had done before. Help us keep praying, even when it would be easier to stop. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:10–15",
+          "teach": "In our words, a law had been made that people were not to pray to anyone except the king for thirty days. We do not leave today’s reading to tell those earlier verses as official text. When Daniel learned that the decree had been published, he went home, and three times a day he got down on his knees and prayed, giving thanks, just as he had done before. Men found him praying and told the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” The king was greatly distressed and tried to save him, but the men said the law could not be changed.",
+          "enochActivity": "Get on your knees and say: Thank you, God!",
+          "elijah2": "What did the king answer about the decree, and what did he try to do for Daniel?",
+          "elijahAnswer2": "The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.” When he heard about Daniel, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him (Daniel 6:12, 14).",
+          "jordyn2": "Daniel prayed with the windows opened toward Jerusalem, and he prayed just as he had done before (Daniel 6:10). Why does that matter when a new law makes prayer costly?",
+          "jordynAnswer2": "The windows were not a new show. This was his regular life with God. When the cost rose, he did not invent a secret, smaller faith. He kept the same thanks, in the same place, three times a day.",
+          "passageText": "10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 11 Then these men went as a group and found Daniel praying and asking God for help. 12 So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?” The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.” 13 Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” 14 When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him. 15 Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”"
+        },
+        {
+          "id": "w49-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Daniel prayed three times a day. We can practice a small, regular thanks, not a game about lions.",
+          "verse": "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.",
+          "verseCite": "Daniel 6:10, NIV",
+          "enoch": "Get down on your knees three times and say: Thank you, God!",
+          "elijah": "How many times a day did Daniel get down on his knees and pray, and what did he give?",
+          "elijahAnswer": "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before (Daniel 6:10).",
+          "jordyn": "This game is about keeping a regular prayer, not about pretending to be in a den. How do we keep it kind and serious?",
+          "jordynAnswer": "We do not roar, crawl, or act out being thrown to lions. We kneel three times, say thank you, and remember that Daniel kept praying even when it was hard. The practice is thanks, not fear.",
+          "action": "Choose a window, or face one if you can. Kneel three times—morning, midday, and evening if the day allows, or three times in a row if that is simpler. Each time, say a short thank-you to God. Do not pretend to be a lion, and do not act out the den.",
+          "prayer": "Father, thank you that Daniel prayed three times a day, giving thanks, just as he had done before. Help us practice a regular thank-you, and help us not turn his danger into a game. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:10–11",
+          "teach": "Three times a day Daniel got down on his knees and prayed, giving thanks to his God, just as he had done before. Men found him praying and asking God for help. Today we practice that regular thanks. We do not act out the den.",
+          "enochActivity": "Kneel three times and say: Thank you, God!",
+          "elijah2": "What were the men doing when they found Daniel, and what was Daniel doing?",
+          "elijahAnswer2": "These men went as a group and found Daniel praying and asking God for help (Daniel 6:11).",
+          "jordyn2": "Why is kneeling to give thanks a better practice than acting out the lions’ den?",
+          "jordynAnswer2": "The den was a real danger, and we tell that simply later in the week, with care. What we can practice today is Daniel’s faithful habit: getting down on his knees, asking God for help, and giving thanks, just as he had done before.",
+          "passageText": "10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 11 Then these men went as a group and found Daniel praying and asking God for help."
+        },
+        {
+          "id": "w49-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Daniel was thrown into the lions’ den, and the king said that Daniel’s God, whom he served continually, might rescue him. We tell this simply, and with care.",
+          "verse": "May your God, whom you serve continually, rescue you!",
+          "verseCite": "Daniel 6:16, NIV",
+          "enoch": "Help a grown-up say with you: God can rescue!",
+          "elijah": "What did the king say to Daniel when they threw him into the lions’ den?",
+          "elijahAnswer": "The king said to Daniel, “May your God, whom you serve continually, rescue you!” (Daniel 6:16).",
+          "jordyn": "What happened after Daniel was thrown into the den, and how did the king spend the night (Daniel 6:17–18)?",
+          "jordynAnswer": "A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles. Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep.",
+          "action": "Read Daniel 6:16–18 together. Then say, in your own words, that Daniel served God continually, and that we tell the den simply, without acting it out.",
+          "prayer": "Father, thank you that the king said, “May your God, whom you serve continually, rescue you!” Thank you that Daniel served you continually. Help us trust you when something feels too big, and help us tell this story with care. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:16–18",
+          "teach": "The king gave the order, and they brought Daniel and threw him into the lions’ den. We say that simply, and with care. The king said, “May your God, whom you serve continually, rescue you!” A stone was placed over the mouth of the den and sealed. The king could not eat or sleep that night. We do not act this out. We remember that Daniel served God continually, and that the king hoped God would rescue him.",
+          "enochActivity": "Say: God can rescue!",
+          "elijah2": "What did the men remind the king just before this, and what order did the king then give?",
+          "elijahAnswer2": "The men said, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.” So the king gave the order, and they brought Daniel and threw him into the lions’ den (Daniel 6:15–16).",
+          "jordyn2": "The king was greatly distressed and had tried until sundown to save Daniel (Daniel 6:14). How should we hear both the king’s effort and the throwing into the den?",
+          "jordynAnswer2": "We can notice that the king cared, and that he still could not change the decree. We tell the den simply, not as an adventure game. The hope in the king’s own words is that Daniel’s God, whom he served continually, might rescue him.",
+          "passageText": "16 So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!” 17 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed. 18 Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep."
+        },
+        {
+          "id": "w49-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "At dawn the king hurried to the den. God had shut the lions’ mouths, and Daniel was unhurt because he had trusted in his God. Today we practice trust by keeping a prayer.",
+          "verse": "My God sent his angel, and he shut the mouths of the lions.",
+          "verseCite": "Daniel 6:22, NIV",
+          "enoch": "Help a grown-up look toward morning and say: I will keep praying!",
+          "elijah": "What did the king ask at the den, and what did Daniel say God had done?",
+          "elijahAnswer": "The king asked, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” Daniel answered, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” (Daniel 6:20–22).",
+          "jordyn": "When Daniel was lifted from the den, no wound was found on him, because he had trusted in his God (Daniel 6:23). What is today’s challenge, and what is it not?",
+          "jordynAnswer": "The challenge is to keep one regular prayer and to trust God with one hard thing, the way Daniel kept praying and trusted his God. It is not a dare, and it is not a game about lions or about being brave in a showy way.",
+          "action": "Name one thing that feels too big this week. Tell God about it in a regular prayer—on your knees if you can, once or three times today. Then take one quiet faithful step. Do not act out the den, and do not test God by doing something unsafe.",
+          "prayer": "Father, thank you that Daniel said, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” Thank you that no wound was found on him, because he had trusted in you. Help us keep praying, and help us trust you with the thing that feels too big. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:19–23",
+          "teach": "At the first light of dawn, the king hurried to the lions’ den and called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” Daniel said that God had sent his angel and shut the mouths of the lions. The king was overjoyed, Daniel was lifted out, and no wound was found on him, because he had trusted in his God. Today’s challenge is a real prayer of trust, not a play about danger.",
+          "enochActivity": "Say: I trust you, God. I will keep praying!",
+          "elijah2": "What did the king do at dawn, and what was found when Daniel was lifted out?",
+          "elijahAnswer2": "At the first light of dawn, the king got up and hurried to the lions’ den. The king was overjoyed and gave orders to lift Daniel out. When Daniel was lifted from the den, no wound was found on him, because he had trusted in his God (Daniel 6:19, 23).",
+          "jordyn2": "Daniel said the lions had not hurt him, because he was found innocent in God’s sight, and he had not done wrong before the king (Daniel 6:22). How can that shape the way we trust God this week?",
+          "jordynAnswer2": "We trust God because he is the living God, not because we pretend there is no danger. Daniel had kept praying, and he had done no wrong. We can tell the truth, keep praying, and leave the rescue to God, without turning the story into a test we invent.",
+          "passageText": "19 At the first light of dawn, the king got up and hurried to the lions’ den. 20 When he came near the den, he called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?” 21 Daniel answered, “May the king live forever! 22 My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” 23 The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God."
+        },
+        {
+          "id": "w49-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that Daniel kept praying, and that God shut the lions’ mouths. We ask for the same trust.",
+          "verse": "May your God, whom you serve continually, rescue you!",
+          "verseCite": "Daniel 6:16, NIV",
+          "enoch": "Fold your hands and say: Thank you, God. Help us keep praying!",
+          "elijah": "What did the king hope Daniel’s God would do, and what did Daniel later say God had done?",
+          "elijahAnswer": "The king said, “May your God, whom you serve continually, rescue you!” Daniel later said, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” (Daniel 6:16, 21–22).",
+          "jordyn": "No wound was found on Daniel, because he had trusted in his God (Daniel 6:23). How can that shape a family prayer?",
+          "jordynAnswer": "We can thank God that Daniel kept praying, and that God shut the lions’ mouths. We ask him to help us serve him continually, and to trust him with what feels too big. We pray solemnly, not as if the den were a game.",
+          "action": "Pray the family prayer slowly. When you hear, “May your God, whom you serve continually, rescue you!” pause and ask God to help you keep praying and to trust him.",
+          "prayer": "Father, thank you that Daniel prayed three times a day, giving thanks, just as he had done before. Thank you that the king said, “May your God, whom you serve continually, rescue you!” Thank you that you sent your angel and shut the mouths of the lions, and that no wound was found on Daniel, because he had trusted in you. Help us keep praying, and help us trust you. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:10, 16, 22–23",
+          "teach": "Today we pray with Daniel’s faithful prayer in our ears. He got down on his knees three times a day and gave thanks, just as he had done before. The king said, “May your God, whom you serve continually, rescue you!” God sent his angel and shut the mouths of the lions, and Daniel was lifted out unhurt, because he had trusted in his God.",
+          "enochActivity": "Fold your hands and say: Help us keep praying!",
+          "elijah2": "What did Daniel give to God three times a day, and what had he trusted in at the end of the story?",
+          "elijahAnswer2": "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. When he was lifted from the den, no wound was found on him, because he had trusted in his God (Daniel 6:10, 23).",
+          "jordyn2": "How can we pray about a hard thing without turning Daniel’s rescue into a promise that every hard thing will end the same way tomorrow?",
+          "jordynAnswer2": "We can thank God for what he did for Daniel, tell him the real thing in front of us, and ask for help to keep praying and to trust him. We leave the how and the when to God, and we remember that Daniel served him continually even before the rescue.",
+          "passageText": "10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 16 So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!” 22 My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” 23 The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God."
+        },
+        {
+          "id": "w49-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Daniel kept praying to God, and God shut the lions’ mouths. Next, Nehemiah prayed and worked, and God helped his people rebuild.",
+          "verse": "Daniel kept praying to God, and God shut the lions' mouths.",
+          "verseCite": "Daniel 6:10–23, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, Nehemiah prayed and worked!",
+          "elijah": "What is this week’s big idea, and can you tell the story from Daniel’s upstairs room to the morning at the den?",
+          "elijahAnswer": "Daniel kept praying to God, and God shut the lions’ mouths. When the decree was published, Daniel still got down on his knees three times a day and gave thanks. Men told the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” The king was distressed, and Daniel was thrown into the den. The king said, “May your God, whom you serve continually, rescue you!” In the morning Daniel said, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” He was lifted out, and no wound was found on him, because he had trusted in his God. We tell the den simply.",
+          "jordyn": "We have seen that Daniel kept praying to God, and that God shut the lions’ mouths. Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild. What stays the same about God?",
+          "jordynAnswer": "God can be trusted, and he hears prayer. He used Esther’s courage, he shut the lions’ mouths for Daniel, and next week we will hear that he helped his people rebuild as Nehemiah prayed and worked. The same God is able to help.",
+          "action": "Tell someone the week’s big idea: Daniel kept praying to God, and God shut the lions' mouths. Then look ahead to Nehemiah, who prayed and worked.",
+          "prayer": "Father, thank you that Daniel kept praying to you, and that you shut the lions’ mouths. Thank you that he had trusted in you. Get our hearts ready to hear that Nehemiah prayed and worked, and that you helped your people rebuild. In Jesus’ name, Amen.",
+          "passageCite": "Daniel 6:10–23",
+          "teach": "This week we heard Daniel keep praying three times a day, even after the decree was published. He was thrown into the lions’ den, and we told that simply. The king could not sleep. In the morning Daniel said that God had sent his angel and shut the mouths of the lions. No wound was found on him, because he had trusted in his God. Next week we will hear that Nehemiah prayed and worked, and that God helped his people rebuild.",
+          "enochActivity": "Wave a small hello toward tomorrow and say: Nehemiah prayed and worked!",
+          "elijah2": "What did Daniel do just as he had done before, and what did he say God had done in the den?",
+          "elijahAnswer2": "Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. He said, “May the king live forever! My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” (Daniel 6:10, 21–22).",
+          "jordyn2": "Esther did not remain silent, and Daniel did not stop praying. Next week Nehemiah will pray and work. What should we carry from Daniel into that story?",
+          "jordynAnswer2": "We should remember that God hears prayer, and that faithful habits can hold when the cost rises. Daniel kept praying, and he trusted his God. The same God can help his people again, as they pray and as they work.",
+          "passageText": "10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 13 Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” 16 So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!” 22 My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.” 23 The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God."
+        }
+      ]
     },
     {
       "id": "50",
