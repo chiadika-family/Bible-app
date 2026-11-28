@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.39",
+  "contentVersion": "2026.11.21.40",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -10124,11 +10124,236 @@
       "planTitle": "Abraham: God keeps his promise",
       "title": "Abraham: God keeps his promise",
       "selectLabel": "Week 43 · Abraham: God keeps his promise",
-      "ready": false,
+      "ready": true,
       "passage": "Genesis 12:1–9; 15:1–6; 21:1–7 (NIV)",
-      "bigIdea": "God promised Abraham a family, and God kept his word.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 44 · Joseph: God meant it for good",
+      "bigIdea": "God promised Abraham a family, and God kept his word.",
+      "scheduleNote": "This is the Week 43 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Genesis 12:1–9 out loud, then Genesis 15:1–6, then Genesis 21:1–7."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Genesis 12:1–9",
+          "text": "1 The LORD had said to Abram, “Go from your country, your people and your father’s household to the land I will show you. 2 “I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. 3 I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.” 4 So Abram went, as the LORD had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran. 5 He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Harran, and they set out for the land of Canaan, and they arrived there. 6 Abram traveled through the land as far as the site of the great tree of Moreh at Shechem. At that time the Canaanites were in the land. 7 The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him. 8 From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD. 9 Then Abram set out and continued toward the Negev."
+        },
+        {
+          "cite": "Genesis 15:1–6",
+          "text": "1 After this, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” 2 But Abram said, “Sovereign LORD, what can you give me since I remain childless and the one who will inherit my estate is Eliezer of Damascus?” 3 And Abram said, “You have given me no children; so a servant in my household will be my heir.” 4 Then the word of the LORD came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” 5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” 6 Abram believed the LORD, and he credited it to him as righteousness."
+        },
+        {
+          "cite": "Genesis 21:1–7",
+          "text": "1 Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 3 Abraham gave the name Isaac to the son Sarah bore him. 4 When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. 5 Abraham was a hundred years old when his son Isaac was born to him. 6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” 7 And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that in Christ we are one body, and every person matters. Today we hear how God promised Abram a family, and how God kept his word. The same man is later called Abraham when the promised son is born. The LORD had said to Abram, Go from your country, your people and your father’s household to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you. So Abram went, as the LORD had told him. He was seventy-five years old. The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him.",
+        "Later the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” Abram still had no child, and he wondered about the promise. We say that simply. It is not a joke. Then the word of the LORD came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness.",
+        "Years went by, and they waited. We do not leave today’s readings to tell other parts of the story. We wait with them for the word God had already spoken. Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised. Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. Abraham gave the name Isaac to the son Sarah bore him. When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. We say that simply, as Abraham’s obedience. Abraham was a hundred years old when his son Isaac was born to him. Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.” We laugh with her for joy, not at her. God promised Abraham a family, and God kept his word.",
+        "Next week we will hear that God was with Joseph, and he used even hard things for good."
+      ],
+      "enochLine": "God promised Abraham a family, and God kept his word!",
+      "enochActivities": [
+        "Activity: Look up and say: God keeps his promises, like stars in the sky!",
+        "Activity: Take one step and say: Abram went, as the LORD told him!"
+      ],
+      "elijahQuestions": [
+        "In Genesis 12:1–4, what did the LORD tell Abram to do, and did Abram go?",
+        "In Genesis 12:7, what did the LORD promise to give Abram’s offspring, and what did Abram do?",
+        "In Genesis 15:4–6, who would be Abram’s heir, what did the LORD say about the stars, and what did Abram do?",
+        "In Genesis 21:1–7, what did the LORD do for Sarah, what did they name the son, and what did Sarah say about laughter?"
+      ],
+      "elijahAnswers": [
+        "The LORD told him to go from his country, his people, and his father’s household to the land the LORD would show him, and that he would make him into a great nation and bless him. So Abram went, as the LORD had told him (Genesis 12:1–4).",
+        "The LORD said, “To your offspring I will give this land.” So Abram built an altar there to the LORD, who had appeared to him (Genesis 12:7).",
+        "A son who is your own flesh and blood will be your heir. The LORD said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said, “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness (Genesis 15:4–6).",
+        "The LORD was gracious to Sarah as he had said, and did for Sarah what he had promised. They named the son Isaac. Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” (Genesis 21:1–6)."
+      ],
+      "jordynQuestions": [
+        "The LORD promised to make Abram into a great nation, and to bless all peoples on earth through him (Genesis 12:2–3), and Abram went, as the LORD had told him (Genesis 12:4). What is the difference between hearing a promise and actually going?",
+        "Abram still had no child when the LORD said, “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness (Genesis 15:5–6). What does it mean to believe God when you cannot yet see the promise?",
+        "God kept his word at the very time he had promised, and next week we will hear that God was with Joseph, and he used even hard things for good. What stays the same about God in both stories?"
+      ],
+      "jordynAnswers": [
+        "Abram did not only hear the blessing. He left his country and his father’s household, and he went, as the LORD had told him. Faith takes the next step God has given, even before the great nation can be seen.",
+        "Believing is trusting the LORD’s word, not waiting until you can already count the family. Abram had no child yet, and he still believed. The LORD credited it to him as righteousness.",
+        "God keeps his word. He was gracious to Sarah as he had said, at the very time he had promised. Next week we will hear that God was with Joseph, even in hard things, and used them for good. The same God is faithful."
+      ],
+      "jordynApplication": "God promised Abraham a family, and God kept his word (Genesis 12:1–9; 15:1–6; 21:1–7). This week, thank God for one promise he has already kept, and take one ordinary step of trust, the way Abram went as the LORD had told him. Next week we will hear that God was with Joseph, and he used even hard things for good.",
+      "applicationCheck": "Ask her later in the week which promise she thanked God for, or what step of trust she took. If it is fitting, thank God together that he promised Abraham a family, and that he kept his word.",
+      "prayer": "Father, thank you that you told Abram to go, and that he went as you had told him. Thank you that you said, “To your offspring I will give this land.” Thank you that you said, “So shall your offspring be.” Thank you that Abram believed you, and that you were gracious to Sarah as you had said, and did what you had promised. You promised Abraham a family, and you kept your word. Help us trust you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Genesis 12:1–4",
+        "Genesis 12:7",
+        "Genesis 15:1, 5–6",
+        "Genesis 15:4–6",
+        "Genesis 21:1–3",
+        "Genesis 21:5–7",
+        "Genesis 12:1–9; 15:1–6; 21:1–7"
+      ],
+      "dailies": [
+        {
+          "id": "w43-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "The LORD called Abram to go, and promised to bless him and make him a great nation.",
+          "verse": "So Abram went, as the LORD had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran.",
+          "verseCite": "Genesis 12:4, NIV",
+          "enoch": "Take one step and say: Abram went, as the LORD told him!",
+          "elijah": "In Genesis 12:1–3, what did the LORD tell Abram to leave, and what did he promise to do?",
+          "elijahAnswer": "Go from your country, your people and your father’s household to the land I will show you. I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. All peoples on earth will be blessed through you.",
+          "jordyn": "In Genesis 12:4–7, what did Abram do, and what did the LORD say about the land?",
+          "jordynAnswer": "So Abram went, as the LORD had told him. The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him.",
+          "action": "Read Genesis 12:1–9 out loud. Then thank God that Abram went as the LORD had told him, and that God promised him a family and a land.",
+          "prayer": "Father, thank you that you called Abram to go, and that he went as you had told him. Thank you that you said, “To your offspring I will give this land.” Help us trust your word. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 12:1–9, NIV",
+          "teach": "The LORD had said to Abram, Go from your country, your people and your father’s household to the land I will show you. I will make you into a great nation, and I will bless you. So Abram went, as the LORD had told him. The LORD said, “To your offspring I will give this land.” Abram built an altar there, and called on the name of the LORD.",
+          "enochActivity": "Take one step, then fold your hands, and say: Thank you, God! Abram went!",
+          "elijah2": "In Genesis 12:2, what did the LORD say he would make Abram into?",
+          "elijahAnswer2": "I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing.",
+          "jordyn2": "Why might it matter that all peoples on earth will be blessed through Abram (Genesis 12:3), not only Abram’s own house?",
+          "jordynAnswer2": "God’s promise is bigger than one family album. He would bless Abram, and through him bless all peoples on earth.",
+          "passageText": "1 The LORD had said to Abram, “Go from your country, your people and your father’s household to the land I will show you. 2 “I will make you into a great nation, and I will bless you; I will make your name great, and you will be a blessing. 3 I will bless those who bless you, and whoever curses you I will curse; and all peoples on earth will be blessed through you.” 4 So Abram went, as the LORD had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran. 5 He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Harran, and they set out for the land of Canaan, and they arrived there. 6 Abram traveled through the land as far as the site of the great tree of Moreh at Shechem. At that time the Canaanites were in the land. 7 The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him. 8 From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD. 9 Then Abram set out and continued toward the Negev."
+        },
+        {
+          "id": "w43-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "We remember the promise, and we practice going as the LORD told Abram.",
+          "verse": "The LORD appeared to Abram and said, “To your offspring I will give this land.”",
+          "verseCite": "Genesis 12:7, NIV",
+          "enoch": "Point ahead and say: To your offspring I will give this land!",
+          "elijah": "In Genesis 12:1 and 12:4, what did the LORD tell Abram to do, and what did Abram do?",
+          "elijahAnswer": "The LORD told him to go from his country, his people, and his father’s household to the land the LORD would show him. So Abram went, as the LORD had told him.",
+          "jordyn": "This game is about trusting and going, not about pretending to be old (Genesis 12:4). What should we remember if we talk about Abram being seventy-five?",
+          "jordynAnswer": "We say his age simply, because the story does. We do not make a joke of it. The point is that Abram went, as the LORD had told him, and God had promised a family and a land.",
+          "action": "Play Go as the LORD told him. Take turns taking a calm step across the room, then stopping to build a tiny altar with two hands, and saying, “To your offspring I will give this land.” Do not race, and do not make a joke of Abram’s age.",
+          "prayer": "Father, thank you that Abram went as you had told him, and that you promised, “To your offspring I will give this land.” Help us trust you and take the next step you give. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 12:1–9, NIV",
+          "teach": "Go from your country, your people and your father’s household to the land I will show you. So Abram went, as the LORD had told him. The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there. Today we practice going and remembering the promise, with care.",
+          "enochActivity": "Take one step and say: I will go, because God keeps his word!",
+          "elijah2": "In Genesis 12:8, after the LORD appeared, what else did Abram do?",
+          "elijahAnswer2": "He pitched his tent, built an altar to the LORD, and called on the name of the LORD.",
+          "jordyn2": "What is the difference between building an altar and just walking past the promise (Genesis 12:7–8)?",
+          "jordynAnswer2": "Abram stopped to worship. He called on the name of the LORD in the land God had promised. The promise was not only a trip. It was a life with God.",
+          "passageText": "1 The LORD had said to Abram, “Go from your country, your people and your father’s household to the land I will show you. 4 So Abram went, as the LORD had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran. 7 The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him. 8 From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD."
+        },
+        {
+          "id": "w43-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The LORD promised Abram a son, and Abram believed the LORD.",
+          "verse": "Abram believed the LORD, and he credited it to him as righteousness.",
+          "verseCite": "Genesis 15:6, NIV",
+          "enoch": "Look up and say: Abram believed the LORD!",
+          "elijah": "In Genesis 15:1 and 15:4–5, what did the LORD say to Abram, and what did he promise about a son and the stars?",
+          "elijahAnswer": "“Do not be afraid, Abram. I am your shield, your very great reward.” “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” He said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said, “So shall your offspring be.”",
+          "jordyn": "In Genesis 15:2–6, Abram still had no child, and he believed the LORD. How should we talk about that waiting, and what did God credit to him?",
+          "jordynAnswer": "We say it simply. Abram wondered about the promise because he had no child yet. That is not a joke. Abram believed the LORD, and he credited it to him as righteousness.",
+          "action": "Read Genesis 15:1–6 out loud. Then look up, if you can see the sky, and thank God that Abram believed the LORD, and that God keeps his promises.",
+          "prayer": "Father, thank you that you said, “Do not be afraid, Abram. I am your shield, your very great reward.” Thank you that you promised, “So shall your offspring be.” Thank you that Abram believed you. Help us believe you too. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 15:1–6, NIV",
+          "teach": "The word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” Abram still had no child. The LORD said, “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” He said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said, “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness.",
+          "enochActivity": "Look up and say: Look at the stars! God keeps his promises!",
+          "elijah2": "In Genesis 15:5, after the LORD told Abram to count the stars, what did he say?",
+          "elijahAnswer2": "“So shall your offspring be.”",
+          "jordyn2": "Why is it important that Abram believed the LORD before the son was born (Genesis 15:6)?",
+          "jordynAnswer2": "He trusted God’s word when he could not yet see the child. The LORD credited that belief to him as righteousness.",
+          "passageText": "1 After this, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” 2 But Abram said, “Sovereign LORD, what can you give me since I remain childless and the one who will inherit my estate is Eliezer of Damascus?” 3 And Abram said, “You have given me no children; so a servant in my household will be my heir.” 4 Then the word of the LORD came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” 5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” 6 Abram believed the LORD, and he credited it to him as righteousness."
+        },
+        {
+          "id": "w43-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "Trust God’s word, as Abram believed the LORD, even before he could see the promise.",
+          "verse": "He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.”",
+          "verseCite": "Genesis 15:5, NIV",
+          "enoch": "Look up and say: So shall your offspring be! I can trust God!",
+          "elijah": "In Genesis 15:5–6, what did the LORD tell Abram to look at, what did he promise, and what did Abram do?",
+          "elijahAnswer": "Look up at the sky and count the stars—if indeed you can count them. “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness.",
+          "jordyn": "A challenge to believe can turn into a show of big words (Genesis 15:6). How is today’s challenge different?",
+          "jordynAnswer": "Abram believed the LORD. The challenge is to trust God’s word in an ordinary way today, not to sound brave. God is the one who keeps the promise.",
+          "action": "Today’s challenge: Name one way you will trust God’s word today—a kind step, a honest prayer, or a thank-you for a promise he has already kept. Do it simply, not as a show.",
+          "prayer": "Father, thank you that Abram believed you, and that you credited it to him as righteousness. Help us trust your word today, even when we cannot yet see the end. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 15:1–6, NIV",
+          "teach": "“Do not be afraid, Abram. I am your shield, your very great reward.” “Look up at the sky and count the stars—if indeed you can count them.” “So shall your offspring be.” Abram believed the LORD, and he credited it to him as righteousness. Today’s challenge is to trust that same faithful God in an ordinary moment.",
+          "enochActivity": "Look up, then fold your hands, and say: I believe you, God!",
+          "elijah2": "In Genesis 15:1, what two things did the LORD say he is for Abram?",
+          "elijahAnswer2": "I am your shield, your very great reward.",
+          "jordyn2": "How can the LORD’s word, Do not be afraid, Abram, help a person who is still waiting on a promise (Genesis 15:1, 6)?",
+          "jordynAnswer2": "The LORD himself is the shield and the reward. Abram believed him before the child was born. We can take the next trusting step without seeing everything yet.",
+          "passageText": "1 After this, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” 5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” 6 Abram believed the LORD, and he credited it to him as righteousness."
+        },
+        {
+          "id": "w43-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that he was gracious to Sarah, and that he kept his promise.",
+          "verse": "Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised.",
+          "verseCite": "Genesis 21:1, NIV",
+          "enoch": "Clap once, gently, and say: God kept his promise!",
+          "elijah": "In Genesis 21:1–5, what did the LORD do for Sarah, what did they name the son, and how old was Abraham?",
+          "elijahAnswer": "The LORD was gracious to Sarah as he had said, and did for Sarah what he had promised. They named the son Isaac. Abraham was a hundred years old when his son Isaac was born to him.",
+          "jordyn": "In Genesis 21:6–7, Sarah talks about laughter and about nursing a child in old age. How should we hear her words?",
+          "jordynAnswer": "Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.” We laugh with her for joy, because God kept his word. We do not make a joke of her age or her body.",
+          "action": "Pray today’s prayer out loud as a family. Thank God that he did what he had promised, and that Isaac was born at the very time God had promised.",
+          "prayer": "Father, thank you that you were gracious to Sarah as you had said, and that you did what you had promised. Thank you for Isaac, and for Sarah’s joy: “God has brought me laughter, and everyone who hears about this will laugh with me.” You promised Abraham a family, and you kept your word. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 21:1–7, NIV",
+          "teach": "Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised. Sarah bore a son to Abraham in his old age, at the very time God had promised him. They named him Isaac. When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. We say that simply, as obedience. Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” God kept his word. Today we pray with thanks.",
+          "enochActivity": "Open your hands and say: Thank you, God! You kept your promise!",
+          "elijah2": "In Genesis 21:2, when was Isaac born?",
+          "elijahAnswer2": "Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him.",
+          "jordyn2": "Why does it matter that this happened at the very time God had promised (Genesis 21:1–2)?",
+          "jordynAnswer2": "God’s word is not late and not empty. He was gracious as he had said, and he did what he had promised.",
+          "passageText": "1 Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 3 Abraham gave the name Isaac to the son Sarah bore him. 4 When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. 5 Abraham was a hundred years old when his son Isaac was born to him. 6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” 7 And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+        },
+        {
+          "id": "w43-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God promised Abraham a family, and he kept his word. Next, God was with Joseph in hard things.",
+          "verse": "Abram believed the LORD, and he credited it to him as righteousness.",
+          "verseCite": "Genesis 15:6, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, God was with Joseph!",
+          "elijah": "What is this week’s big idea, and can you tell how God kept his promise, from the call of Abram to the birth of Isaac?",
+          "elijahAnswer": "God promised Abraham a family, and God kept his word. The LORD told Abram to go, and promised to make him a great nation. Abram believed the LORD when he still had no child, and the LORD said, “So shall your offspring be.” Then the LORD was gracious to Sarah as he had said, and Isaac was born at the very time God had promised.",
+          "jordyn": "We have seen that God kept his promise to Abraham, and next week we will hear that God was with Joseph, and he used even hard things for good. What stays the same about God?",
+          "jordynAnswer": "God is faithful. He keeps his word, and he does not leave his people. Next week we will hear that God was with Joseph even in hard things, and used them for good. The same God who kept his promise to Abraham was with Joseph too.",
+          "action": "Tell someone the week’s big idea: God promised Abraham a family, and God kept his word. Then look ahead to Joseph, and the God who can use even hard things for good.",
+          "prayer": "Father, thank you that you promised Abraham a family, and that you kept your word. Thank you that Abram believed you, and that Isaac was born at the very time you had promised. Get our hearts ready to hear that you were with Joseph, and that you used even hard things for good. In Jesus’ name, Amen.",
+          "passageCite": "Genesis 12:1–9; 15:1–6; 21:1–7, NIV",
+          "teach": "This week we learned that God promised Abraham a family, and God kept his word. The LORD told Abram to go, and he went. The LORD said, “To your offspring I will give this land.” He also said, “So shall your offspring be.” Abram believed the LORD. Then the LORD was gracious to Sarah as he had said, and Isaac was born. Next week we will hear that God was with Joseph, and he used even hard things for good.",
+          "enochActivity": "Help a grown-up look toward the next room and say: Next week, Joseph: God meant it for good!",
+          "elijah2": "In Genesis 21:6, what did Sarah say God had brought her?",
+          "elijahAnswer2": "“God has brought me laughter, and everyone who hears about this will laugh with me.”",
+          "jordyn2": "What stays the same when the story moves from Abraham’s kept promise this week to Joseph’s hard road next week?",
+          "jordynAnswer2": "The same God keeps his word and stays with his people. He promised Abraham a family and kept his word. Next week we will hear that he was with Joseph, and used even hard things for good.",
+          "passageText": "1 The LORD had said to Abram, “Go from your country, your people and your father’s household to the land I will show you. 4 So Abram went, as the LORD had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran. 7 The LORD appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the LORD, who had appeared to him. 5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” 6 Abram believed the LORD, and he credited it to him as righteousness. 1 Now the LORD was gracious to Sarah as he had said, and the LORD did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.”"
+        }
+      ]
     },
     {
       "id": "44",
