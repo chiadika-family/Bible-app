@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.46",
+  "contentVersion": "2026.11.21.47",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -11795,11 +11795,237 @@
       "planTitle": "Nehemiah: rebuilding the wall",
       "title": "Nehemiah: rebuilding the wall",
       "selectLabel": "Week 50 · Nehemiah: rebuilding the wall",
-      "ready": false,
+      "ready": true,
       "passage": "Nehemiah 2:11–18; 6:15–16 (NIV)",
-      "bigIdea": "Nehemiah prayed and worked, and God helped his people rebuild.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 51 · Jonah: God's mercy for Nineveh",
+      "bigIdea": "Nehemiah prayed and worked, and God helped his people rebuild.",
+      "scheduleNote": "This is the Week 50 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Nehemiah 2:11–16 out loud, then 2:17–18, then 6:15–16."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Nehemiah 2:11–16",
+          "text": "11 I went to Jerusalem, and after staying there three days 12 I set out during the night with a few others. I had not told anyone what my God had put in my heart to do for Jerusalem. There were no mounts with me except the one I was riding on. 13 By night I went out through the Valley Gate toward the Jackal Well and the Dung Gate, examining the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire. 14 Then I moved on toward the Fountain Gate and the King’s Pool, but there was not enough room for my mount to get through; 15 so I went up the valley by night, examining the wall. Finally, I turned back and reentered through the Valley Gate. 16 The officials did not know where I had gone or what I was doing, because as yet I had said nothing to the Jews or the priests or nobles or officials or any others who would be doing the work."
+        },
+        {
+          "cite": "Nehemiah 2:17–18",
+          "text": "17 Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work."
+        },
+        {
+          "cite": "Nehemiah 6:15–16",
+          "text": "15 So the wall was completed on the twenty-fifth of Elul, in fifty-two days. 16 When all our enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that Daniel kept praying to God, and that God shut the lions’ mouths. Today we hear that Nehemiah prayed and worked, and that God helped his people rebuild.",
+        "We do not leave today’s readings to tell the earlier verses as official text. In our words, Nehemiah had come a long way, and God had opened a door for him to help Jerusalem. Then he went to Jerusalem, and after staying there three days he set out during the night with a few others. He had not told anyone what his God had put in his heart to do for Jerusalem.",
+        "By night he went out, examining the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire. We say the ruin simply, and with care. It is not a scene to linger on. He moved on toward the Fountain Gate and the King’s Pool, but there was not enough room for his mount to get through, so he went up the valley by night, examining the wall, and then turned back. The officials did not know where he had gone or what he was doing, because as yet he had said nothing to the people who would be doing the work.",
+        "Then he said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” He also told them about the gracious hand of his God on him and what the king had said to him. They replied, “Let us start rebuilding.” So they began this good work.",
+        "We do not leave today’s readings to tell the middle chapters as official text. In our words, the work took time, and there were people who did not want the wall built. We say that simply. Then the wall was completed on the twenty-fifth of Elul, in fifty-two days. When all their enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God. Nehemiah prayed and worked, and God helped his people rebuild.",
+        "Next week we will hear that God was merciful to Nineveh, and that he wants us to love people we would rather avoid."
+      ],
+      "enochLine": "Nehemiah prayed and worked, and God helped them rebuild!",
+      "enochActivities": [
+        "Activity: Stack a few blocks or books, like starting a wall, and say: Let us start rebuilding!",
+        "Activity: Fold your hands to pray, then do one small helpful job."
+      ],
+      "elijahQuestions": [
+        "In Nehemiah 2:11–12, when did Nehemiah set out, and what had he not told anyone?",
+        "In Nehemiah 2:13–15, what did Nehemiah examine by night, and what had happened to the walls and gates?",
+        "In Nehemiah 2:17–18, what did Nehemiah say to the people, what did he tell them about God, and what did they reply?",
+        "In Nehemiah 6:15–16, how long did the work take, and what did the surrounding nations realize?"
+      ],
+      "elijahAnswers": [
+        "He went to Jerusalem, and after staying there three days he set out during the night with a few others. He had not told anyone what his God had put in his heart to do for Jerusalem (Nehemiah 2:11–12).",
+        "He examined the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire. He went up the valley by night, examining the wall, and then turned back and reentered through the Valley Gate (Nehemiah 2:13–15).",
+        "He said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” He also told them about the gracious hand of his God on him and what the king had said to him. They replied, “Let us start rebuilding.” So they began this good work (Nehemiah 2:17–18).",
+        "The wall was completed on the twenty-fifth of Elul, in fifty-two days. When all their enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God (Nehemiah 6:15–16)."
+      ],
+      "jordynQuestions": [
+        "Nehemiah had not told anyone what his God had put in his heart to do for Jerusalem, and he examined the broken wall by night before he spoke (Nehemiah 2:12–16). What does this show about praying, looking carefully, and then working?",
+        "Nehemiah said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” He told them about the gracious hand of his God, and they said, “Let us start rebuilding.” Later the nations realized that this work had been done with the help of our God (Nehemiah 2:17–18; 6:16). How do prayer and work belong together in this story?",
+        "Nehemiah prayed and worked, and God helped his people rebuild. Next week we will hear that God was merciful to Nineveh, and that he wants us to love people we would rather avoid. What stays the same about God?"
+      ],
+      "jordynAnswers": [
+        "God had already put the work in Nehemiah’s heart. He looked carefully at the real trouble before he called others to build. Prayer is not a substitute for seeing what is broken, and seeing what is broken is not a substitute for trusting God. He waited to speak until he was ready to begin the good work.",
+        "They did not rebuild by talk only, and they did not rebuild as if God were absent. Nehemiah named the ruin honestly, invited the people to work, and pointed to the gracious hand of God. When the wall was finished in fifty-two days, even the enemies could tell that God had helped. Prayer and work belonged together from the start to the finish.",
+        "God can be trusted, and he helps his people. He heard Daniel’s prayer, he helped Nehemiah’s people rebuild, and next week we will hear that he is merciful even to people we would rather avoid. The same God is able to help, and he is kind."
+      ],
+      "jordynApplication": "Nehemiah prayed and worked, and God helped his people rebuild (Nehemiah 2:11–18; 6:15–16). This week, pray about one broken or unfinished thing, then take one small faithful step to help rebuild it—a chore, a kindness, or a piece of work you have been putting off. Next week we will hear that God was merciful to Nineveh, and that he wants us to love people we would rather avoid.",
+      "applicationCheck": "Ask her later in the week what she prayed about and what small rebuilding step she took. If it is fitting, thank God together that Nehemiah prayed and worked, and that God helped his people rebuild.",
+      "prayer": "Father, thank you that Nehemiah said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” Thank you that the people said, “Let us start rebuilding.” Thank you that he told them about the gracious hand of his God, and that the wall was completed in fifty-two days, with the help of our God. You helped your people rebuild. Help us pray and work. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Nehemiah 2:11–12",
+        "Nehemiah 2:12–16",
+        "Nehemiah 2:13–15",
+        "Nehemiah 2:17–18",
+        "Nehemiah 6:15–16",
+        "Nehemiah 2:11–18; 6:15–16"
+      ],
+      "dailies": [
+        {
+          "id": "w50-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "Nehemiah went out by night and examined the broken wall before he called anyone to rebuild. God had put the work in his heart.",
+          "verse": "I had not told anyone what my God had put in my heart to do for Jerusalem.",
+          "verseCite": "Nehemiah 2:12, NIV",
+          "enoch": "Help a grown-up walk quietly around the room and look carefully, then say: God can help us rebuild!",
+          "elijah": "When did Nehemiah set out, and what had he not told anyone yet?",
+          "elijahAnswer": "After staying in Jerusalem three days, he set out during the night with a few others. He had not told anyone what his God had put in his heart to do for Jerusalem (Nehemiah 2:11–12).",
+          "jordyn": "What did Nehemiah examine by night, and what had happened to the walls and gates (Nehemiah 2:13–15)?",
+          "jordynAnswer": "He examined the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire. We say that simply. He went up the valley by night, examining the wall, and then turned back and reentered through the Valley Gate.",
+          "action": "Read Nehemiah 2:11–16 together. Then walk around a room once, looking carefully, and thank God that he can put a good work in a person’s heart.",
+          "prayer": "Father, thank you that Nehemiah had not told anyone what you had put in his heart to do for Jerusalem. Thank you that he looked carefully at the broken wall. Help us see what needs to be rebuilt, and help us trust you. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 2:11–16",
+          "teach": "Nehemiah went to Jerusalem, stayed three days, and then set out at night with a few others. God had put something in his heart to do for Jerusalem, and he had not told anyone yet. By night he examined the broken walls and the gates destroyed by fire. We say the ruin simply. The officials did not yet know where he had gone or what he was doing.",
+          "enochActivity": "Walk quietly, look carefully, and say: God can help us rebuild!",
+          "elijah2": "Why did the officials not know where Nehemiah had gone or what he was doing?",
+          "elijahAnswer2": "The officials did not know, because as yet he had said nothing to the Jews or the priests or nobles or officials or any others who would be doing the work (Nehemiah 2:16).",
+          "jordyn2": "Nehemiah looked at the wall carefully before he spoke. How can that shape the way we begin a hard good work?",
+          "jordynAnswer2": "We can pray, look at what is really broken, and not rush into empty talk. God had already put the work in his heart. Looking carefully was part of being ready to rebuild, not a way of putting the work off forever.",
+          "passageText": "11 I went to Jerusalem, and after staying there three days 12 I set out during the night with a few others. I had not told anyone what my God had put in my heart to do for Jerusalem. There were no mounts with me except the one I was riding on. 13 By night I went out through the Valley Gate toward the Jackal Well and the Dung Gate, examining the walls of Jerusalem, which had been broken down, and its gates, which had been destroyed by fire. 14 Then I moved on toward the Fountain Gate and the King’s Pool, but there was not enough room for my mount to get through; 15 so I went up the valley by night, examining the wall. Finally, I turned back and reentered through the Valley Gate. 16 The officials did not know where I had gone or what I was doing, because as yet I had said nothing to the Jews or the priests or nobles or officials or any others who would be doing the work."
+        },
+        {
+          "id": "w50-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Nehemiah looked at the broken wall, then the people said they would start rebuilding. We can practice looking, then beginning a small good work.",
+          "verse": "Let us start rebuilding.",
+          "verseCite": "Nehemiah 2:18, NIV",
+          "enoch": "Stack a few blocks or books, like starting a wall, and say: Let us start rebuilding!",
+          "elijah": "What did the people reply when Nehemiah told them about the gracious hand of God and what the king had said?",
+          "elijahAnswer": "They replied, “Let us start rebuilding.” So they began this good work (Nehemiah 2:18).",
+          "jordyn": "This game is about starting a good work, not about fighting enemies or playing in ruins. How do we keep it kind and useful?",
+          "jordynAnswer": "We do not pretend to smash walls or act out a battle. We look at a small mess or a stack of blocks, then begin to build or tidy. The practice is starting the good work, the way they said, “Let us start rebuilding.”",
+          "action": "Walk once around a table or a room, looking carefully like Nehemiah examining the wall. Then stack a few books or blocks, or tidy one small thing, and say, “Let us start rebuilding.” Do not knock things down on purpose.",
+          "prayer": "Father, thank you that the people said, “Let us start rebuilding.” Thank you that they began this good work. Help us look carefully, then start the work you put in our hearts. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 2:17–18",
+          "teach": "Nehemiah told the people the trouble they were in, and he told them about the gracious hand of his God. They replied, “Let us start rebuilding.” So they began this good work. Today we practice looking, then starting, not a fight and not a ruin game.",
+          "enochActivity": "Stack a small wall of blocks and say: Let us start rebuilding!",
+          "elijah2": "What trouble did Nehemiah name, and what did he invite the people to do?",
+          "elijahAnswer2": "He said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” (Nehemiah 2:17).",
+          "jordyn2": "Why is stacking or tidying a better practice than acting out burned gates or enemies?",
+          "jordynAnswer2": "The ruin was real, and we tell it simply, with care. Enemies come later in the week, and even then we do not make a mocking game of them. What we can practice today is the people’s yes: starting a good work with God’s help.",
+          "passageText": "17 Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work."
+        },
+        {
+          "id": "w50-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "Nehemiah named the ruin honestly, pointed to the gracious hand of God, and the people began this good work.",
+          "verse": "Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.",
+          "verseCite": "Nehemiah 2:17, NIV",
+          "enoch": "Help a grown-up say with you: Come, let us rebuild!",
+          "elijah": "What did Nehemiah say about the trouble they were in, and what did he invite the people to do?",
+          "elijahAnswer": "He said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” (Nehemiah 2:17).",
+          "jordyn": "What did Nehemiah also tell them, and how did they answer (Nehemiah 2:18)?",
+          "jordynAnswer": "He also told them about the gracious hand of his God on him and what the king had said to him. They replied, “Let us start rebuilding.” So they began this good work.",
+          "action": "Read Nehemiah 2:17–18 together. Then say, in your own words, that God had been gracious, and that it is time to start a good work.",
+          "prayer": "Father, thank you that Nehemiah said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” Thank you that he told them about the gracious hand of his God, and that they said, “Let us start rebuilding.” Help us begin the good work you give us. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 2:17–18",
+          "teach": "After examining the wall, Nehemiah spoke. He said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” He did not hide the ruin, and he did not hide God’s help. He told them about the gracious hand of his God on him and what the king had said to him. They replied, “Let us start rebuilding.” So they began this good work.",
+          "enochActivity": "Say: Come, let us rebuild! God will help us!",
+          "elijah2": "Nehemiah told them about the gracious hand of his God and about the king. Why do both of those belong in the same speech?",
+          "elijahAnswer2": "God had already been at work, and the king’s words were part of that help. Nehemiah wanted the people to start rebuilding because of the gracious hand of God, not because they had to pretend the trouble was small (Nehemiah 2:18).",
+          "jordyn2": "The people began this good work after they heard both the trouble and God’s gracious hand. What should we remember when a job looks too big?",
+          "jordynAnswer2": "We should tell the truth about what is broken, remember that God’s hand can be gracious, and then start. The first yes is not finishing the wall. It is beginning the good work with him.",
+          "passageText": "17 Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work."
+        },
+        {
+          "id": "w50-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "The wall was finished in fifty-two days, with the help of God. Today we pray, then take one small rebuilding step.",
+          "verse": "They realized that this work had been done with the help of our God.",
+          "verseCite": "Nehemiah 6:16, NIV",
+          "enoch": "Help a grown-up fold hands to pray, then do one small helpful job!",
+          "elijah": "When was the wall completed, and how many days did the work take?",
+          "elijahAnswer": "So the wall was completed on the twenty-fifth of Elul, in fifty-two days (Nehemiah 6:15).",
+          "jordyn": "What did the surrounding nations realize when they heard that the wall was finished (Nehemiah 6:16)? What is today’s challenge, and what is it not?",
+          "jordynAnswer": "They were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God. The challenge is to pray about one unfinished good work, then do one small part of it. It is not a race, and it is not a game about enemies.",
+          "action": "Name one thing at home that is unfinished or broken—a tidy-up, a kindness, or a job you have delayed. Pray first, then do one small faithful piece of it. Do not make a show of beating anyone, and do not try to finish everything in a rush.",
+          "prayer": "Father, thank you that the wall was completed in fifty-two days, and that the nations realized this work had been done with the help of our God. Help us pray and then do one small good work today. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 6:15–16",
+          "teach": "We do not leave today’s reading to tell the middle chapters as official text. In our words, the work took time, and there were people who did not want the wall built. Then the wall was completed in fifty-two days. The surrounding nations lost their self-confidence, because they realized that this work had been done with the help of our God. Today’s challenge is a real, small rebuilding step after prayer.",
+          "enochActivity": "Pray, then do one small helpful job!",
+          "elijah2": "What happened when all their enemies heard that the wall was completed?",
+          "elijahAnswer2": "When all our enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God (Nehemiah 6:16).",
+          "jordyn2": "How should we hear the enemies’ fear, and how should that shape our work this week?",
+          "jordynAnswer2": "We do not make a mocking game of people who opposed the work. We notice that even they could tell God had helped. So we work without boasting in ourselves. We pray, we take a faithful step, and we give God the help.",
+          "passageText": "15 So the wall was completed on the twenty-fifth of Elul, in fifty-two days. 16 When all our enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God."
+        },
+        {
+          "id": "w50-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that Nehemiah prayed and worked, and that the wall was finished with the help of our God.",
+          "verse": "They realized that this work had been done with the help of our God.",
+          "verseCite": "Nehemiah 6:16, NIV",
+          "enoch": "Fold your hands and say: Thank you, God. Help us rebuild!",
+          "elijah": "What did Nehemiah tell the people about God before they began the work?",
+          "elijahAnswer": "He told them about the gracious hand of his God on him and what the king had said to him (Nehemiah 2:18).",
+          "jordyn": "The wall was completed in fifty-two days, with the help of our God (Nehemiah 6:15–16). How can that shape a family prayer?",
+          "jordynAnswer": "We can thank God that Nehemiah did not only look at the ruin, and did not only talk. He pointed to God’s gracious hand, the people began the good work, and God helped them finish. We ask him to help us pray and work in the same way.",
+          "action": "Pray the family prayer slowly. When you hear, with the help of our God, pause and ask him to help you with one good work.",
+          "prayer": "Father, thank you that Nehemiah said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” Thank you that the people said, “Let us start rebuilding.” Thank you for the gracious hand of God, and that the wall was completed in fifty-two days, with the help of our God. Help us pray and work. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 2:17–18; 6:15–16",
+          "teach": "Today we pray with Nehemiah’s good work in our ears. He named the trouble, told the people about the gracious hand of his God, and they said, “Let us start rebuilding.” The wall was completed in fifty-two days, and even the nations realized that this work had been done with the help of our God.",
+          "enochActivity": "Fold your hands and say: Help us pray and work!",
+          "elijah2": "What invitation did Nehemiah give, and what did the nations later realize?",
+          "elijahAnswer2": "He said, Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace. Later the nations realized that this work had been done with the help of our God (Nehemiah 2:17; 6:16).",
+          "jordyn2": "How can we pray about a long job without pretending we can finish it in a day, the way the wall was finished in fifty-two days?",
+          "jordynAnswer2": "We can tell God the real work, thank him that his hand can be gracious, and ask for help to start and to keep going. Fifty-two days was still a stretch of faithful work. We ask him for the next faithful step, not for a shortcut we can boast about.",
+          "passageText": "17 Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work. 15 So the wall was completed on the twenty-fifth of Elul, in fifty-two days. 16 When all our enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God."
+        },
+        {
+          "id": "w50-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "Nehemiah prayed and worked, and God helped his people rebuild. Next, God was merciful to Nineveh, and he wants us to love people we would rather avoid.",
+          "verse": "Nehemiah prayed and worked, and God helped his people rebuild.",
+          "verseCite": "Nehemiah 2:11–18; 6:15–16, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, God was merciful!",
+          "elijah": "What is this week’s big idea, and can you tell the story from the night inspection to the finished wall?",
+          "elijahAnswer": "Nehemiah prayed and worked, and God helped his people rebuild. He set out at night and examined the broken walls and burned gates. He said, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” He told them about the gracious hand of his God, and they said, “Let us start rebuilding.” The wall was completed in fifty-two days, and the nations realized that this work had been done with the help of our God.",
+          "jordyn": "We have seen that Nehemiah prayed and worked, and that God helped his people rebuild. Next week we will hear that God was merciful to Nineveh, and that he wants us to love people we would rather avoid. What stays the same about God?",
+          "jordynAnswer": "God can be trusted, and he helps his people. He heard Daniel’s prayer, he helped Jerusalem rebuild, and next week we will hear that he is merciful even to people we would rather avoid. The same God is able to help, and he is kind.",
+          "action": "Tell someone the week’s big idea: Nehemiah prayed and worked, and God helped his people rebuild. Then look ahead to Nineveh, and to God’s mercy.",
+          "prayer": "Father, thank you that Nehemiah prayed and worked, and that you helped your people rebuild. Thank you for the gracious hand of God, and that the wall was finished with your help. Get our hearts ready to hear that you were merciful to Nineveh, and that you want us to love people we would rather avoid. In Jesus’ name, Amen.",
+          "passageCite": "Nehemiah 2:11–18; 6:15–16",
+          "teach": "This week we heard Nehemiah examine the broken wall by night, name the trouble, and tell the people about the gracious hand of his God. They said, “Let us start rebuilding.” The wall was completed in fifty-two days, with the help of our God. Next week we will hear that God was merciful to Nineveh, and that he wants us to love people we would rather avoid.",
+          "enochActivity": "Wave a small hello toward tomorrow and say: God was merciful!",
+          "elijah2": "What had God put in Nehemiah’s heart, and what did the nations realize at the end?",
+          "elijahAnswer2": "God had put in his heart something to do for Jerusalem. The nations realized that this work had been done with the help of our God (Nehemiah 2:12; 6:16).",
+          "jordyn2": "Daniel kept praying, Nehemiah prayed and worked, and next week God will show mercy to Nineveh. What should we carry from this wall into that story?",
+          "jordynAnswer2": "We should remember that God helps his people, and that his help can be seen in prayer and in work. He is also merciful. The same God who helped them rebuild can teach us to love people we would rather avoid.",
+          "passageText": "12 I set out during the night with a few others. I had not told anyone what my God had put in my heart to do for Jerusalem. There were no mounts with me except the one I was riding on. 17 Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.” 18 I also told them about the gracious hand of my God on me and what the king had said to me. They replied, “Let us start rebuilding.” So they began this good work. 15 So the wall was completed on the twenty-fifth of Elul, in fifty-two days. 16 When all our enemies heard about this, all the surrounding nations were afraid and lost their self-confidence, because they realized that this work had been done with the help of our God."
+        }
+      ]
     },
     {
       "id": "51",

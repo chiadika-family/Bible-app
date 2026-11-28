@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21.301",
+  "version": "2026.11.21.308",
   "start": "2026-10-31",
   "phases": [
     {
@@ -4085,18 +4085,18 @@
         "2 Thessalonians 3:6–13",
         "Proverbs 16:3"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
       "number": 345,
       "date": "2027-10-12",
       "phase": "character",
-      "title": "Sunday: connect with this week's Grace Life sermon — The fruit of the Spirit",
+      "title": "The fruit of the Spirit",
       "passages": [
         "Galatians 5:16–25"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": true
     },
     {
@@ -4107,7 +4107,7 @@
       "passages": [
         "1 Corinthians 13:1–13"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4119,7 +4119,7 @@
         "John 15:9–11",
         "Philippians 4:4"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4131,7 +4131,7 @@
         "John 14:27",
         "Philippians 4:6–9"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4142,7 +4142,7 @@
       "passages": [
         "James 3:13–18"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
@@ -4154,7 +4154,7 @@
         "James 5:7–11",
         "Romans 12:12"
       ],
-      "status": "planned",
+      "status": "done",
       "sundaySermonTieIn": false
     },
     {
