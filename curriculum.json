@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.41",
+  "contentVersion": "2026.11.21.42",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -10599,11 +10599,238 @@
       "planTitle": "Moses: God sets his people free",
       "title": "Moses: God sets his people free",
       "selectLabel": "Week 45 · Moses: God sets his people free",
-      "ready": false,
+      "ready": true,
       "passage": "Exodus 3:1–12; 12:29–42; 14:21–31 (NIV)",
-      "bigIdea": "God heard his people and set them free from Egypt.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 46 · Ruth: loyalty and God's kindness",
+      "bigIdea": "God heard his people and set them free from Egypt.",
+      "scheduleNote": "This is the Week 45 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read Exodus 3:1–12 out loud, then Exodus 12:29–42, then Exodus 14:21–31."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "Exodus 3:1–12",
+          "text": "1 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the LORD appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.” 4 When the LORD saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” 5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 7 The LORD said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. 9 And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. 10 So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.” 11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” 12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.”"
+        },
+        {
+          "cite": "Exodus 12:29–42",
+          "text": "29 At midnight the LORD struck down all the firstborn in Egypt, from the firstborn of Pharaoh, who sat on the throne, to the firstborn of the prisoner, who was in the dungeon, and the firstborn of all the livestock as well. 30 Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead. 31 During the night Pharaoh summoned Moses and Aaron and said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. 32 Take your flocks and herds, as you have said, and go. And also bless me.” 33 The Egyptians urged the people to hurry and leave the country. “For otherwise,” they said, “we will all die!” 34 So the people took their dough before the yeast was added, and carried it on their shoulders in kneading troughs wrapped in clothing. 35 The Israelites did as Moses instructed and asked the Egyptians for articles of silver and gold and for clothing. 36 The LORD had made the Egyptians favorably disposed toward the people, and they gave them what they asked for; so they plundered the Egyptians. 37 The Israelites journeyed from Rameses to Sukkoth. There were about six hundred thousand men on foot, besides women and children. 38 Many other people went up with them, and also large droves of livestock, both flocks and herds. 39 With the dough the Israelites had brought from Egypt, they baked loaves of unleavened bread. The dough was without yeast because they had been driven out of Egypt and did not have time to prepare food for themselves. 40 Now the length of time the Israelite people lived in Egypt was 430 years. 41 At the end of the 430 years, to the very day, all the LORD’s divisions left Egypt. 42 Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come."
+        },
+        {
+          "cite": "Exodus 14:21–31",
+          "text": "21 Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, 22 and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. 23 The Egyptians pursued them, and all Pharaoh’s horses and chariots and horsemen followed them into the sea. 24 During the last watch of the night the LORD looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion. 25 He jammed the wheels of their chariots so that they had difficulty driving. And the Egyptians said, “Let’s get away from the Israelites! The LORD is fighting for them against Egypt.” 26 Then the LORD said to Moses, “Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.” 27 Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward it, and the LORD swept them into the sea. 28 The water flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived. 29 But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. 30 That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. 31 And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that God was with Joseph, and that he used even hard things for good. Joseph’s family was in Egypt. Many years later, the people of Israel were still there, and their life was hard. We do not leave today’s readings to tell those earlier chapters as official text. In our words, they were suffering, and God heard them.",
+        "Now Moses was tending the flock of Jethro his father-in-law, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the LORD appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.” When the LORD saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God.",
+        "The LORD said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.” But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.”",
+        "We do not leave today’s readings to tell every sign that came before this night as official text. In our words, God kept his word, and the night of leaving came. At midnight the LORD struck down all the firstborn in Egypt. Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead. We say this simply, and with care. It is not a scene to describe, and we will not make a game of it. During the night Pharaoh summoned Moses and Aaron and said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. Take your flocks and herds, as you have said, and go. And also bless me.” The Egyptians urged the people to hurry and leave the country. “For otherwise,” they said, “we will all die!” So the people took their dough before the yeast was added, and the Israelites journeyed from Rameses to Sukkoth. Now the length of time the Israelite people lived in Egypt was 430 years. At the end of the 430 years, to the very day, all the LORD’s divisions left Egypt. Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come.",
+        "Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. The Egyptians pursued them into the sea. The Egyptians said, “Let’s get away from the Israelites! The LORD is fighting for them against Egypt.” Then the LORD said to Moses, “Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.” Moses stretched out his hand over the sea, and the LORD swept them into the sea. The water flowed back and covered the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived. But the Israelites went through the sea on dry ground. That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. We say that simply. The LORD saved his people. We will not make a game of it. And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant. God heard his people and set them free from Egypt.",
+        "Next week we will hear that Ruth stayed faithful, and God kindly provided for her family."
+      ],
+      "enochLine": "God heard his people and set them free from Egypt!",
+      "enochActivities": [
+        "Activity: Take off your shoes and say: This is holy ground!",
+        "Activity: Take three careful steps and say: God made a way!"
+      ],
+      "elijahQuestions": [
+        "In Exodus 3:4–6, what did God call to Moses from the bush, what did Moses say, and what did God tell him about the ground?",
+        "In Exodus 3:7–12, what had the LORD seen and heard, what did he send Moses to do, and what did God promise when Moses asked, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”",
+        "In Exodus 12:31–42, what did Pharaoh tell Moses and Aaron to do, and what had the LORD done that night after the people had lived in Egypt 430 years?",
+        "In Exodus 14:21–31, how did the Israelites go through the sea, what did the LORD do that day, and what did the people do when they saw his mighty hand?"
+      ],
+      "elijahAnswers": [
+        "God called, “Moses! Moses!” And Moses said, “Here I am.” God said, “Do not come any closer,” and, “Take off your sandals, for the place where you are standing is holy ground.” Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” (Exodus 3:4–6).",
+        "The LORD said he had indeed seen the misery of his people in Egypt, heard them crying out, and was concerned about their suffering. He had come down to rescue them, and he was sending Moses to Pharaoh to bring the Israelites out of Egypt. God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” (Exodus 3:7–12).",
+        "Pharaoh said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. Take your flocks and herds, as you have said, and go. And also bless me.” The LORD kept vigil that night to bring them out of Egypt, and at the end of the 430 years, to the very day, all the LORD’s divisions left Egypt (Exodus 12:31–42).",
+        "The LORD drove the sea back and turned it into dry land, and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. The people feared the LORD and put their trust in him and in Moses his servant (Exodus 14:21–31)."
+      ],
+      "jordynQuestions": [
+        "Moses asked, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” (Exodus 3:11–12). What is the difference between looking at yourself and trusting that God will be with you?",
+        "The night of leaving was heavy, and then the LORD made a dry path through the sea (Exodus 12:29–42; 14:21–31). What do these two parts of the story show us about the God who sets his people free?",
+        "God heard his people and set them free from Egypt. Next week we will hear that Ruth stayed faithful, and God kindly provided for her family. What stays the same about God in both stories?"
+      ],
+      "jordynAnswers": [
+        "Moses looked at himself and felt too small for the work. God did not first make Moses feel big. He promised, I will be with you, and he gave a sign that Moses would worship God on that mountain after the people were brought out. The point is God’s presence, not Moses’ size.",
+        "God had seen the misery of his people and come down to rescue them. The leaving was real and costly, and we say the hard night simply. Then the LORD made a way through the sea on dry ground and saved Israel from the hands of the Egyptians. God hears, God comes down, and God saves.",
+        "God does not forget his people. He heard them in Egypt and set them free. Next week we will hear that he kindly provided for Ruth’s family. The same God hears, stays with his people, and provides."
+      ],
+      "jordynApplication": "God heard his people and set them free from Egypt (Exodus 3:1–12; 12:29–42; 14:21–31). This week, when you feel small like Moses, remember that God said he would be with him. Thank God that he hears his people and makes a way. Next week we will hear that Ruth stayed faithful, and God kindly provided for her family.",
+      "applicationCheck": "Ask her later in the week where she remembered that God hears and is with his people, or how she thanked him for making a way. If it is fitting, thank God together that he heard his people and set them free from Egypt.",
+      "prayer": "Father, thank you that you called Moses from the bush, and that he said, “Here I am.” Thank you that you said, “Take off your sandals, for the place where you are standing is holy ground.” Thank you that you had seen the misery of your people, and that you said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” Thank you that you kept vigil that night to bring them out of Egypt, and that you saved Israel from the hands of the Egyptians. You heard your people and set them free. Help us trust you, and help us put our trust in you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "Exodus 3:4–6",
+        "Exodus 3:7–12",
+        "Exodus 3:11–12",
+        "Exodus 12:31–42",
+        "Exodus 12:29–42",
+        "Exodus 14:21–31",
+        "Exodus 3:1–12; 12:29–42; 14:21–31"
+      ],
+      "dailies": [
+        {
+          "id": "w45-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "God called Moses from the bush, saw his people’s misery, and promised, I will be with you.",
+          "verse": "“Take off your sandals, for the place where you are standing is holy ground.”",
+          "verseCite": "Exodus 3:5, NIV",
+          "enoch": "Help a grown-up take off shoes and say: Holy ground!",
+          "elijah": "What did God call from the bush, and what did Moses say?",
+          "elijahAnswer": "God called, “Moses! Moses!” And Moses said, “Here I am.” (Exodus 3:4).",
+          "jordyn": "The LORD said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.” (Exodus 3:7–10). What had God seen and heard, and what was he sending Moses to do?",
+          "jordynAnswer": "He had seen the misery of his people, heard them crying out, and was concerned about their suffering. He had come down to rescue them, and he was sending Moses to Pharaoh to bring the Israelites out of Egypt.",
+          "action": "Read Exodus 3:1–12 together. Then take off your shoes for a moment and say God’s words about holy ground.",
+          "prayer": "Father, thank you that you called Moses, and that he said, “Here I am.” Thank you that you said, “Take off your sandals, for the place where you are standing is holy ground.” Thank you that you had seen the misery of your people, and that you promised to be with Moses. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 3:1–12",
+          "teach": "Moses saw a bush on fire that did not burn up. God called, “Moses! Moses!” and Moses said, “Here I am.” God told him not to come any closer, and to take off his sandals, for the place was holy ground. God is the God of Abraham, Isaac, and Jacob. He had seen the misery of his people and was sending Moses to bring them out. Moses asked who he was to go, and God promised to be with him.",
+          "enochActivity": "Take off your shoes and say: Holy ground!",
+          "elijah2": "What did Moses ask, and what did God say would be the sign that he had sent him?",
+          "elijahAnswer2": "Moses asked, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” (Exodus 3:11–12).",
+          "jordyn2": "Why does it matter that God answered Moses’ Who am I with I will be with you, instead of first making Moses feel large enough for the work?",
+          "jordynAnswer2": "The work was God’s rescue. Moses was being sent, but the promise was God’s presence. Moses would worship God on that mountain after the people were brought out. The sign points to God, not to Moses’ size.",
+          "passageText": "1 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the LORD appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.” 4 When the LORD saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” 5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 7 The LORD said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. 9 And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. 10 So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.” 11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” 12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.”"
+        },
+        {
+          "id": "w45-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Moses stood on holy ground, and later God made a dry path through the sea. Both are about God’s presence and God’s way.",
+          "verse": "“Here I am.”",
+          "verseCite": "Exodus 3:4, NIV",
+          "enoch": "Take three careful steps and say: God made a way!",
+          "elijah": "What did God tell Moses to do with his sandals, and why?",
+          "elijahAnswer": "God said, “Do not come any closer,” and, “Take off your sandals, for the place where you are standing is holy ground.” (Exodus 3:5).",
+          "jordyn": "Later the Israelites went through the sea on dry ground, with a wall of water on their right and on their left (Exodus 14:22, 29). How can a careful walk help us remember that, without turning the hard parts into play?",
+          "jordynAnswer": "A slow, careful walk can remind us that God made a path and that his people went through on dry ground. We do not act out the army or the waters flowing back. We remember that the LORD made a way and saved his people.",
+          "action": "Play a gentle two-part game. First, take off your shoes and say, “Here I am.” then, “Take off your sandals, for the place where you are standing is holy ground.” Then lay a towel or a few papers as a dry path and walk it slowly, saying: God made a way. Do not act out the firstborn night or the army in the sea. Keep the game quiet and kind.",
+          "prayer": "Father, thank you that Moses said, “Here I am.” and that you said, “Take off your sandals, for the place where you are standing is holy ground.” Thank you that you made a dry path through the sea. Help us remember that you are with your people, and that you make a way. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 3:4–5; 14:21–22",
+          "teach": "God called Moses by name, and Moses said, “Here I am.” The place was holy ground. Later the LORD drove the sea back and turned it into dry land, and the Israelites went through on dry ground. Today’s game is a holy-ground pause and a careful walk, not a play of harm.",
+          "enochActivity": "Take off your shoes, then take three careful steps and say: God made a way!",
+          "elijah2": "How did the LORD turn the sea into dry land, and how did the Israelites go through?",
+          "elijahAnswer2": "All that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left (Exodus 14:21–22).",
+          "jordyn2": "Moses hid his face, because he was afraid to look at God (Exodus 3:6), and later the people feared the LORD and put their trust in him (Exodus 14:31). What kind of fear is this, and how is it different from panic in a game?",
+          "jordynAnswer2": "It is the fear of knowing that God is holy and mighty, and then trusting him. Moses hid his face, and the people put their trust in the LORD. It is not a scare we act out. It is reverence, and it leads to trust.",
+          "passageText": "4 When the LORD saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” 5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 21 Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, 22 and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left."
+        },
+        {
+          "id": "w45-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The LORD kept vigil that night and brought his people out of Egypt. Then he made a way through the sea and saved them.",
+          "verse": "That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.",
+          "verseCite": "Exodus 14:30, NIV",
+          "enoch": "Help a grown-up say: God set his people free!",
+          "elijah": "What did Pharaoh tell Moses and Aaron to do during the night?",
+          "elijahAnswer": "He said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. Take your flocks and herds, as you have said, and go. And also bless me.” (Exodus 12:31–32).",
+          "jordyn": "How long had the Israelite people lived in Egypt, and what had the LORD done that night?",
+          "jordynAnswer": "They had lived in Egypt 430 years. At the end of the 430 years, to the very day, all the LORD’s divisions left Egypt. Because the LORD kept vigil that night to bring them out of Egypt, the Israelites are to keep vigil to honor the LORD for the generations to come (Exodus 12:40–42).",
+          "action": "Read Exodus 12:29–42, then Exodus 14:21–31. Say the hard parts simply, and do not turn them into a game. Then thank God that he kept vigil and saved Israel.",
+          "prayer": "Father, thank you that you kept vigil that night to bring your people out of Egypt. Thank you that Pharaoh said they should leave and worship you. Thank you that you made a dry path through the sea, and that you saved Israel from the hands of the Egyptians. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 12:29–42; 14:21–31",
+          "teach": "The night of leaving was heavy, and we say it simply, with care. Pharaoh told Moses and Aaron to leave and worship the LORD. The people left in a hurry, and at the end of 430 years, to the very day, the LORD’s divisions left Egypt. The LORD kept vigil to bring them out. Then Moses stretched out his hand, the LORD made dry land, and his people went through the sea. The LORD saved Israel that day.",
+          "enochActivity": "Open your hands and say: God set his people free!",
+          "elijah2": "What did the Egyptians say when the LORD jammed the wheels of their chariots, and what did the LORD tell Moses to do?",
+          "elijahAnswer2": "The Egyptians said, “Let’s get away from the Israelites! The LORD is fighting for them against Egypt.” Then the LORD said to Moses, “Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.” (Exodus 14:25–26).",
+          "jordyn2": "The reading says there was loud wailing in Egypt, and later that the LORD saved Israel (Exodus 12:30; 14:30). How should we talk about this part of the story at home?",
+          "jordynAnswer2": "We tell the truth, and we tell it simply. We do not describe it as a spectacle, and we do not make a game of it. We remember that God heard his people, that the night was heavy and real, and that the LORD saved Israel and set them free.",
+          "passageText": "29 At midnight the LORD struck down all the firstborn in Egypt, from the firstborn of Pharaoh, who sat on the throne, to the firstborn of the prisoner, who was in the dungeon, and the firstborn of all the livestock as well. 30 Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead. 31 During the night Pharaoh summoned Moses and Aaron and said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. 32 Take your flocks and herds, as you have said, and go. And also bless me.” 33 The Egyptians urged the people to hurry and leave the country. “For otherwise,” they said, “we will all die!” 34 So the people took their dough before the yeast was added, and carried it on their shoulders in kneading troughs wrapped in clothing. 35 The Israelites did as Moses instructed and asked the Egyptians for articles of silver and gold and for clothing. 36 The LORD had made the Egyptians favorably disposed toward the people, and they gave them what they asked for; so they plundered the Egyptians. 37 The Israelites journeyed from Rameses to Sukkoth. There were about six hundred thousand men on foot, besides women and children. 38 Many other people went up with them, and also large droves of livestock, both flocks and herds. 39 With the dough the Israelites had brought from Egypt, they baked loaves of unleavened bread. The dough was without yeast because they had been driven out of Egypt and did not have time to prepare food for themselves. 40 Now the length of time the Israelite people lived in Egypt was 430 years. 41 At the end of the 430 years, to the very day, all the LORD’s divisions left Egypt. 42 Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come. 21 Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, 22 and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. 23 The Egyptians pursued them, and all Pharaoh’s horses and chariots and horsemen followed them into the sea. 24 During the last watch of the night the LORD looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion. 25 He jammed the wheels of their chariots so that they had difficulty driving. And the Egyptians said, “Let’s get away from the Israelites! The LORD is fighting for them against Egypt.” 26 Then the LORD said to Moses, “Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.” 27 Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward it, and the LORD swept them into the sea. 28 The water flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived. 29 But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. 30 That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. 31 And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+        },
+        {
+          "id": "w45-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "God promised to be with Moses, and the people put their trust in the LORD. Trust him when you feel small.",
+          "verse": "I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.",
+          "verseCite": "Exodus 3:12, NIV",
+          "enoch": "When you feel small, say: God is with his people!",
+          "elijah": "What did Moses ask, and what did God promise?",
+          "elijahAnswer": "Moses asked, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” (Exodus 3:11–12).",
+          "jordyn": "When the Israelites saw the mighty hand of the LORD, what two things did they do?",
+          "jordynAnswer": "The people feared the LORD and put their trust in him and in Moses his servant (Exodus 14:31).",
+          "action": "Choose one moment today when you feel small or unsure. Pause and say, God said to Moses that he would be with him. Then take the next ordinary step in front of you.",
+          "prayer": "Father, thank you that when Moses asked who he was to go, you said you would be with him. Thank you that the people feared you and put their trust in you. Help us trust you when we feel small, and help us take the next step. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 3:11–12; 14:31",
+          "teach": "Moses felt too small to go to Pharaoh. God promised to be with him, and gave a sign that the people would worship on that mountain after they were brought out. At the end of the story the people feared the LORD and put their trust in him. Today’s challenge is a real trust, not a skit of the sea.",
+          "enochActivity": "Put a hand on your heart and say: God is with his people!",
+          "elijah2": "What would be the sign that it was God who had sent Moses?",
+          "elijahAnswer2": "God said, When you have brought the people out of Egypt, you will worship God on this mountain (Exodus 3:12).",
+          "jordyn2": "How can fearing the LORD and putting your trust in him shape an ordinary hard moment this week, the way it shaped Israel after the sea?",
+          "jordynAnswer2": "Fear of the LORD is reverence, not panic. The people saw his mighty hand and trusted him. In a hard moment we can remember that God hears, that he is with his people, and that we can take the next step without having to be large enough on our own.",
+          "passageText": "11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?” 12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” 31 And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+        },
+        {
+          "id": "w45-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "Thank God that he heard his people, kept vigil to bring them out, and saved Israel from the hands of the Egyptians.",
+          "verse": "Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come.",
+          "verseCite": "Exodus 12:42, NIV",
+          "enoch": "Fold your hands and say: Thank you, God, for hearing your people!",
+          "elijah": "What had the LORD seen and heard, and what did he say he had come down to do?",
+          "elijahAnswer": "He had seen the misery of his people in Egypt, heard them crying out because of their slave drivers, and was concerned about their suffering. He had come down to rescue them from the hand of the Egyptians (Exodus 3:7–8).",
+          "jordyn": "The LORD kept vigil that night to bring them out of Egypt (Exodus 12:42), and that day the LORD saved Israel from the hands of the Egyptians (Exodus 14:30). How can those two lines shape the way we pray?",
+          "jordynAnswer": "We thank God that he watches over his people and that he saves them. We honor him for the rescue, and we ask him to help us trust him the way Israel put their trust in the LORD.",
+          "action": "Pray the family prayer slowly. When you hear that the LORD kept vigil, pause and thank him that he heard his people and set them free.",
+          "prayer": "Father, thank you that you had seen the misery of your people, and that you kept vigil that night to bring them out of Egypt. Thank you that you said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” Thank you that you saved Israel from the hands of the Egyptians. You heard your people and set them free. Help us honor you, and help us trust you. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 3:7–8; 12:42; 14:30",
+          "teach": "Today we pray with the story in our ears. God had seen the misery of his people and come down to rescue them. He kept vigil that night to bring them out of Egypt. He made a way through the sea, and that day the LORD saved Israel. We thank him simply, and we do not turn the hard parts into a show.",
+          "enochActivity": "Fold your hands and say: Thank you, God!",
+          "elijah2": "After the LORD saved Israel, what did the people do?",
+          "elijahAnswer2": "The people feared the LORD and put their trust in him and in Moses his servant (Exodus 14:31).",
+          "jordyn2": "How can keeping vigil, in this passage, help a family pray without pretending the rescue was easy?",
+          "jordynAnswer2": "The Israelites are to keep vigil to honor the LORD, because the LORD kept vigil to bring them out. Remembering is how we honor him. We tell the truth about the heavy night and the dry path, and we thank God that he heard his people and set them free.",
+          "passageText": "7 The LORD said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. 42 Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come. 30 That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. 31 And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+        },
+        {
+          "id": "w45-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "God heard his people and set them free from Egypt. Next, Ruth stayed faithful, and God kindly provided for her family.",
+          "verse": "That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.",
+          "verseCite": "Exodus 14:30, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, God kindly provided!",
+          "elijah": "What is this week’s big idea, and can you tell the story from the bush to the dry path through the sea?",
+          "elijahAnswer": "God heard his people and set them free from Egypt. God called Moses from the bush, saw the misery of his people, and promised to be with him. The LORD kept vigil that night and brought them out of Egypt after 430 years. Then the LORD made a dry path through the sea, and that day he saved Israel from the hands of the Egyptians. The people feared the LORD and put their trust in him.",
+          "jordyn": "We have seen that God heard his people and set them free from Egypt. Next week we will hear that Ruth stayed faithful, and God kindly provided for her family. What stays the same about God?",
+          "jordynAnswer": "God does not forget his people. He heard them in Egypt and set them free. Next week we will hear that he kindly provided for Ruth’s family. The same God hears, stays with his people, and provides.",
+          "action": "Tell someone the week’s big idea: God heard his people and set them free from Egypt. Then look ahead to Ruth, and to the God who kindly provides.",
+          "prayer": "Father, thank you that you heard your people and set them free from Egypt. Thank you that you were with Moses, that you kept vigil, and that you saved Israel from the hands of the Egyptians. Get our hearts ready to hear that Ruth stayed faithful, and that you kindly provided for her family. In Jesus’ name, Amen.",
+          "passageCite": "Exodus 3:1–12; 12:29–42; 14:21–31",
+          "teach": "This week we heard God call Moses, see his people’s misery, and promise to be with him. The LORD kept vigil and brought them out of Egypt. He made a way through the sea and saved Israel. God heard his people and set them free. Next week we will hear that Ruth stayed faithful, and God kindly provided for her family.",
+          "enochActivity": "Wave a small hello toward tomorrow and say: God kindly provides!",
+          "elijah2": "What did God promise Moses, and what did the people do when they saw the LORD’s mighty hand?",
+          "elijahAnswer2": "God said he would be with Moses, and that when he had brought the people out of Egypt, they would worship God on that mountain. The people feared the LORD and put their trust in him and in Moses his servant (Exodus 3:12; 14:31).",
+          "jordyn2": "The story began with misery in Egypt and ends with a people set free, trusting the LORD. What should we remember as the story moves toward Ruth?",
+          "jordynAnswer2": "We should remember that God heard his people and set them free. He is with those he sends, and he makes a way. The same God can kindly provide in the next chapter, as we will hear with Ruth.",
+          "passageText": "4 When the LORD saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” 5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain.” 31 During the night Pharaoh summoned Moses and Aaron and said, “Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. 42 Because the LORD kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the LORD for the generations to come. 21 Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned it into dry land. The waters were divided, 30 That day the LORD saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. 31 And when the Israelites saw the mighty hand of the LORD displayed against the Egyptians, the people feared the LORD and put their trust in him and in Moses his servant."
+        }
+      ]
     },
     {
       "id": "46",
