@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.11.21.43",
+  "contentVersion": "2026.11.21.44",
   "family": "Gregory, Sanqueta, Enoch, Elijah, and Jordyn",
   "parents": [
     "Gregory",
@@ -11078,11 +11078,240 @@
       "planTitle": "David and Goliath: trust in the Lord",
       "title": "David and Goliath: trust in the Lord",
       "selectLabel": "Week 47 · David and Goliath: trust in the Lord",
-      "ready": false,
+      "ready": true,
       "passage": "1 Samuel 17:32–50 (NIV)",
-      "bigIdea": "David trusted the Lord, not his own size or strength.",
       "time": "About 15–20 minutes",
-      "note": "This week is on the family plan. The passage, questions, prayer, and daily bites are not written yet."
+      "nextUp": "Week 48 · Esther: courage for such a time as this",
+      "bigIdea": "David trusted the Lord, not his own size or strength.",
+      "scheduleNote": "This is the Week 47 family lesson. The short daily bites are Days 2–7.",
+      "howSteps": [
+        {
+          "title": "Read together",
+          "detail": "Open the Read tab and read 1 Samuel 17:32–37 out loud, then 17:38–47, then 17:48–50."
+        },
+        {
+          "title": "Talk it through",
+          "detail": "Still on Read, walk through the kid-language explanation so everyone gets the picture."
+        },
+        {
+          "title": "Age parts",
+          "detail": "Use Enoch, Elijah, and Jordyn tabs. Keep the Parent key open for yourself."
+        },
+        {
+          "title": "Pray",
+          "detail": "Close with the short family prayer on the Prayer tab."
+        }
+      ],
+      "readings": [
+        {
+          "cite": "1 Samuel 17:32–37",
+          "text": "32 David said to Saul, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” 33 Saul replied, “You are not able to go out against this Philistine and fight him; you are only a young man, and he has been a warrior from his youth.” 34 But David said to Saul, “Your servant has been keeping his father’s sheep. When a lion or a bear came and carried off a sheep from the flock, 35 I went after it, struck it and rescued the sheep from its mouth. When it turned on me, I seized it by its hair, struck it and killed it. 36 Your servant has killed both the lion and the bear; this uncircumcised Philistine will be like one of them, because he has defied the armies of the living God. 37 The LORD who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine.” Saul said to David, “Go, and the LORD be with you.”"
+        },
+        {
+          "cite": "1 Samuel 17:38–47",
+          "text": "38 Then Saul dressed David in his own tunic. He put a coat of armor on him and a bronze helmet on his head. 39 David fastened on his sword over the tunic and tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. 40 Then he took his staff in his hand, chose five smooth stones from the stream, put them in the pouch of his shepherd’s bag and, with his sling in his hand, approached the Philistine. 41 Meanwhile, the Philistine, with his shield bearer in front of him, kept coming closer to David. 42 He looked David over and saw that he was little more than a boy, glowing with health and handsome, and he despised him. 43 He said to David, “Am I a dog, that you come at me with sticks?” And the Philistine cursed David by his gods. 44 “Come here,” he said, “and I’ll give your flesh to the birds and the wild animals!” 45 David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD Almighty, the God of the armies of Israel, whom you have defied. 46 This day the LORD will deliver you into my hands, and I’ll strike you down and cut off your head. This very day I will give the carcasses of the Philistine army to the birds and the wild animals, and the whole world will know that there is a God in Israel. 47 All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands.”"
+        },
+        {
+          "cite": "1 Samuel 17:48–50",
+          "text": "48 As the Philistine moved closer to attack him, David ran quickly toward the battle line to meet him. 49 Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground. 50 So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him."
+        }
+      ],
+      "storyTitle": "In our words",
+      "story": [
+        "Last week we learned that Ruth stayed faithful, and that God kindly provided for her family. The story ended with Obed, the father of Jesse, the father of David. Today we hear about that David, who trusted the Lord, not his own size or strength.",
+        "We do not leave today’s reading to tell the earlier verses as official text. In our words, a great Philistine warrior had been challenging Israel, and many people were afraid. We say that simply. Then David said to Saul, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Saul replied, “You are not able to go out against this Philistine and fight him; you are only a young man, and he has been a warrior from his youth.”",
+        "David told Saul that he had been keeping his father’s sheep. When a lion or a bear came and carried off a sheep, he went after it and rescued the sheep. We say the danger simply, and with care. It is not a scene to act out or to linger on. David said that the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from the hand of this Philistine. Saul said to David, “Go, and the LORD be with you.”",
+        "Then Saul dressed David in his own tunic, with a coat of armor and a bronze helmet. David tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. Then he took his staff, chose five smooth stones from the stream, put them in the pouch of his shepherd’s bag and, with his sling in his hand, approached the Philistine.",
+        "The Philistine came closer, looked David over, and despised him, because he saw that he was little more than a boy. He spoke proudly and threatened David. We hear the boast simply, and we do not make a game of it. David did not trust his own size or strength. He came in the name of the LORD Almighty, the God of the armies of Israel. He said the whole world would know that there is a God in Israel, and that all those gathered there would know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s.",
+        "As the Philistine moved closer, David ran quickly toward the battle line. He took a stone, slung it, and struck the Philistine on the forehead. The Philistine fell facedown on the ground. So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him. We say the fight simply, and with care. We do not make a game of hurting anyone. David trusted the Lord, not his own size or strength.",
+        "Next week we will hear that God used Esther’s courage to save her people."
+      ],
+      "enochLine": "David trusted the Lord, not his own size!",
+      "enochActivities": [
+        "Activity: Take off a too-big coat, if you have one, and say: I trust the Lord!",
+        "Activity: Pick up five small safe stones, or five small safe objects, and remember that David trusted the Lord."
+      ],
+      "elijahQuestions": [
+        "In 1 Samuel 17:32–33, what did David say to Saul about losing heart, and what did Saul say about David?",
+        "In 1 Samuel 17:37, what did David say the LORD who rescued him would do, and what did Saul then say to David?",
+        "In 1 Samuel 17:38–40, what happened when David tried Saul’s armor, and what did David take instead?",
+        "In 1 Samuel 17:47–50, what did David want all those gathered to know, and how did he triumph over the Philistine?"
+      ],
+      "elijahAnswers": [
+        "David said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Saul replied, “You are not able to go out against this Philistine and fight him; you are only a young man, and he has been a warrior from his youth.” (1 Samuel 17:32–33).",
+        "David said that the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from the hand of this Philistine. Saul said to David, “Go, and the LORD be with you.” (1 Samuel 17:37).",
+        "Saul dressed David in his own tunic, armor, and a bronze helmet. David tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. Then he took his staff, chose five smooth stones from the stream, and, with his sling in his hand, approached the Philistine (1 Samuel 17:38–40).",
+        "David said that all those gathered would know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands. David ran toward the battle line, slung a stone, and struck the Philistine on the forehead, and he fell facedown. So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him. We say that simply (1 Samuel 17:47–50)."
+      ],
+      "jordynQuestions": [
+        "Saul said, “You are not able to go out against this Philistine and fight him; you are only a young man, and he has been a warrior from his youth.” (1 Samuel 17:33). David answered that the LORD who had rescued him from the lion and the bear would rescue him from this Philistine (1 Samuel 17:37). What does this show about trusting the Lord instead of your own size or strength?",
+        "David would not go in Saul’s armor. He said it is not by sword or spear that the LORD saves; for the battle is the LORD’s (1 Samuel 17:39, 47). How should we hear the fight that follows, without turning it into a game?",
+        "David trusted the Lord, not his own size or strength. Next week we will hear that God used Esther’s courage to save her people. What stays the same about God?"
+      ],
+      "jordynAnswers": [
+        "Saul looked at David’s youth and at the Philistine’s long years as a warrior. David looked at the LORD who had already rescued him. Trust is not pretending you are big. It is depending on the living God, who saves his people, even when you feel small.",
+        "We tell the truth: David ran to meet the Philistine, a stone struck him, he fell, and David triumphed. We say that simply, and with care. We do not act out the blows, or make a game of killing. The point is not how strong David’s arm was. The point is that the battle is the LORD’s, and David trusted him.",
+        "God can be trusted, and he saves his people. He helped David when size and armor were not the point, and next week we will hear that he used Esther’s courage to save her people. The same Lord is worthy of trust."
+      ],
+      "jordynApplication": "David trusted the Lord, not his own size or strength (1 Samuel 17:32–50). This week, when something feels too big, tell the Lord that the battle is his, and take one small faithful step without trying to look stronger than you are. Next week we will hear that God used Esther’s courage to save her people.",
+      "applicationCheck": "Ask her later in the week where she chose to trust the Lord instead of her own size or strength. If it is fitting, thank God together that the battle is the LORD’s, and that David trusted him.",
+      "prayer": "Father, thank you that David said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Thank you that Saul said, “Go, and the LORD be with you.” Thank you that David would not go in armor he was not used to, and that he trusted you, not his own size or strength. You save, not by sword or spear; the battle is yours. Help us trust you. In Jesus’ name, Amen.",
+      "lessonVerses": [
+        "1 Samuel 17:32–33",
+        "1 Samuel 17:32",
+        "1 Samuel 17:37",
+        "1 Samuel 17:38–40",
+        "1 Samuel 17:39",
+        "1 Samuel 17:47",
+        "1 Samuel 17:47–50",
+        "1 Samuel 17:32–50"
+      ],
+      "dailies": [
+        {
+          "id": "w47-d2",
+          "day": 2,
+          "label": "Day 2 · Passage",
+          "kind": "Passage",
+          "focus": "David was willing to go and fight, because he trusted the LORD who had already rescued him, not his own size.",
+          "verse": "Let no one lose heart on account of this Philistine; your servant will go and fight him.",
+          "verseCite": "1 Samuel 17:32, NIV",
+          "enoch": "Help a grown-up say with you: Let no one lose heart!",
+          "elijah": "What did David say to Saul about losing heart, and what did he say he would do?",
+          "elijahAnswer": "He said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” (1 Samuel 17:32).",
+          "jordyn": "Saul said David was only a young man, and that the Philistine had been a warrior from his youth (1 Samuel 17:33). How does David’s answer in 1 Samuel 17:37 meet that fear?",
+          "jordynAnswer": "David did not argue that he was bigger than he looked. He said that the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from the hand of this Philistine. Then Saul said, “Go, and the LORD be with you.”",
+          "action": "Read 1 Samuel 17:32–37 together. Then say, in your own words, that you can trust the Lord even when you feel small.",
+          "prayer": "Father, thank you that David said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Thank you that he trusted you to rescue him, and that Saul said, “Go, and the LORD be with you.” Help us trust you, not our own size. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:32–37",
+          "teach": "In our words, a great Philistine warrior had been challenging Israel, and many people were afraid. We do not leave today’s reading to tell those earlier verses as official text. David said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Saul thought David was too young. David told him about keeping sheep, and about the Lord who had already rescued him from a lion and a bear. We say that simply. The LORD who rescued him would rescue him again. Saul said, “Go, and the LORD be with you.”",
+          "enochActivity": "Say with a grown-up: I trust the Lord!",
+          "elijah2": "What had David been doing for his father, and what did he say the LORD had done and would do?",
+          "elijahAnswer2": "He had been keeping his father’s sheep. He said that the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from the hand of this Philistine (1 Samuel 17:34–37).",
+          "jordyn2": "David had already seen the LORD rescue him while he kept sheep (1 Samuel 17:34–37). Why does that matter when Saul looks only at David’s youth?",
+          "jordynAnswer2": "Past rescue teaches present trust. David did not trust his own size. He trusted the same LORD who had already helped him. We can remember how the Lord has helped us, and trust him again, without pretending we are strong in ourselves.",
+          "passageText": "32 David said to Saul, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” 33 Saul replied, “You are not able to go out against this Philistine and fight him; you are only a young man, and he has been a warrior from his youth.” 34 But David said to Saul, “Your servant has been keeping his father’s sheep. When a lion or a bear came and carried off a sheep from the flock, 35 I went after it, struck it and rescued the sheep from its mouth. When it turned on me, I seized it by its hair, struck it and killed it. 36 Your servant has killed both the lion and the bear; this uncircumcised Philistine will be like one of them, because he has defied the armies of the living God. 37 The LORD who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine.” Saul said to David, “Go, and the LORD be with you.”"
+        },
+        {
+          "id": "w47-d3",
+          "day": 3,
+          "label": "Day 3 · Game",
+          "kind": "Game",
+          "focus": "Saul’s armor did not fit David. David took it off and went with a staff, five smooth stones, and a sling, trusting the Lord.",
+          "verse": "I cannot go in these, because I am not used to them.",
+          "verseCite": "1 Samuel 17:39, NIV",
+          "enoch": "If a grown-up has a too-big coat, try it on, take it off, and say: I cannot go in these!",
+          "elijah": "What did David say when he tried Saul’s armor, and what did he do next?",
+          "elijahAnswer": "“I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off (1 Samuel 17:39).",
+          "jordyn": "David chose five smooth stones from the stream and approached the Philistine with his sling (1 Samuel 17:40). What does this show about trusting the Lord instead of borrowed armor?",
+          "jordynAnswer": "David did not pretend the armor made him ready. He could not go in what he was not used to. He went as a shepherd who trusted the LORD, not as someone trying to look like Saul.",
+          "action": "If it is safe and kind, try on a coat that is too big, walk a few steps, take it off, and say, “I cannot go in these,” Then pick up five small safe objects and set them down again. Do not swing them, and do not aim at anyone.",
+          "prayer": "Father, thank you that David said, “I cannot go in these,” “because I am not used to them.” Thank you that he took the armor off and trusted you. Help us not to put on a false strength. Help us trust you. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:38–40",
+          "teach": "Saul dressed David in his own tunic, a coat of armor, and a bronze helmet. David tried walking around, because he was not used to them. He said, “I cannot go in these,” “because I am not used to them.” So he took them off. Then he took his staff, chose five smooth stones from the stream, and approached the Philistine with his sling. We practice the too-big coat and the five stones as a remembering game, not as a fight.",
+          "enochActivity": "Take off a too-big coat, if you have one, and say: I trust the Lord!",
+          "elijah2": "What did Saul put on David, and why did David take it off?",
+          "elijahAnswer2": "Saul put his own tunic on David, a coat of armor, and a bronze helmet. David fastened on the sword and tried walking around, because he was not used to them. He said, “I cannot go in these,” “because I am not used to them.” So he took them off (1 Samuel 17:38–39).",
+          "jordyn2": "This game is about taking off armor that does not belong to you. How do we keep it from becoming a pretend battle?",
+          "jordynAnswer2": "We do not aim stones, swing a staff at anyone, or act out a fight. We remember that David could not go in Saul’s armor, and that he trusted the Lord. The five stones help us count and remember, not to practice harm.",
+          "passageText": "38 Then Saul dressed David in his own tunic. He put a coat of armor on him and a bronze helmet on his head. 39 David fastened on his sword over the tunic and tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. 40 Then he took his staff in his hand, chose five smooth stones from the stream, put them in the pouch of his shepherd’s bag and, with his sling in his hand, approached the Philistine."
+        },
+        {
+          "id": "w47-d4",
+          "day": 4,
+          "label": "Day 4 · Passage",
+          "kind": "Passage",
+          "focus": "The Philistine despised David for looking small, but David came in the name of the LORD, because the battle is the LORD’s.",
+          "verse": "It is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands.",
+          "verseCite": "1 Samuel 17:47, NIV",
+          "enoch": "Help a grown-up say with you: The battle is the Lord’s!",
+          "elijah": "What did the Philistine think when he looked David over, and whose name did David come in?",
+          "elijahAnswer": "He saw that David was little more than a boy, glowing with health and handsome, and he despised him. David came against him in the name of the LORD Almighty, the God of the armies of Israel, whom the Philistine had defied (1 Samuel 17:42, 45).",
+          "jordyn": "David said the whole world would know that there is a God in Israel, and that all those gathered would know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s (1 Samuel 17:46–47). What is David trusting, if not sword, spear, or his own size?",
+          "jordynAnswer": "He is trusting the LORD Almighty. Size, armor, sword, and spear are not what save. The battle is the LORD’s, and David wanted everyone to know that there is a God in Israel.",
+          "action": "Read 1 Samuel 17:38–47 together. Then say, in your own words, that the battle is the Lord’s, and that we do not trust our own size.",
+          "prayer": "Father, thank you that David came in the name of the LORD Almighty, and that he said it is not by sword or spear that the LORD saves; for the battle is the LORD’s. Help us trust you when we feel small. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:38–47",
+          "teach": "David took off Saul’s armor and approached the Philistine with a staff, five stones, and a sling. The Philistine came closer, looked at David, and despised him for looking like little more than a boy. He spoke proudly and threatened him. We hear that simply, and we do not repeat the threat as a game. David answered that he came in the name of the LORD Almighty, that the whole world would know there is a God in Israel, and that it is not by sword or spear that the LORD saves; for the battle is the LORD’s.",
+          "enochActivity": "Say: The battle is the Lord’s!",
+          "elijah2": "What did David say all those gathered would know?",
+          "elijahAnswer2": "He said that all those gathered here would know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands (1 Samuel 17:47).",
+          "jordyn2": "The Philistine cursed David by his gods and spoke a cruel threat (1 Samuel 17:43–44). How should we hear those words, and David’s answer, with dignity?",
+          "jordynAnswer2": "We do not make a game of curses or of harm. We notice the pride that despises a young person, and we notice David’s trust: he came in the name of the LORD Almighty, so that people would know there is a God in Israel, and that the battle is the LORD’s.",
+          "passageText": "38 Then Saul dressed David in his own tunic. He put a coat of armor on him and a bronze helmet on his head. 39 David fastened on his sword over the tunic and tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. 40 Then he took his staff in his hand, chose five smooth stones from the stream, put them in the pouch of his shepherd’s bag and, with his sling in his hand, approached the Philistine. 41 Meanwhile, the Philistine, with his shield bearer in front of him, kept coming closer to David. 42 He looked David over and saw that he was little more than a boy, glowing with health and handsome, and he despised him. 43 He said to David, “Am I a dog, that you come at me with sticks?” And the Philistine cursed David by his gods. 44 “Come here,” he said, “and I’ll give your flesh to the birds and the wild animals!” 45 David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD Almighty, the God of the armies of Israel, whom you have defied. 46 This day the LORD will deliver you into my hands, and I’ll strike you down and cut off your head. This very day I will give the carcasses of the Philistine army to the birds and the wild animals, and the whole world will know that there is a God in Israel. 47 All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands.”"
+        },
+        {
+          "id": "w47-d5",
+          "day": 5,
+          "label": "Day 5 · Challenge",
+          "kind": "Challenge",
+          "focus": "David ran toward the battle line and trusted the Lord. He triumphed, not because he was the biggest, but because the battle was the LORD’s.",
+          "verse": "So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him.",
+          "verseCite": "1 Samuel 17:50, NIV",
+          "enoch": "Help a grown-up take one brave step forward and say: I trust the Lord!",
+          "elijah": "What did David do as the Philistine moved closer, and what happened when he slung the stone?",
+          "elijahAnswer": "David ran quickly toward the battle line to meet him. He took a stone, slung it, and struck the Philistine on the forehead. The Philistine fell facedown on the ground (1 Samuel 17:48–49).",
+          "jordyn": "The writer says David triumphed with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him (1 Samuel 17:50). How do we tell this truth without turning it into a violent game?",
+          "jordynAnswer": "We tell it simply, and with care. David trusted the Lord, ran to meet the danger, and the Lord saved Israel that day. We do not act out the blow or celebrate harm. We thank God that the battle is the LORD’s, and we practice trust in the small hard things in front of us.",
+          "action": "Name one thing that feels bigger than you this week. Tell the Lord that the battle is his, then take one small faithful step—a chore, a kind word, or a hard thing you have been putting off. Do not pretend to fight a person.",
+          "prayer": "Father, thank you that David ran toward the battle line and trusted you. Thank you that he triumphed with a sling and a stone, and that the battle is yours. Help us trust you in the thing that feels too big, without making a game of harm. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:48–50",
+          "teach": "As the Philistine moved closer to attack, David ran quickly toward the battle line. He took a stone, slung it, and struck the Philistine on the forehead, and he fell facedown. So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him. We say this simply. Today’s challenge is to trust the Lord in one real thing, not to act out a fight.",
+          "enochActivity": "Take one step forward and say: I trust the Lord!",
+          "elijah2": "How does 1 Samuel 17:50 describe David’s triumph?",
+          "elijahAnswer2": "So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him (1 Samuel 17:50).",
+          "jordyn2": "David had said it is not by sword or spear that the LORD saves (1 Samuel 17:47), and then he triumphed without a sword in his hand (1 Samuel 17:50). What should we carry from that into a hard thing this week?",
+          "jordynAnswer2": "We should not put our trust in looking strong, or in tools that make us feel big. We should trust the Lord, tell the truth about the hard thing, and take a faithful step. The victory in this story belongs to the LORD, not to a boast in our own strength.",
+          "passageText": "48 As the Philistine moved closer to attack him, David ran quickly toward the battle line to meet him. 49 Reaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground. 50 So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him."
+        },
+        {
+          "id": "w47-d6",
+          "day": 6,
+          "label": "Day 6 · Prayer",
+          "kind": "Prayer",
+          "focus": "We thank God that David trusted him, and we ask for the same trust when we feel small.",
+          "verse": "Go, and the LORD be with you.",
+          "verseCite": "1 Samuel 17:37, NIV",
+          "enoch": "Fold your hands and say: Thank you, God. Help us trust you!",
+          "elijah": "What did Saul say to David after David trusted the LORD to rescue him?",
+          "elijahAnswer": "Saul said to David, “Go, and the LORD be with you.” (1 Samuel 17:37).",
+          "jordyn": "David wanted all those gathered to know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s (1 Samuel 17:47). How can that shape a family prayer?",
+          "jordynAnswer": "We can thank God that he saves, and we can hand him the things that feel too big. We ask him to help us trust him, not our own size or strength, and we do not turn the fight into a game in our prayers.",
+          "action": "Pray the family prayer slowly. When you hear, “Go, and the LORD be with you.” pause and ask the Lord to go with you into one thing that feels too big.",
+          "prayer": "Father, thank you that David said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” Thank you that Saul said, “Go, and the LORD be with you.” Thank you that it is not by sword or spear that the LORD saves; for the battle is yours. Help us trust you, not our own size or strength. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:37, 47",
+          "teach": "Today we pray with David’s trust in our ears. He was willing to go, because the LORD had already rescued him. Saul said, “Go, and the LORD be with you.” David later said that it is not by sword or spear that the LORD saves; for the battle is the LORD’s. We thank God, and we ask for that same trust.",
+          "enochActivity": "Fold your hands and say: Help us trust you!",
+          "elijah2": "What did David say the LORD who rescued him from the lion and the bear would do?",
+          "elijahAnswer2": "He said the LORD who rescued him from the paw of the lion and the paw of the bear would rescue him from the hand of this Philistine (1 Samuel 17:37).",
+          "jordyn2": "How can we pray about a hard thing without asking God to make us look big?",
+          "jordynAnswer2": "We can tell him the truth, thank him that the battle is his, and ask him to help us trust him and take a faithful step. We do not need to sound brave. We need to depend on him, as David did.",
+          "passageText": "37 The LORD who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine.” Saul said to David, “Go, and the LORD be with you.” 47 All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands.”"
+        },
+        {
+          "id": "w47-d7",
+          "day": 7,
+          "label": "Day 7 · Recap",
+          "kind": "Recap",
+          "focus": "David trusted the Lord, not his own size or strength. Next, God used Esther’s courage to save her people.",
+          "verse": "David trusted the Lord, not his own size or strength.",
+          "verseCite": "1 Samuel 17:32–50, NIV",
+          "enoch": "Help a grown-up look toward the next room and say: Next week, Esther had courage!",
+          "elijah": "What is this week’s big idea, and can you tell the story from David’s words to Saul to the triumph in the valley?",
+          "elijahAnswer": "David trusted the Lord, not his own size or strength. He said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” He trusted the LORD who had rescued him, took off armor he was not used to, chose five smooth stones, and came in the name of the LORD Almighty. He said the battle is the LORD’s. He ran to meet the Philistine, and he triumphed with a sling and a stone. We say the fight simply.",
+          "jordyn": "We have seen that David trusted the Lord, not his own size or strength. Next week we will hear that God used Esther’s courage to save her people. What stays the same about God?",
+          "jordynAnswer": "God can be trusted, and he saves his people. He helped David when size and armor were not the point, and he can use courage to help his people again. Next week we will hear that God used Esther’s courage to save her people. The same Lord is worthy of trust.",
+          "action": "Tell someone the week’s big idea: David trusted the Lord, not his own size or strength. Then look ahead to Esther, whose courage God used to save her people.",
+          "prayer": "Father, thank you that David trusted you, not his own size or strength. Thank you that the battle is yours, and that you save your people. Get our hearts ready to hear that you used Esther’s courage to save her people. In Jesus’ name, Amen.",
+          "passageCite": "1 Samuel 17:32–50",
+          "teach": "This week we heard David tell Saul not to lose heart, trust the LORD who had already rescued him, take off armor that did not fit, and come in the name of the LORD Almighty. The battle is the LORD’s. David triumphed, and we told that simply. Next week we will hear that God used Esther’s courage to save her people.",
+          "enochActivity": "Wave a small hello toward tomorrow and say: Esther had courage!",
+          "elijah2": "What did David say to Saul at the beginning, and what did he want everyone to know at the end of his speech?",
+          "elijahAnswer2": "He said, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” He also said that all those gathered would know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands (1 Samuel 17:32, 47).",
+          "jordyn2": "The book of Ruth ended with David’s name, and this week David trusted the Lord. Next week God will use Esther’s courage to save her people. What should we carry from David into that story?",
+          "jordynAnswer2": "We should remember that God can be trusted, and that he does not need our size or our borrowed armor. He saves his people. The same Lord who helped David can give courage and help again.",
+          "passageText": "32 David said to Saul, “Let no one lose heart on account of this Philistine; your servant will go and fight him.” 37 The LORD who rescued me from the paw of the lion and the paw of the bear will rescue me from the hand of this Philistine.” Saul said to David, “Go, and the LORD be with you.” 39 David fastened on his sword over the tunic and tried walking around, because he was not used to them. “I cannot go in these,” he said to Saul, “because I am not used to them.” So he took them off. 47 All those gathered here will know that it is not by sword or spear that the LORD saves; for the battle is the LORD’s, and he will give all of you into our hands.” 50 So David triumphed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him."
+        }
+      ]
     },
     {
       "id": "48",
